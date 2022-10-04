@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/04.10.2022r. - Wymagania.md",
+            "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/04.10.2022r..md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/04.10.2022r. - Wymagania.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/04.10.2022r..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/04.10.2022r. - Wymagania.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/04.10.2022r..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,12 +117,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/04.10.2022r. - Wymagania.md"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/04.10.2022r..md"
               }
             }
           },
           {
-            "id": "23ddb018f2a123f2",
+            "id": "0cd3a86e8a6d12fa",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -138,6 +138,7 @@
   },
   "active": "72cb9c3219b2e644",
   "lastOpenFiles": [
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/04.10.2022r. - Wymagania.md",
     "Notatki/Podstawy programowania/Ćwiczenia/04.10.2022r. - Warunki.md",
     "Notatki/Podstawy programowania/Labolatoria/04.10.2022r. - Warunki.md",
     "Notatki/Technologie informacyjne/Labolatoria/04.10.2022 - Warunki.md",
