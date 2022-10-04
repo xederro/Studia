@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "22e6f5d40891cba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "72cb9c3219b2e644",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/04.10.2022r. - Wymagania.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78e6d1bb01ac3ce5",
+    "type": "split",
+    "children": [
+      {
+        "id": "32fb0c37e4238e8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49d30ce6368bee01",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "840e85c7e4b09b54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "99ad78061fb4109b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329.5
+  },
+  "right": {
+    "id": "9e90e398a7031783",
+    "type": "split",
+    "children": [
+      {
+        "id": "01e3dc24875e4766",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad0db76d0d4d2320",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/04.10.2022r. - Wymagania.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "662802045dabd6b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/04.10.2022r. - Wymagania.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63e4c1a5f04bc183",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9118e3852fdd0170",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/04.10.2022r. - Wymagania.md"
+              }
+            }
+          },
+          {
+            "id": "23ddb018f2a123f2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "72cb9c3219b2e644",
+  "lastOpenFiles": [
+    "Notatki/Podstawy programowania/Ćwiczenia/04.10.2022r. - Warunki.md",
+    "Notatki/Podstawy programowania/Labolatoria/04.10.2022r. - Warunki.md",
+    "Notatki/Technologie informacyjne/Labolatoria/04.10.2022 - Warunki.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/04.10.2022r. - Warunki.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/04.10.2022r..md",
+    "README.md",
+    "Excalidraw/Drawing 2022-10-01 09.23.03.excalidraw.md"
+  ]
+}
