@@ -128,15 +128,24 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "0f01b4308a0bf430",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "49d30ce6368bee01",
+  "active": "72cb9c3219b2e644",
   "lastOpenFiles": [
     "Notatki/Filozofia/Wykłady/05.10.2022r - Warunki.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/04.10.2022r. - Warunki.md",
