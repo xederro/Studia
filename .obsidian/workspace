@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/11.10.2022r..md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/11.10.2022r..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/11.10.2022r..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/11.10.2022r..md"
               }
             }
           },
@@ -147,6 +147,7 @@
   },
   "active": "72cb9c3219b2e644",
   "lastOpenFiles": [
+    "README.md",
     "Notatki/Technologie informacyjne/Labolatoria/Warunki.md",
     "Notatki/Technologie informacyjne/Wykłady/Warunki.md",
     "Notatki/Podstawy programowania/Labolatoria/Warunki.md",
@@ -155,7 +156,6 @@
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/04.10.2022r..md",
     "Notatki/Filozofia/Wykłady/Warunki.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/04.10.2022r..md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/11.10.2022r..md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Warunki.md"
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/11.10.2022r..md"
   ]
 }
