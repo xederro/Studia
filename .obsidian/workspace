@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "efdca28b3a521d78",
-        "type": "split",
-        "children": [
-          {
-            "id": "72cb9c3219b2e644",
-            "type": "leaf",
-            "dimension": 26.20760534429599,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9721ecd2c88af0ed",
-            "type": "leaf",
-            "dimension": 73.792394655704,
-            "state": {
-              "type": "diagram-edit",
-              "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Untitled Diagram.svg"
-              }
-            }
+        "id": "72cb9c3219b2e644",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -97,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Untitled Diagram.svg",
+                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Untitled Diagram.svg",
+                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Untitled Diagram.svg"
+                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1.md"
               }
             }
           },
@@ -165,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9721ecd2c88af0ed",
+  "active": "72cb9c3219b2e644",
   "lastOpenFiles": [
+    "Notatki/Podstawy programowania/Ćwiczenia/conajmniej 2 liczby są takie same.svg",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Untitled Diagram.svg",
+    "Notatki/Podstawy programowania/Ćwiczenia/sekwencja liczb uporządkowanych malejąco.svg",
+    "Notatki/Podstawy programowania/Ćwiczenia/Mediana.svg",
     "Notatki/Podstawy programowania/Ćwiczenia/Cwiczenia_1.pdf",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/07.10.2022r..md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Untitled Diagram.svg",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Warunki.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Warunki.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Warunki.md",
-    "README.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/04.10.2022r..md"
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Warunki.md"
   ]
 }
