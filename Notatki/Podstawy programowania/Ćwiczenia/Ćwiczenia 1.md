@@ -2,9 +2,12 @@
    nadal zostanie wypisana najmniejsza wartość
 2.  
    - mediana
-     ![[Mediana.svg]]
+     ![[cw1zad2pkt1.svg]]
    - sekwencja liczb uporządkowanych malejąco
-     ![[sekwencja liczb uporządkowanych malejąco.svg]]
+     ![[cw1zad2pkt2.svg]]
    - conajmniej 2 liczby są takie same
-     ![[conajmniej 2 liczby są takie same.svg]]
+     ![[cw1zad2pkt3.svg]]
 3. 
+   ![[cw1zad3.svg]]
+4. 
+   ![[Notatki/Podstawy programowania/Ćwiczenia/Untitled Diagram.svg]]
