@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Warunki.md",
+            "file": "Notatki/Analiza matematyczna 1.2A/Wykłady/07.10.2022r..md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Warunki.md",
+                "file": "Notatki/Analiza matematyczna 1.2A/Wykłady/07.10.2022r..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Warunki.md",
+                "file": "Notatki/Analiza matematyczna 1.2A/Wykłady/07.10.2022r..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Warunki.md"
+                "file": "Notatki/Analiza matematyczna 1.2A/Wykłady/07.10.2022r..md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "72cb9c3219b2e644",
   "lastOpenFiles": [
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Warunki.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Warunki.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Untitled Diagram.svg",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/07.10.2022r..md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Warunki.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Warunki.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Warunki.md",
     "README.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/04.10.2022r..md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/11.10.2022r..md",
     "Notatki/Technologie informacyjne/Labolatoria/Warunki.md",
-    "Notatki/Technologie informacyjne/Wykłady/Warunki.md",
-    "Notatki/Podstawy programowania/Labolatoria/Warunki.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Warunki.md"
+    "Notatki/Technologie informacyjne/Wykłady/Warunki.md"
   ]
 }
