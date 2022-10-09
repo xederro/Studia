@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "22e8e23e19dd47f7",
-        "type": "split",
-        "children": [
-          {
-            "id": "72cb9c3219b2e644",
-            "type": "leaf",
-            "dimension": 21.149897330595483,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0b44746ba955ec7",
-            "type": "leaf",
-            "dimension": 78.85010266940452,
-            "state": {
-              "type": "diagram-edit",
-              "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Untitled Diagram.svg"
-              }
-            }
+        "id": "72cb9c3219b2e644",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -97,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Untitled Diagram.svg",
+                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Untitled Diagram.svg",
+                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Untitled Diagram.svg"
+                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1.md"
               }
             }
           },
@@ -165,10 +146,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e0b44746ba955ec7",
+  "active": "72cb9c3219b2e644",
   "lastOpenFiles": [
+    "Notatki/Podstawy programowania/Ćwiczenia/cw1zad4.svg",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Untitled Diagram.svg",
     "Notatki/Podstawy programowania/Ćwiczenia/Cwiczenia_1.pdf",
     "Notatki/Podstawy programowania/Ćwiczenia/cw1zad3.svg",
     "Notatki/Podstawy programowania/Ćwiczenia/cw1zad2pkt2.svg",
