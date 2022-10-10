@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "72cb9c3219b2e644",
+        "id": "ba30ca4eaba7ee06",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1.md",
+            "file": "Notatki/Podstawy programowania/Podstawy programowania.md",
             "mode": "source",
+            "backlinks": true,
             "source": false
           }
         }
@@ -40,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Forma",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -73,29 +73,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad0db76d0d4d2320",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "662802045dabd6b6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1.md",
+                "file": "Notatki/Podstawy programowania/Podstawy programowania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1.md"
+                "file": "Notatki/Podstawy programowania/Podstawy programowania.md"
               }
             }
           },
@@ -138,25 +121,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "72cb9c3219b2e644",
+  "active": "49d30ce6368bee01",
   "lastOpenFiles": [
-    "Notatki/Podstawy programowania/Ćwiczenia/cw1zad4.svg",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Cwiczenia_1.pdf",
-    "Notatki/Podstawy programowania/Ćwiczenia/cw1zad3.svg",
-    "Notatki/Podstawy programowania/Ćwiczenia/cw1zad2pkt2.svg",
-    "Notatki/Podstawy programowania/Ćwiczenia/cw1zad2pkt1.svg",
-    "Notatki/Podstawy programowania/Ćwiczenia/cw1zad2pkt3.svg",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/07.10.2022r..md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Untitled Diagram.svg",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Warunki.md"
+    "Notatki/Technologie informacyjne/Technologie informacyjne.md",
+    "Notatki/Technologie informacyjne/Labolatoria/Warunki.md",
+    "Notatki/Filozofia/Filozofia.md",
+    "Notatki/Podstawy programowania/Podstawy programowania.md",
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
+    "Notatki/Podstawy programowania/Labolatoria/Warunki.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Algebra liniowa z geometrą analityczną.md",
+    "Notatki/Etyka inżynierska/Etyka inżynierka.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Miernictwo w informatyce i telekomunikacji.md",
+    "Notatki/Analiza matematyczna 1.2A/Analiza matematyczna 1.2A.md"
   ]
 }

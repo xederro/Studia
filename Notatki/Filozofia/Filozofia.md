@@ -1,3 +1,8 @@
+# Spis treści
+
+
+# Zaliczenie
+## Wykłady
 2 nieobecności
 
 - 25.01.2023 r. Kolokwium pisemne
