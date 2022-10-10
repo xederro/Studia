@@ -15,6 +15,16 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "e15a21e333bb3405",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Notatki/Podstawy programowania/Wykłady/Wykłady 1/2021_W01_wstep_typy_operatory.pdf"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -62,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -118,15 +129,15 @@
   },
   "active": "ec56a9dd6127f5f5",
   "lastOpenFiles": [
-    "Notatki/Podstawy programowania/Podstawy programowania.md",
+    "Notatki/Podstawy programowania/Wykłady/Wykłady 1/2021_W01_wstep_typy_operatory.pdf",
     "Notatki/Podstawy programowania/Wykłady/Wykłady 1/Wykłady 1.md",
+    "Notatki/Podstawy programowania/Podstawy programowania.md",
     "Notatki/Technologie informacyjne/Technologie informacyjne.md",
     "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/Labolatoria 1.md",
     "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/TI___lab1.pdf",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Algebra liniowa z geometrą analityczną.md",
     "README.md",
-    "Notatki/Filozofia/Filozofia.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 1/Wykład 1.md"
+    "Notatki/Filozofia/Filozofia.md"
   ]
 }
