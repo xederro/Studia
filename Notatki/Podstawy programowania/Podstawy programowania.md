@@ -6,6 +6,7 @@
 1. [[Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1]]
 
 ## Wykłady
+1. [[Wykłady 1]]
 
 
 # Zaliczenie
