@@ -1,6 +1,6 @@
 # Spis treści
 ## Labolatoria
-1. [[Labolatoria 1]]
+1. [[Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/Labolatoria 1]]
 
 # Zaliczenie
 ## Labolatoria

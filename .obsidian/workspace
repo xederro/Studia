@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ec56a9dd6127f5f5",
+        "id": "5c86e29196ddcb20",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notatki/Podstawy programowania/Wykłady/Wykłady 1/Wykłady 1.md",
+            "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykłady 1/Wykłady 1.md"
+                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria.md"
               }
             }
           },
@@ -116,17 +116,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ec56a9dd6127f5f5",
+  "active": "5c86e29196ddcb20",
   "lastOpenFiles": [
-    "Notatki/Podstawy programowania/Wykłady/Wykłady 1/2021_W01_wstep_typy_operatory.pdf",
-    "Notatki/Podstawy programowania/Wykłady/Wykłady 1/Wykłady 1.md",
-    "Notatki/Podstawy programowania/Podstawy programowania.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Cwiczenia_1.pdf",
     "Notatki/Technologie informacyjne/Technologie informacyjne.md",
-    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/Labolatoria 1.md",
-    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/TI___lab1.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Algebra liniowa z geometrą analityczną.md"
+    "Notatki/Podstawy programowania/Podstawy programowania.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Algebra liniowa z geometrą analityczną.md",
+    "Notatki/Analiza matematyczna 1.2A/Analiza matematyczna 1.2A.md",
+    "Notatki/Etyka inżynierska/Etyka inżynierka.md",
+    "Notatki/Filozofia/Filozofia.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Miernictwo w informatyce i telekomunikacji.md",
+    "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia.md"
   ]
 }

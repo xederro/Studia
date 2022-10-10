@@ -135,3 +135,5 @@ graph TD;
  Tabela-poprawek --> Wskazy-podziałki & 3.Adjustacja
  3.Adjustacja --> Przyrządy-pomiarowe
 ```
+
+
