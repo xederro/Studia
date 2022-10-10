@@ -1,3 +1,4 @@
+[[ALGA-Wyklad_01.pdf]]
 # Wprowadzenie
 ## Symbole
 $\forall_{x \in X}\Phi(x)$ dla każdego x nalerzącego do X zachodzi $\Phi(x)$

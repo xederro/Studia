@@ -1,4 +1,6 @@
 # Spis treści
+## Wykłady
+1. [[Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 1/Wykład 1]]
 
 
 # Zaliczenie

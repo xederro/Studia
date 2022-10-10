@@ -1,5 +1,12 @@
 # Spis treści
-0. [[]]
+## Labolatoria
+1. [[Labolatoria 0]]
+
+## Ćwiczenia
+1. [[Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1]]
+
+## Wykłady
+
 
 # Zaliczenie
 ## Wykłady

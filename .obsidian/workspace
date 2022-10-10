@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ba30ca4eaba7ee06",
+        "id": "ec56a9dd6127f5f5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notatki/Podstawy programowania/Podstawy programowania.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -78,7 +73,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Podstawy programowania/Podstawy programowania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,9 +94,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Podstawy programowania/Podstawy programowania.md"
-              }
+              "state": {}
             }
           },
           {
@@ -128,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "49d30ce6368bee01",
+  "active": "ec56a9dd6127f5f5",
   "lastOpenFiles": [
-    "Notatki/Technologie informacyjne/Technologie informacyjne.md",
-    "Notatki/Technologie informacyjne/Labolatoria/Warunki.md",
-    "Notatki/Filozofia/Filozofia.md",
-    "Notatki/Podstawy programowania/Podstawy programowania.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
-    "Notatki/Podstawy programowania/Labolatoria/Warunki.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Algebra liniowa z geometrą analityczną.md",
-    "Notatki/Etyka inżynierska/Etyka inżynierka.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 1/Wyklad1_konspekt_eportal.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Miernictwo w informatyce i telekomunikacji.md",
-    "Notatki/Analiza matematyczna 1.2A/Analiza matematyczna 1.2A.md"
+    "Notatki/Analiza matematyczna 1.2A/Analiza matematyczna 1.2A.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Algebra liniowa z geometrą analityczną.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatorium 0/Labolatoria 0.md"
   ]
 }

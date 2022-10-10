@@ -1,3 +1,4 @@
+[[Wyklad1_konspekt_eportal.pdf]] hasło: PB_W1
 # Wprowadzenie do miernictwa
 
 ## Proces poznania rzeczywistości
