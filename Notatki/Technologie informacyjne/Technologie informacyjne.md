@@ -1,5 +1,6 @@
 # Spis treści
-
+## Labolatoria
+1. [[Labolatoria 1]]
 
 # Zaliczenie
 ## Labolatoria

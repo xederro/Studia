@@ -7,8 +7,10 @@
         "id": "ec56a9dd6127f5f5",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/TI___lab1.pdf"
+          }
         }
       }
     ],
@@ -68,17 +70,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "662802045dabd6b6",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "63e4c1a5f04bc183",
             "type": "leaf",
             "state": {
@@ -94,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/TI___lab1.pdf"
+              }
             }
           },
           {
@@ -122,15 +115,15 @@
   },
   "active": "ec56a9dd6127f5f5",
   "lastOpenFiles": [
+    "Notatki/Technologie informacyjne/Technologie informacyjne.md",
+    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/Labolatoria 1.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Algebra liniowa z geometrą analityczną.md",
+    "README.md",
+    "Notatki/Filozofia/Filozofia.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 1/Wyklad1_konspekt_eportal.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Miernictwo w informatyce i telekomunikacji.md",
-    "Notatki/Analiza matematyczna 1.2A/Analiza matematyczna 1.2A.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Algebra liniowa z geometrą analityczną.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatorium 0/Labolatoria 0.md"
+    "Notatki/Analiza matematyczna 1.2A/Analiza matematyczna 1.2A.md"
   ]
 }
