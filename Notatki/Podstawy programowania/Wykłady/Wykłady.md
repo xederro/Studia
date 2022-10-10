@@ -1,5 +1,5 @@
 # Wykłady
-1. [[Wykłady 1]]
+1. [[Notatki/Podstawy programowania/Wykłady/Wykład 1/Wykład 1|Wykład 1]]
 
 
 ## Zaliczenie

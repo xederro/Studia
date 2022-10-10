@@ -1,6 +1,6 @@
 # Wykłady
-1. [[Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 1/Wykład 1]]
-2. [[Wykład 2]]
+1. [[Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 1/Wykład 1|Wykład 1]]
+2. [[Wykład 2|Wykład 2]]
 
 ## Zaliczenie
 na USOS jest kurs z prezentacjami etc. na eportal przerzuca

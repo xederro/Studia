@@ -1,5 +1,2 @@
-# Spis treści
-
-
-# Zaliczenie
-## Wykłady
+# Kurs:
+## [[Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykłady|Wykłady]]

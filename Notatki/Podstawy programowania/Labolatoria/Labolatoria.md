@@ -1,6 +1,6 @@
 # Labolatoria
-1. [[Labolatoria 0]]
-2. [[Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Labolatoria 1]]
+1. [[Labolatoria 0|Labolatoria 0]]
+2. [[Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Labolatoria 1|Labolatoria 1]]
 
 ## Zaliczenie
 p. 325 w c-3

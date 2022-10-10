@@ -1,3 +1,3 @@
-# Spis treści
-## [[Notatki/Etyka inżynierska/Wykłady/Wykłady]]
+# Kurs:
+## [[Notatki/Etyka inżynierska/Wykłady/Wykłady|Wykłady]]
 

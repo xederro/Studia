@@ -1,6 +1,6 @@
 # Ćwiczenia
-1. [[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1]]
-2. [[Ćwiczenia 2]]
+1. [[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1|Ćwiczenia 1]]
+2. [[Ćwiczenia 2|Ćwiczenia 2]]
 
 ## Zaliczenie
 nr.indeksu%3 = ćwieczenia jakie trzeba zrobić

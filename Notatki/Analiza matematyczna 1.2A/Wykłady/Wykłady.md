@@ -1,5 +1,5 @@
 # Wykłady
-1. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 1/Wykład 1]]
+1. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 1/Wykład 1|Wykład 1]]
 
 ## Zaliczenie
 egzamin bez poprawki 

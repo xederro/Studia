@@ -1,4 +1,2 @@
-# Spis treści
-## [[Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady]]
-
-
+# Kurs:
+## [[Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady|Wykłady]]

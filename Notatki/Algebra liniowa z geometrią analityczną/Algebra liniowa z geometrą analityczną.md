@@ -1,3 +1,3 @@
-# Spis treści
-## [[Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykłady]]
-## [[Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia]]
+# Kurs:
+## [[Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykłady|Wykłady]]
+## [[Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia|Ćwiczenia]]

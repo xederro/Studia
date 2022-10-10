@@ -1,2 +1,2 @@
-# Spis treści
-## [[Notatki/Filozofia/Wykłady/Wykłady]]
+# Kurs:
+## [[Notatki/Filozofia/Wykłady/Wykłady|Wykłady]]

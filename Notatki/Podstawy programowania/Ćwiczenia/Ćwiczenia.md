@@ -1,5 +1,5 @@
 # Ćwiczenia
-1. [[Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1]]
+1. [[Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1|Ćwiczenia 1]]
 
 ## Zaliczenie
 kurs to ocena za laby + ćwiczenia + wykłady

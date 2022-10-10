@@ -7,13 +7,8 @@
         "id": "5c86e29196ddcb20",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -88,9 +83,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria.md"
-              }
+              "state": {}
             }
           },
           {
@@ -118,15 +111,15 @@
   },
   "active": "5c86e29196ddcb20",
   "lastOpenFiles": [
-    "Notatki/Technologie informacyjne/Technologie informacyjne.md",
-    "Notatki/Podstawy programowania/Podstawy programowania.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykłady.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Algebra liniowa z geometrą analityczną.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Analiza matematyczna 1.2A/Analiza matematyczna 1.2A.md",
     "Notatki/Etyka inżynierska/Etyka inżynierka.md",
+    "Notatki/Filozofia/Wykłady/Wykłady.md",
     "Notatki/Filozofia/Filozofia.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Miernictwo w informatyce i telekomunikacji.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia.md"
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md"
   ]
 }
