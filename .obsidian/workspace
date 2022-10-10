@@ -7,9 +7,12 @@
         "id": "ec56a9dd6127f5f5",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/TI___lab1.pdf"
+            "file": "Notatki/Technologie informacyjne/Technologie informacyjne.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -86,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/TI___lab1.pdf"
+                "file": "Notatki/Technologie informacyjne/Technologie informacyjne.md"
               }
             }
           },
@@ -113,17 +116,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ec56a9dd6127f5f5",
+  "active": "49d30ce6368bee01",
   "lastOpenFiles": [
-    "Notatki/Technologie informacyjne/Technologie informacyjne.md",
     "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/Labolatoria 1.md",
+    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/TI___lab1.pdf",
+    "Notatki/Technologie informacyjne/Technologie informacyjne.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Algebra liniowa z geometrą analityczną.md",
     "README.md",
     "Notatki/Filozofia/Filozofia.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 1/Wyklad1_konspekt_eportal.pdf",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Miernictwo w informatyce i telekomunikacji.md",
-    "Notatki/Analiza matematyczna 1.2A/Analiza matematyczna 1.2A.md"
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Miernictwo w informatyce i telekomunikacji.md"
   ]
 }
