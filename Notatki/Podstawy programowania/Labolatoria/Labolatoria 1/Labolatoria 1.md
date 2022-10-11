@@ -20,6 +20,7 @@ blisko zera dokładne i często im dalej tym większymi skokami pamiętane
 
 double 15 cyfr znaczących 
 
+& - operator adresowania
 
 1. ![[cw1zad4.svg]]
 2. 

@@ -7,9 +7,12 @@
         "id": "5c86e29196ddcb20",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Notatki/Podstawy programowania/Wykłady/Wykład 1/2021_W01_wstep_typy_operatory.pdf"
+            "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Labolatoria 1.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       },
@@ -96,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 1/2021_W01_wstep_typy_operatory.pdf"
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Labolatoria 1.md"
               }
             }
           },
@@ -125,13 +128,13 @@
   },
   "active": "5c86e29196ddcb20",
   "lastOpenFiles": [
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Labolatoria 1.md",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 1/2021_W01_wstep_typy_operatory.pdf",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Labolatoria 1.md",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Cwiczenia_1.pdf",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria 0/Labolatoria 0.md",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria 0/Laboratorium 0.pdf",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Laboratorium_01_2021.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 2/Wykład 2.md"
