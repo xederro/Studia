@@ -54,9 +54,57 @@ Eksperyment jakim jest proces pomiaru musi być solidnie zaplanowany i przygotow
    - warunki pomiaru (o ile istotne)
    - osoby wykonujące pomiar
    - data
-   
    Analizujemy
    - nigdy nie wierz pojedynczemu wynikowi pomiaru
-   - podejście formalne, ale zdroworozsądkowe do uzyskan
+   - podejście formalne, ale zdroworozsądkowe do uzyskanych wyników
+   - błąd
+   - usuwamy błędy grube
+   - waga poszczególnych wyników(Średnia ważona, waga = odwrotność niepewności procentowych)
+   - składowe niepewności
+   - pierwsze przybliżenie - dobry zwyczaj porównania wyników, najprościej przedziały liczbowe albo graficznie
+   
+   
+   
   
 
+
+
+Skala pomiarowa jest całkowicie uporządkowany według relacji nierówności zbiór wartości z danego rodzaju wielkości, np. wzrost w cm porównujemy do kategorii niski, średni, duży. 
+
+Skala nominalna oparta jest tylko na relacji równoważności np. RGB(10,10,10), RAL 1013, możemy powiedzieć że są takie same albo różne
+
+Skala porządkowa - określone są w niej relacje równoważności i ścisłego uporządkowania, cechom obiektów o większej intensywności podaje się wyższe liczby, np. 1 kapitan to nie 5 majtków, skala skala twardości minerałów Mosha
+
+Skala addytywna - odwzorowuje relacje ścisłego uporządkowania i równości interwałów. Różnice między dwiema wartościami w tej skali dająsięobliczyć i mają interpretacje w świecie rzeczywistym np. temperatura
+
+Skala ilorazowa, stosunkowa, metryczna - odwzorowuje relacje ścisłego uporządkowania i równości interwałów i równoważności skali np skala Kelwina
+
+
+Pomiary pojedyńczej wartości a pomiary funkcyjne
+- pomiary funkcyjne - różnych zaelżności albo zmiany parametrów określonej wielkości
+  
+  Określamy zakres zmian parametru wejściowego i wyjściowego
+  - pomiar poziomu sygnału wi-fi w funkcji odległosci - od 1m do odległości dla której poziom spadnie poniżej -70dBm
+  - pomiar pasma przenoszenia wzmacniacza akustycznego - zakres częstotliwości od 10hz do 30khz
+  
+  Określenie zasady doboru punktów pomiarowych ich liczby oraz odstępu między punktami: 
+  - stały 1,2,3,4,5
+  - rosnący 2,4,8,16,32, najczęścuej logarytmiczny - dekadowy, 1,2,5,10,20,50,100,200,500,1000
+  - Dynamiczny dobór odstępu między punktami - zależnie od gradientu zmian wartości mierzonej
+    małe zmiany jeżeki nie ma znacznych zmian
+    częste gdy się bardzo zmieniają
+    można mierzyć niejednolicie np. wracać 
+    nie trzeba zapisywać wszystkich danych
+    
+  
+  
+  
+  
+  
+  
+
+- wyniki pomiaru pojedyńczej wartości wyznacza
+- 1
+- 2
+- 3
+- 4
