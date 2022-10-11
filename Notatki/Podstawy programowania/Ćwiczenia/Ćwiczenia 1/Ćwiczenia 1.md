@@ -1,6 +1,7 @@
 [[Cwiczenia_1.pdf]]
-1. wypisze najmniejszą wartość
+1. wypisze najmniejszą wartość z 3 liczb
    nadal zostanie wypisana najmniejsza wartość
+   ![[Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Untitled Diagram.svg]]
 2.  
    - mediana
      ![[cw1zad2pkt1.svg]]
@@ -62,3 +63,7 @@
    b. x = 2/(3 * 2 - 4) = 1
 
 
+
+
+
+# Sprawdzian
