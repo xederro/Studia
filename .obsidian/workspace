@@ -4,29 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "5c86e29196ddcb20",
-        "type": "leaf",
-        "dimension": 52.88403157255617,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+        "id": "4c1f7b0bd2113686",
+        "type": "split",
+        "children": [
+          {
+            "id": "5c86e29196ddcb20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae2db246cf4a59ee",
+            "type": "leaf",
+            "state": {
+              "type": "diagram-edit",
+              "state": {
+                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Untitled Diagram.svg"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "52f98ea07ca23b62",
-        "type": "leaf",
-        "dimension": 47.11596842744384,
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Cwiczenia_1.pdf"
-          }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -102,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md"
+                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Untitled Diagram.svg"
               }
             }
           },
@@ -129,14 +134,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5c86e29196ddcb20",
+  "active": "ae2db246cf4a59ee",
   "lastOpenFiles": [
-    "Notatki/Podstawy programowania/Wykłady/Wykład 1/2021_W01_wstep_typy_operatory.pdf",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Cwiczenia_1.pdf",
+    "Notatki/Podstawy programowania/Wykłady/Wykład 1/2021_W01_wstep_typy_operatory.pdf",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/cw1zad3.svg",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Untitled Diagram.svg",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Cwiczenia_1.pdf",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Laboratorium_01_2021.pdf",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Labolatoria 1.md",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
