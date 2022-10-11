@@ -9,10 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 2/Wykład 2.md",
+            "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Labolatoria 1.md",
             "mode": "source",
             "backlinks": false,
             "source": false
+          }
+        }
+      },
+      {
+        "id": "86d4ccef6b5eedd8",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Laboratorium_01_2021.pdf"
           }
         }
       }
@@ -62,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -90,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 2/Wykład 2.md"
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Labolatoria 1.md"
               }
             }
           },
@@ -119,15 +128,15 @@
   },
   "active": "5c86e29196ddcb20",
   "lastOpenFiles": [
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 0/Labolatoria 0.md",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Labolatoria 1.md",
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 0/Laboratorium 0.pdf",
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Cwiczenia_1.pdf",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Laboratorium_01_2021.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 1/Wyklad1_konspekt_eportal.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykłady.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Algebra liniowa z geometrą analityczną.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Analiza matematyczna 1.2A/Analiza matematyczna 1.2A.md"
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md"
   ]
 }

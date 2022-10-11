@@ -1,6 +1,6 @@
 /*
 Autor:  Dawid Jabłoński
-Grupa:  WT/NP 11.15
+Grupa:  WT/N 11.15
 Tytuł:  Zadania Laboratorium 0
 Data:   8 października 2022r.
 */
@@ -132,7 +132,7 @@ void zadanie3b()
 int main()
 {
     // OBOWIĄZKOWY wydruk danych autora
-    printf("Autor: Dawid Jabłoński (WT/NP 11:15)");
+    printf("Autor: Dawid Jabłoński (WT/N 11:15)");
 
     /*
     Zadanie 1 Podpunkt A
