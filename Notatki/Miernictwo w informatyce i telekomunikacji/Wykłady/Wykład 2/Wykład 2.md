@@ -89,15 +89,27 @@ Pomiary pojedyńczej wartości a pomiary funkcyjne
   
   Określenie zasady doboru punktów pomiarowych ich liczby oraz odstępu między punktami: 
   - stały 1,2,3,4,5
-  - rosnący 2,4,8,16,32, najczęścuej logarytmiczny - dekadowy, 1,2,5,10,20,50,100,200,500,1000
+  - rosnący 2,4,8,16,32, najczęściej logarytmiczny - dekadowy, 1,2,5,10,20,50,100,200,500,1000, stosujemy przy dużej rozpiętości wyników
   - Dynamiczny dobór odstępu między punktami - zależnie od gradientu zmian wartości mierzonej
-    małe zmiany jeżeki nie ma znacznych zmian
+    małe zmiany jeżeli nie ma znacznych zmian
     częste gdy się bardzo zmieniają
     można mierzyć niejednolicie np. wracać 
     nie trzeba zapisywać wszystkich danych
     
-  
-  
+  Inżynier posługuje się rysunkiem: tabele, wykresy
+  - Użyteczny: prezentuje dane w sposób przydatny dla klienta
+  - Czytelny: odpowiednia wielkość wystarczająca liczba danych
+  - Jednoznaczny: 
+  - odpowiednio wyskalowany
+  - Dane na wykresie są próbkami
+    - łączymy gdy mamy do czynienia z wielkością ciągłą np. volty
+    - nie łączymy gdy między punktami wartość nie istnieje(są dyskretne) i nie możemy założyć że jest ona tam liniowa np. wykres wyników kolejnych rzutów kością
+  - typowe wykresy
+    - punktowe x-y na osi x wejscie na y wyjście
+    - liniowe i kolumnowe x kolejny pomiar y wartość
+    - kołowe np. procentowy udział parametrów w całości
+    - histogram ,częstość występowania danego wyniku np. rozkład wyników z kolokwium
+    - funkcja aproksymująca powinna przechodzić przez punkty niepewności (aproksymacja odcinkowa np. na początku kwadratowa potem liniowa)
   
   
   
