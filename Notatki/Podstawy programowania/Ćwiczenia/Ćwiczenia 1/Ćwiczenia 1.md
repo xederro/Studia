@@ -1,7 +1,6 @@
 [[Cwiczenia_1.pdf]]
 1. wypisze najmniejszą wartość z 3 liczb
    nadal zostanie wypisana najmniejsza wartość
-   ![[Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Untitled Diagram.svg]]
 2.  
    - mediana
      ![[cw1zad2pkt1.svg]]
@@ -17,8 +16,8 @@
  | Wartość zmiennej                   | Typ                | Ile zajmuje bajtów | Kod formujący dla funkcji printf |
  | ---------------------------------- | ------------------ | ------------------ | -------------------------------- |
  | A                                  | char               | 1                  | %c                               |
- | -32768 … 32767                     | short int          | 2                  | %sd                              |
- | 0 ... 65535                        | unsigned short int | 2                  | %su                              |
+ | -32768 … 32767                     | short int          | 2                  | %hd                              |
+ | 0 ... 65535                        | unsigned short int | 2                  | %hu                              |
  | -2147483648 … 2147483647           | int                | 4                  | %d                               |
  | $-3,4*10^{-38} \cdots 3,4*10^{38}$ | float              | 4                  | $f                               |
  | $10^{-308} \cdots 10^{308}$        | double             | 8                  | %ld                              |
@@ -32,6 +31,9 @@
    - %.0f
    - %8.2f
    - %E
+     
+     $- wyrównanie do lewej
+     $+ pokazuje znak $\pm$ 
 7. 
    A=6 B=  4 A-B=2    A/B= 1.5
    X=3.000000 ,Y=   8.0
@@ -59,7 +61,7 @@
    - `w8 = a/(b-(c/(d-(e/f))))`
 
 9. 
-   a. w = 1 * (5 - 2 + 2 * (-4)) = -5
+   a. w = 1 * (5 - 2 + 2 * (-5)) = -7
    b. x = 2/(3 * 2 - 4) = 1
 
 
