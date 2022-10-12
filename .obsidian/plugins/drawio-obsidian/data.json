@@ -2,7 +2,7 @@
   "welcomeComplete": true,
   "theme": {
     "dark": true,
-    "layout": "full"
+    "layout": "sketch"
   },
   "drawing": {
     "sketch": true

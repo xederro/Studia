@@ -9,5 +9,7 @@
   "obsidian-outliner",
   "url-into-selection",
   "code-block-copy",
-  "drawio-obsidian"
+  "drawio-obsidian",
+  "execute-code",
+  "obsidian-excalidraw-plugin"
 ]
