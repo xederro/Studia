@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notatki/Technologie informacyjne/Wykłady/Wykład 1/Wykład 1.md",
+            "file": "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -89,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Technologie informacyjne/Wykłady/Wykład 1/Wykład 1.md"
+                "file": "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md"
               }
             }
           },
@@ -118,15 +119,15 @@
   },
   "active": "33563735bfd07d57",
   "lastOpenFiles": [
+    "Notatki/Filozofia/Wykłady/Wykłady.md",
+    "Notatki/Technologie informacyjne/Wykłady/Wykłady.md",
+    "Notatki/Filozofia/Filozofia.md",
+    "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Technologie informacyjne/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 2/Drawing 2022-10-12 12.07.04.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 2/Lista_2_AM1.pdf",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 1/Lista_1_AM1.pdf",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Drawing 2022-10-11 20.43.31.excalidraw.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Untitled Diagram.svg",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Cwiczenia_1.pdf",
-    "Notatki/Podstawy programowania/Wykłady/Wykład 1/2021_W01_wstep_typy_operatory.pdf"
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 1/Lista_1_AM1.pdf"
   ]
 }

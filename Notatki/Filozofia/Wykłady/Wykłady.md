@@ -1,5 +1,5 @@
 # Wykłady
-1. 
+1. [[Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1|Wykład 1]]
 
 ## Zaliczenie
 2 nieobecności
