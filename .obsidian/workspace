@@ -7,8 +7,13 @@
         "id": "33563735bfd07d57",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notatki/Technologie informacyjne/Wykłady/Wykład 1/Wykład 1.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -83,7 +88,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Technologie informacyjne/Wykłady/Wykład 1/Wykład 1.md"
+              }
             }
           },
           {
