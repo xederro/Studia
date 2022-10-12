@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ab5acdf18834d2ae",
+        "id": "33563735bfd07d57",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -88,9 +83,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -116,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "49d30ce6368bee01",
+  "active": "33563735bfd07d57",
   "lastOpenFiles": [
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Drawing 2022-10-11 20.43.31.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 2/Drawing 2022-10-12 12.07.04.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 2/Lista_2_AM1.pdf",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 1/Lista_1_AM1.pdf",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Drawing 2022-10-11 20.43.31.excalidraw.md",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Untitled Diagram.svg",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Cwiczenia_1.pdf",
-    "Notatki/Podstawy programowania/Wykłady/Wykład 1/2021_W01_wstep_typy_operatory.pdf",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/cw1zad3.svg",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Laboratorium_01_2021.pdf",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Labolatoria 1.md",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md"
+    "Notatki/Podstawy programowania/Wykłady/Wykład 1/2021_W01_wstep_typy_operatory.pdf"
   ]
 }
