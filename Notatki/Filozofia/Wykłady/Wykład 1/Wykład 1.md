@@ -36,9 +36,13 @@ Nie wszystko co istnieje istnieje w ten sam sposób - R. Ingarden
 | pieniądz(czas, przestrzeń)   |     |
 | liczba()|     |
 | człowiek                     |     |
-|                              |     |
 
 
 
 subiektywny (uzależniony od podmiotu) <-> obiektywne (niezależne od podmiotu, istniejące poza nim)
 
+### Sposoby istnienia
+1. realny (w czasie i przestrzeni) - przedmiot indywidualny, zdarzenie, proces
+2. idealny (poza czasem) - przedmioty matematyczne, prawda, estetyka
+3. intencjonalny (świadomość + przedmiot) - napis
+4. absolutny (poza czasem, przestrzenią, świadomością etc) - bóg jeżeli istnieje
