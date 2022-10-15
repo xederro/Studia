@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2797315b9d570fc9",
+        "id": "d65cae73ee6ead2b",
         "type": "tabs",
         "children": [
           {
-            "id": "286df4eb8f8ae8d5",
+            "id": "e065a6097c90ea76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Labolatoria 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -96,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Labolatoria 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -127,17 +120,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "63e4c1a5f04bc183",
+  "active": "e065a6097c90ea76",
   "lastOpenFiles": [
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
+    "Notatki/Etyka inżynierska/Wykłady/Wykłady.md",
+    "Notatki/Etyka inżynierska/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Etyka inżynierska/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Labolatoria 1.md",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Filozofia/Wykłady/Wykłady.md",
-    "Notatki/Technologie informacyjne/Wykłady/Wykłady.md",
-    "Notatki/Filozofia/Filozofia.md",
-    "Notatki/Technologie informacyjne/Wykłady/Wykład 1/Wykład 1.md"
+    "Notatki/Filozofia/Wykłady/Wykłady.md"
   ]
 }
