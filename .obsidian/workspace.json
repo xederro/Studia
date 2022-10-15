@@ -4,34 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "28d211f9f4d32795",
+        "id": "2797315b9d570fc9",
         "type": "tabs",
         "children": [
           {
-            "id": "33563735bfd07d57",
+            "id": "286df4eb8f8ae8d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 2/Wykład 2.md",
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Labolatoria 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "69635777d3846fa4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 2/Wykład 2.md"
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Labolatoria 1.md"
               }
             }
           },
@@ -138,17 +127,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "69635777d3846fa4",
+  "active": "63e4c1a5f04bc183",
   "lastOpenFiles": [
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Labolatoria 1.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Filozofia/Wykłady/Wykłady.md",
     "Notatki/Technologie informacyjne/Wykłady/Wykłady.md",
     "Notatki/Filozofia/Filozofia.md",
-    "Notatki/Technologie informacyjne/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 2/Drawing 2022-10-12 12.07.04.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 2/Lista_2_AM1.pdf"
+    "Notatki/Technologie informacyjne/Wykłady/Wykład 1/Wykład 1.md"
   ]
 }

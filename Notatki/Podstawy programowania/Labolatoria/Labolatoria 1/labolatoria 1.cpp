@@ -1,7 +1,7 @@
 /*
 Autor:  Dawid Jabłoński
 Grupa:  WT/N 11.15
-Tytul:  Zadania Laboratorium 0
+Tytul:  Zadania Laboratorium 1
 Data:   14 października 2022r.
 */
 
