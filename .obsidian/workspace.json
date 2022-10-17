@@ -4,15 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "d65cae73ee6ead2b",
+        "id": "3bf0c95cbc99ee1c",
         "type": "tabs",
         "children": [
           {
-            "id": "e065a6097c90ea76",
+            "id": "c44b75285e5a5094",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 2/Wykład 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fd52f88b28338bd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c1ca4e0d70d92fb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 2/2020_W02_wej-wyj_if_else_switch.pdf"
+              }
             }
           }
         ]
@@ -65,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -91,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 2/Wykład 2.md"
+              }
             }
           },
           {
@@ -120,17 +144,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e065a6097c90ea76",
+  "active": "c44b75285e5a5094",
   "lastOpenFiles": [
+    "Notatki/Podstawy programowania/Wykłady/Wykład 2/2020_W02_wej-wyj_if_else_switch.pdf",
+    "Notatki/Podstawy programowania/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
     "Notatki/Etyka inżynierska/Wykłady/Wykłady.md",
     "Notatki/Etyka inżynierska/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Etyka inżynierska/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Labolatoria 1.md",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Filozofia/Wykłady/Wykłady.md"
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md"
   ]
 }
