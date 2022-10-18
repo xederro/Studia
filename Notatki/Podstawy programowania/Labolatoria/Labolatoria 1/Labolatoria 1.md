@@ -1,4 +1,7 @@
 [[Laboratorium_01_2021.pdf]]
+[[labolatoria 1.exe]]
+[[labolatoria 1.cpp]]
+
 
 \#include dyrektywa "wkleja" bibliotekę z której możemy potem korzystać
 preprocesor wykonuje \#include przed rozpoczęciem kompilacji programu
@@ -22,4 +25,4 @@ double 15 cyfr znaczących
 
 & - operator adresowania
 1. 
-   ![[cw1zad4.svg]]
+   ![[zadanie1.png]]

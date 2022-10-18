@@ -4,16 +4,20 @@
 
 import mermaid from "mermaid";
 
-mermaid.mermaidAPI.initialize({
-  // The node size will be calculated incorrectly if set `startOnLoad: start`,
-  // so we need to manually render.
-  startOnLoad: false,
-});
-
 const Plugin = {
   id: "mermaid",
 
   init: function (reveal) {
+
+    let { ...mermaidConfig } = reveal.getConfig().mermaid || {};
+
+    mermaid.mermaidAPI.initialize({
+      // The node size will be calculated incorrectly if set `startOnLoad: start`,
+      // so we need to manually render.
+      startOnLoad: false,
+      ...mermaidConfig,
+    });
+
     const mermaidEls = reveal.getRevealElement().querySelectorAll(".mermaid");
 
     Array.from(mermaidEls).forEach(function (el) {
@@ -30,8 +34,16 @@ const Plugin = {
           insertSvg
         );
       } catch (error) {
-        console.error(error, { graphDefinition, el });
-        el.innerHTML = error.message;
+        let errorStr = "";
+        if (error?.str) {
+          // From mermaid 9.1.4, error.message does not exists anymore
+          errorStr = error.str;
+        }
+        if (error?.message) {
+          errorStr = error.message;
+        }
+        console.error(errorStr, { error, graphDefinition, el });
+        el.innerHTML = errorStr;
       }
     });
   },
