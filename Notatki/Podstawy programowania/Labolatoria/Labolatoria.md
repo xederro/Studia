@@ -1,5 +1,5 @@
 # Labolatoria
-1. [[Labolatoria 0|Labolatoria 0]]
+1. [[Notatki/Podstawy programowania/Labolatoria/Labolatoria 0/Labolatoria 0|Labolatoria 0]]
 2. [[Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Labolatoria 1|Labolatoria 1]]
 
 ## Zaliczenie
