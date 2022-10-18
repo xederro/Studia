@@ -1,7 +1,7 @@
 # Wykłady
 1. [[Notatki/Podstawy programowania/Wykłady/Wykład 1/Wykład 1|Wykład 1]]
 2. [[Notatki/Podstawy programowania/Wykłady/Wykład 2/Wykład 2|Wykład 2]]
-3. [[Wykład 3|Wykład 3]]
+3. [[Notatki/Podstawy programowania/Wykłady/Wykład 3/Wykład 3|Wykład 3]]
 
 
 ## Zaliczenie
