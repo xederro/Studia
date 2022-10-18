@@ -35,3 +35,41 @@ napięcie to praca jaką musimy wykonać by przenieść ładunek elementarny z p
 2. Ogniwo Westona
 3. Dioda Zenera
 
+
+## Wzorce prądu
+
+ukierunkowany ruch ładunku prądu
+natężenie prądu wyrażamy w amperach \[A\] 
+
+1. Wagi prądowe
+2. Kalibratory prądu
+
+
+## Wzorce rezystancji
+
+wielkość charakteryzująca relację między napięciem a natężeniem prądu elektrycznego w obwodach prądu stałego
+
+$$r=\frac{pl}{S}$$
+1. kwantowy efekt Halla
+2. rezystory wzorcowe
+
+$$tolerancja = |\frac{R-R_{znam}}{R_{znam}}|*100\%$$
+
+## Wzorzec pojemności
+
+
+$$C=\frac{Q}{V}$$
+1. Kondensatory liczalne
+2. kondensatory płaskie
+
+
+## Wzorzec indukcyjności
+
+1. Fontanna cezowa
+2. Cezowe zegary atomowe
+3. Generatory kwarcowe
+4. Radiowe sygnały częstotliwości wzorcowych
+
+
+## Wzorce czasu i częstotliwości
+
