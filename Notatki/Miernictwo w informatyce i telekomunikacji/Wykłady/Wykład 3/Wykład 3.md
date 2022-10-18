@@ -65,11 +65,17 @@ $$C=\frac{Q}{V}$$
 
 ## Wzorzec indukcyjności
 
+1. cewki indukcyjności własnej
+2. cewki indukcyjności wzajemnej.
+
+
+## Wzorce czasu i częstotliwości
+
+
 1. Fontanna cezowa
 2. Cezowe zegary atomowe
 3. Generatory kwarcowe
 4. Radiowe sygnały częstotliwości wzorcowych
 
 
-## Wzorce czasu i częstotliwości
-
+miernictwo elektryczne i elektroniczne wsip warszawa 1995
