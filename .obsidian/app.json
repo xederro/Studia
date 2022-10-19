@@ -1,10 +1,8 @@
 {
   "alwaysUpdateLinks": true,
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "pl",
-    "en-GB"
-  ],
+  "spellcheckLanguages": null,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "showInlineTitle": false
 }

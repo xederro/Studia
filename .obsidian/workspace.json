@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ee5b1c9506b9f6b7",
+        "id": "15af589364f4b8cb",
         "type": "tabs",
         "children": [
           {
-            "id": "714cb411265f8f6b",
+            "id": "596ea01fecb2e8c9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykłady.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -91,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykłady.md"
+              }
             }
           },
           {
@@ -120,17 +128,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "714cb411265f8f6b",
+  "active": "596ea01fecb2e8c9",
   "lastOpenFiles": [
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykłady.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 1/ALGA-Wyklad_02.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 2/ALGA-Wyklad_03.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Labolatoria 1.md",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
     "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3 wzorce 2022na23.pdf",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria.md",
-    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/Labolatoria 1.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 1/Wykład 1.md"
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md"
   ]
 }
