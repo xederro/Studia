@@ -2,7 +2,7 @@
 1. Etymologia
 2. Pojęcie bytu i typu abstrakcji (3)
 3. Wybrana koncepcja bytu ( Neotomizm, R. Ingarden )
-
+//na kolosie bez detali tylko to co wyzej w ogóle
 
 ## Etymologia
 Metafizyka / Ontologia - byt jako byt, coś istniejącego, wszystkiego co istnieje
@@ -46,3 +46,4 @@ subiektywny (uzależniony od podmiotu) <-> obiektywne (niezależne od podmiotu, 
 2. idealny (poza czasem) - przedmioty matematyczne, prawda, estetyka
 3. intencjonalny (świadomość + przedmiot) - napis
 4. absolutny (poza czasem, przestrzenią, świadomością etc) - bóg jeżeli istnieje
+
