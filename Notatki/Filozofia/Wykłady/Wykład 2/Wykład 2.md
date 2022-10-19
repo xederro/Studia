@@ -8,4 +8,9 @@
 
 
 ## Antropologia
-O człowieku, ująć istotę człowieka
+O człowieku, ująć istotę człowieka. 
+
+### Sens
+
+-Przyczyna-> teraz (sens) -powinność / wartość-> przyszłość
+
