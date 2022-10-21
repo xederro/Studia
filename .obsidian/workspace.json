@@ -4,37 +4,89 @@
     "type": "split",
     "children": [
       {
-        "id": "a3535054a8a1b2da",
-        "type": "tabs",
+        "id": "869422916a7c7c28",
+        "type": "split",
+        "dimension": 60.132291040288635,
         "children": [
           {
-            "id": "d4b9b99ae071f788",
+            "id": "ffaa68f903547984",
+            "type": "tabs",
+            "dimension": 29.6368989205103,
+            "children": [
+              {
+                "id": "c86a1ca61baa5ea4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "593246c3b7d0c4cb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 2/Labolatoria 2.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "16ba43aeb1f6ede8",
+            "type": "tabs",
+            "dimension": 70.3631010794897,
+            "children": [
+              {
+                "id": "48ec3ab40ff433cb",
+                "type": "leaf",
+                "state": {
+                  "type": "diagram-edit",
+                  "state": {
+                    "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Untitled Diagram.svg"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "3fa92ed9b78c5309",
+        "type": "tabs",
+        "dimension": 39.867708959711365,
+        "children": [
+          {
+            "id": "0a2404a7e847d5a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykłady.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Cwiczenia_2.pdf"
               }
             }
           },
           {
-            "id": "bebc19f06d9ecac7",
+            "id": "21902a34c0ca5fea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykład 1/Wykład 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 2/Laboratorium 2_2021.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykład 1/Wykład 1.md"
+                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Untitled Diagram.svg"
               }
             }
           },
@@ -142,17 +194,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "bebc19f06d9ecac7",
+  "active": "48ec3ab40ff433cb",
   "lastOpenFiles": [
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Cwiczenia_2.pdf",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 2/Laboratorium 2_2021.pdf",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 2/Labolatoria 2.md",
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/symbols.pdf",
     "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykłady.md",
     "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykład 1/Wykład 1.md",
     "README.md",
-    "Notatki/Własność intelektualna i prawo autorskie/Własność intelektualna i prawo autorskie.md",
-    "Notatki/symbols.pdf",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md"
+    "Notatki/Własność intelektualna i prawo autorskie/Własność intelektualna i prawo autorskie.md"
   ]
 }
