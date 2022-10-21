@@ -110,5 +110,8 @@ int wiersz, kolumna;
 ```
 
 
-2. a.
-
+2. a. 
+   [[cw2zad2a.cpp]]
+   [[cw2zad2a.exe]]
+	b.
+	 
