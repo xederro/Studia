@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "64ef3d692ed4af3c",
+        "id": "d562bf2123089298",
         "type": "tabs",
         "children": [
           {
-            "id": "38f7556830546faa",
+            "id": "a1556449efebcf41",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -91,9 +92,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Filozofia/Wykłady/Wykład 2/Wykład 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -122,17 +121,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "49d30ce6368bee01",
+  "active": "a1556449efebcf41",
   "lastOpenFiles": [
-    "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Filozofia/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Filozofia/Wykłady/Wykłady.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykłady.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 1/ALGA-Wyklad_02.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 2/ALGA-Wyklad_03.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Labolatoria 1.md"
+    "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykłady.md",
+    "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykład 1/Wykład 1.md",
+    "README.md",
+    "Notatki/Własność intelektualna i prawo autorskie/Własność intelektualna i prawo autorskie.md",
+    "Notatki/symbols.pdf",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md"
   ]
 }

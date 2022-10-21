@@ -1,3 +1,5 @@
+[[W1_Analiza_21_Wstep.pdf]]
+
 # Elementy Logiki Matematycznej
 
 
