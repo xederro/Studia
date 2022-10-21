@@ -114,4 +114,12 @@ int wiersz, kolumna;
    [[cw2zad2a.cpp]]
    [[cw2zad2a.exe]]
 	b.
-	 
+	[[cw2zad2b.cpp]]
+	[[cw2zad2b.exe]]
+
+3. [[cw2zad3.cpp]]
+   [[cw2zad3.exe]]
+
+
+4. 
+

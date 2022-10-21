@@ -6,7 +6,7 @@
       {
         "id": "ffaa68f903547984",
         "type": "tabs",
-        "dimension": 23.798076923076923,
+        "dimension": 14.992503748125937,
         "children": [
           {
             "id": "c86a1ca61baa5ea4",
@@ -20,26 +20,13 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "593246c3b7d0c4cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 2/Labolatoria 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ]
       },
       {
         "id": "3fa92ed9b78c5309",
         "type": "tabs",
-        "dimension": 76.20192307692307,
+        "dimension": 85.00749625187406,
         "children": [
           {
             "id": "0a2404a7e847d5a5",
@@ -48,16 +35,6 @@
               "type": "pdf",
               "state": {
                 "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Cwiczenia_2.pdf"
-              }
-            }
-          },
-          {
-            "id": "21902a34c0ca5fea",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 2/Laboratorium 2_2021.pdf"
               }
             }
           }
@@ -171,12 +148,12 @@
   },
   "active": "c86a1ca61baa5ea4",
   "lastOpenFiles": [
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/cw2zad1a.svg",
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/cw2zad1a.svg",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Cwiczenia_2.pdf",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria 2/Laboratorium 2_2021.pdf",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria 2/Labolatoria 2.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia.md",
     "Notatki/symbols.pdf",
     "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykłady.md",
     "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykład 1/Wykład 1.md",

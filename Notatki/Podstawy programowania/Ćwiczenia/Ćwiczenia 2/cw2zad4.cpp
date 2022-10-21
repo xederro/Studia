@@ -1,0 +1,1 @@
+// get eps from user and calculate 4*sum((-1)^(k-1)*1/2k-1) wh
