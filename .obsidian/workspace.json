@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykłady.md"
+                "file": "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykład 1/Wykład 1.md"
               }
             }
           },
@@ -141,10 +142,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d4b9b99ae071f788",
+  "active": "bebc19f06d9ecac7",
   "lastOpenFiles": [
-    "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykłady.md",
+    "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykład 1/Wykład 1.md",
     "README.md",
     "Notatki/Własność intelektualna i prawo autorskie/Własność intelektualna i prawo autorskie.md",
     "Notatki/symbols.pdf",
