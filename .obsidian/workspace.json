@@ -6,7 +6,6 @@
       {
         "id": "ffaa68f903547984",
         "type": "tabs",
-        "dimension": 14.992503748125937,
         "children": [
           {
             "id": "c86a1ca61baa5ea4",
@@ -18,23 +17,6 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "3fa92ed9b78c5309",
-        "type": "tabs",
-        "dimension": 85.00749625187406,
-        "children": [
-          {
-            "id": "0a2404a7e847d5a5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Cwiczenia_2.pdf"
               }
             }
           }

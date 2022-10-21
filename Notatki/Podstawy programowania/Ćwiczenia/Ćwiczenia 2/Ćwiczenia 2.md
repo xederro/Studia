@@ -121,5 +121,18 @@ int wiersz, kolumna;
    [[cw2zad3.exe]]
 
 
-4. 
+4. [[cw2zad4.cpp]]
+   [[cw2zad4.exe]]
 
+1. 
+	1. A2 = 10 
+	   A1 = 15 
+	   A3 = 7 
+	   A4 = 10
+	2. R1 = 100
+	   R2 = 30
+	3. K2 = 20
+	   K1 = 3
+	4. K = 23
+	5. R1 = 105
+	   R2 = 35
