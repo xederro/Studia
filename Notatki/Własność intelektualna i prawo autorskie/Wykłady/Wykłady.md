@@ -3,7 +3,11 @@
 
 ## Zaliczenie
 
-
+5 wykładów
+Aktywność do 4,5
+Mogą być prace w grupach na 5.5
+Złote pytania na 5 i 5.5
+Prezentacja na podwyższenie oceny, na temat prawny
 
 
 
