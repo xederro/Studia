@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "617fa04dd3b4889a",
+        "id": "64ef3d692ed4af3c",
         "type": "tabs",
         "children": [
           {
-            "id": "b41eb0d121fda3e3",
+            "id": "38f7556830546faa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Filozofia/Wykłady/Wykład 2/Wykład 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "right": {
     "id": "9e90e398a7031783",

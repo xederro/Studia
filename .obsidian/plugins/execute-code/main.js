@@ -10609,7 +10609,7 @@ __export(main_exports, {
   supportedLanguages: () => supportedLanguages
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian27 = require("obsidian");
+var import_obsidian28 = require("obsidian");
 
 // src/Outputter.ts
 var import_events = require("events");
@@ -10673,6 +10673,9 @@ var Outputter = class extends import_events.EventEmitter {
       this.clearButton.className = "clear-button-disabled";
     this.closeInput();
     this.inputState = "INACTIVE";
+    this.killBlock();
+  }
+  killBlock() {
   }
   delete() {
     if (this.outputElement)
@@ -10716,24 +10719,24 @@ var Outputter = class extends import_events.EventEmitter {
     if (!this.loadStateIndicatorElement)
       this.addLoadStateIndicator();
     setTimeout(() => {
-      if (this.blockRunState != "FINISHED")
+      if (this.blockRunState !== "FINISHED")
         this.loadStateIndicatorElement.classList.add("visible");
     }, 100);
     this.loadStateIndicatorElement.empty();
     this.loadStateIndicatorElement.appendChild(loadSpinner_default());
-    this.loadStateIndicatorElement.setAttribute("aria-label", "This block is running");
+    this.loadStateIndicatorElement.setAttribute("aria-label", "This block is running.\nClick to stop.");
     this.blockRunState = "RUNNING";
   }
   queueBlock() {
     if (!this.loadStateIndicatorElement)
       this.addLoadStateIndicator();
     setTimeout(() => {
-      if (this.blockRunState != "FINISHED")
+      if (this.blockRunState !== "FINISHED")
         this.loadStateIndicatorElement.classList.add("visible");
     }, 100);
     this.loadStateIndicatorElement.empty();
     this.loadStateIndicatorElement.appendChild(loadEllipses_default());
-    this.loadStateIndicatorElement.setAttribute("aria-label", "This block is waiting for another block to finish");
+    this.loadStateIndicatorElement.setAttribute("aria-label", "This block is waiting for another block to finish.\nClick to cancel.");
     this.blockRunState = "QUEUED";
   }
   finishBlock() {
@@ -10745,6 +10748,7 @@ var Outputter = class extends import_events.EventEmitter {
   addLoadStateIndicator() {
     this.loadStateIndicatorElement = document.createElement("div");
     this.loadStateIndicatorElement.classList.add("load-state-indicator");
+    this.loadStateIndicatorElement.addEventListener("click", () => this.killBlock());
     this.getParentElement().parentElement.appendChild(this.loadStateIndicatorElement);
   }
   getParentElement() {
@@ -10817,9 +10821,9 @@ var Outputter = class extends import_events.EventEmitter {
     }
   }
   writeHTMLBuffer(element) {
-    if (this.htmlBuffer != "") {
+    if (this.htmlBuffer !== "") {
       this.makeOutputVisible();
-      let content = document.createElement("div");
+      const content = document.createElement("div");
       content.innerHTML = this.htmlBuffer;
       for (const childElem of Array.from(content.childNodes))
         element.appendChild(childElem);
@@ -10921,6 +10925,10 @@ var DEFAULT_SETTINGS = {
   mathematicaArgs: "",
   mathematicaFileExtension: "wls",
   mathematicaInject: "",
+  scalaPath: "scala",
+  scalaArgs: "",
+  scalaFileExtension: "scala",
+  scalaInject: "",
   jsInteractive: true,
   tsInteractive: false,
   csInteractive: false,
@@ -10938,11 +10946,12 @@ var DEFAULT_SETTINGS = {
   powershellInteractive: false,
   kotlinInteractive: false,
   mathematicaInteractive: true,
-  haskellInteractive: false
+  haskellInteractive: false,
+  scalaInteractive: false
 };
 
 // src/settings/SettingsTab.ts
-var import_obsidian18 = require("obsidian");
+var import_obsidian19 = require("obsidian");
 
 // src/settings/languageDisplayName.ts
 var DISPLAY_NAMES = {
@@ -10962,7 +10971,8 @@ var DISPLAY_NAMES = {
   r: "R",
   rust: "Rust",
   shell: "Shell",
-  ts: "Typescript"
+  ts: "Typescript",
+  scala: "Scala"
 };
 
 // src/settings/per-lang/makeCppSettings.ts
@@ -11268,22 +11278,40 @@ var makeRustSettings_default = (tab, containerEl) => {
   tab.makeInjectSetting(containerEl, "rust");
 };
 
-// src/settings/per-lang/makeShellSettings.ts
+// src/settings/per-lang/makeScalaSettings.ts
 var import_obsidian16 = require("obsidian");
+var makeScalaSettings_default = (tab, containerEl) => {
+  containerEl.createEl("h3", { text: "Scala Settings" });
+  new import_obsidian16.Setting(containerEl).setName("scala path").setDesc("Path to your scala installation").addText((text) => text.setValue(tab.plugin.settings.tsPath).onChange((value) => __async(void 0, null, function* () {
+    const sanitized = tab.sanitizePath(value);
+    tab.plugin.settings.tsPath = sanitized;
+    console.log("scala path set to: " + sanitized);
+    yield tab.plugin.saveSettings();
+  })));
+  new import_obsidian16.Setting(containerEl).setName("Scala arguments").addText((text) => text.setValue(tab.plugin.settings.tsArgs).onChange((value) => __async(void 0, null, function* () {
+    tab.plugin.settings.tsArgs = value;
+    console.log("Scala args set to: " + value);
+    yield tab.plugin.saveSettings();
+  })));
+  tab.makeInjectSetting(containerEl, "scala");
+};
+
+// src/settings/per-lang/makeShellSettings.ts
+var import_obsidian17 = require("obsidian");
 var makeShellSettings_default = (tab, containerEl) => {
   containerEl.createEl("h3", { text: "Shell Settings" });
-  new import_obsidian16.Setting(containerEl).setName("Shell path").setDesc("The path to shell. Default is Bash but you can use any shell you want, e.g. bash, zsh, fish, ...").addText((text) => text.setValue(tab.plugin.settings.shellPath).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian17.Setting(containerEl).setName("Shell path").setDesc("The path to shell. Default is Bash but you can use any shell you want, e.g. bash, zsh, fish, ...").addText((text) => text.setValue(tab.plugin.settings.shellPath).onChange((value) => __async(void 0, null, function* () {
     const sanitized = tab.sanitizePath(value);
     tab.plugin.settings.shellPath = sanitized;
     console.log("Shell path set to: " + sanitized);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian16.Setting(containerEl).setName("Shell arguments").addText((text) => text.setValue(tab.plugin.settings.shellArgs).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian17.Setting(containerEl).setName("Shell arguments").addText((text) => text.setValue(tab.plugin.settings.shellArgs).onChange((value) => __async(void 0, null, function* () {
     tab.plugin.settings.shellArgs = value;
     console.log("Shell args set to: " + value);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian16.Setting(containerEl).setName("Shell file extension").setDesc("Changes the file extension for generated shell scripts. This is useful if you want to use a shell other than bash.").addText((text) => text.setValue(tab.plugin.settings.shellFileExtension).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian17.Setting(containerEl).setName("Shell file extension").setDesc("Changes the file extension for generated shell scripts. This is useful if you want to use a shell other than bash.").addText((text) => text.setValue(tab.plugin.settings.shellFileExtension).onChange((value) => __async(void 0, null, function* () {
     tab.plugin.settings.shellFileExtension = value;
     console.log("Shell file extension set to: " + value);
     yield tab.plugin.saveSettings();
@@ -11292,16 +11320,16 @@ var makeShellSettings_default = (tab, containerEl) => {
 };
 
 // src/settings/per-lang/makeTsSettings.ts
-var import_obsidian17 = require("obsidian");
+var import_obsidian18 = require("obsidian");
 var makeTsSettings_default = (tab, containerEl) => {
   containerEl.createEl("h3", { text: "TypeScript Settings" });
-  new import_obsidian17.Setting(containerEl).setName("ts-node path").addText((text) => text.setValue(tab.plugin.settings.tsPath).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian18.Setting(containerEl).setName("ts-node path").addText((text) => text.setValue(tab.plugin.settings.tsPath).onChange((value) => __async(void 0, null, function* () {
     const sanitized = tab.sanitizePath(value);
     tab.plugin.settings.tsPath = sanitized;
     console.log("ts-node path set to: " + sanitized);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian17.Setting(containerEl).setName("TypeScript arguments").addText((text) => text.setValue(tab.plugin.settings.tsArgs).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian18.Setting(containerEl).setName("TypeScript arguments").addText((text) => text.setValue(tab.plugin.settings.tsArgs).onChange((value) => __async(void 0, null, function* () {
     tab.plugin.settings.tsArgs = value;
     console.log("TypeScript args set to: " + value);
     yield tab.plugin.saveSettings();
@@ -11310,7 +11338,7 @@ var makeTsSettings_default = (tab, containerEl) => {
 };
 
 // src/settings/SettingsTab.ts
-var SettingsTab = class extends import_obsidian18.PluginSettingTab {
+var SettingsTab = class extends import_obsidian19.PluginSettingTab {
   constructor(app, plugin) {
     super(app, plugin);
     this.plugin = plugin;
@@ -11321,23 +11349,23 @@ var SettingsTab = class extends import_obsidian18.PluginSettingTab {
     containerEl.empty();
     containerEl.createEl("h2", { text: "Settings for the Code Execution Plugin." });
     containerEl.createEl("h3", { text: "General Settings" });
-    new import_obsidian18.Setting(containerEl).setName("Timeout (in seconds)").setDesc("The time after which a program gets shut down automatically. This is to prevent infinite loops. ").addText((text) => text.setValue("" + this.plugin.settings.timeout / 1e3).onChange((value) => __async(this, null, function* () {
+    new import_obsidian19.Setting(containerEl).setName("Timeout (in seconds)").setDesc("The time after which a program gets shut down automatically. This is to prevent infinite loops. ").addText((text) => text.setValue("" + this.plugin.settings.timeout / 1e3).onChange((value) => __async(this, null, function* () {
       if (Number(value) * 1e3) {
         console.log("Timeout set to: " + value);
         this.plugin.settings.timeout = Number(value) * 1e3;
       }
       yield this.plugin.saveSettings();
     })));
-    new import_obsidian18.Setting(containerEl).setName("Allow Input").setDesc("Whether or not to include a stdin input box when running blocks. In order to apply changes to this, Obsidian must be refreshed. ").addToggle((text) => text.setValue(this.plugin.settings.allowInput).onChange((value) => __async(this, null, function* () {
+    new import_obsidian19.Setting(containerEl).setName("Allow Input").setDesc("Whether or not to include a stdin input box when running blocks. In order to apply changes to this, Obsidian must be refreshed. ").addToggle((text) => text.setValue(this.plugin.settings.allowInput).onChange((value) => __async(this, null, function* () {
       console.log("Allow Input set to: " + value);
       this.plugin.settings.allowInput = value;
       yield this.plugin.saveSettings();
     })));
     containerEl.createEl("hr");
-    new import_obsidian18.Setting(containerEl).setName("Language-Specific Settings").setDesc("Pick a language to edit its language-specific settings").addDropdown(
+    new import_obsidian19.Setting(containerEl).setName("Language-Specific Settings").setDesc("Pick a language to edit its language-specific settings").addDropdown(
       (dropdown) => dropdown.addOptions(Object.fromEntries(
         canonicalLanguages.map((lang) => [lang, DISPLAY_NAMES[lang]])
-      )).onChange((value) => __async(this, null, function* () {
+      )).setValue(this.plugin.settings.lastOpenLanguageTab || canonicalLanguages[0]).onChange((value) => __async(this, null, function* () {
         this.focusContainer(value);
         this.plugin.settings.lastOpenLanguageTab = value;
         yield this.plugin.saveSettings();
@@ -11360,6 +11388,7 @@ var SettingsTab = class extends import_obsidian18.PluginSettingTab {
     makeKotlinSettings_default(this, this.makeContainerFor("kotlin"));
     makeMathematicaSettings_default(this, this.makeContainerFor("mathematica"));
     makeHaskellSettings_default(this, this.makeContainerFor("haskell"));
+    makeScalaSettings_default(this, this.makeContainerFor("scala"));
     this.focusContainer(this.plugin.settings.lastOpenLanguageTab || canonicalLanguages[0]);
   }
   makeContainerFor(language) {
@@ -11384,7 +11413,7 @@ var SettingsTab = class extends import_obsidian18.PluginSettingTab {
   }
   makeInjectSetting(containerEl, language) {
     const languageAlt = DISPLAY_NAMES[language];
-    new import_obsidian18.Setting(containerEl).setName(`Inject ${languageAlt} code`).setDesc(`Code to add to the top of every ${languageAlt} code block before running.`).setClass("settings-code-input-box").addTextArea((textarea) => {
+    new import_obsidian19.Setting(containerEl).setName(`Inject ${languageAlt} code`).setDesc(`Code to add to the top of every ${languageAlt} code block before running.`).setClass("settings-code-input-box").addTextArea((textarea) => {
       const val = this.plugin.settings[`${language}Inject`];
       return textarea.setValue(val).onChange((value) => __async(this, null, function* () {
         this.plugin.settings[`${language}Inject`] = value;
@@ -11494,9 +11523,9 @@ function buildMagicShowImage(imagePath, width = "0", height = "0", alignment = "
 }
 
 // src/Vault.ts
-var import_obsidian19 = require("obsidian");
+var import_obsidian20 = require("obsidian");
 function getVaultVariables(app) {
-  const activeView = app.workspace.getActiveViewOfType(import_obsidian19.MarkdownView);
+  const activeView = app.workspace.getActiveViewOfType(import_obsidian20.MarkdownView);
   if (activeView === null) {
     return null;
   }
@@ -11517,9 +11546,28 @@ function getVaultVariables(app) {
 function getLanguageAlias(language) {
   if (language === void 0)
     return void 0;
-  const replaced = language.replace("javascript", "js").replace("typescript", "ts").replace("csharp", "cs").replace("bash", "shell").replace("wolfram", "mathematica").replace("nb", "mathematica").replace("wl", "mathematica").replace("hs", "haskell");
-  if (canonicalLanguages.includes(replaced))
-    return replaced;
+  switch (language) {
+    case "javascript":
+      return "js";
+    case "typescript":
+      return "ts";
+    case "csharp":
+      return "cs";
+    case "bash":
+      return "shell";
+    case "py":
+      return "python";
+    case "wolfram":
+      return "mathematica";
+    case "nb":
+      return "mathematica";
+    case "wl":
+      "mathematica";
+    case "hs":
+      return "haskell";
+  }
+  if (canonicalLanguages.includes(language))
+    return language;
   return void 0;
 }
 function transformMagicCommands(app, srcCode) {
@@ -11539,10 +11587,10 @@ function getCodeBlockLanguage(firstLineOfCode) {
 }
 
 // src/transforms/CodeInjector.ts
-var import_obsidian21 = require("obsidian");
+var import_obsidian22 = require("obsidian");
 
 // src/CodeBlockArgs.ts
-var import_obsidian20 = require("obsidian");
+var import_obsidian21 = require("obsidian");
 var JSON5 = __toESM(require_dist());
 function getArgs(firstLineOfCode) {
   if (!firstLineOfCode.contains("{") && !firstLineOfCode.contains("}"))
@@ -11567,7 +11615,7 @@ function getArgs(firstLineOfCode) {
     args = `{export: ['${exports.join("', '")}'], ${args}`;
     return JSON5.parse(args);
   } catch (err) {
-    new import_obsidian20.Notice(`Failed to parse code block arguments from line:
+    new import_obsidian21.Notice(`Failed to parse code block arguments from line:
 ${firstLineOfCode}
 
 Failed with error:
@@ -11591,7 +11639,7 @@ var CodeInjector = class {
   injectCode(srcCode) {
     return __async(this, null, function* () {
       const language = getLanguageAlias(this.language);
-      const activeView = this.app.workspace.getActiveViewOfType(import_obsidian21.MarkdownView);
+      const activeView = this.app.workspace.getActiveViewOfType(import_obsidian22.MarkdownView);
       if (activeView === null)
         return srcCode;
       yield this.parseFile(activeView.data, srcCode, language);
@@ -11626,7 +11674,7 @@ ${injectedCode}`;
     return __async(this, null, function* () {
       const handleNamedImport = (namedImport) => {
         if (!this.namedExports.hasOwnProperty(namedImport)) {
-          new import_obsidian21.Notice(`Named export "${namedImport}" does not exist but was imported`);
+          new import_obsidian22.Notice(`Named export "${namedImport}" does not exist but was imported`);
           return true;
         }
         this.namedImportSrcCode += `${this.namedExports[namedImport]}
@@ -11667,7 +11715,7 @@ ${injectedCode}`;
             }
             if (currentArgs.label) {
               if (this.namedExports.hasOwnProperty(currentArgs.label)) {
-                new import_obsidian21.Notice(`Error: named export ${currentArgs.label} exported more than once`);
+                new import_obsidian22.Notice(`Error: named export ${currentArgs.label} exported more than once`);
                 return "";
               }
               this.namedExports[currentArgs.label] = currentCode;
@@ -11708,7 +11756,7 @@ var import_events2 = require("events");
 var import_child_process = require("child_process");
 
 // src/executors/Executor.ts
-var import_obsidian22 = require("obsidian");
+var import_obsidian23 = require("obsidian");
 var os2 = __toESM(require("os"));
 var import_stream = require("stream");
 var Executor = class extends import_stream.EventEmitter {
@@ -11718,11 +11766,12 @@ var Executor = class extends import_stream.EventEmitter {
     this.file = file;
     this.language = language;
   }
-  notifyError(cmd, cmdArgs, tempFileName, err, outputter) {
+  notifyError(cmd, cmdArgs, tempFileName, err, outputter, label = "Error while executing code") {
     const errorMSG = `Error while executing ${cmd} ${cmdArgs} ${tempFileName}: ${err}`;
     console.error(errorMSG);
-    outputter.writeErr(errorMSG);
-    new import_obsidian22.Notice("Error while executing code!");
+    if (outputter)
+      outputter.writeErr(errorMSG);
+    new import_obsidian23.Notice(label);
   }
   getTempFile(ext) {
     if (this.tempFileId === void 0)
@@ -11765,16 +11814,21 @@ var PythonExecutor = class extends AsyncExecutor {
     const args = settings.nodeArgs ? settings.nodeArgs.split(" ") : [];
     args.unshift(`-e`, `require("repl").start({prompt: "", preview: false, ignoreUndefined: true}).on("exit", ()=>process.exit())`);
     this.process = (0, import_child_process.spawn)(settings.nodePath, args);
+    this.process.on("close", () => this.emit("close"));
+    this.process.on("error", (err) => {
+      this.notifyError(settings.nodePath, args.join(" "), "", err, void 0, "Error launching NodeJS process: " + err);
+      this.stop();
+    });
     this.dismissIntroMessage().then(() => {
     });
   }
   stop() {
     return new Promise((resolve, reject) => {
-      this.process.kill();
       this.process.on("close", () => {
         resolve();
       });
-      this.emit("close");
+      this.process.kill();
+      this.process = null;
     });
   }
   dismissIntroMessage() {
@@ -11786,7 +11840,10 @@ var PythonExecutor = class extends AsyncExecutor {
     return __async(this, null, function* () {
       outputter.queueBlock();
       return this.addJobToQueue((resolve, reject) => {
+        if (this.process === null)
+          return resolve();
         const finishSigil = `SIGIL_BLOCK_DONE${Math.random()}_${Date.now()}_${code.length}`;
+        outputter.startBlock();
         const wrappedCode = `
 			try { eval(${JSON.stringify(code)}); } catch(e) { console.error(e); }
 			process.stdout.write(${JSON.stringify(finishSigil)})&&undefined;
@@ -11805,6 +11862,7 @@ var PythonExecutor = class extends AsyncExecutor {
             outputter.write(
               stringData.substring(0, stringData.length - finishSigil.length)
             );
+            this.process.removeListener("close", resolve);
             this.process.stdout.removeListener("data", writeToStdout);
             this.process.stderr.removeListener("data", writeToStderr);
             resolve();
@@ -11812,6 +11870,7 @@ var PythonExecutor = class extends AsyncExecutor {
             outputter.write(stringData);
           }
         };
+        this.process.addListener("close", resolve);
         this.process.stdout.on("data", writeToStdout);
         this.process.stderr.on("data", writeToStderr);
       });
@@ -11820,38 +11879,44 @@ var PythonExecutor = class extends AsyncExecutor {
 };
 
 // src/executors/NonInteractiveCodeExecutor.ts
-var import_obsidian23 = require("obsidian");
+var import_obsidian24 = require("obsidian");
 var fs = __toESM(require("fs"));
 var child_process = __toESM(require("child_process"));
 var NonInteractiveCodeExecutor = class extends Executor {
   constructor(usesShell, file, language) {
     super(file, language);
+    this.resolveRun = void 0;
     this.usesShell = usesShell;
   }
   stop() {
     return Promise.resolve();
   }
   run(codeBlockContent, outputter, cmd, cmdArgs, ext) {
-    return __async(this, null, function* () {
-      new import_obsidian23.Notice("Running...");
+    if (this.resolveRun !== void 0)
+      this.resolveRun();
+    this.resolveRun = void 0;
+    return new Promise((resolve, reject) => {
       const tempFileName = this.getTempFile(ext);
-      console.debug(`Execute ${cmd} ${cmdArgs} ${tempFileName}`);
-      try {
-        yield fs.promises.writeFile(tempFileName, codeBlockContent);
+      fs.promises.writeFile(tempFileName, codeBlockContent).then(() => {
         const args = cmdArgs ? cmdArgs.split(" ") : [];
         args.push(tempFileName);
-        console.debug(`Execute ${cmd} ${args.join(" ")}`);
         const child = child_process.spawn(cmd, args, { env: process.env, shell: this.usesShell });
-        yield this.handleChildOutput(child, outputter, tempFileName);
-      } catch (err) {
+        this.handleChildOutput(child, outputter, tempFileName).then(() => {
+          this.tempFileId = void 0;
+        });
+        this.resolveRun = resolve;
+      }).catch((err) => {
         this.notifyError(cmd, cmdArgs, tempFileName, err, outputter);
-      }
-      this.tempFileId = void 0;
+        resolve();
+      });
     });
   }
   handleChildOutput(child, outputter, fileName) {
     return __async(this, null, function* () {
       outputter.clear();
+      outputter.killBlock = () => {
+        child.kill("SIGINT");
+      };
       this.stdoutCb = (data) => {
         outputter.write(data.toString());
       };
@@ -11864,7 +11929,10 @@ var NonInteractiveCodeExecutor = class extends Executor {
         child.stdin.write(data);
       });
       child.on("close", (code) => {
-        new import_obsidian23.Notice(code === 0 ? "Done!" : "Error!");
+        if (code === 0)
+          new import_obsidian24.Notice("Error!");
+        if (this.resolveRun !== void 0)
+          this.resolveRun();
         outputter.closeInput();
         if (fileName === void 0)
           return;
@@ -11873,7 +11941,7 @@ var NonInteractiveCodeExecutor = class extends Executor {
         });
       });
       child.on("error", (err) => {
-        new import_obsidian23.Notice("Error!");
+        new import_obsidian24.Notice("Error!");
         outputter.writeErr(err.toString());
       });
     });
@@ -11882,7 +11950,7 @@ var NonInteractiveCodeExecutor = class extends Executor {
 
 // src/executors/PrologExecutor.ts
 var prolog = __toESM(require_core());
-var import_obsidian24 = require("obsidian");
+var import_obsidian25 = require("obsidian");
 var PrologExecutor = class extends Executor {
   constructor(settings, file) {
     super(file, "prolog");
@@ -11906,7 +11974,7 @@ var PrologExecutor = class extends Executor {
     });
   }
   runPrologCode(facts, queries, out) {
-    new import_obsidian24.Notice("Running...");
+    new import_obsidian25.Notice("Running...");
     const session = prolog.create();
     session.consult(
       facts,
@@ -11922,7 +11990,7 @@ var PrologExecutor = class extends Executor {
                 while (answersLeft && counter < this.maxPrologAnswers) {
                   yield session.answer({
                     success: function(answer) {
-                      new import_obsidian24.Notice("Done!");
+                      new import_obsidian25.Notice("Done!");
                       console.debug(`Prolog result: ${session.format_answer(answer)}`);
                       out.write(session.format_answer(answer) + "\n");
                       out.closeInput();
@@ -11931,7 +11999,7 @@ var PrologExecutor = class extends Executor {
                       answersLeft = false;
                     },
                     error: function(err) {
-                      new import_obsidian24.Notice("Error!");
+                      new import_obsidian25.Notice("Error!");
                       console.error(err);
                       answersLeft = false;
                       out.writeErr(`Error while executing code: ${err}`);
@@ -11945,7 +12013,7 @@ var PrologExecutor = class extends Executor {
                 }
               }),
               error: (err) => {
-                new import_obsidian24.Notice("Error!");
+                new import_obsidian25.Notice("Error!");
                 out.writeErr("Query failed.\n");
                 out.writeErr(err.toString());
               }
@@ -12005,6 +12073,11 @@ var PythonExecutor2 = class extends AsyncExecutor {
     const args = settings.pythonArgs ? settings.pythonArgs.split(" ") : [];
     args.unshift("-i");
     this.process = (0, import_child_process2.spawn)(settings.pythonPath, args);
+    this.process.on("close", () => this.emit("close"));
+    this.process.on("error", (err) => {
+      this.notifyError(settings.pythonPath, args.join(" "), "", err, void 0, "Error launching Python process: " + err);
+      this.stop();
+    });
     this.printFunctionName = `__print_${Math.random().toString().substring(2)}_${Date.now()}`;
     this.localsDictionaryName = `__locals_${Math.random().toString().substring(2)}_${Date.now()}`;
     this.globalsDictionaryName = `__globals_${Math.random().toString().substring(2)}_${Date.now()}`;
@@ -12013,11 +12086,11 @@ var PythonExecutor2 = class extends AsyncExecutor {
   }
   stop() {
     return new Promise((resolve, reject) => {
-      this.process.kill();
       this.process.on("close", () => {
         resolve();
       });
-      this.emit("close");
+      this.process.kill();
+      this.process = null;
     });
   }
   setup() {
@@ -12052,6 +12125,8 @@ ${this.globalsDictionaryName} = {**globals()}
     return __async(this, null, function* () {
       outputter.queueBlock();
       return this.addJobToQueue((resolve, reject) => {
+        if (this.process === null)
+          return resolve();
         const finishSigil = `SIGIL_BLOCK_DONE${Math.random()}_${Date.now()}_${code.length}`;
         outputter.startBlock();
         const wrappedCode = wrapPython_default(
@@ -12073,6 +12148,7 @@ ${this.globalsDictionaryName} = {**globals()}
             str = str.substring(0, str.length - finishSigil.length);
             this.process.stdout.removeListener("data", writeToStdout);
             this.process.stderr.removeListener("data", writeToStderr);
+            this.process.removeListener("close", resolve);
             outputter.write(str);
             resolve();
           } else {
@@ -12083,6 +12159,7 @@ ${this.globalsDictionaryName} = {**globals()}
           const removedPrompts = data.toString().replace(/(^((\.\.\.|>>>) )+)|(((\.\.\.|>>>) )+$)/g, "");
           outputter.writeErr(removedPrompts);
         };
+        this.process.on("close", resolve);
         this.process.stdout.on("data", writeToStdout);
         this.process.stderr.on("data", writeToStderr);
       });
@@ -12098,18 +12175,18 @@ var CppExecutor = class extends NonInteractiveCodeExecutor {
     this.settings = settings;
   }
   run(codeBlockContent, outputter, cmd, cmdArgs, ext) {
-    return __async(this, null, function* () {
-      const extension = "cpp";
-      const args = `-std=${this.settings.clingStd} ${this.settings.clingArgs}`;
+    const extension = "cpp";
+    const args = `-std=${this.settings.clingStd} ${this.settings.clingArgs}`;
+    if (this.settings.cppUseMain) {
       this.getTempFile(extension);
       const code = codeBlockContent.replace(/main\(\)/g, `temp_${this.tempFileId}()`);
-      if (this.settings.cppUseMain) {
-        __superGet(CppExecutor.prototype, this, "run").call(this, code, outputter, this.settings.clingPath, args, extension);
-        return;
-      }
-      const childArgs = [...args.split(" "), ...code.split("\n")];
+      return super.run(code, outputter, this.settings.clingPath, args, extension);
+    }
+    return new Promise((resolve, reject) => {
+      const childArgs = [...args.split(" "), ...codeBlockContent.split("\n")];
       const child = child_process2.spawn(this.settings.clingPath, childArgs, { env: process.env, shell: this.usesShell });
-      yield this.handleChildOutput(child, outputter, void 0);
+      this.resolveRun = resolve;
+      this.handleChildOutput(child, outputter, void 0);
     });
   }
   handleChildOutput(child, outputter, fileName) {
@@ -12145,6 +12222,11 @@ var ExecutorContainer = class extends import_events2.EventEmitter {
     super();
     this.executors = {};
     this.plugin = plugin;
+    window.addEventListener("beforeunload", () => __async(this, null, function* () {
+      for (const executor of this) {
+        executor.stop();
+      }
+    }));
   }
   *[Symbol.iterator]() {
     for (const language in this.executors) {
@@ -12181,11 +12263,11 @@ var ExecutorContainer = class extends import_events2.EventEmitter {
 };
 
 // src/ExecutorManagerView.ts
-var import_obsidian25 = require("obsidian");
+var import_obsidian26 = require("obsidian");
 var import_path = require("path");
 var EXECUTOR_MANAGER_VIEW_ID = "code-execute-manage-executors";
 var EXECUTOR_MANAGER_OPEN_VIEW_COMMAND_ID = "code-execute-open-manage-executors";
-var ExecutorManagerView = class extends import_obsidian25.ItemView {
+var ExecutorManagerView = class extends import_obsidian26.ItemView {
   constructor(leaf, executors) {
     super(leaf);
     this.executors = executors;
@@ -12261,7 +12343,7 @@ var ExecutorManagerView = class extends import_obsidian25.ItemView {
     });
     const button = document.createElement("button");
     button.addEventListener("click", () => executor.stop());
-    (0, import_obsidian25.setIcon)(button, "trash");
+    (0, import_obsidian26.setIcon)(button, "trash");
     button.setAttribute("aria-label", "Stop Runtime");
     li.appendChild(button);
     this.list.appendChild(li);
@@ -12276,10 +12358,10 @@ var ExecutorManagerView = class extends import_obsidian25.ItemView {
 };
 
 // src/runAllCodeBlocks.ts
-var import_obsidian26 = require("obsidian");
+var import_obsidian27 = require("obsidian");
 function runAllCodeBlocks(workspace) {
   const lastActiveView = workspace.getMostRecentLeaf().view;
-  if (lastActiveView instanceof import_obsidian26.TextFileView) {
+  if (lastActiveView instanceof import_obsidian27.TextFileView) {
     lastActiveView.containerEl.querySelectorAll("button." + runButtonClass).forEach((button) => {
       button.click();
     });
@@ -12287,7 +12369,7 @@ function runAllCodeBlocks(workspace) {
 }
 
 // src/main.ts
-var languageAliases = ["javascript", "typescript", "bash", "csharp", "wolfram", "nb", "wl", "hs"];
+var languageAliases = ["javascript", "typescript", "bash", "csharp", "wolfram", "nb", "wl", "hs", "py"];
 var canonicalLanguages = [
   "js",
   "ts",
@@ -12305,14 +12387,15 @@ var canonicalLanguages = [
   "powershell",
   "kotlin",
   "mathematica",
-  "haskell"
+  "haskell",
+  "scala"
 ];
 var supportedLanguages = [...languageAliases, ...canonicalLanguages];
 var buttonText = "Run";
 var runButtonClass = "run-code-button";
 var runButtonDisabledClass = "run-button-disabled";
 var hasButtonClass = "has-run-code-button";
-var ExecuteCodePlugin2 = class extends import_obsidian27.Plugin {
+var ExecuteCodePlugin2 = class extends import_obsidian28.Plugin {
   onload() {
     return __async(this, null, function* () {
       yield this.loadSettings();
@@ -12325,7 +12408,7 @@ var ExecuteCodePlugin2 = class extends import_obsidian27.Plugin {
       supportedLanguages.forEach((l) => {
         console.debug(`Registering renderer for ${l}.`);
         this.registerMarkdownCodeBlockProcessor(`run-${l}`, (src, el, _ctx) => __async(this, null, function* () {
-          yield import_obsidian27.MarkdownRenderer.renderMarkdown("```" + l + "\n" + src + (src.endsWith("\n") ? "" : "\n") + "```", el, "", null);
+          yield import_obsidian28.MarkdownRenderer.renderMarkdown("```" + l + "\n" + src + (src.endsWith("\n") ? "" : "\n") + "```", el, "", null);
         }));
       });
       this.registerView(
@@ -12374,7 +12457,7 @@ var ExecuteCodePlugin2 = class extends import_obsidian27.Plugin {
   }
   iterateOpenFilesAndAddRunButtons() {
     this.app.workspace.iterateRootLeaves((leaf) => {
-      if (leaf.view instanceof import_obsidian27.FileView) {
+      if (leaf.view instanceof import_obsidian28.FileView) {
         this.addRunButtons(leaf.view.contentEl, leaf.view.file.path);
       }
     });
@@ -12511,6 +12594,12 @@ var ExecuteCodePlugin2 = class extends import_obsidian27.Plugin {
         button.className = runButtonDisabledClass;
         const transformedCode = yield new CodeInjector(this.app, this.settings, language).injectCode(srcCode);
         this.runCodeInShell(transformedCode, out, button, this.settings.csPath, this.settings.csArgs, this.settings.mathematicaFileExtension, language, file);
+      }));
+    } else if (language === "scala") {
+      button.addEventListener("click", () => __async(this, null, function* () {
+        button.className = runButtonDisabledClass;
+        const transformedCode = yield new CodeInjector(this.app, this.settings, language).injectCode(srcCode);
+        this.runCodeInShell(transformedCode, out, button, this.settings.scalaPath, this.settings.scalaArgs, this.settings.scalaFileExtension, language, file);
       }));
     }
   }

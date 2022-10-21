@@ -19216,13 +19216,20 @@ var GitManager = class {
           return item.path.substring(beginLength).startsWith(title + "/");
         });
         childrenWithSameTitle.forEach((item) => children2.remove(item));
+        const path2 = first2.path.substring(0, restPath.indexOf("/") + beginLength);
         list.push({
           title,
-          path: first2.path.substring(0, restPath.indexOf("/") + beginLength),
+          path: path2,
+          vaultPath: this.getVaultPath(path2),
           children: this._getTreeStructure(childrenWithSameTitle, (beginLength > 0 ? beginLength + title.length : title.length) + 1)
         });
       } else {
-        list.push({ title: restPath, statusResult: first2, path: first2.path });
+        list.push({
+          title: restPath,
+          statusResult: first2,
+          path: first2.path,
+          vaultPath: this.getVaultPath(first2.path)
+        });
         children2.remove(first2);
       }
     }
@@ -19236,10 +19243,12 @@ var GitManager = class {
         const singleChildIsDir = ((_c = (_b = node.children) == null ? void 0 : _b.first()) == null ? void 0 : _c.statusResult) == void 0;
         if (!(node.children != void 0 && singleChild && singleChildIsDir))
           break;
-        node.title += "/" + node.children.first().title;
-        node.statusResult = node.children.first().statusResult;
-        node.path = node.children.first().path;
-        node.children = node.children.first().children;
+        const child = node.children.first();
+        node.title += "/" + child.title;
+        node.statusResult = child.statusResult;
+        node.path = child.path;
+        node.vaultPath = child.vaultPath;
+        node.children = child.children;
       }
       if (node.children != void 0) {
         this.simplify(node.children);
@@ -27338,14 +27347,22 @@ var DiscardModal = class extends import_obsidian16.Modal {
     contentEl.createEl("h4").setText(`Do you really want to ${this.deletion ? "delete" : "discard the changes of"} "${this.filename}"`);
     const div = contentEl.createDiv();
     div.addClass("obsidian-git-center");
-    div.createEl("button", { text: "Cancel" }).addEventListener("click", () => {
+    div.createEl("button", {
+      text: "Cancel",
+      attr: {
+        style: "margin: 0 10px"
+      }
+    }).addEventListener("click", () => {
       if (this.resolve)
         this.resolve(false);
       return this.close();
     });
     div.createEl("button", {
       cls: "mod-cta",
-      text: "Confirm"
+      text: "Confirm",
+      attr: {
+        style: "margin: 0 10px"
+      }
     }).addEventListener("click", async () => {
       if (this.resolve)
         this.resolve(true);
@@ -27382,7 +27399,7 @@ function hoverPreview(event, view, to) {
 
 // src/ui/sidebar/components/fileComponent.svelte
 function add_css(target) {
-  append_styles(target, "svelte-1o25zf2", "main.svelte-1o25zf2 .nav-file-title-content.svelte-1o25zf2.svelte-1o25zf2{display:flex;align-items:center}main.svelte-1o25zf2 .tools.svelte-1o25zf2.svelte-1o25zf2{display:flex;margin-left:auto}main.svelte-1o25zf2 .tools .type.svelte-1o25zf2.svelte-1o25zf2{padding-left:var(--size-2-1);display:flex;align-items:center;justify-content:center}main.svelte-1o25zf2 .tools .type[data-type=M].svelte-1o25zf2.svelte-1o25zf2{color:orange}main.svelte-1o25zf2 .tools .type[data-type=D].svelte-1o25zf2.svelte-1o25zf2{color:red}main.svelte-1o25zf2 .tools .buttons.svelte-1o25zf2.svelte-1o25zf2{display:flex}main.svelte-1o25zf2 .tools .buttons.svelte-1o25zf2>.svelte-1o25zf2{padding:0 0;height:auto}");
+  append_styles(target, "svelte-wn85nz", "main.svelte-wn85nz .nav-file-title-content.svelte-wn85nz.svelte-wn85nz{display:flex;align-items:center}main.svelte-wn85nz .tools.svelte-wn85nz.svelte-wn85nz{display:flex;margin-left:auto}main.svelte-wn85nz .tools .type.svelte-wn85nz.svelte-wn85nz{padding-left:var(--size-2-1);width:11px;display:flex;align-items:center;justify-content:center}main.svelte-wn85nz .tools .type[data-type=M].svelte-wn85nz.svelte-wn85nz{color:orange}main.svelte-wn85nz .tools .type[data-type=D].svelte-wn85nz.svelte-wn85nz{color:red}main.svelte-wn85nz .tools .buttons.svelte-wn85nz.svelte-wn85nz{display:flex}main.svelte-wn85nz .tools .buttons.svelte-wn85nz>.svelte-wn85nz{padding:0 0;height:auto}");
 }
 function create_if_block(ctx) {
   let div;
@@ -27393,7 +27410,7 @@ function create_if_block(ctx) {
       div = element("div");
       attr(div, "data-icon", "go-to-file");
       attr(div, "aria-label", "Open File");
-      attr(div, "class", "clickable-icon svelte-1o25zf2");
+      attr(div, "class", "clickable-icon svelte-wn85nz");
     },
     m(target, anchor) {
       insert(target, div, anchor);
@@ -27458,21 +27475,21 @@ function create_fragment(ctx) {
       t4 = space();
       div4 = element("div");
       t5 = text(t5_value);
-      attr(div0, "class", "nav-file-title-content svelte-1o25zf2");
-      attr(div1, "data-icon", "skip-back");
+      attr(div0, "class", "nav-file-title-content svelte-wn85nz");
+      attr(div1, "data-icon", "undo");
       attr(div1, "aria-label", "Discard");
-      attr(div1, "class", "clickable-icon svelte-1o25zf2");
+      attr(div1, "class", "clickable-icon svelte-wn85nz");
       attr(div2, "data-icon", "plus");
       attr(div2, "aria-label", "Stage");
-      attr(div2, "class", "clickable-icon svelte-1o25zf2");
-      attr(div3, "class", "buttons svelte-1o25zf2");
-      attr(div4, "class", "type svelte-1o25zf2");
+      attr(div2, "class", "clickable-icon svelte-wn85nz");
+      attr(div3, "class", "buttons svelte-wn85nz");
+      attr(div4, "class", "type svelte-wn85nz");
       attr(div4, "data-type", div4_data_type_value = ctx[0].working_dir);
-      attr(div5, "class", "tools svelte-1o25zf2");
+      attr(div5, "class", "tools svelte-wn85nz");
       attr(div6, "class", "nav-file-title");
       attr(div6, "aria-label-position", ctx[3]);
       attr(div6, "aria-label", div6_aria_label_value = ctx[0].vault_path.split("/").last() != ctx[0].vault_path ? ctx[0].vault_path : "");
-      attr(main, "class", "nav-file svelte-1o25zf2");
+      attr(main, "class", "nav-file svelte-wn85nz");
     },
     m(target, anchor) {
       insert(target, main, anchor);
@@ -27791,7 +27808,7 @@ var pulledFileComponent_default = PulledFileComponent;
 init_polyfill_buffer();
 var import_obsidian20 = __toModule(require("obsidian"));
 function add_css3(target) {
-  append_styles(target, "svelte-1o25zf2", "main.svelte-1o25zf2 .nav-file-title-content.svelte-1o25zf2.svelte-1o25zf2{display:flex;align-items:center}main.svelte-1o25zf2 .tools.svelte-1o25zf2.svelte-1o25zf2{display:flex;margin-left:auto}main.svelte-1o25zf2 .tools .type.svelte-1o25zf2.svelte-1o25zf2{padding-left:var(--size-2-1);display:flex;align-items:center;justify-content:center}main.svelte-1o25zf2 .tools .type[data-type=M].svelte-1o25zf2.svelte-1o25zf2{color:orange}main.svelte-1o25zf2 .tools .type[data-type=D].svelte-1o25zf2.svelte-1o25zf2{color:red}main.svelte-1o25zf2 .tools .buttons.svelte-1o25zf2.svelte-1o25zf2{display:flex}main.svelte-1o25zf2 .tools .buttons.svelte-1o25zf2>.svelte-1o25zf2{padding:0 0;height:auto}");
+  append_styles(target, "svelte-wn85nz", "main.svelte-wn85nz .nav-file-title-content.svelte-wn85nz.svelte-wn85nz{display:flex;align-items:center}main.svelte-wn85nz .tools.svelte-wn85nz.svelte-wn85nz{display:flex;margin-left:auto}main.svelte-wn85nz .tools .type.svelte-wn85nz.svelte-wn85nz{padding-left:var(--size-2-1);width:11px;display:flex;align-items:center;justify-content:center}main.svelte-wn85nz .tools .type[data-type=M].svelte-wn85nz.svelte-wn85nz{color:orange}main.svelte-wn85nz .tools .type[data-type=D].svelte-wn85nz.svelte-wn85nz{color:red}main.svelte-wn85nz .tools .buttons.svelte-wn85nz.svelte-wn85nz{display:flex}main.svelte-wn85nz .tools .buttons.svelte-wn85nz>.svelte-wn85nz{padding:0 0;height:auto}");
 }
 function create_if_block2(ctx) {
   let div;
@@ -27802,7 +27819,7 @@ function create_if_block2(ctx) {
       div = element("div");
       attr(div, "data-icon", "go-to-file");
       attr(div, "aria-label", "Open File");
-      attr(div, "class", "clickable-icon svelte-1o25zf2");
+      attr(div, "class", "clickable-icon svelte-wn85nz");
     },
     m(target, anchor) {
       insert(target, div, anchor);
@@ -27860,18 +27877,18 @@ function create_fragment3(ctx) {
       t3 = space();
       div3 = element("div");
       t4 = text(t4_value);
-      attr(div0, "class", "nav-file-title-content svelte-1o25zf2");
+      attr(div0, "class", "nav-file-title-content svelte-wn85nz");
       attr(div1, "data-icon", "minus");
       attr(div1, "aria-label", "Unstage");
-      attr(div1, "class", "clickable-icon svelte-1o25zf2");
-      attr(div2, "class", "buttons svelte-1o25zf2");
-      attr(div3, "class", "type svelte-1o25zf2");
+      attr(div1, "class", "clickable-icon svelte-wn85nz");
+      attr(div2, "class", "buttons svelte-wn85nz");
+      attr(div3, "class", "type svelte-wn85nz");
       attr(div3, "data-type", div3_data_type_value = ctx[0].index);
-      attr(div4, "class", "tools svelte-1o25zf2");
+      attr(div4, "class", "tools svelte-wn85nz");
       attr(div5, "class", "nav-file-title");
       attr(div5, "aria-label-position", ctx[4]);
       attr(div5, "aria-label", div5_aria_label_value = ctx[3].split("/").last() != ctx[3] ? ctx[3] : "");
-      attr(main, "class", "nav-file svelte-1o25zf2");
+      attr(main, "class", "nav-file svelte-wn85nz");
     },
     m(target, anchor) {
       insert(target, main, anchor);
@@ -28042,30 +28059,35 @@ function add_css4(target) {
 }
 function get_each_context(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[16] = list[i];
+  child_ctx[17] = list[i];
   return child_ctx;
 }
 function create_else_block(ctx) {
-  let div5;
-  let div4;
+  let div7;
+  let div6;
   let div0;
   let t0;
   let div1;
-  let t1_value = ctx[16].title + "";
   let t1;
-  let t2;
-  let div3;
   let div2;
+  let t2_value = ctx[17].title + "";
+  let t2;
   let t3;
+  let div5;
+  let div4;
   let t4;
+  let div3;
+  let div6_aria_label_value;
+  let t5;
+  let t6;
   let current;
   let mounted;
   let dispose;
   function click_handler() {
-    return ctx[10](ctx[16]);
+    return ctx[11](ctx[17]);
   }
   function click_handler_1() {
-    return ctx[11](ctx[16]);
+    return ctx[12](ctx[17]);
   }
   function select_block_type_2(ctx2, dirty) {
     if (ctx2[3] == FileType.staged)
@@ -28075,63 +28097,78 @@ function create_else_block(ctx) {
   let current_block_type = select_block_type_2(ctx, -1);
   let if_block0 = current_block_type(ctx);
   function click_handler_5() {
-    return ctx[15](ctx[16]);
+    return ctx[16](ctx[17]);
   }
-  let if_block1 = !ctx[5][ctx[16].title] && create_if_block_4(ctx);
+  let if_block1 = !ctx[5][ctx[17].title] && create_if_block_4(ctx);
   return {
     c() {
-      div5 = element("div");
-      div4 = element("div");
+      div7 = element("div");
+      div6 = element("div");
       div0 = element("div");
-      div0.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg>`;
       t0 = space();
       div1 = element("div");
-      t1 = text(t1_value);
-      t2 = space();
-      div3 = element("div");
+      div1.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg>`;
+      t1 = space();
       div2 = element("div");
-      if_block0.c();
+      t2 = text(t2_value);
       t3 = space();
+      div5 = element("div");
+      div4 = element("div");
+      if_block0.c();
+      t4 = space();
+      div3 = element("div");
+      t5 = space();
       if (if_block1)
         if_block1.c();
-      t4 = space();
-      attr(div0, "class", "nav-folder-collapse-indicator collapse-icon");
-      attr(div1, "class", "nav-folder-title-content svelte-148wteu");
-      attr(div2, "class", "buttons svelte-148wteu");
-      attr(div3, "class", "tools svelte-148wteu");
-      attr(div4, "class", "nav-folder-title");
-      attr(div5, "class", "nav-folder");
-      toggle_class(div5, "is-collapsed", ctx[5][ctx[16].title]);
+      t6 = space();
+      attr(div0, "data-icon", "folder");
+      set_style(div0, "padding-right", "5px");
+      set_style(div0, "display", "flex");
+      attr(div1, "class", "nav-folder-collapse-indicator collapse-icon");
+      attr(div2, "class", "nav-folder-title-content svelte-148wteu");
+      set_style(div3, "width", "11px");
+      attr(div3, "class", "svelte-148wteu");
+      attr(div4, "class", "buttons svelte-148wteu");
+      attr(div5, "class", "tools svelte-148wteu");
+      attr(div6, "class", "nav-folder-title");
+      attr(div6, "aria-label-position", ctx[6]);
+      attr(div6, "aria-label", div6_aria_label_value = ctx[17].vaultPath.split("/").last() != ctx[17].vaultPath ? ctx[17].vaultPath : "");
+      attr(div7, "class", "nav-folder");
+      toggle_class(div7, "is-collapsed", ctx[5][ctx[17].title]);
     },
     m(target, anchor) {
-      insert(target, div5, anchor);
+      insert(target, div7, anchor);
+      append2(div7, div6);
+      append2(div6, div0);
+      append2(div6, t0);
+      append2(div6, div1);
+      append2(div6, t1);
+      append2(div6, div2);
+      append2(div2, t2);
+      append2(div6, t3);
+      append2(div6, div5);
       append2(div5, div4);
-      append2(div4, div0);
-      append2(div4, t0);
-      append2(div4, div1);
-      append2(div1, t1);
-      append2(div4, t2);
+      if_block0.m(div4, null);
+      append2(div4, t4);
       append2(div4, div3);
-      append2(div3, div2);
-      if_block0.m(div2, null);
-      append2(div5, t3);
+      append2(div7, t5);
       if (if_block1)
-        if_block1.m(div5, null);
-      append2(div5, t4);
+        if_block1.m(div7, null);
+      append2(div7, t6);
       current = true;
       if (!mounted) {
         dispose = [
-          listen(div0, "click", click_handler),
-          listen(div1, "click", click_handler_1),
-          listen(div4, "click", self2(click_handler_5))
+          listen(div1, "click", click_handler),
+          listen(div2, "click", click_handler_1),
+          listen(div6, "click", self2(click_handler_5))
         ];
         mounted = true;
       }
     },
     p(new_ctx, dirty) {
       ctx = new_ctx;
-      if ((!current || dirty & 1) && t1_value !== (t1_value = ctx[16].title + ""))
-        set_data(t1, t1_value);
+      if ((!current || dirty & 1) && t2_value !== (t2_value = ctx[17].title + ""))
+        set_data(t2, t2_value);
       if (current_block_type === (current_block_type = select_block_type_2(ctx, dirty)) && if_block0) {
         if_block0.p(ctx, dirty);
       } else {
@@ -28139,10 +28176,16 @@ function create_else_block(ctx) {
         if_block0 = current_block_type(ctx);
         if (if_block0) {
           if_block0.c();
-          if_block0.m(div2, null);
+          if_block0.m(div4, t4);
         }
       }
-      if (!ctx[5][ctx[16].title]) {
+      if (!current || dirty & 64) {
+        attr(div6, "aria-label-position", ctx[6]);
+      }
+      if (!current || dirty & 1 && div6_aria_label_value !== (div6_aria_label_value = ctx[17].vaultPath.split("/").last() != ctx[17].vaultPath ? ctx[17].vaultPath : "")) {
+        attr(div6, "aria-label", div6_aria_label_value);
+      }
+      if (!ctx[5][ctx[17].title]) {
         if (if_block1) {
           if_block1.p(ctx, dirty);
           if (dirty & 33) {
@@ -28152,7 +28195,7 @@ function create_else_block(ctx) {
           if_block1 = create_if_block_4(ctx);
           if_block1.c();
           transition_in(if_block1, 1);
-          if_block1.m(div5, t4);
+          if_block1.m(div7, t6);
         }
       } else if (if_block1) {
         group_outros();
@@ -28162,7 +28205,7 @@ function create_else_block(ctx) {
         check_outros();
       }
       if (!current || dirty & 33) {
-        toggle_class(div5, "is-collapsed", ctx[5][ctx[16].title]);
+        toggle_class(div7, "is-collapsed", ctx[5][ctx[17].title]);
       }
     },
     i(local) {
@@ -28177,7 +28220,7 @@ function create_else_block(ctx) {
     },
     d(detaching) {
       if (detaching)
-        detach(div5);
+        detach(div7);
       if_block0.d();
       if (if_block1)
         if_block1.d();
@@ -28277,19 +28320,19 @@ function create_else_block_1(ctx) {
   let mounted;
   let dispose;
   function click_handler_3() {
-    return ctx[13](ctx[16]);
+    return ctx[14](ctx[17]);
   }
   function click_handler_4() {
-    return ctx[14](ctx[16]);
+    return ctx[15](ctx[17]);
   }
   return {
     c() {
       div0 = element("div");
-      div0.innerHTML = `<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-skip-back"><polygon points="19 20 9 12 19 4 19 20"></polygon><line x1="5" y1="19" x2="5" y2="5"></line></svg>`;
+      div0.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-undo"><path d="M3 7v6h6"></path><path d="M21 17a9 9 0 0 0-9-9 9 9 0 0 0-6 2.3L3 13"></path></svg>`;
       t = space();
       div1 = element("div");
       div1.innerHTML = `<svg width="18" height="18" viewBox="0 0 18 18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-plus"><line x1="9" y1="4" x2="9" y2="14"></line><line x1="4" y1="9" x2="14" y2="9"></line></svg>`;
-      attr(div0, "data-icon", "skip-back");
+      attr(div0, "data-icon", "undo");
       attr(div0, "aria-label", "Discard");
       attr(div0, "class", "clickable-icon svelte-148wteu");
       attr(div1, "data-icon", "plus");
@@ -28328,7 +28371,7 @@ function create_if_block_5(ctx) {
   let mounted;
   let dispose;
   function click_handler_2() {
-    return ctx[12](ctx[16]);
+    return ctx[13](ctx[17]);
   }
   return {
     c() {
@@ -28363,7 +28406,7 @@ function create_if_block_4(ctx) {
   let current;
   treecomponent = new TreeComponent({
     props: {
-      hierarchy: ctx[16],
+      hierarchy: ctx[17],
       plugin: ctx[1],
       view: ctx[2],
       fileType: ctx[3]
@@ -28383,7 +28426,7 @@ function create_if_block_4(ctx) {
     p(ctx2, dirty) {
       const treecomponent_changes = {};
       if (dirty & 1)
-        treecomponent_changes.hierarchy = ctx2[16];
+        treecomponent_changes.hierarchy = ctx2[17];
       if (dirty & 2)
         treecomponent_changes.plugin = ctx2[1];
       if (dirty & 4)
@@ -28428,7 +28471,7 @@ function create_if_block_3(ctx) {
   let current;
   pulledfilecomponent = new pulledFileComponent_default({
     props: {
-      change: ctx[16].statusResult,
+      change: ctx[17].statusResult,
       view: ctx[2]
     }
   });
@@ -28443,7 +28486,7 @@ function create_if_block_3(ctx) {
     p(ctx2, dirty) {
       const pulledfilecomponent_changes = {};
       if (dirty & 1)
-        pulledfilecomponent_changes.change = ctx2[16].statusResult;
+        pulledfilecomponent_changes.change = ctx2[17].statusResult;
       if (dirty & 4)
         pulledfilecomponent_changes.view = ctx2[2];
       pulledfilecomponent.$set(pulledfilecomponent_changes);
@@ -28468,7 +28511,7 @@ function create_if_block_2(ctx) {
   let current;
   filecomponent = new fileComponent_default({
     props: {
-      change: ctx[16].statusResult,
+      change: ctx[17].statusResult,
       manager: ctx[1].gitManager,
       view: ctx[2]
     }
@@ -28484,7 +28527,7 @@ function create_if_block_2(ctx) {
     p(ctx2, dirty) {
       const filecomponent_changes = {};
       if (dirty & 1)
-        filecomponent_changes.change = ctx2[16].statusResult;
+        filecomponent_changes.change = ctx2[17].statusResult;
       if (dirty & 2)
         filecomponent_changes.manager = ctx2[1].gitManager;
       if (dirty & 4)
@@ -28511,7 +28554,7 @@ function create_if_block_1(ctx) {
   let current;
   stagedfilecomponent = new stagedFileComponent_default({
     props: {
-      change: ctx[16].statusResult,
+      change: ctx[17].statusResult,
       manager: ctx[1].gitManager,
       view: ctx[2]
     }
@@ -28527,7 +28570,7 @@ function create_if_block_1(ctx) {
     p(ctx2, dirty) {
       const stagedfilecomponent_changes = {};
       if (dirty & 1)
-        stagedfilecomponent_changes.change = ctx2[16].statusResult;
+        stagedfilecomponent_changes.change = ctx2[17].statusResult;
       if (dirty & 2)
         stagedfilecomponent_changes.manager = ctx2[1].gitManager;
       if (dirty & 4)
@@ -28557,7 +28600,7 @@ function create_each_block(ctx) {
   const if_block_creators = [create_if_block3, create_else_block];
   const if_blocks = [];
   function select_block_type(ctx2, dirty) {
-    if (ctx2[16].statusResult)
+    if (ctx2[17].statusResult)
       return 0;
     return 1;
   }
@@ -28640,7 +28683,7 @@ function create_fragment4(ctx) {
       current = true;
     },
     p(ctx2, [dirty]) {
-      if (dirty & 1007) {
+      if (dirty & 2031) {
         each_value = ctx2[0].children;
         let i;
         for (i = 0; i < each_value.length; i += 1) {
@@ -28688,6 +28731,7 @@ function create_fragment4(ctx) {
   };
 }
 function instance4($$self, $$props, $$invalidate) {
+  let side;
   let { hierarchy } = $$props;
   let { plugin } = $$props;
   let { view } = $$props;
@@ -28705,7 +28749,7 @@ function instance4($$self, $$props, $$invalidate) {
     });
   }
   function discard(item) {
-    new DiscardModal(view.app, false, plugin.gitManager.getVaultPath(item.path)).myOpen().then((shouldDiscard) => {
+    new DiscardModal(view.app, false, item.vaultPath).myOpen().then((shouldDiscard) => {
       if (shouldDiscard === true) {
         plugin.gitManager.discardAll({
           dir: item.path,
@@ -28737,6 +28781,12 @@ function instance4($$self, $$props, $$invalidate) {
     if ("topLevel" in $$props2)
       $$invalidate(4, topLevel = $$props2.topLevel);
   };
+  $$self.$$.update = () => {
+    if ($$self.$$.dirty & 4) {
+      $:
+        $$invalidate(6, side = view.leaf.getRoot().side == "left" ? "right" : "left");
+    }
+  };
   return [
     hierarchy,
     plugin,
@@ -28744,6 +28794,7 @@ function instance4($$self, $$props, $$invalidate) {
     fileType,
     topLevel,
     closed,
+    side,
     stage,
     unstage,
     discard,
@@ -28772,7 +28823,7 @@ var treeComponent_default = TreeComponent;
 
 // src/ui/sidebar/gitView.svelte
 function add_css5(target) {
-  append_styles(target, "svelte-980ap3", `.commit-msg-input.svelte-980ap3.svelte-980ap3.svelte-980ap3{width:100%;overflow:hidden;resize:none;padding:7px 5px;background-color:var(--background-modifier-form-field)}.git-commit-msg.svelte-980ap3.svelte-980ap3.svelte-980ap3{position:relative;padding:0;width:calc(100% - var(--size-4-8));margin:4px auto}main.svelte-980ap3 .tools.svelte-980ap3.svelte-980ap3{display:flex;margin-left:auto}main.svelte-980ap3 .tools .buttons.svelte-980ap3.svelte-980ap3{display:flex}main.svelte-980ap3 .tools .buttons.svelte-980ap3>.svelte-980ap3{padding:0 0;height:auto}main.svelte-980ap3 .tools .files-count.svelte-980ap3.svelte-980ap3{padding-left:var(--size-2-1);display:flex;align-items:center;justify-content:center}.git-commit-msg-clear-button.svelte-980ap3.svelte-980ap3.svelte-980ap3{position:absolute;background:transparent;border-radius:50%;color:var(--search-clear-button-color);cursor:var(--cursor);top:-4px;right:2px;bottom:0px;line-height:0;height:var(--input-height);width:28px;margin:auto;padding:0 0;text-align:center;display:flex;justify-content:center;align-items:center;transition:color 0.15s ease-in-out}.git-commit-msg-clear-button.svelte-980ap3.svelte-980ap3.svelte-980ap3:after{content:"";height:var(--search-clear-button-size);width:var(--search-clear-button-size);display:block;background-color:currentColor;-webkit-mask-image:url("data:image/svg+xml,<svg viewBox='0 0 12 12' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M6 12C9.31371 12 12 9.31371 12 6C12 2.68629 9.31371 0 6 0C2.68629 0 0 2.68629 0 6C0 9.31371 2.68629 12 6 12ZM3.8705 3.09766L6.00003 5.22718L8.12955 3.09766L8.9024 3.8705L6.77287 6.00003L8.9024 8.12955L8.12955 8.9024L6.00003 6.77287L3.8705 8.9024L3.09766 8.12955L5.22718 6.00003L3.09766 3.8705L3.8705 3.09766Z' fill='currentColor'/></svg>");-webkit-mask-repeat:no-repeat}.tree-item-flair.svelte-980ap3.svelte-980ap3.svelte-980ap3{margin-left:auto;align-items:center}`);
+  append_styles(target, "svelte-fnxzfa", `.commit-msg-input.svelte-fnxzfa.svelte-fnxzfa.svelte-fnxzfa{width:100%;overflow:hidden;resize:none;padding:7px 5px;background-color:var(--background-modifier-form-field)}.git-commit-msg.svelte-fnxzfa.svelte-fnxzfa.svelte-fnxzfa{position:relative;padding:0;width:calc(100% - var(--size-4-8));margin:4px auto}main.svelte-fnxzfa .tools.svelte-fnxzfa.svelte-fnxzfa{display:flex;margin-left:auto}main.svelte-fnxzfa .tools .buttons.svelte-fnxzfa.svelte-fnxzfa{display:flex}main.svelte-fnxzfa .tools .buttons.svelte-fnxzfa>.svelte-fnxzfa{padding:0 0;height:auto}main.svelte-fnxzfa .tools .files-count.svelte-fnxzfa.svelte-fnxzfa{padding-left:var(--size-2-1);width:11px;display:flex;align-items:center;justify-content:center}.git-commit-msg-clear-button.svelte-fnxzfa.svelte-fnxzfa.svelte-fnxzfa{position:absolute;background:transparent;border-radius:50%;color:var(--search-clear-button-color);cursor:var(--cursor);top:-4px;right:2px;bottom:0px;line-height:0;height:var(--input-height);width:28px;margin:auto;padding:0 0;text-align:center;display:flex;justify-content:center;align-items:center;transition:color 0.15s ease-in-out}.git-commit-msg-clear-button.svelte-fnxzfa.svelte-fnxzfa.svelte-fnxzfa:after{content:"";height:var(--search-clear-button-size);width:var(--search-clear-button-size);display:block;background-color:currentColor;-webkit-mask-image:url("data:image/svg+xml,<svg viewBox='0 0 12 12' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M6 12C9.31371 12 12 9.31371 12 6C12 2.68629 9.31371 0 6 0C2.68629 0 0 2.68629 0 6C0 9.31371 2.68629 12 6 12ZM3.8705 3.09766L6.00003 5.22718L8.12955 3.09766L8.9024 3.8705L6.77287 6.00003L8.9024 8.12955L8.12955 8.9024L6.00003 6.77287L3.8705 8.9024L3.09766 8.12955L5.22718 6.00003L3.09766 3.8705L3.8705 3.09766Z' fill='currentColor'/></svg>");-webkit-mask-repeat:no-repeat}.tree-item-flair.svelte-fnxzfa.svelte-fnxzfa.svelte-fnxzfa{margin-left:auto;align-items:center}`);
 }
 function get_each_context2(ctx, list, i) {
   const child_ctx = ctx.slice();
@@ -28797,7 +28848,7 @@ function create_if_block_8(ctx) {
   return {
     c() {
       div = element("div");
-      attr(div, "class", "git-commit-msg-clear-button svelte-980ap3");
+      attr(div, "class", "git-commit-msg-clear-button svelte-fnxzfa");
       attr(div, "aria-label", div_aria_label_value = "Clear");
     },
     m(target, anchor) {
@@ -28891,7 +28942,7 @@ function create_if_block4(ctx) {
       div14 = element("div");
       div12 = element("div");
       div10 = element("div");
-      div10.innerHTML = `<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-skip-back"><polygon points="19 20 9 12 19 4 19 20"></polygon><line x1="5" y1="19" x2="5" y2="5"></line></svg>`;
+      div10.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-undo"><path d="M3 7v6h6"></path><path d="M21 17a9 9 0 0 0-9-9 9 9 0 0 0-6 2.3L3 13"></path></svg>`;
       t10 = space();
       div11 = element("div");
       div11.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-plus"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg>`;
@@ -28908,24 +28959,24 @@ function create_if_block4(ctx) {
       attr(div1, "class", "nav-folder-title-content");
       attr(div2, "data-icon", "minus");
       attr(div2, "aria-label", "Unstage");
-      attr(div2, "class", "clickable-icon svelte-980ap3");
-      attr(div3, "class", "buttons svelte-980ap3");
-      attr(div4, "class", "files-count svelte-980ap3");
-      attr(div5, "class", "tools svelte-980ap3");
+      attr(div2, "class", "clickable-icon svelte-fnxzfa");
+      attr(div3, "class", "buttons svelte-fnxzfa");
+      attr(div4, "class", "files-count svelte-fnxzfa");
+      attr(div5, "class", "tools svelte-fnxzfa");
       attr(div6, "class", "nav-folder-title");
       attr(div7, "class", "staged nav-folder");
       toggle_class(div7, "is-collapsed", !ctx[13]);
       attr(div8, "class", "nav-folder-collapse-indicator collapse-icon");
       attr(div9, "class", "nav-folder-title-content");
-      attr(div10, "data-icon", "skip-back");
+      attr(div10, "data-icon", "undo");
       attr(div10, "aria-label", "Discard");
-      attr(div10, "class", "clickable-icon svelte-980ap3");
+      attr(div10, "class", "clickable-icon svelte-fnxzfa");
       attr(div11, "data-icon", "plus");
       attr(div11, "aria-label", "Stage");
-      attr(div11, "class", "clickable-icon svelte-980ap3");
-      attr(div12, "class", "buttons svelte-980ap3");
-      attr(div13, "class", "files-count svelte-980ap3");
-      attr(div14, "class", "tools svelte-980ap3");
+      attr(div11, "class", "clickable-icon svelte-fnxzfa");
+      attr(div12, "class", "buttons svelte-fnxzfa");
+      attr(div13, "class", "files-count svelte-fnxzfa");
+      attr(div14, "class", "tools svelte-fnxzfa");
       attr(div15, "class", "nav-folder-title");
       attr(div16, "class", "changes nav-folder");
       toggle_class(div16, "is-collapsed", !ctx[12]);
@@ -29595,7 +29646,7 @@ function create_if_block_12(ctx) {
         if_block.c();
       attr(div0, "class", "nav-folder-collapse-indicator collapse-icon");
       attr(div1, "class", "nav-folder-title-content");
-      attr(span, "class", "tree-item-flair svelte-980ap3");
+      attr(span, "class", "tree-item-flair svelte-fnxzfa");
       attr(div2, "class", "nav-folder-title");
       attr(div3, "class", "pulled nav-folder");
       toggle_class(div3, "is-collapsed", !ctx[14]);
@@ -29987,14 +30038,14 @@ function create_fragment5(ctx) {
       attr(div7, "class", "nav-buttons-container");
       attr(div8, "class", "nav-header");
       attr(textarea, "rows", ctx[15]);
-      attr(textarea, "class", "commit-msg-input svelte-980ap3");
+      attr(textarea, "class", "commit-msg-input svelte-fnxzfa");
       attr(textarea, "type", "text");
       attr(textarea, "spellcheck", "true");
       attr(textarea, "placeholder", "Commit Message");
-      attr(div9, "class", "git-commit-msg svelte-980ap3");
+      attr(div9, "class", "git-commit-msg svelte-fnxzfa");
       attr(div10, "class", "nav-files-container");
       set_style(div10, "position", "relative");
-      attr(main, "class", "svelte-980ap3");
+      attr(main, "class", "svelte-fnxzfa");
     },
     m(target, anchor) {
       insert(target, main, anchor);
@@ -30172,6 +30223,7 @@ function instance5($$self, $$props, $$invalidate) {
       $$invalidate(11, lastPulledFilesHierarchy = {
         title: "",
         path: "",
+        vaultPath: "",
         children: plugin.gitManager.getTreeStructure(lastPulledFiles)
       });
     }
@@ -30190,11 +30242,13 @@ function instance5($$self, $$props, $$invalidate) {
         $$invalidate(9, changeHierarchy = {
           title: "",
           path: "",
+          vaultPath: "",
           children: plugin.gitManager.getTreeStructure(status2.changed)
         });
         $$invalidate(10, stagedHierarchy = {
           title: "",
           path: "",
+          vaultPath: "",
           children: plugin.gitManager.getTreeStructure(status2.staged)
         });
       }
@@ -30487,11 +30541,15 @@ var ObsidianGit = class extends import_obsidian23.Plugin {
       id: "edit-gitignore",
       name: "Edit .gitignore",
       callback: async () => {
-        const content = await this.app.vault.adapter.read(this.gitManager.getVaultPath(".gitignore"));
+        const path2 = this.gitManager.getVaultPath(".gitignore");
+        if (!await this.app.vault.adapter.exists(path2)) {
+          this.app.vault.adapter.write(path2, "");
+        }
+        const content = await this.app.vault.adapter.read(path2);
         const modal = new IgnoreModal(this.app, content);
         const res = await modal.open();
         if (res !== void 0) {
-          await this.app.vault.adapter.write(this.gitManager.getVaultPath(".gitignore"), res);
+          await this.app.vault.adapter.write(path2, res);
           this.refresh();
         }
       }
