@@ -4,67 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "869422916a7c7c28",
-        "type": "split",
-        "dimension": 60.132291040288635,
+        "id": "ffaa68f903547984",
+        "type": "tabs",
+        "dimension": 57.75240384615385,
         "children": [
           {
-            "id": "ffaa68f903547984",
-            "type": "tabs",
-            "dimension": 29.6368989205103,
-            "children": [
-              {
-                "id": "c86a1ca61baa5ea4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "593246c3b7d0c4cb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 2/Labolatoria 2.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
+            "id": "c86a1ca61baa5ea4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
-            ]
+            }
           },
           {
-            "id": "16ba43aeb1f6ede8",
-            "type": "tabs",
-            "dimension": 70.3631010794897,
-            "children": [
-              {
-                "id": "48ec3ab40ff433cb",
-                "type": "leaf",
-                "state": {
-                  "type": "diagram-edit",
-                  "state": {
-                    "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Untitled Diagram.svg"
-                  }
-                }
+            "id": "593246c3b7d0c4cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 2/Labolatoria 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       },
       {
         "id": "3fa92ed9b78c5309",
         "type": "tabs",
-        "dimension": 39.867708959711365,
+        "dimension": 42.24759615384615,
         "children": [
           {
             "id": "0a2404a7e847d5a5",
@@ -164,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Untitled Diagram.svg"
+                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md"
               }
             }
           },
@@ -194,8 +169,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "48ec3ab40ff433cb",
+  "active": "c86a1ca61baa5ea4",
   "lastOpenFiles": [
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/cw2zad1a.svg",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Cwiczenia_2.pdf",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria 2/Laboratorium 2_2021.pdf",
@@ -204,7 +180,6 @@
     "Notatki/symbols.pdf",
     "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykłady.md",
     "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykład 1/Wykład 1.md",
-    "README.md",
-    "Notatki/Własność intelektualna i prawo autorskie/Własność intelektualna i prawo autorskie.md"
+    "README.md"
   ]
 }
