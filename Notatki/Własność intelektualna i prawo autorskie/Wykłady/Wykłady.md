@@ -3,14 +3,17 @@
 
 ## Zaliczenie
 
-5 wykładów
-Aktywność do 4,5
+5 wykładów to dst
+Aktywność do 4,5 trza się o plusy domagać
 Mogą być prace w grupach na 5.5
 Złote pytania na 5 i 5.5
 Prezentacja na podwyższenie oceny, na temat prawny
 
+przychodzimy dla zajęć, 2 ostrzeżenia 3 to kolokwium
 
 
+
+12 gniewnych - czym dla nas są uzasadnione wątpliwości i czy ogólnie można przyjąć ogólną definicje prawa
 
 
 ## OCHRONA WŁASNOŚCI INTELEKTUALNEJ – PRZYKŁADOWE TEMATY REFERATÓW I PREZENTACJI 
