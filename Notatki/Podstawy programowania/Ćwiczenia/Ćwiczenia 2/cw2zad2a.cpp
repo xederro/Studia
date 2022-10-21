@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     int height;
-    printf("Enter height: ");
+    printf("Wprowadz wysokosc: ");
     scanf("%d", &height);
 
     for (int i = 0; i < height; i++)
