@@ -138,13 +138,6 @@ int wiersz, kolumna;
 	   R2 = 35
 
 
-```dataviewjs 
-
-function setup() {
-  createCanvas(400, 400);
-}
-
-function draw() {
-  background(220);
-}
+```run-js
+require * from "C:\Users\xeder\Documents\notes\Studia\scripts\p5.js"
 ```
