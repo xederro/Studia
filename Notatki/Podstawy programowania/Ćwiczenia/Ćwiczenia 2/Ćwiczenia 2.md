@@ -138,8 +138,13 @@ int wiersz, kolumna;
 	   R2 = 35
 
 
+```dataviewjs 
 
-```run-js
-require(https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.5.0/p5.min.js
-console.log('test')
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);
+}
 ```
