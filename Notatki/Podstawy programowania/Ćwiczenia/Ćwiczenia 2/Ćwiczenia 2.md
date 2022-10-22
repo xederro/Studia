@@ -138,6 +138,13 @@ int wiersz, kolumna;
 	   R2 = 35
 
 
-```run-js
-require * from "C:\Users\xeder\Documents\notes\Studia\scripts\p5.js"
+```run-go
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello World")
+}
+
 ```
