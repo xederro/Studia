@@ -136,3 +136,10 @@ int wiersz, kolumna;
 	4. K = 23
 	5. R1 = 105
 	   R2 = 35
+
+
+
+```run-js
+require(https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.5.0/p5.min.js
+console.log('test')
+```
