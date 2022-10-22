@@ -1,4 +1,4 @@
 {
-  "jsFiles": "",
-  "jsFolder": "scripts"
+  "jsFiles": "scripts/p5.js",
+  "jsFolder": ""
 }
