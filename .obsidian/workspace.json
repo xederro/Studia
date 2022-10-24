@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f5e3d27c2d2d75ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 2/Wykład 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "396189ab5f6d2afb",
             "type": "leaf",
             "state": {
@@ -39,16 +26,6 @@
         "id": "7b4c09ec4018bb1d",
         "type": "tabs",
         "children": [
-          {
-            "id": "dda503d45158b555",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 2/2020_W02_wej-wyj_if_else_switch.pdf"
-              }
-            }
-          },
           {
             "id": "9486ecc86badf73e",
             "type": "leaf",
@@ -137,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 2/Wykład 2.md"
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 3/Wykład 3.md"
               }
             }
           },
@@ -167,10 +144,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f5e3d27c2d2d75ba",
+  "active": "396189ab5f6d2afb",
   "lastOpenFiles": [
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 3/2020_W03_instrukcje_petlowe.pdf",
     "Notatki/Podstawy programowania/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 2/2020_W02_wej-wyj_if_else_switch.pdf",
