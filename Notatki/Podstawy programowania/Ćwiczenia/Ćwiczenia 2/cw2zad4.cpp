@@ -24,18 +24,19 @@ int main()
     }
 
     // obliczanie sumy szeregu pierwszego
-    for (int k = 1; (1.0 / (2 * k - 1)) >= eps; k++)
+    for (unsigned int k = 1; (1.0 / (2 * k - 1)) >= eps; k++)
     {
         suma1 += pow((-1), (k + 1)) / (2 * k - 1);
     }
     suma1 *= 4;
 
     // obliczanie sumy szeregu drugiego
-    for (int k = 1; (1.0 / silnia(k)) >= eps; k++)
+    for (unsigned int k = 1; (1.0 / silnia(k)) >= eps; k++)
     {
         suma2 += 1.0 / silnia(k);
     }
 
     cout << "Suma pierwszego szeregu wynosi: " << suma1 << endl;
     cout << "Suma drugiego szeregu wynosi: " << suma2 << endl;
+    return 0;
 }

@@ -4,13 +4,13 @@ using namespace std;
 
 int main()
 {
-    int height;
+    unsigned int height;
     printf("Wprowadz wysokosc: ");
-    scanf("%d", &height);
+    scanf("%u", &height);
 
-    for (int i = 0; i < height; i++)
+    for (unsigned int i = 0; i < height; i++)
     {
-        for (int j = 0; j <= i; j++)
+        for (unsigned int j = 0; j <= i; j++)
         {
             printf("#");
         }
@@ -19,9 +19,9 @@ int main()
 
     printf("\n\n\n\n");
 
-    for (int i = height; i >= 0; i--)
+    for (long int i = height; i >= 0; i--)
     {
-        for (int j = 0; j < i; j++)
+        for (unsigned int j = 0; j < i; j++)
         {
             printf("#");
         }
@@ -30,9 +30,9 @@ int main()
 
     printf("\n\n\n\n");
 
-    for (int i = 0; i < height * 2; i += 2)
+    for (unsigned int i = 0; i < height * 2; i += 2)
     {
-        for (int j = 0; j < height - (i / 2) - 1; j++)
+        for (unsigned int j = 0; j < height - (i / 2) - 1; j++)
         {
             printf(" ");
         }
