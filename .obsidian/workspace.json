@@ -4,19 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "6f84b329c8b82412",
+        "id": "817bbbc1611e1cef",
         "type": "tabs",
         "children": [
           {
-            "id": "ccc3c03aa0366789",
+            "id": "b4c6d16622ceb6bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykłady.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6e64b0adc4f4b9dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4672605cb6e57c0e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4_5 2022na23.pdf"
+              }
+            }
+          },
+          {
+            "id": "398d992f6729b06e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Niepewność złożona2022.pdf"
+              }
+            }
+          },
+          {
+            "id": "93c1afb4053289ff",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Niepewność złożona2021.pdf"
+              }
+            }
+          },
+          {
+            "id": "466182b37991ab2c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/ea-4-02m.pdf"
               }
             }
           }
@@ -70,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -97,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykłady.md"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md"
               }
             }
           },
@@ -127,17 +174,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ccc3c03aa0366789",
+  "active": "b4c6d16622ceb6bb",
   "lastOpenFiles": [
-    "Notatki/Własność intelektualna i prawo autorskie/Własność intelektualna i prawo autorskie.md",
-    "Notatki/Technologie informacyjne/Wykłady/Wykłady.md",
-    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4_5 2022na23.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Niepewność złożona2022.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Niepewność złożona2021.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/ea-4-02m.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 2/Lista_2_AM1.pdf",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md"
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykłady.md",
+    "Notatki/Własność intelektualna i prawo autorskie/Własność intelektualna i prawo autorskie.md",
+    "Notatki/Technologie informacyjne/Wykłady/Wykłady.md"
   ]
 }

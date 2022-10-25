@@ -2,6 +2,7 @@
 1. [[Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 1/Wykład 1|Wykład 1]]
 2. [[Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 2/Wykład 2|Wykład 2]]
 3. [[Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3|Wykład 3]]
+4. [[Wykład 4|Wykład 4]]
 
 ## Zaliczenie
 C-5 803/807
