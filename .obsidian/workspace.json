@@ -4,35 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "81de441d43b2d1eb",
+        "id": "6f84b329c8b82412",
         "type": "tabs",
         "children": [
           {
-            "id": "396189ab5f6d2afb",
+            "id": "ccc3c03aa0366789",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 3/Wykład 3.md",
+                "file": "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykłady.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "7b4c09ec4018bb1d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9486ecc86badf73e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 3/2020_W03_instrukcje_petlowe.pdf"
               }
             }
           }
@@ -86,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 335.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -114,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 3/Wykład 3.md"
+                "file": "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykłady.md"
               }
             }
           },
@@ -144,17 +127,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "396189ab5f6d2afb",
+  "active": "ccc3c03aa0366789",
   "lastOpenFiles": [
-    "Notatki/Podstawy programowania/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykład 3/2020_W03_instrukcje_petlowe.pdf",
-    "Notatki/Podstawy programowania/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykład 2/2020_W02_wej-wyj_if_else_switch.pdf",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Cwiczenia_2.pdf",
-    "README.md",
+    "Notatki/Własność intelektualna i prawo autorskie/Własność intelektualna i prawo autorskie.md",
+    "Notatki/Technologie informacyjne/Wykłady/Wykłady.md",
+    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria.md",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/cw2zad1a.svg",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 2/Laboratorium 2_2021.pdf"
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
+    "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 2/Lista_2_AM1.pdf",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md"
   ]
 }
