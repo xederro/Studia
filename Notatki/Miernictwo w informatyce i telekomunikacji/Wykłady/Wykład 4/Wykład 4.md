@@ -3,6 +3,9 @@
 [[Niepewność złożona2021.pdf]] h: EF_zadania_2021
 [[ea-4-02m.pdf]]
 
+# Pomiary
+## Wynik pomiaru
+
 Mezurant są to wielkości które mają być zmierzone
 
 #kolokwium 
@@ -27,6 +30,19 @@ Co za wielkość były zmierzone?
 
 Wielkości rzeczywistej nigdy nie mierzymy, mierzymy zakres miedzy którym znajduje się wielkość rzeczywista
 
+## Błąd
 Błąd przypadkowy decyduje o precyzji
 Błąd systematyczny decyduje o dokładności
 Błąd gruby
+
+# Niepewności i analiza statystyczna
+
+$\delta x = 21\pm3 mm$  - niepewność w modelu interwałowym (przedziałowym)
+
+![[Pasted image 20221025100324.png]] 
+m - średnia arytmetyczna
+$\sigma$ - odchylenie standardowe
+$m\pm \sigma$ - przedział wokół wartości mierzonej, np. z prawdopodobieństwem 95% znajduje się pomiędzy nimi wartość prawdziwa mieszona
+
+
+$\not S_x = \sqrt{{1\over {n-1}}\exist}$    
