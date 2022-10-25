@@ -136,3 +136,5 @@ int wiersz, kolumna;
 	4. K = 23
 	5. R1 = 105
 	   R2 = 35
+
+
