@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "702bedc51ba36190",
+        "id": "9ef7da31597d4d4b",
         "type": "tabs",
         "children": [
           {
-            "id": "31c4afbc982c362a",
+            "id": "a9e82f8531839941",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Technologie informacyjne/Wykłady/Wykład 2/Wykład 2.md",
+                "file": "Notatki/Filozofia/Wykłady/Wykład 3/Wykład 3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Technologie informacyjne/Wykłady/Wykład 2/Wykład 2.md"
+                "file": "Notatki/Filozofia/Wykłady/Wykład 3/Wykład 3.md"
               }
             }
           },
@@ -128,17 +128,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "31c4afbc982c362a",
+  "active": "a9e82f8531839941",
   "lastOpenFiles": [
+    "Notatki/Filozofia/Wykłady/Wykłady.md",
+    "Notatki/Filozofia/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Filozofia/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Technologie informacyjne/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Technologie informacyjne/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Technologie informacyjne/Wykłady/Wykłady.md",
-    "Notatki/Technologie informacyjne/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/ea-4-02m.pdf",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Niepewność złożona2021.pdf",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Niepewność złożona2022.pdf",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4_5 2022na23.pdf",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md"
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/ea-4-02m.pdf"
   ]
 }
