@@ -15,4 +15,9 @@ religia i filozofia są różne ale zachodzą uzupełniające się związki
 |           |                                                                                         |               |
 
 
+Kultura = Religia(Etos) + Filozofia + Prawo rzymskie
++
+istnienie pozwala rozróżnić dwie identyczne osoby oraz to że mimo zmiany atomów w ciele jesteśmy sobą
+
+
 

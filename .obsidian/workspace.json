@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "88636147507571da",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,10 +136,7 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "a9e82f8531839941",
+  "active": "88636147507571da",
   "lastOpenFiles": [
     "Notatki/Filozofia/Wykłady/Wykłady.md",
     "Notatki/Filozofia/Wykłady/Wykład 3/Wykład 3.md",
