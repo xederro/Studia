@@ -4,34 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9ef7da31597d4d4b",
+        "id": "4231cf93bb3d861a",
         "type": "tabs",
         "children": [
           {
-            "id": "a9e82f8531839941",
+            "id": "50a58ea25687ba4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Filozofia/Wykłady/Wykład 3/Wykład 3.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88636147507571da",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 335.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -108,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Filozofia/Wykłady/Wykład 3/Wykład 3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -136,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "88636147507571da",
+  "active": "49d30ce6368bee01",
   "lastOpenFiles": [
-    "Notatki/Filozofia/Wykłady/Wykłady.md",
+    "Notatki/Podstawy programowania/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Filozofia/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Filozofia/Wykłady/Wykłady.md",
     "Notatki/Filozofia/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Technologie informacyjne/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Technologie informacyjne/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Technologie informacyjne/Wykłady/Wykłady.md",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/ea-4-02m.pdf"
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md"
   ]
 }
