@@ -2,7 +2,7 @@
 
 # Typy i operatory
 
-There are two main approaches to programming:[[1]](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms#cite_note-1)
+There are two main approaches to programming:[1](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms#cite_note-1)
 
 -   [Imperative programming](https://en.wikipedia.org/wiki/Imperative_programming "Imperative programming") – focuses on how to execute, defines [control flow](https://en.wikipedia.org/wiki/Control_flow "Control flow") as [statements](https://en.wikipedia.org/wiki/Statement_(programming) "Statement (programming)") that change a program [state](https://en.wikipedia.org/wiki/State_(computer_science) "State (computer science)").
 -   [Declarative programming](https://en.wikipedia.org/wiki/Declarative_programming "Declarative programming") – focuses on what to execute, defines program logic, but not detailed [control flow](https://en.wikipedia.org/wiki/Control_flow "Control flow").

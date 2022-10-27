@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "4231cf93bb3d861a",
+        "id": "e2d858aeab97b30e",
         "type": "tabs",
         "children": [
           {
-            "id": "50a58ea25687ba4c",
+            "id": "68061a4295ad3a76",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -117,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "49d30ce6368bee01",
+  "active": "68061a4295ad3a76",
   "lastOpenFiles": [
-    "Notatki/Podstawy programowania/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Filozofia/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Filozofia/Wykłady/Wykłady.md",
-    "Notatki/Filozofia/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Technologie informacyjne/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Technologie informacyjne/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Technologie informacyjne/Wykłady/Wykłady.md",
+    "oze.pwr.edu.pl.md",
+    "Notatki/Podstawy programowania/Wykłady/Wykład 1/Wykład 1.md",
+    "1.md",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 2/Labolatoria 2.md",
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md"
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 4/Lista_4_AM1.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/ALGA_zestaw_03.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md"
   ]
 }
