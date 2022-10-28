@@ -10609,7 +10609,7 @@ __export(main_exports, {
   supportedLanguages: () => supportedLanguages
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian28 = require("obsidian");
+var import_obsidian29 = require("obsidian");
 
 // src/Outputter.ts
 var import_events = require("events");
@@ -10860,6 +10860,7 @@ var DEFAULT_SETTINGS = {
   lastOpenLanguageTab: void 0,
   timeout: 1e4,
   allowInput: true,
+  wslMode: false,
   nodePath: "node",
   nodeArgs: "",
   jsInject: "",
@@ -10945,7 +10946,7 @@ var DEFAULT_SETTINGS = {
   javaInteractive: false,
   powershellInteractive: false,
   kotlinInteractive: false,
-  mathematicaInteractive: true,
+  mathematicaInteractive: false,
   haskellInteractive: false,
   scalaInteractive: false
 };
@@ -11164,15 +11165,15 @@ var makeLuaSettings_default = (tab, containerEl) => {
 var import_obsidian10 = require("obsidian");
 var makeMathematicaSettings_default = (tab, containerEl) => {
   containerEl.createEl("h3", { text: "Wolfram Mathematica Settings" });
-  new import_obsidian10.Setting(containerEl).setName("Mathematica path").setDesc("The path to your Mathematica installation.").addText((text) => text.setValue(tab.plugin.settings.kotlinPath).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian10.Setting(containerEl).setName("Mathematica path").setDesc("The path to your Mathematica installation.").addText((text) => text.setValue(tab.plugin.settings.mathematicaPath).onChange((value) => __async(void 0, null, function* () {
     const sanitized = tab.sanitizePath(value);
     tab.plugin.settings.mathematicaPath = sanitized;
     console.log("Mathematica path set to: " + sanitized);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian10.Setting(containerEl).setName("Mathematica arguments").addText((text) => text.setValue(tab.plugin.settings.kotlinArgs).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian10.Setting(containerEl).setName("Mathematica arguments").addText((text) => text.setValue(tab.plugin.settings.mathematicaArgs).onChange((value) => __async(void 0, null, function* () {
     tab.plugin.settings.mathematicaArgs = value;
-    console.log("Kotlin args set to: " + value);
+    console.log("Mathematica args set to: " + value);
     yield tab.plugin.saveSettings();
   })));
   tab.makeInjectSetting(containerEl, "mathematica");
@@ -11361,6 +11362,13 @@ var SettingsTab = class extends import_obsidian19.PluginSettingTab {
       this.plugin.settings.allowInput = value;
       yield this.plugin.saveSettings();
     })));
+    if (process.platform === "win32") {
+      new import_obsidian19.Setting(containerEl).setName("WSL Mode").setDesc("Whether or not to run code in the Windows Subsystem for Linux. If you don't have WSL installed, don't turn this on!").addToggle((text) => text.setValue(this.plugin.settings.wslMode).onChange((value) => __async(this, null, function* () {
+        console.log("WSL Mode set to: " + value);
+        this.plugin.settings.wslMode = value;
+        yield this.plugin.saveSettings();
+      })));
+    }
     containerEl.createEl("hr");
     new import_obsidian19.Setting(containerEl).setName("Language-Specific Settings").setDesc("Pick a language to edit its language-specific settings").addDropdown(
       (dropdown) => dropdown.addOptions(Object.fromEntries(
@@ -11752,8 +11760,9 @@ ${injectedCode}`;
 // src/ExecutorContainer.ts
 var import_events2 = require("events");
 
-// src/executors/NodeJSExecutor.ts
+// src/executors/ReplExecutor.ts
 var import_child_process = require("child_process");
+var import_obsidian24 = require("obsidian");
 
 // src/executors/Executor.ts
 var import_obsidian23 = require("obsidian");
@@ -11807,19 +11816,61 @@ var AsyncExecutor = class extends Executor {
   }
 };
 
-// src/executors/NodeJSExecutor.ts
-var PythonExecutor = class extends AsyncExecutor {
-  constructor(settings, file) {
-    super(file, "js");
-    const args = settings.nodeArgs ? settings.nodeArgs.split(" ") : [];
-    args.unshift(`-e`, `require("repl").start({prompt: "", preview: false, ignoreUndefined: true}).on("exit", ()=>process.exit())`);
-    this.process = (0, import_child_process.spawn)(settings.nodePath, args);
-    this.process.on("close", () => this.emit("close"));
+// src/executors/ReplExecutor.ts
+var ReplExecutor = class extends AsyncExecutor {
+  constructor(settings, path, args, file, language) {
+    super(file, language);
+    this.settings = settings;
+    if (this.settings.wslMode) {
+      args.unshift("-e", path);
+      path = "wsl";
+    }
+    this.process = (0, import_child_process.spawn)(path, args);
+    this.process.on("close", () => {
+      this.emit("close");
+      new import_obsidian24.Notice("Runtime exited");
+      this.process = null;
+    });
     this.process.on("error", (err) => {
-      this.notifyError(settings.nodePath, args.join(" "), "", err, void 0, "Error launching NodeJS process: " + err);
+      this.notifyError(settings.pythonPath, args.join(" "), "", err, void 0, "Error launching Python process: " + err);
       this.stop();
     });
-    this.dismissIntroMessage().then(() => {
+    this.setup();
+  }
+  run(code, outputter, cmd, cmdArgs, ext) {
+    outputter.queueBlock();
+    return this.addJobToQueue((resolve, reject) => {
+      if (this.process === null)
+        return resolve();
+      const finishSigil = `SIGIL_BLOCK_DONE${Math.random()}_${Date.now()}_${code.length}`;
+      outputter.startBlock();
+      const wrappedCode = this.wrapCode(code, finishSigil);
+      this.process.stdin.write(wrappedCode);
+      outputter.clear();
+      outputter.on("data", (data) => {
+        this.process.stdin.write(data);
+      });
+      const writeToStdout = (data) => {
+        let str = data.toString();
+        if (str.endsWith(finishSigil)) {
+          str = str.substring(0, str.length - finishSigil.length);
+          this.process.stdout.removeListener("data", writeToStdout);
+          this.process.stderr.removeListener("data", writeToStderr);
+          this.process.removeListener("close", resolve);
+          outputter.write(str);
+          resolve();
+        } else {
+          outputter.write(str);
+        }
+      };
+      const writeToStderr = (data) => {
+        outputter.writeErr(
+          this.removePrompts(data.toString(), "stderr")
+        );
+      };
+      this.process.on("close", resolve);
+      this.process.stdout.on("data", writeToStdout);
+      this.process.stderr.on("data", writeToStderr);
     });
   }
   stop() {
@@ -11831,61 +11882,58 @@ var PythonExecutor = class extends AsyncExecutor {
       this.process = null;
     });
   }
-  dismissIntroMessage() {
+};
+
+// src/executors/NodeJSExecutor.ts
+var NodeJSExecutor = class extends ReplExecutor {
+  constructor(settings, file) {
+    const args = settings.nodeArgs ? settings.nodeArgs.split(" ") : [];
+    args.unshift(`-e`, `require("repl").start({prompt: "", preview: false, ignoreUndefined: true}).on("exit", ()=>process.exit())`);
+    super(settings, settings.nodePath, args, file, "js");
+  }
+  stop() {
+    return new Promise((resolve, reject) => {
+      this.process.on("close", () => {
+        resolve();
+      });
+      this.process.kill();
+      this.process = null;
+    });
+  }
+  setup() {
     return __async(this, null, function* () {
       this.process.stdin.write("\n");
     });
   }
-  run(code, outputter, cmd, cmdArgs, ext) {
-    return __async(this, null, function* () {
-      outputter.queueBlock();
-      return this.addJobToQueue((resolve, reject) => {
-        if (this.process === null)
-          return resolve();
-        const finishSigil = `SIGIL_BLOCK_DONE${Math.random()}_${Date.now()}_${code.length}`;
-        outputter.startBlock();
-        const wrappedCode = `
-			try { eval(${JSON.stringify(code)}); } catch(e) { console.error(e); }
-			process.stdout.write(${JSON.stringify(finishSigil)})&&undefined;
-			`;
-        outputter.clear();
-        this.process.stdin.write(wrappedCode);
-        outputter.on("data", (data) => {
-          this.process.stdin.write(data);
-        });
-        const writeToStderr = (data) => {
-          outputter.writeErr(data.toString());
-        };
-        const writeToStdout = (data) => {
-          const stringData = data.toString();
-          if (stringData.endsWith(finishSigil)) {
-            outputter.write(
-              stringData.substring(0, stringData.length - finishSigil.length)
-            );
-            this.process.removeListener("close", resolve);
-            this.process.stdout.removeListener("data", writeToStdout);
-            this.process.stderr.removeListener("data", writeToStderr);
-            resolve();
-          } else {
-            outputter.write(stringData);
-          }
-        };
-        this.process.addListener("close", resolve);
-        this.process.stdout.on("data", writeToStdout);
-        this.process.stderr.on("data", writeToStderr);
-      });
-    });
+  wrapCode(code, finishSigil) {
+    return `try { eval(${JSON.stringify(code)}); }catch(e) { console.error(e); }finally { process.stdout.write(${JSON.stringify(finishSigil)}); }
+`;
+  }
+  removePrompts(output, source) {
+    return output;
   }
 };
 
 // src/executors/NonInteractiveCodeExecutor.ts
-var import_obsidian24 = require("obsidian");
+var import_obsidian25 = require("obsidian");
 var fs = __toESM(require("fs"));
 var child_process = __toESM(require("child_process"));
+
+// src/transforms/windowsPathToWsl.ts
+var import_posix = require("path/posix");
+var import_path = require("path");
+var windowsPathToWsl_default = (windowsPath) => {
+  const driveLetter = windowsPath[0].toLowerCase();
+  const posixyPath = windowsPath.replace(/^[^:]*:/, "").split(import_path.sep).join("/");
+  return (0, import_posix.join)("/mnt/", driveLetter, posixyPath);
+};
+
+// src/executors/NonInteractiveCodeExecutor.ts
 var NonInteractiveCodeExecutor = class extends Executor {
-  constructor(usesShell, file, language) {
+  constructor(settings, usesShell, file, language) {
     super(file, language);
     this.resolveRun = void 0;
+    this.settings = settings;
     this.usesShell = usesShell;
   }
   stop() {
@@ -11899,7 +11947,13 @@ var NonInteractiveCodeExecutor = class extends Executor {
       const tempFileName = this.getTempFile(ext);
       fs.promises.writeFile(tempFileName, codeBlockContent).then(() => {
         const args = cmdArgs ? cmdArgs.split(" ") : [];
-        args.push(tempFileName);
+        if (this.settings.wslMode) {
+          args.unshift("-e", cmd);
+          cmd = "wsl";
+          args.push(windowsPathToWsl_default(tempFileName));
+        } else {
+          args.push(tempFileName);
+        }
         const child = child_process.spawn(cmd, args, { env: process.env, shell: this.usesShell });
         this.handleChildOutput(child, outputter, tempFileName).then(() => {
           this.tempFileId = void 0;
@@ -11929,8 +11983,8 @@ var NonInteractiveCodeExecutor = class extends Executor {
         child.stdin.write(data);
       });
       child.on("close", (code) => {
-        if (code === 0)
-          new import_obsidian24.Notice("Error!");
+        if (code !== 0)
+          new import_obsidian25.Notice("Error!");
         if (this.resolveRun !== void 0)
           this.resolveRun();
         outputter.closeInput();
@@ -11941,7 +11995,7 @@ var NonInteractiveCodeExecutor = class extends Executor {
         });
       });
       child.on("error", (err) => {
-        new import_obsidian24.Notice("Error!");
+        new import_obsidian25.Notice("Error!");
         outputter.writeErr(err.toString());
       });
     });
@@ -11950,7 +12004,7 @@ var NonInteractiveCodeExecutor = class extends Executor {
 
 // src/executors/PrologExecutor.ts
 var prolog = __toESM(require_core());
-var import_obsidian25 = require("obsidian");
+var import_obsidian26 = require("obsidian");
 var PrologExecutor = class extends Executor {
   constructor(settings, file) {
     super(file, "prolog");
@@ -11974,7 +12028,7 @@ var PrologExecutor = class extends Executor {
     });
   }
   runPrologCode(facts, queries, out) {
-    new import_obsidian25.Notice("Running...");
+    new import_obsidian26.Notice("Running...");
     const session = prolog.create();
     session.consult(
       facts,
@@ -11990,7 +12044,7 @@ var PrologExecutor = class extends Executor {
                 while (answersLeft && counter < this.maxPrologAnswers) {
                   yield session.answer({
                     success: function(answer) {
-                      new import_obsidian25.Notice("Done!");
+                      new import_obsidian26.Notice("Done!");
                       console.debug(`Prolog result: ${session.format_answer(answer)}`);
                       out.write(session.format_answer(answer) + "\n");
                       out.closeInput();
@@ -11999,7 +12053,7 @@ var PrologExecutor = class extends Executor {
                       answersLeft = false;
                     },
                     error: function(err) {
-                      new import_obsidian25.Notice("Error!");
+                      new import_obsidian26.Notice("Error!");
                       console.error(err);
                       answersLeft = false;
                       out.writeErr(`Error while executing code: ${err}`);
@@ -12013,7 +12067,7 @@ var PrologExecutor = class extends Executor {
                 }
               }),
               error: (err) => {
-                new import_obsidian25.Notice("Error!");
+                new import_obsidian26.Notice("Error!");
                 out.writeErr("Query failed.\n");
                 out.writeErr(err.toString());
               }
@@ -12029,12 +12083,9 @@ var PrologExecutor = class extends Executor {
   }
 };
 
-// src/executors/python/PythonExecutor.ts
-var import_child_process2 = require("child_process");
-
 // src/executors/python/wrapPython.ts
 var PLT_DEFAULT_BACKEND_PY_VAR = "OBSIDIAN_EXECUTE_CODE_MATPLOTLIB_DEFAULT_BACKEND";
-var wrapPython_default = (code, globalsName, localsName, printName, finishSigil, embedPlots) => `
+var wrapPython_default = (code, globalsName, printName, finishSigil, embedPlots) => `
 ${embedPlots ? `
 try:
     matplotlib.use('agg')
@@ -12051,12 +12102,12 @@ try:
     try:
         ${printName}(eval(
             compile(${JSON.stringify(code.replace(/\r\n/g, "\n") + "\n")}, "<code block>", "eval"),
-            ${globalsName}, ${localsName}
+            ${globalsName}
         ))
     except SyntaxError:
         exec(
             compile(${JSON.stringify(code.replace(/\r\n/g, "\n") + "\n")}, "<code block>", "exec"),
-            ${globalsName}, ${localsName}
+            ${globalsName}
         )
 except Exception as e:
     ${printName} (e, file=sys.stderr)
@@ -12066,23 +12117,35 @@ finally:
 `;
 
 // src/executors/python/PythonExecutor.ts
-var PythonExecutor2 = class extends AsyncExecutor {
+var PythonExecutor = class extends ReplExecutor {
   constructor(settings, file) {
-    super(file, "python");
-    this.settings = settings;
     const args = settings.pythonArgs ? settings.pythonArgs.split(" ") : [];
     args.unshift("-i");
-    this.process = (0, import_child_process2.spawn)(settings.pythonPath, args);
-    this.process.on("close", () => this.emit("close"));
-    this.process.on("error", (err) => {
-      this.notifyError(settings.pythonPath, args.join(" "), "", err, void 0, "Error launching Python process: " + err);
-      this.stop();
-    });
+    super(
+      settings,
+      settings.pythonPath,
+      args,
+      file,
+      "python"
+    );
     this.printFunctionName = `__print_${Math.random().toString().substring(2)}_${Date.now()}`;
-    this.localsDictionaryName = `__locals_${Math.random().toString().substring(2)}_${Date.now()}`;
     this.globalsDictionaryName = `__globals_${Math.random().toString().substring(2)}_${Date.now()}`;
-    this.setup().then(() => {
-    });
+  }
+  removePrompts(output, source) {
+    if (source == "stderr") {
+      return output.replace(/(^((\.\.\.|>>>) )+)|(((\.\.\.|>>>) )+$)/g, "");
+    } else {
+      return output;
+    }
+  }
+  wrapCode(code, finishSigil) {
+    return wrapPython_default(
+      code,
+      this.globalsDictionaryName,
+      this.printFunctionName,
+      finishSigil,
+      this.settings.pythonEmbedPlots
+    );
   }
   stop() {
     return new Promise((resolve, reject) => {
@@ -12098,6 +12161,7 @@ var PythonExecutor2 = class extends AsyncExecutor {
       this.addJobToQueue((resolve, reject) => {
         this.process.stdin.write(
           `
+${this.globalsDictionaryName} = {**globals()}
 ${this.settings.pythonEmbedPlots ? `
 try:
     import matplotlib
@@ -12109,9 +12173,6 @@ except:
 from __future__ import print_function
 import sys
 ${this.printFunctionName} = print
-
-${this.localsDictionaryName} = {}
-${this.globalsDictionaryName} = {**globals()}
 `.replace(/\r\n/g, "\n")
         );
         this.process.stderr.once("data", (data) => {
@@ -12121,58 +12182,13 @@ ${this.globalsDictionaryName} = {**globals()}
       });
     });
   }
-  run(code, outputter, cmd, cmdArgs, ext) {
-    return __async(this, null, function* () {
-      outputter.queueBlock();
-      return this.addJobToQueue((resolve, reject) => {
-        if (this.process === null)
-          return resolve();
-        const finishSigil = `SIGIL_BLOCK_DONE${Math.random()}_${Date.now()}_${code.length}`;
-        outputter.startBlock();
-        const wrappedCode = wrapPython_default(
-          code,
-          this.globalsDictionaryName,
-          this.localsDictionaryName,
-          this.printFunctionName,
-          finishSigil,
-          this.settings.pythonEmbedPlots
-        );
-        this.process.stdin.write(wrappedCode);
-        outputter.clear();
-        outputter.on("data", (data) => {
-          this.process.stdin.write(data);
-        });
-        const writeToStdout = (data) => {
-          let str = data.toString();
-          if (str.endsWith(finishSigil)) {
-            str = str.substring(0, str.length - finishSigil.length);
-            this.process.stdout.removeListener("data", writeToStdout);
-            this.process.stderr.removeListener("data", writeToStderr);
-            this.process.removeListener("close", resolve);
-            outputter.write(str);
-            resolve();
-          } else {
-            outputter.write(str);
-          }
-        };
-        const writeToStderr = (data) => {
-          const removedPrompts = data.toString().replace(/(^((\.\.\.|>>>) )+)|(((\.\.\.|>>>) )+$)/g, "");
-          outputter.writeErr(removedPrompts);
-        };
-        this.process.on("close", resolve);
-        this.process.stdout.on("data", writeToStdout);
-        this.process.stderr.on("data", writeToStderr);
-      });
-    });
-  }
 };
 
 // src/executors/CppExecutor.ts
 var child_process2 = __toESM(require("child_process"));
 var CppExecutor = class extends NonInteractiveCodeExecutor {
   constructor(settings, file) {
-    super(false, file, "cpp");
-    this.settings = settings;
+    super(settings, false, file, "cpp");
   }
   run(codeBlockContent, outputter, cmd, cmdArgs, ext) {
     const extension = "cpp";
@@ -12210,8 +12226,8 @@ var CppExecutor = class extends NonInteractiveCodeExecutor {
 
 // src/ExecutorContainer.ts
 var interactiveExecutors = {
-  "js": PythonExecutor,
-  "python": PythonExecutor2
+  "js": NodeJSExecutor,
+  "python": PythonExecutor
 };
 var nonInteractiveExecutors = {
   "prolog": PrologExecutor,
@@ -12258,16 +12274,16 @@ var ExecutorContainer = class extends import_events2.EventEmitter {
       return new interactiveExecutors[language](this.plugin.settings, file);
     } else if (language in nonInteractiveExecutors)
       return new nonInteractiveExecutors[language](this.plugin.settings, file);
-    return new NonInteractiveCodeExecutor(needsShell, file, language);
+    return new NonInteractiveCodeExecutor(this.plugin.settings, needsShell, file, language);
   }
 };
 
 // src/ExecutorManagerView.ts
-var import_obsidian26 = require("obsidian");
-var import_path = require("path");
+var import_obsidian27 = require("obsidian");
+var import_path2 = require("path");
 var EXECUTOR_MANAGER_VIEW_ID = "code-execute-manage-executors";
 var EXECUTOR_MANAGER_OPEN_VIEW_COMMAND_ID = "code-execute-open-manage-executors";
-var ExecutorManagerView = class extends import_obsidian26.ItemView {
+var ExecutorManagerView = class extends import_obsidian27.ItemView {
   constructor(leaf, executors) {
     super(leaf);
     this.executors = executors;
@@ -12332,7 +12348,7 @@ var ExecutorManagerView = class extends import_obsidian26.ItemView {
   }
   addExecutorElement(executor) {
     const li = document.createElement("li");
-    const simpleName = (0, import_path.basename)(executor.file);
+    const simpleName = (0, import_path2.basename)(executor.file);
     const langElem = document.createElement("small");
     langElem.textContent = executor.language;
     li.appendChild(langElem);
@@ -12343,7 +12359,7 @@ var ExecutorManagerView = class extends import_obsidian26.ItemView {
     });
     const button = document.createElement("button");
     button.addEventListener("click", () => executor.stop());
-    (0, import_obsidian26.setIcon)(button, "trash");
+    (0, import_obsidian27.setIcon)(button, "trash");
     button.setAttribute("aria-label", "Stop Runtime");
     li.appendChild(button);
     this.list.appendChild(li);
@@ -12358,10 +12374,10 @@ var ExecutorManagerView = class extends import_obsidian26.ItemView {
 };
 
 // src/runAllCodeBlocks.ts
-var import_obsidian27 = require("obsidian");
+var import_obsidian28 = require("obsidian");
 function runAllCodeBlocks(workspace) {
   const lastActiveView = workspace.getMostRecentLeaf().view;
-  if (lastActiveView instanceof import_obsidian27.TextFileView) {
+  if (lastActiveView instanceof import_obsidian28.TextFileView) {
     lastActiveView.containerEl.querySelectorAll("button." + runButtonClass).forEach((button) => {
       button.click();
     });
@@ -12395,7 +12411,7 @@ var buttonText = "Run";
 var runButtonClass = "run-code-button";
 var runButtonDisabledClass = "run-button-disabled";
 var hasButtonClass = "has-run-code-button";
-var ExecuteCodePlugin2 = class extends import_obsidian28.Plugin {
+var ExecuteCodePlugin2 = class extends import_obsidian29.Plugin {
   onload() {
     return __async(this, null, function* () {
       yield this.loadSettings();
@@ -12408,7 +12424,7 @@ var ExecuteCodePlugin2 = class extends import_obsidian28.Plugin {
       supportedLanguages.forEach((l) => {
         console.debug(`Registering renderer for ${l}.`);
         this.registerMarkdownCodeBlockProcessor(`run-${l}`, (src, el, _ctx) => __async(this, null, function* () {
-          yield import_obsidian28.MarkdownRenderer.renderMarkdown("```" + l + "\n" + src + (src.endsWith("\n") ? "" : "\n") + "```", el, "", null);
+          yield import_obsidian29.MarkdownRenderer.renderMarkdown("```" + l + "\n" + src + (src.endsWith("\n") ? "" : "\n") + "```", el, "", null);
         }));
       });
       this.registerView(
@@ -12457,7 +12473,7 @@ var ExecuteCodePlugin2 = class extends import_obsidian28.Plugin {
   }
   iterateOpenFilesAndAddRunButtons() {
     this.app.workspace.iterateRootLeaves((leaf) => {
-      if (leaf.view instanceof import_obsidian28.FileView) {
+      if (leaf.view instanceof import_obsidian29.FileView) {
         this.addRunButtons(leaf.view.contentEl, leaf.view.file.path);
       }
     });
