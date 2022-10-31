@@ -2,7 +2,7 @@
 Autor:  Dawid Jabłoński
 Grupa:  WT/N 11.15
 Tytul:  Zadania Laboratorium 2
-Data:   25 października 2022r.
+Data:   31 października 2022r.
 */
 
 #include <iostream>
@@ -16,15 +16,15 @@ void zadanie1()
     unsigned char wiersz, kolumna;
     do
     {
-        printf("Podaj wiersz: ");
+        printf("Podaj liczbe wierszy: ");
         scanf("%hhu", &wiersz);
-        printf("Podaj kolumne: ");
+        printf("Podaj liczbe kolumn: ");
         scanf("%hhu", &kolumna);
     } while (wiersz == 0 || kolumna == 0);
 
     for (unsigned char j = 0; j < 2; j++)
     {
-        for (unsigned char i = 0; i <= wiersz; i++)
+        for (unsigned char i = 0; i <= kolumna; i++)
         {
             if (j)
                 printf("----");
@@ -103,7 +103,7 @@ void zadanie3()
     }
 
     // nww
-    for (i = 1; i <= a * b; i++)
+    for (i = 1; i <= fabs(a * b); i++)
     {
         if (i % a == 0 && i % b == 0)
         {
@@ -116,7 +116,7 @@ void zadanie3()
 // zadanie 4 rozpisać i nie liczyć niepotrzebnych rzeczy jak k!
 void zadanie4()
 {
-    double eps = 1, suma1 = 0, suma2 = 1, wartosc = 1;
+    double eps = 1, suma1 = 0, suma2 = 0, wartosc = 1;
 
     while (eps > 0.1)
     {
@@ -141,8 +141,8 @@ void zadanie4()
         wartosc /= k;
     }
 
-    printf("Suma pierwszego szeregu wynosi: %lf\n", suma1);
-    printf("Suma drugiego szeregu wynosi: %lf\n", suma2);
+    printf("Suma pierwszego szeregu wynosi: %.16lf\n", suma1);
+    printf("Suma drugiego szeregu wynosi: %.16lf\n", suma2);
 }
 
 void zadanie5()
@@ -185,7 +185,7 @@ void zadanie5()
     if (countu != 0)
     {
         printf("Suma liczb ujemnych wynosi: -%lu\n", sumu);
-        printf("Srednia liczb ujemnych wynosi %f\n", (float)sumu / countu);
+        printf("Srednia liczb ujemnych wynosi -%f\n", (float)sumu / countu);
     }
     else
         printf("Nie bylo liczb ujemnych\n");
@@ -242,7 +242,7 @@ int main()
             printf("Zly Wybor");
             break;
         }
-    } while (wybor != '0');
+    } while (wybor != 0);
 
     return 0;
 }
