@@ -93,12 +93,7 @@ void zadanie3()
     // nwd
     int i;
 
-    if (a > b)
-        i = a;
-    else
-        i = b;
-
-    for (; i > 0; i--)
+    for ((a > b) ? i = a : i = b; i > 0; i--)
     {
         if (a % i == 0 && b % i == 0)
         {
@@ -125,8 +120,8 @@ void zadanie4()
 
     while (eps > 0.1)
     {
-        cout << "Podaj dokladnosc obliczen mniejsza od 0.1: ";
-        cin >> eps;
+        printf("Podaj dokladnosc obliczen mniejsza od 0.1: ");
+        scanf("%lf", &eps);
     }
 
     // obliczanie sumy szeregu pierwszego
@@ -146,12 +141,54 @@ void zadanie4()
         wartosc /= k;
     }
 
-    cout << "Suma pierwszego szeregu wynosi: " << suma1 << endl;
-    cout << "Suma drugiego szeregu wynosi: " << suma2 << endl;
+    printf("Suma pierwszego szeregu wynosi: %lf\n", suma1);
+    printf("Suma drugiego szeregu wynosi: %lf\n", suma2);
 }
 
 void zadanie5()
 {
+    short int min, max;
+    unsigned long long int sumd = 0, sumu = 0;
+    unsigned short int n, countd = 0, countu = 0;
+    srand(time(NULL));
+    printf("Wpisz minimalna liczbe z przedzialu ");
+    scanf("%hd", &min);
+    printf("Wpisz maksymalna liczbe z przedzialu ");
+    scanf("%hd", &max);
+    printf("Wpisz ilosc liczb do wylosowania ");
+    scanf("%hu", &n);
+
+    while (n--)
+    {
+        int random = min + rand() % (max - min + 1);
+
+        if (random < 0)
+        {
+            sumu -= random;
+            countu++;
+        }
+        else
+        {
+            sumd += random;
+            countd++;
+        }
+    }
+
+    if (countd != 0)
+    {
+        printf("Suma liczb dodatnich wynosi: %lu\n", sumd);
+        printf("Srednia liczb dodatnich wynosi %f\n", (float)sumd / countd);
+    }
+    else
+        printf("Nie bylo liczb dodatnich\n");
+
+    if (countu != 0)
+    {
+        printf("Suma liczb ujemnych wynosi: -%lu\n", sumu);
+        printf("Srednia liczb ujemnych wynosi %f\n", (float)sumu / countu);
+    }
+    else
+        printf("Nie bylo liczb ujemnych\n");
 }
 
 // średnia z 0 liczb dodatnich nie jest równa 0
