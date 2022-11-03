@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "236bdd2035766153",
+        "id": "b222667931b5b828",
         "type": "tabs",
         "children": [
           {
-            "id": "9909ec84ca78e815",
+            "id": "25400fad3be5dae7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Drawing 2022-11-03 21.02.31.excalidraw.md"
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Drawing 2022-11-03 21.45.32.excalidraw.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Drawing 2022-11-03 21.02.31.excalidraw.md"
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Drawing 2022-11-03 21.45.32.excalidraw.md"
               }
             }
           },
@@ -123,17 +123,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9909ec84ca78e815",
+  "active": "25400fad3be5dae7",
   "lastOpenFiles": [
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/ALGA_zestaw_04.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/CCF31102022_0008.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Drawing 2022-11-03 21.02.31.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Drawing 2022-11-03 13.45.39.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Pasted Image 20221103134555_070.png",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/ALGA_zestaw_04.pdf",
     "Untitled.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Untitled Diagram.svg",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Drawing 2022-11-03 13.40.33.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/CCF31102022_0008.pdf",
-    "Drawing 2022-11-03 13.35.03.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 2/ALGA-Wyklad_03.pdf"
+    "Drawing 2022-11-03 13.35.03.excalidraw.md"
   ]
 }
