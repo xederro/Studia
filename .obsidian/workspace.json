@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "74e80084a0566b3b",
+        "id": "427181e8e205e375",
         "type": "tabs",
         "children": [
           {
-            "id": "8c906ce41f64147d",
+            "id": "922281cf2458f5af",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -126,8 +126,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8c906ce41f64147d",
+  "active": "922281cf2458f5af",
   "lastOpenFiles": [
+    "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykład 2/prawo autorskie.pdf",
+    "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Drawing 2022-11-04 11.16.50.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Drawing 2022-11-04 12.38.30.excalidraw.md",
@@ -135,8 +137,6 @@
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Drawing 2022-11-03 21.45.32.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/ALGA_zestaw_04.pdf",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/CCF31102022_0008.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Drawing 2022-11-03 21.02.31.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Drawing 2022-11-03 13.45.39.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Pasted Image 20221103134555_070.png"
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Drawing 2022-11-03 21.02.31.excalidraw.md"
   ]
 }
