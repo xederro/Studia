@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "427181e8e205e375",
+        "id": "098114b9c3469f15",
         "type": "tabs",
         "children": [
           {
-            "id": "922281cf2458f5af",
+            "id": "c6588a3e3114e09f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykład 2/Wykład 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 2/ALGA-Wyklad_03.pdf"
               }
             }
           }
@@ -70,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 335.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -98,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykład 2/Wykład 2.md"
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 2/ALGA-Wyklad_03.pdf"
               }
             }
           },
@@ -126,17 +122,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "922281cf2458f5af",
+  "active": "c6588a3e3114e09f",
   "lastOpenFiles": [
-    "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykład 2/prawo autorskie.pdf",
-    "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Drawing 2022-11-04 11.16.50.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Drawing 2022-11-04 12.38.30.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Drawing 2022-11-03 21.45.32.excalidraw.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 1/ALGA-Wyklad_02.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 1/ALGA-Wyklad_01.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/ALGA_zestaw_03.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/Drawing 2022-11-04 14.19.55.excalidraw.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 2/ALGA-Wyklad_03.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 3/ALGA-Wyklad_04.pdf",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/ALGA_zestaw_04.pdf",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/CCF31102022_0008.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Drawing 2022-11-03 21.02.31.excalidraw.md"
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md"
   ]
 }
