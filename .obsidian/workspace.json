@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "098114b9c3469f15",
+        "id": "947c7ba2957db335",
         "type": "tabs",
         "children": [
           {
-            "id": "c6588a3e3114e09f",
+            "id": "34b09c7dd945a43f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 2/ALGA-Wyklad_03.pdf"
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/Drawing 2022-11-04 14.19.55.excalidraw.md"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 2/ALGA-Wyklad_03.pdf"
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/Drawing 2022-11-04 14.19.55.excalidraw.md"
               }
             }
           },
@@ -122,17 +122,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c6588a3e3114e09f",
+  "active": "34b09c7dd945a43f",
   "lastOpenFiles": [
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 2/ALGA-Wyklad_03.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 1/ALGA-Wyklad_02.pdf",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 1/ALGA-Wyklad_01.pdf",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/ALGA_zestaw_03.pdf",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/Drawing 2022-11-04 14.19.55.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 2/ALGA-Wyklad_03.pdf",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 3/ALGA-Wyklad_04.pdf",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/ALGA_zestaw_04.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/CCF31102022_0008.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md"
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/CCF31102022_0008.pdf"
   ]
 }
