@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "947c7ba2957db335",
+        "id": "098a86faa388f221",
         "type": "tabs",
         "children": [
           {
-            "id": "34b09c7dd945a43f",
+            "id": "4554694a28fbc8bb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/Drawing 2022-11-04 14.19.55.excalidraw.md"
+                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6df7d82be7ffb18a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e272bc4fa0a62f6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 3/Cwiczenia_3.pdf"
               }
             }
           }
@@ -67,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -94,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/Drawing 2022-11-04 14.19.55.excalidraw.md"
+                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md"
               }
             }
           },
@@ -122,17 +142,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "34b09c7dd945a43f",
+  "active": "4554694a28fbc8bb",
   "lastOpenFiles": [
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 3/Cwiczenia_3.pdf",
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 3/Labolatoria 3.md",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/Drawing 2022-11-04 14.19.55.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 2/ALGA-Wyklad_03.pdf",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 1/ALGA-Wyklad_02.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 1/ALGA-Wyklad_01.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/ALGA_zestaw_03.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/Drawing 2022-11-04 14.19.55.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 3/ALGA-Wyklad_04.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/ALGA_zestaw_04.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/CCF31102022_0008.pdf"
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 1/ALGA-Wyklad_01.pdf"
   ]
 }
