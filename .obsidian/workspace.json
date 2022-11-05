@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "7a9581abc408764e",
+        "id": "b6f6f85b703e4140",
         "type": "tabs",
         "children": [
           {
-            "id": "f0054c965c9a61db",
+            "id": "b32c05edd76be782",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,17 +118,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f0054c965c9a61db",
+  "active": "b32c05edd76be782",
   "lastOpenFiles": [
+    "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/Drawing 2022-11-04 14.19.55.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Drawing 2022-11-03 13.45.39.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 3/CCF31102022_0005.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykłady.md"
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia.md"
   ]
 }
