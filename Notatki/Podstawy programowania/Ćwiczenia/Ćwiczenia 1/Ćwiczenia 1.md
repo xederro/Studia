@@ -1,4 +1,4 @@
-[[Cwiczenia_1.pdf]]
+![[Cwiczenia_1.pdf]]
 1. wypisze najmniejszą wartość z 3 liczb
    nadal zostanie wypisana najmniejsza wartość
 2.  

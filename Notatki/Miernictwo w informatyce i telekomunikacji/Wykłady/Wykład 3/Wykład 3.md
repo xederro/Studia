@@ -1,4 +1,4 @@
-[[Wykład 3 wzorce 2022na23.pdf]]
+![[Wykład 3 wzorce 2022na23.pdf]]
 hasło: EF_W3_2022
 
 [OZE](oze.pwr.edu.pl) 

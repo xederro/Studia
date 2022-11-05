@@ -1,1 +1,1 @@
-[[ALGA_zestaw_01.pdf]]
+![[ALGA_zestaw_01.pdf]]

@@ -1,1 +1,1 @@
-[[Lista_1_AM1.pdf]]
+![[Lista_1_AM1.pdf]]

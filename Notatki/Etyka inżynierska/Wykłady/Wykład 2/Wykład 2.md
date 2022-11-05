@@ -1,1 +1,1 @@
-[[Glowne_szkoly_metaetyczne.pdf]]
+![[Glowne_szkoly_metaetyczne.pdf]]

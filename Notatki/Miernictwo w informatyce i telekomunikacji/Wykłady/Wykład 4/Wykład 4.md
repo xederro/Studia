@@ -1,7 +1,7 @@
-[[Wykład 4_5 2022na23.pdf]] h: EF_W45_2022
-[[Niepewność złożona2022.pdf]] h: EF_zadania_2021
-[[Niepewność złożona2021.pdf]] h: EF_zadania_2021
-[[ea-4-02m.pdf]]
+![[Wykład 4_5 2022na23.pdf]] h: EF_W45_2022
+![[Niepewność złożona2022.pdf]] h: EF_zadania_2021
+![[Niepewność złożona2021.pdf]] h: EF_zadania_2021
+![[ea-4-02m.pdf]]
 
 # Pomiary
 ## Wynik pomiaru
