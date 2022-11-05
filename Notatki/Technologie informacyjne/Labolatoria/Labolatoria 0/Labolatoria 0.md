@@ -1,2 +1,2 @@
-[[TI___lab1.pdf]]
+![[TI___lab1.pdf]]
 

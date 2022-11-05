@@ -1,4 +1,4 @@
-#include <iostream>
+#include <stdio.h>
 #define N 100
 
 using namespace std;
@@ -9,9 +9,8 @@ void wypisz_wyniki()
 {
     for (float i : tab)
     {
-        cout << i << " ";
+        printf("%f\n", i);
     }
-    cout << endl;
 }
 
 void wyczysc_tablice()
@@ -20,25 +19,25 @@ void wyczysc_tablice()
     {
         tab[i] = 0;
     }
-    cout << "Tablica wyczyszczona" << endl;
+    printf("Tablica wyczyszczona\n");
 }
 
 void dodaj_wynik()
 {
     float wynik = 0;
-    cout << "Podaj wynik: ";
+    printf("Podaj wynik: ");
     do
     {
-        cin >> wynik;
+        scanf("%f", &wynik);
     } while (wynik <= 0);
 
     for (char i = 0; i < N; i++)
     {
-        if (tab[i] <= wynik)
+        if (tab[i] > wynik || tab[i] == 0)
         {
-            for (char j = i; j < N - 1; j++)
+            for (char j = N - i; j >= i; j--)
             {
-                tab[j + 2] = tab[j + 1];
+                tab[j] = tab[j - 1];
             }
             tab[i] = wynik;
             break;
@@ -48,16 +47,30 @@ void dodaj_wynik()
 
 int main()
 {
-    uint8_t wybor = 0;
-    do
+    unsigned char wybor = 0;
+    while (true)
     {
-        cout << "0. Zakoncz" << endl;
-        cout << "1. Wypisz wyniki" << endl;
-        cout << "2. Dodaj wynik" << endl;
-        cout << "3. Wyczysc tablice" << endl;
-        cin >> wybor;
-        cout << wybor << endl;
-    } while (wybor != 0);
+        printf("0. Zakoncz\n1. Wypisz wyniki\n2. Dodaj wynik\n3. Wyczysc tablice\n");
 
+        scanf("%hhu", &wybor);
+
+        switch (wybor)
+        {
+        case 0:
+            return 0;
+        case 1:
+            wypisz_wyniki();
+            break;
+        case 2:
+            dodaj_wynik();
+            break;
+        case 3:
+            wyczysc_tablice();
+            break;
+        default:
+            printf("Nie ma takiej opcji\n");
+            break;
+        }
+    }
     return 0;
 }

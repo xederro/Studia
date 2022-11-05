@@ -1,1 +1,1 @@
-[[Laboratorium 3_2021.pdf]]
+![[Laboratorium 3_2021.pdf]]

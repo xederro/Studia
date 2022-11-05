@@ -1,1 +1,1 @@
-[[2020_W03_instrukcje_petlowe.pdf]]
+![[2020_W03_instrukcje_petlowe.pdf]]
