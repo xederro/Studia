@@ -14,4 +14,6 @@
 4. 
    ![[Ćwiczenia 3.4.cpp]]
    ![[Ćwiczenia 3.4.exe]]
-   
+5. 
+   ![[Ćwiczenia 3.5.cpp]]
+   ![[Ćwiczenia 3.5.exe]]
