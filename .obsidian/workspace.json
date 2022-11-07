@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a5f20e9a06f2c6f6",
+        "id": "cf593b5b8186ca82",
         "type": "tabs",
         "children": [
           {
-            "id": "e1342df9cf3e417d",
+            "id": "bf5200ba10613925",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Drawing 2022-11-04 12.38.30.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,9 +92,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Drawing 2022-11-04 12.38.30.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -123,8 +119,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e1342df9cf3e417d",
+  "active": "bf5200ba10613925",
   "lastOpenFiles": [
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Drawing 2022-11-04 12.38.30.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
     "Notatki/Analiza matematyczna 1.2A/Analiza matematyczna 1.2A.md",
@@ -133,7 +130,6 @@
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/Drawing 2022-11-04 14.19.55.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Drawing 2022-11-03 13.45.39.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md"
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md"
   ]
 }
