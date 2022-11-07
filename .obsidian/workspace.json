@@ -13,26 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 4/Wykład 4.md",
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 3/Wykład 3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8aa0c69249e8a496",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a0f7a7780aa5a7a6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 4/2020_W04_tablice.pdf"
               }
             }
           }
@@ -114,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 4/Wykład 4.md"
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 3/Wykład 3.md"
               }
             }
           },
@@ -144,8 +128,8 @@
   },
   "active": "26834037c0440f26",
   "lastOpenFiles": [
-    "Notatki/Podstawy programowania/Wykłady/Wykład 4/2020_W04_tablice.pdf",
     "Notatki/Podstawy programowania/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Podstawy programowania/Wykłady/Wykład 4/2020_W04_tablice.pdf",
     "README.md",
     "Sylabus.pdf",
     "symbols.pdf",
