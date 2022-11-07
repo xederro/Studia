@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cf593b5b8186ca82",
+        "id": "c3b5b8b4ea0246b7",
         "type": "tabs",
         "children": [
           {
-            "id": "bf5200ba10613925",
+            "id": "b2c5c44ab5f0f8f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -92,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -119,17 +125,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bf5200ba10613925",
+  "active": "b2c5c44ab5f0f8f0",
   "lastOpenFiles": [
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Drawing 2022-11-04 12.38.30.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
-    "Notatki/Analiza matematyczna 1.2A/Analiza matematyczna 1.2A.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/Drawing 2022-11-04 14.19.55.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Drawing 2022-11-03 13.45.39.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md"
+    "Sylabus.pdf",
+    "symbols.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 1/Kolos 1.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 1/Adobe Scan 6 Nov 2022 (3).pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 1/Adobe Scan 6 Nov 2022 (2).pdf",
+    "README.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 1/Adobe Scan 6 Nov 2022 (1).pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 1/Adobe Scan 6 Nov 2022.pdf",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Drawing 2022-11-04 12.38.30.excalidraw.md"
   ]
 }
