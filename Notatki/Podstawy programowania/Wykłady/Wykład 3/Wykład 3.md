@@ -8,3 +8,5 @@ rand()/RAND_MAX - między 0 a 1
 \\7 - bell - dzwoni komputerem
 
 
+
+

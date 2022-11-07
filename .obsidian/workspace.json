@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c3b5b8b4ea0246b7",
+        "id": "6f6bfeae42b552f3",
         "type": "tabs",
         "children": [
           {
-            "id": "26834037c0440f26",
+            "id": "4e030efa39d55e64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 3/Wykład 3.md",
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 4/Wykład 4.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 3/Wykład 3.md"
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 4/Wykład 4.md"
               }
             }
           },
@@ -118,25 +118,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "26834037c0440f26",
+  "active": "4e030efa39d55e64",
   "lastOpenFiles": [
+    "Notatki/Podstawy programowania/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 4/2020_W04_tablice.pdf",
     "README.md",
     "Sylabus.pdf",
     "symbols.pdf",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 1/Kolos 1.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 1/Adobe Scan 6 Nov 2022 (3).pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 1/Adobe Scan 6 Nov 2022 (2).pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 1/Adobe Scan 6 Nov 2022 (1).pdf"
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 1/Adobe Scan 6 Nov 2022 (3).pdf"
   ]
 }
