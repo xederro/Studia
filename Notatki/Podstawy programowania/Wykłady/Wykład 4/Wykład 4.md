@@ -2,3 +2,6 @@
 
 # Tablice
 
+nazwa = &nazwa\[0\] = &0\[nazwa\]
+
+programowanie ewolucyjne
