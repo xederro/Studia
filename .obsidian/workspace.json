@@ -4,35 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6f6bfeae42b552f3",
+        "id": "2db8a96048217f07",
         "type": "tabs",
         "children": [
           {
-            "id": "4e030efa39d55e64",
+            "id": "0292dfd6f1100b16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 3/Labolatoria 3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "5ea9361ae4a5da2e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "47e886711555aacf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4_5 2022na23.pdf"
               }
             }
           }
@@ -114,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md"
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 3/Labolatoria 3.md"
               }
             }
           },
@@ -141,10 +125,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4e030efa39d55e64",
+  "active": "0292dfd6f1100b16",
   "lastOpenFiles": [
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4_5 2022na23.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4_5 2022na23.pdf",
     "Notatki/Podstawy programowania/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
