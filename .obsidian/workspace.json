@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2db8a96048217f07",
+        "id": "18512e5ce0eabd3f",
         "type": "tabs",
         "children": [
           {
-            "id": "0292dfd6f1100b16",
+            "id": "cb0fcf767aedaf4d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 382.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -91,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md"
+              }
             }
           },
           {
@@ -117,17 +125,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0292dfd6f1100b16",
+  "active": "cb0fcf767aedaf4d",
   "lastOpenFiles": [
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 4/Drawing 2022-11-08 13.16.09.excalidraw.png",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 4/Drawing 2022-11-08 13.16.09.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykłady.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 4/Drawing 2022-11-08 13.16.09.excalidraw.md",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria 3/Labolatoria 3.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4_5 2022na23.pdf",
     "Notatki/Podstawy programowania/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykłady.md"
+    "Notatki/Podstawy programowania/Wykłady/Wykład 3/Wykład 3.md"
   ]
 }
