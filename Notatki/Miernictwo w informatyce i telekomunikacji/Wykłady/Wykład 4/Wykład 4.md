@@ -83,8 +83,12 @@ $u_B(x) = \sqrt{\frac{{\Delta_p X}^2}{3} + \frac{{\Delta_e X}^2}{3} + \frac{{\De
 niepewność standardowa całkowita
 ![[Pasted image 20221108092558.png]]
 
-## prawo przenoszenia błędów 
+## prawo przenoszenia błędów skorelowanych
 //nie ma kwadratu i pierwiastka w a
+![[Pasted image 20221108093925.png]]
+przydatne by zobaczyć co trzeba poprawić by błąd był niższy
+
+
 
 
 
@@ -92,9 +96,23 @@ niepewność standardowa całkowita
 I - 47,32 mA    u(I) = 1,23 mA
 po zaokrągleniu 47,3(13) mA (47,3, 13 bo 3 po przecinku 1 na jednościach więc patrząc od prawej)
 
+![[Pasted image 20221108094343.png]]
 
 
-## Zaokrąglanie wyników pomiarów
+
+## Błędy
+
+1. Błąd systematyczny 
+   ![[Pasted image 20221108095755.png]]
+   
+2. Błąd graniczny
+3. Błąd addytywny
+4. Błąd multiplikatywne
+   ![[Pasted image 20221108095832.png]]
+5. Błąd statystyczny
+6. Błąd dynamiczny
+   ![[Pasted image 20221108095822.png]]
+7. Błąd kwantowy - Błąd kwantowania, występujący we wszystkich miernikach cyfrowych, ma charakter błędu addytywnego
 
 
 
