@@ -12,7 +12,7 @@ Data:   8 listopada 2022r.
 
 using namespace std;
 
-float tab[ROZMIAR] = {0};
+float tab[ROZMIAR] = {0}; // wstawić do main i funkcje zrobić z parametrem wskaźnikiem
 
 void zadanie1a() // wpisywanie elementów do tablicy
 {
@@ -54,7 +54,7 @@ void zadanie1c() // sprawdzi i wypisze na ekranie komunikaty
 
     if (iloscd)
     {
-        cout << "Ilosc liczb dodatnich: " << iloscd << endl;
+        cout << "Ilosc liczb dodatnich: " << (int)iloscd << endl;
         cout << "Suma liczb dodatnich: " << sumad << endl;
         cout << "Srednia liczb dodatnich: " << sumad / iloscd << endl;
     }
@@ -65,7 +65,7 @@ void zadanie1c() // sprawdzi i wypisze na ekranie komunikaty
 
     if (iloscu)
     {
-        cout << "Ilosc liczb ujemnych: " << iloscu << endl;
+        cout << "Ilosc liczb ujemnych: " << (int)iloscu << endl;
         cout << "Suma liczb ujemnych: -" << sumau << endl;
         cout << "Srednia liczb ujemnych: -" << sumau / iloscu << endl;
     }
@@ -77,34 +77,36 @@ void zadanie1c() // sprawdzi i wypisze na ekranie komunikaty
 
 void zadanie1d() // informację o uporządkowaniu elementów tablicy
 {
-    unsigned char rosnace, niemalejace, jednakowa, nierosnace, malejace = 1;
+    unsigned char rosnace = 0,
+                  jednakowa = 0,
+                  malejace = 0;
 
     for (unsigned char i = 0; i < ROZMIAR - 1; i++)
     {
         if (tab[i] < tab[i + 1])
             rosnace++;
-        if (tab[i] <= tab[i + 1])
-            niemalejace++;
         if (tab[i] == tab[i + 1])
             jednakowa++;
-        if (tab[i] >= tab[i + 1])
-            nierosnace++;
         if (tab[i] > tab[i + 1])
             malejace++;
     }
 
-    if (jednakowa > ROZMIAR)
-        cout << "Funkcja jest jednakowa." << endl;
-    else if (niemalejace > ROZMIAR)
-        cout << "Funkcja jest niemalejace." << endl;
-    else if (rosnace > ROZMIAR)
-        cout << "Funkcja jest rosnaca." << endl;
-    else if (nierosnace > ROZMIAR)
-        cout << "Funkcja jest nierosnace." << endl;
-    else if (malejace > ROZMIAR)
-        cout << "Funkcja jest malejace." << endl;
+    if (rosnace == ROZMIAR - 1)
+        cout << "Tablica jest posortowana rosnaco" << endl;
+    else if (jednakowa == ROZMIAR - 1)
+        cout << "Tablica ma jednakowa wartosc" << endl;
+    else if (malejace == ROZMIAR - 1)
+        cout << "Tablica jest posortowana malejaco" << endl;
+    else if (rosnace + jednakowa == ROZMIAR - 1)
+        cout << "Tablica jest posortowana niemalejaco" << endl;
+    else if (malejace + jednakowa == ROZMIAR - 1)
+        cout << "Tablica jest posortowana nierosnaca" << endl;
     else
-        cout << "Funkcja jest nie uporzadkowana." << endl;
+        cout << "Tablica jest nie posortowana" << endl;
+
+    cout << "rosnace: " << (int)rosnace << endl;
+    cout << "jednakowa: " << (int)jednakowa << endl;
+    cout << "malejace: " << (int)malejace << endl;
 }
 
 void zadanie1()
