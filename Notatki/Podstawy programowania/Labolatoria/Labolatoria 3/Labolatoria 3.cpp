@@ -18,7 +18,7 @@ void zadanie1a() // wpisywanie elementów do tablicy
 {
     for (unsigned char i = 0; i < ROZMIAR; i++)
     {
-        cout << "tab[" << i << "]: ";
+        cout << "tab[" << (int)i << "]: ";
         cin >> tab[i];
     }
 }
@@ -35,12 +35,76 @@ void zadanie1b() // wypisanie elementów tablicy
 
 void zadanie1c() // sprawdzi i wypisze na ekranie komunikaty
 {
-    unsigned char liczbad, liczbau = 0;
+    unsigned char iloscd, iloscu = 0;
     float sumad, sumau = 0;
 
     for (unsigned char i = 0; i < ROZMIAR; i++)
     {
+        if (tab[i] >= 0)
+        {
+            sumad += tab[i];
+            iloscd++;
         }
+        else
+        {
+            sumau -= tab[i];
+            iloscu++;
+        }
+    }
+
+    if (iloscd)
+    {
+        cout << "Ilosc liczb dodatnich: " << iloscd << endl;
+        cout << "Suma liczb dodatnich: " << sumad << endl;
+        cout << "Srednia liczb dodatnich: " << sumad / iloscd << endl;
+    }
+    else
+    {
+        cout << "Nie ma liczb dodatnich." << endl;
+    }
+
+    if (iloscu)
+    {
+        cout << "Ilosc liczb ujemnych: " << iloscu << endl;
+        cout << "Suma liczb ujemnych: -" << sumau << endl;
+        cout << "Srednia liczb ujemnych: -" << sumau / iloscu << endl;
+    }
+    else
+    {
+        cout << "Nie ma liczb ujemnych." << endl;
+    }
+}
+
+void zadanie1d() // informację o uporządkowaniu elementów tablicy
+{
+    unsigned char rosnace, niemalejace, jednakowa, nierosnace, malejace = 1;
+
+    for (unsigned char i = 0; i < ROZMIAR - 1; i++)
+    {
+        if (tab[i] < tab[i + 1])
+            rosnace++;
+        if (tab[i] <= tab[i + 1])
+            niemalejace++;
+        if (tab[i] == tab[i + 1])
+            jednakowa++;
+        if (tab[i] >= tab[i + 1])
+            nierosnace++;
+        if (tab[i] > tab[i + 1])
+            malejace++;
+    }
+
+    if (jednakowa > ROZMIAR)
+        cout << "Funkcja jest jednakowa." << endl;
+    else if (niemalejace > ROZMIAR)
+        cout << "Funkcja jest niemalejace." << endl;
+    else if (rosnace > ROZMIAR)
+        cout << "Funkcja jest rosnaca." << endl;
+    else if (nierosnace > ROZMIAR)
+        cout << "Funkcja jest nierosnace." << endl;
+    else if (malejace > ROZMIAR)
+        cout << "Funkcja jest malejace." << endl;
+    else
+        cout << "Funkcja jest nie uporzadkowana." << endl;
 }
 
 void zadanie1()
@@ -50,6 +114,12 @@ void zadanie1()
 
     // wypisanie elementów tablicy
     zadanie1b();
+
+    // sprawdzi i wypisze na ekranie komunikaty
+    zadanie1c();
+
+    // informację o uporządkowaniu elementów tablicy
+    zadanie1d();
 }
 
 void zadanie2()

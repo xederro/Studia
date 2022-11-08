@@ -2,4 +2,12 @@
 ![[Labolatoria 3.cpp]]
 
 
-kompilacja warun
+kompilacja warunkowa:
+\#define TEST true
+
+\#ifdef TEST
+	// code
+\#elseif
+	// code
+\#endif
+
