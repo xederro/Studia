@@ -118,4 +118,9 @@ po zaokrągleniu 47,3(13) mA (47,3, 13 bo 3 po przecinku 1 na jednościach więc
 //nieparzystą ilość słupków na histogramie
 //wykres min a5
 
+A. Zięba "analiza danych w naukach ścisłych i technice" PWN
+
+
+
+
 
