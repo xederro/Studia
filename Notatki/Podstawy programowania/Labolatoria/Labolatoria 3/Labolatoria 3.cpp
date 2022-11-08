@@ -6,15 +6,13 @@ Data:   8 listopada 2022r.
 */
 
 #include <iostream>
-#include <stdio.h>
+#include <stdlib.h>
 
 #define ROZMIAR 5
 
 using namespace std;
 
-float tab[ROZMIAR] = {0}; // wstawić do main i funkcje zrobić z parametrem wskaźnikiem
-
-void zadanie1a() // wpisywanie elementów do tablicy
+void zadanie1a(float *tab) // wpisywanie elementów do tablicy
 {
     for (unsigned char i = 0; i < ROZMIAR; i++)
     {
@@ -23,7 +21,7 @@ void zadanie1a() // wpisywanie elementów do tablicy
     }
 }
 
-void zadanie1b() // wypisanie elementów tablicy
+void zadanie1b(float *tab) // wypisanie elementów tablicy
 {
     cout << "[ ";
     for (unsigned char i = 0; i < ROZMIAR; i++)
@@ -33,7 +31,7 @@ void zadanie1b() // wypisanie elementów tablicy
     cout << "]" << endl;
 }
 
-void zadanie1c() // sprawdzi i wypisze na ekranie komunikaty
+void zadanie1c(float *tab) // sprawdzi i wypisze na ekranie komunikaty
 {
     unsigned char iloscd, iloscu = 0;
     float sumad, sumau = 0;
@@ -75,7 +73,7 @@ void zadanie1c() // sprawdzi i wypisze na ekranie komunikaty
     }
 }
 
-void zadanie1d() // informację o uporządkowaniu elementów tablicy
+void zadanie1d(float *tab) // informację o uporządkowaniu elementów tablicy
 {
     unsigned char rosnace = 0,
                   jednakowa = 0,
@@ -105,31 +103,44 @@ void zadanie1d() // informację o uporządkowaniu elementów tablicy
         cout << "Tablica jest nie posortowana" << endl;
 }
 
-void zadanie1()
+void zadanie1(float *tab)
 {
     // wpisywanie elementów do tablicy
-    zadanie1a();
+    zadanie1a(tab);
 
     // wypisanie elementów tablicy
-    zadanie1b();
+    zadanie1b(tab);
 
     // sprawdzi i wypisze na ekranie komunikaty
-    zadanie1c();
+    zadanie1c(tab);
 
     // informację o uporządkowaniu elementów tablicy
-    zadanie1d();
+    zadanie1d(tab);
 }
 
-void zadanie2()
+void zadanie2(float *tab)
 {
+    float min, max;
+
+    cout << "Wpisz minimalna liczbe z przedzialu: ";
+    cin >> min;
+    cout << "Wpisz maksymalna liczbe z przedzialu: ";
+    cin >> max;
+
+    for (int i = 0; i < ROZMIAR; i++)
+    {
+        tab[i] = min + (max - min) * rand() / ((double)RAND_MAX);
+    }
+
+    zadanie1b(tab);
 }
 
-void sortowaniePrzezWstawianie()
+void sortowaniePrzezWstawianie(float *tab)
 {
     cout << "Sortowanie przez wstawianie: " << endl;
     for (short int i = 1; i < ROZMIAR; i++)
     {
-        short int temp = tab[i];
+        float temp = tab[i];
         for (short int j = i; j >= 0; j--)
         {
             if ((j - 1 == -1) || tab[j - 1] <= temp)
@@ -143,15 +154,16 @@ void sortowaniePrzezWstawianie()
             }
         }
     }
-    zadanie1b();
+    zadanie1b(tab);
 }
 
-void sortowaniePrzezWybor()
+void sortowaniePrzezWybor(float *tab)
 {
     cout << "Sortowanie przez wybor: " << endl;
     for (short int i = 0; i < ROZMIAR; i++)
     {
-        short int index = i, value = tab[i];
+        short int index = i;
+        float value = tab[i];
         for (short int j = i; j < ROZMIAR; j++)
         {
             if (value > tab[j])
@@ -163,10 +175,10 @@ void sortowaniePrzezWybor()
         tab[index] = tab[i];
         tab[i] = value;
     }
-    zadanie1b();
+    zadanie1b(tab);
 }
 
-void sortowanieBabelkowe()
+void sortowanieBabelkowe(float *tab)
 {
     cout << "Sortowanie babelkowe: " << endl;
 
@@ -182,99 +194,93 @@ void sortowanieBabelkowe()
             }
             else
             {
-                short int temp = tab[i + 1];
+                float temp = tab[i + 1];
                 tab[i + 1] = tab[i];
                 tab[i] = temp;
             }
         }
     } while (sorted < ROZMIAR);
-    zadanie1b();
+    zadanie1b(tab);
 }
 
-void zadanie3()
+void zadanie3(float *tab)
 {
-    // char wybor = 0;
-    // do
-    // {
-    //     printf("\n0- Wyjscie z programu\n1- Zadanie 1\n2- Zadanie 2\n3- Zadanie 3\n4- Zadanie 4\n\n");
-    //     scanf("%hhu", &wybor);
-
-    //     switch (wybor)
-    //     {
-    //     case 0:
-    //         break;
-    //     case 1:
-    //         /*
-    //             Zadanie 1
-    //         */
-    //         zadanie1();
-    //         break;
-    //     case 2:
-    //         /*
-    //             Zadanie 2
-    //         */
-    //         zadanie2();
-    //         break;
-    //     case 3:
-    //         /*
-    //             Zadanie 3
-    //         */
-    //         zadanie3();
-    //         break;
-
-    //     default:
-    //         printf("Zly Wybor");
-    //         break;
-    //     }
-    // } while (1 < wybor < 4);
-}
-
-void zadanie4()
-{
-}
-
-int main()
-{
-    // OBOWIAZKOWY wydruk danych autora
-    printf("Autor: Dawid Jablonski (WT/N 11:15)");
-    char wybor = 0;
+    unsigned short int sortowanie = 0;
     do
     {
-        printf("\n0- Wyjscie z programu\n1- Zadanie 1\n2- Zadanie 2\n3- Zadanie 3\n4- Zadanie 4\n\n");
-        scanf("%hhu", &wybor);
+        cout << "\n0- Wyjscie z zadania\n1- Sortowanie Babelkowe\n2- Sortowanie przez Wybor\n3- Sortowanie przez Wstawianie\n\n";
+        cin >> sortowanie;
 
-        switch (wybor)
+        switch (sortowanie)
         {
         case 0:
-            printf("Do widzenia");
             break;
         case 1:
             /*
                 Zadanie 1
             */
-            zadanie1();
+            sortowanieBabelkowe(tab);
             break;
         case 2:
             /*
                 Zadanie 2
             */
-            zadanie2();
+            sortowaniePrzezWybor(tab);
             break;
         case 3:
             /*
                 Zadanie 3
             */
-            zadanie3();
-            break;
-        case 4:
-            /*
-                Zadanie 4
-            */
-            zadanie4();
+            sortowaniePrzezWstawianie(tab);
             break;
 
         default:
-            printf("Zly Wybor");
+            cout << "Zly Wybor";
+            break;
+        }
+    } while (sortowanie < 0 || sortowanie > 3);
+}
+
+int main()
+{
+    srand(time(NULL));
+    float tab[ROZMIAR] = {0}; // wstawić do main i funkcje zrobić z parametrem wskaźnikiem
+
+    // OBOWIAZKOWY wydruk danych autora
+    printf("Autor: Dawid Jablonski (WT/N 11:15)");
+
+    unsigned short int wybor = 0;
+    do
+    {
+        cout << "\n0- Wyjscie z programu\n1- Zadanie 1\n2- Zadanie 2\n3- Zadanie 3\n4- Zadanie 4\n\n";
+        cin >> wybor;
+
+        switch (wybor)
+        {
+        case 0:
+            cout << "Do widzenia";
+            break;
+        case 1:
+            /*
+                Zadanie 1
+            */
+            zadanie1(tab);
+            break;
+        case 2:
+            /*
+                Zadanie 2
+            */
+            zadanie2(tab);
+            break;
+        case 3:
+            /*
+                Zadanie 3
+            */
+            zadanie3(tab);
+            break;
+
+        default:
+            cout << "Zly Wybor";
             break;
         }
     } while (wybor != 0);
