@@ -9,6 +9,9 @@ void wypisz_wyniki()
 {
     for (float i : tab)
     {
+        if (i == 0.0)
+            break;
+
         printf("%f\n", i);
     }
 }
@@ -48,6 +51,7 @@ void dodaj_wynik()
 int main()
 {
     unsigned char wybor = 0;
+
     while (true)
     {
         printf("0. Zakoncz\n1. Wypisz wyniki\n2. Dodaj wynik\n3. Wyczysc tablice\n");
@@ -72,5 +76,6 @@ int main()
             break;
         }
     }
+
     return 0;
 }
