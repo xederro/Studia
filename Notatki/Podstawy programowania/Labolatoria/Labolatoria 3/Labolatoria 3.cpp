@@ -103,10 +103,6 @@ void zadanie1d() // informację o uporządkowaniu elementów tablicy
         cout << "Tablica jest posortowana nierosnaca" << endl;
     else
         cout << "Tablica jest nie posortowana" << endl;
-
-    cout << "rosnace: " << (int)rosnace << endl;
-    cout << "jednakowa: " << (int)jednakowa << endl;
-    cout << "malejace: " << (int)malejace << endl;
 }
 
 void zadanie1()
@@ -128,8 +124,109 @@ void zadanie2()
 {
 }
 
+void sortowaniePrzezWstawianie()
+{
+    cout << "Sortowanie przez wstawianie: " << endl;
+    for (short int i = 1; i < ROZMIAR; i++)
+    {
+        short int temp = tab[i];
+        for (short int j = i; j >= 0; j--)
+        {
+            if ((j - 1 == -1) || tab[j - 1] <= temp)
+            {
+                tab[j] = temp;
+                break;
+            }
+            else
+            {
+                tab[j] = tab[j - 1];
+            }
+        }
+    }
+    zadanie1b();
+}
+
+void sortowaniePrzezWybor()
+{
+    cout << "Sortowanie przez wybor: " << endl;
+    for (short int i = 0; i < ROZMIAR; i++)
+    {
+        short int index = i, value = tab[i];
+        for (short int j = i; j < ROZMIAR; j++)
+        {
+            if (value > tab[j])
+            {
+                value = tab[j];
+                index = j;
+            }
+        }
+        tab[index] = tab[i];
+        tab[i] = value;
+    }
+    zadanie1b();
+}
+
+void sortowanieBabelkowe()
+{
+    cout << "Sortowanie babelkowe: " << endl;
+
+    short int sorted;
+    do
+    {
+        sorted = 1;
+        for (short int i = 0; i < ROZMIAR - 1; i++)
+        {
+            if (tab[i] <= tab[i + 1])
+            {
+                sorted++;
+            }
+            else
+            {
+                short int temp = tab[i + 1];
+                tab[i + 1] = tab[i];
+                tab[i] = temp;
+            }
+        }
+    } while (sorted < ROZMIAR);
+    zadanie1b();
+}
+
 void zadanie3()
 {
+    // char wybor = 0;
+    // do
+    // {
+    //     printf("\n0- Wyjscie z programu\n1- Zadanie 1\n2- Zadanie 2\n3- Zadanie 3\n4- Zadanie 4\n\n");
+    //     scanf("%hhu", &wybor);
+
+    //     switch (wybor)
+    //     {
+    //     case 0:
+    //         break;
+    //     case 1:
+    //         /*
+    //             Zadanie 1
+    //         */
+    //         zadanie1();
+    //         break;
+    //     case 2:
+    //         /*
+    //             Zadanie 2
+    //         */
+    //         zadanie2();
+    //         break;
+    //     case 3:
+    //         /*
+    //             Zadanie 3
+    //         */
+    //         zadanie3();
+    //         break;
+
+    //     default:
+    //         printf("Zly Wybor");
+    //         break;
+    //     }
+    // } while (1 < wybor < 4);
 }
 
 void zadanie4()
