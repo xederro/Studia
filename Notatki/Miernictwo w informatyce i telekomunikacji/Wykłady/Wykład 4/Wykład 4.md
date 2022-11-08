@@ -88,7 +88,7 @@ niepewność standardowa całkowita
 ![[Pasted image 20221108093925.png]]
 przydatne by zobaczyć co trzeba poprawić by błąd był niższy
 
-
+![[Pasted image 20221108094343.png]]
 
 
 
@@ -96,7 +96,6 @@ przydatne by zobaczyć co trzeba poprawić by błąd był niższy
 I - 47,32 mA    u(I) = 1,23 mA
 po zaokrągleniu 47,3(13) mA (47,3, 13 bo 3 po przecinku 1 na jednościach więc patrząc od prawej)
 
-![[Pasted image 20221108094343.png]]
 
 
 
@@ -114,11 +113,9 @@ po zaokrągleniu 47,3(13) mA (47,3, 13 bo 3 po przecinku 1 na jednościach więc
    ![[Pasted image 20221108095822.png]]
 7. Błąd kwantowy - Błąd kwantowania, występujący we wszystkich miernikach cyfrowych, ma charakter błędu addytywnego
 
-
-
-
-
-
-
+//wprowadzić do excela na sprawozdania , współczynnik korelacji
+[strona](https://www.statsoft.pl/textbook)
+//nieparzystą ilość słupków na histogramie
+//wykres min a5
 
 
