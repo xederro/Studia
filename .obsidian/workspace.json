@@ -13,10 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 4/Wykład 4.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5ea9361ae4a5da2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47e886711555aacf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4_5 2022na23.pdf"
               }
             }
           }
@@ -70,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
+    "width": 382.5,
     "collapsed": true
   },
   "right": {
@@ -98,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 4/Wykład 4.md"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md"
               }
             }
           },
@@ -127,15 +143,15 @@
   },
   "active": "4e030efa39d55e64",
   "lastOpenFiles": [
-    "Notatki/Podstawy programowania/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4_5 2022na23.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Podstawy programowania/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 4/2020_W04_tablice.pdf",
     "README.md",
     "Sylabus.pdf",
     "symbols.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 1/Kolos 1.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 1/Adobe Scan 6 Nov 2022 (3).pdf"
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia.md"
   ]
 }

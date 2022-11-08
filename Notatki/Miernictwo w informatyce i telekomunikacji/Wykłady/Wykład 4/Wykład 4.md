@@ -68,9 +68,25 @@ zaokrąglij do trzech cyfr znaczących
 
 
 
-## niepewność typu b
+## niepewność typu b (graniczna)
 I - 47,32 mA    $\sigma i$ = 1,23 mA
 po zaokrągleniu 47,3 $\pm$ 1,2 mA
+
+// nie tykać
+// zgrzyty między modelami  w przykładach jest zagadka na konsulatacjach można się zgłosić i wytłumaczyć by podwyższyć ocene
+
+$u(x) = {\Delta x \over \sqrt 3}$ 
+
+niepewność szacowana
+$u_B(x) = \sqrt{\frac{{\Delta_p X}^2}{3} + \frac{{\Delta_e X}^2}{3} + \frac{{\Delta_t X}^2}{3} + \cdots}$ 
+
+niepewność standardowa całkowita
+![[Pasted image 20221108092558.png]]
+
+## prawo przenoszenia błędów 
+//nie ma kwadratu i pierwiastka w a
+
+
 
 ## niepewność typu a
 I - 47,32 mA    u(I) = 1,23 mA
@@ -79,4 +95,12 @@ po zaokrągleniu 47,3(13) mA (47,3, 13 bo 3 po przecinku 1 na jednościach więc
 
 
 ## Zaokrąglanie wyników pomiarów
+
+
+
+
+
+
+
+
 
