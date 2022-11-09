@@ -18,3 +18,13 @@
 Istnieje wiele klasyfikacji nauk wedle rozmaitych kryteriów, między innymi: przedmiotu badań, metody badań, rodzaju formułowanych problemów, zadań i celów czy stopnia abstrakcji.
 
 
+# Poznanie jako główny problem filozofii cz. 1
+1. Klasyczna koncepcja prawdy
+    a. Prawda logiczna
+        Zgodność intelektu z rzeczą
+    b. Prawda metafizyczna
+        Zgodność rzeczy z intelektem (przedmiotu z jego istotą)
+    c. Prawda moralna
+        
+    d. Prawda artystyczna
+        
