@@ -28,13 +28,6 @@ void uzupelnijTabele()
     wyswietlTabele();
 }
 
-/*
-0 element jest posortowany
-i-ty element bierzemy pod lupę
-patrzymy od końca, jeżeli wcześniejszy jest mniejszy to przesuwamy w prawo i spradzamy wcześniejszy
-w przeciwnym razie wstawiamy w j
-jeżeli j=0 to przesuwamy i wstawiamy bo jest najmniejszy
-*/
 void sortowaniePrzezWstawianie()
 {
     cout << "Sortowanie przez wstawianie: " << endl;
