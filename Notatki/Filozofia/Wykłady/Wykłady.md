@@ -2,6 +2,7 @@
 1. [[Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1|Wykład 1]]
 2. [[Notatki/Filozofia/Wykłady/Wykład 2/Wykład 2|Wykład 2]]
 3. [[Notatki/Filozofia/Wykłady/Wykład 3/Wykład 3|Wykład 3]]
+4. [[Notatki/Filozofia/Wykłady/Wykład 4/Wykład 4|Wykład 4]]
 
 ## Zaliczenie
 2 nieobecności

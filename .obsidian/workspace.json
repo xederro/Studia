@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "18512e5ce0eabd3f",
+        "id": "b2eedcc2cad3d0cf",
         "type": "tabs",
         "children": [
           {
-            "id": "cb0fcf767aedaf4d",
+            "id": "b0afcc133db93b58",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Sylabus.pdf"
+                "file": "Notatki/Filozofia/Wykłady/Wykład 4/Wykład 4.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -67,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 382.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -94,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sylabus.pdf"
+                "file": "Notatki/Filozofia/Wykłady/Wykład 4/Wykład 4.md"
               }
             }
           },
@@ -121,17 +125,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cb0fcf767aedaf4d",
+  "active": "b0afcc133db93b58",
   "lastOpenFiles": [
+    "Notatki/Filozofia/Wykłady/Wykłady.md",
+    "Notatki/Filozofia/Wykłady/Wykład 4/Wykład 4.md",
+    "Sylabus.pdf",
     "symbols.pdf",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 4/Drawing 2022-11-08 13.16.09.excalidraw.md",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 4/Drawing 2022-11-08 13.16.09.excalidraw.png",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykłady.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 3/Labolatoria 3.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4_5 2022na23.pdf"
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 3/Wykład 3.md"
   ]
 }
