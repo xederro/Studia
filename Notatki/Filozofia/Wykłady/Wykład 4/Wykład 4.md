@@ -32,8 +32,9 @@ Istnieje wiele klasyfikacji nauk wedle rozmaitych kryteriów, między innymi: pr
     a. Koherencyjna koncepcja prawdy - spójność
     b. Ewidencyjna koncepcja prawdy - oczywiste
     c. Pragmatyczna koncepcja prawdy - w praktyce skuteczne
-    d. Konsensualna koncepcja prawdy - podzielane przez ogół
+    d. Konsensualna koncepcja prawdy - podzielane przez ogół naukowców
 
-Weryfikacja
-Falsyfikacja
-Konfirmacja
+- Weryfikacja
+- Falsyfikacja
+- Konfirmacja
+- Dyskonfirmacja
