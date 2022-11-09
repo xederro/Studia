@@ -25,6 +25,15 @@ Istnieje wiele klasyfikacji nauk wedle rozmaitych kryteriów, między innymi: pr
     b. Prawda metafizyczna
         Zgodność rzeczy z intelektem (przedmiotu z jego istotą)
     c. Prawda moralna
-        
+        Zgodność między czynem świadomym i wolnym z własną oceną moralną
     d. Prawda artystyczna
-        
+        Zgodność zamysłu artysty z treścią dzieła
+2. Nieklasyczne koncepcje prawdy 
+    a. Koherencyjna koncepcja prawdy - spójność
+    b. Ewidencyjna koncepcja prawdy - oczywiste
+    c. Pragmatyczna koncepcja prawdy - w praktyce skuteczne
+    d. Konsensualna koncepcja prawdy - podzielane przez ogół
+
+Weryfikacja
+Falsyfikacja
+Konfirmacja
