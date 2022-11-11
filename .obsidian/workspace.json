@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "334194116f07d2fe",
+        "id": "ffbd6598ff186c49",
         "type": "tabs",
         "children": [
           {
-            "id": "6b85cf697f0d578c",
+            "id": "5215152e1d197b46",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 12.16.30.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 16.02.38.excalidraw.md"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 12.16.30.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 16.02.38.excalidraw.md"
               }
             }
           },
@@ -121,17 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6b85cf697f0d578c",
+  "active": "5215152e1d197b46",
   "lastOpenFiles": [
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 12.16.30.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/zagAM.pdf",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Kolos 1.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Pasted Image 20221111121716_415.png",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 12.16.30.excalidraw.md",
     "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 3/W3_Analiza_21_Ciagi.pdf",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Inne/Inne.md",
     "README.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Miernictwo w informatyce i telekomunikacji.md",
-    "Notatki/Filozofia/Wykłady/Wykład 4/Wykład 4.md"
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Miernictwo w informatyce i telekomunikacji.md"
   ]
 }
