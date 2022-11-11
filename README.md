@@ -8,6 +8,7 @@
 6. ![[Podstawy programowania]]
 7. ![[Technologie informacyjne]]
 8. ![[Własność intelektualna i prawo autorskie]]
+9. ![[Inne]]
 
 
 ![[symbols.pdf|Symbole]]
