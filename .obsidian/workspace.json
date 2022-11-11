@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "91b789b20384eee3",
+        "id": "4b4d079dc85e4ae9",
         "type": "tabs",
         "children": [
           {
-            "id": "f88d0a01992559a9",
+            "id": "cbed9d2ba701a305",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5,
-    "collapsed": true
+    "width": 382.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -122,17 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f88d0a01992559a9",
+  "active": "cbed9d2ba701a305",
   "lastOpenFiles": [
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 3/W3_Analiza_21_Ciagi.pdf",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 12.16.30.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Kolos 1.md",
     "Notatki/Inne/Inne.md",
     "README.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Miernictwo w informatyce i telekomunikacji.md",
     "Notatki/Filozofia/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Filozofia/Wykłady/Wykłady.md",
-    "Sylabus.pdf",
-    "symbols.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 4/Drawing 2022-11-08 13.16.09.excalidraw.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md"
+    "Sylabus.pdf"
   ]
 }
