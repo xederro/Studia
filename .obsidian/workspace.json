@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a85e992ff17de517",
+        "id": "91b789b20384eee3",
         "type": "tabs",
         "children": [
           {
-            "id": "31a09efff6d73204",
+            "id": "f88d0a01992559a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notatki/Inne/Inne.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 12.16.30.excalidraw.md"
               }
             }
           }
@@ -70,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 382.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -97,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Inne/Inne.md"
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 12.16.30.excalidraw.md"
               }
             }
           },
@@ -124,17 +122,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "31a09efff6d73204",
+  "active": "f88d0a01992559a9",
   "lastOpenFiles": [
-    "README.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Kolos 1.md",
     "Notatki/Inne/Inne.md",
+    "README.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Miernictwo w informatyce i telekomunikacji.md",
     "Notatki/Filozofia/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Filozofia/Wykłady/Wykłady.md",
     "Sylabus.pdf",
     "symbols.pdf",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 4/Drawing 2022-11-08 13.16.09.excalidraw.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 4/Drawing 2022-11-08 13.16.09.excalidraw.png"
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md"
   ]
 }
