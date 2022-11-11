@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ffbd6598ff186c49",
+        "id": "8ec6275811be2ef9",
         "type": "tabs",
         "children": [
           {
-            "id": "5215152e1d197b46",
+            "id": "b927a6d30335ea8e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 16.02.38.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 16.02.38.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -121,8 +117,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5215152e1d197b46",
+  "active": "b927a6d30335ea8e",
   "lastOpenFiles": [
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 16.02.38.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 12.16.30.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/zagAM.pdf",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Kolos 1.md",
@@ -131,7 +128,6 @@
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 3/W3_Analiza_21_Ciagi.pdf",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Inne/Inne.md",
-    "README.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Miernictwo w informatyce i telekomunikacji.md"
+    "README.md"
   ]
 }
