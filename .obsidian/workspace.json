@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8ec6275811be2ef9",
+        "id": "710d5e47fa7f816c",
         "type": "tabs",
         "children": [
           {
-            "id": "b927a6d30335ea8e",
+            "id": "d17e62823d878c36",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 16.02.38.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-13 11.13.48.excalidraw.md"
               }
             }
           }
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 382.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 16.02.38.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-13 11.13.48.excalidraw.md"
               }
             }
           },
@@ -121,10 +122,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b927a6d30335ea8e",
+  "active": "d17e62823d878c36",
   "lastOpenFiles": [
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 12.16.30.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 16.02.38.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 12.16.30.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/zagAM.pdf",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Kolos 1.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Pasted Image 20221111121716_415.png",
