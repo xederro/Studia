@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "710d5e47fa7f816c",
+        "id": "b62605a3fc230365",
         "type": "tabs",
         "children": [
           {
-            "id": "d17e62823d878c36",
+            "id": "e9cf3b519405852f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-13 11.13.48.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-13 12.01.04.excalidraw.md"
               }
             }
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5,
-    "collapsed": true
+    "width": 382.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-13 11.13.48.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-13 12.01.04.excalidraw.md"
               }
             }
           },
@@ -122,8 +121,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d17e62823d878c36",
+  "active": "e9cf3b519405852f",
   "lastOpenFiles": [
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-13 11.13.48.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 16.02.38.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 12.16.30.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/zagAM.pdf",
@@ -132,7 +132,6 @@
     "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 3/W3_Analiza_21_Ciagi.pdf",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Inne/Inne.md",
-    "README.md"
+    "Notatki/Inne/Inne.md"
   ]
 }
