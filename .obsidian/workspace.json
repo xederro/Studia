@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b62605a3fc230365",
+        "id": "ecb0c272bd06e5d8",
         "type": "tabs",
         "children": [
           {
-            "id": "e9cf3b519405852f",
+            "id": "65a407b13e9d2a8a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-13 12.01.04.excalidraw.md"
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 4/Wykład 4.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "507f1493e1bde84e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce8ec33deb062b0b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 4/2020_W04_tablice.pdf"
               }
             }
           }
@@ -67,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 382.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -94,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-13 12.01.04.excalidraw.md"
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 4/Wykład 4.md"
               }
             }
           },
@@ -121,8 +141,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e9cf3b519405852f",
+  "active": "65a407b13e9d2a8a",
   "lastOpenFiles": [
+    "Notatki/Podstawy programowania/Wykłady/Wykład 4/2020_W04_tablice.pdf",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-13 12.01.04.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-13 11.13.48.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 16.02.38.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 12.16.30.excalidraw.md",
@@ -130,8 +152,6 @@
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Kolos 1.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Pasted Image 20221111121716_415.png",
     "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 3/W3_Analiza_21_Ciagi.pdf",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Inne/Inne.md"
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 3/W3_Analiza_21_Ciagi.pdf"
   ]
 }
