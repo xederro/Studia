@@ -8,11 +8,11 @@ Data:   8 listopada 2022r.
 #include <iostream>
 #include <stdlib.h>
 
-#define ROZMIAR 5
+#define ROZMIAR 5 // rozmiar tablicy
 
 using namespace std;
 
-void zadanie1a(float *tab) // wpisywanie elementów do tablicy
+void zadanie1a(float* tab) // wpisywanie elementów do tablicy
 {
     for (unsigned char i = 0; i < ROZMIAR; i++)
     {
@@ -21,7 +21,7 @@ void zadanie1a(float *tab) // wpisywanie elementów do tablicy
     }
 }
 
-void zadanie1b(float *tab) // wypisanie elementów tablicy
+void zadanie1b(float* tab) // wypisanie elementów tablicy
 {
     cout << "[ ";
     for (unsigned char i = 0; i < ROZMIAR; i++)
@@ -31,7 +31,7 @@ void zadanie1b(float *tab) // wypisanie elementów tablicy
     cout << "]" << endl;
 }
 
-void zadanie1c(float *tab) // sprawdzi i wypisze na ekranie komunikaty
+void zadanie1c(float* tab) // sprawdzi i wypisze na ekranie komunikaty
 {
     unsigned char iloscd, iloscu = 0;
     float sumad, sumau = 0;
@@ -50,6 +50,7 @@ void zadanie1c(float *tab) // sprawdzi i wypisze na ekranie komunikaty
         }
     }
 
+    // wypisze na ekranie komunikaty o ilości i sumie dodatnich i ujemnych elementów tablicy
     if (iloscd)
     {
         cout << "Ilosc liczb dodatnich: " << (int)iloscd << endl;
@@ -73,13 +74,13 @@ void zadanie1c(float *tab) // sprawdzi i wypisze na ekranie komunikaty
     }
 }
 
-void zadanie1d(float *tab) // informację o uporządkowaniu elementów tablicy
+void zadanie1d(float* tab) // informację o uporządkowaniu elementów tablicy
 {
     unsigned char rosnace = 0,
-                  jednakowa = 0,
-                  malejace = 0;
+        jednakowa = 0,
+        malejace = 0;
 
-    for (unsigned char i = 0; i < ROZMIAR - 1; i++)
+    for (unsigned char i = 0; i < ROZMIAR - 1; i++) // sprawdza czy elementy tablicy są rosnące, malejące lub jednakowe
     {
         if (tab[i] < tab[i + 1])
             rosnace++;
@@ -89,6 +90,8 @@ void zadanie1d(float *tab) // informację o uporządkowaniu elementów tablicy
             malejace++;
     }
 
+
+    // wypisze na ekranie komunikaty o uporządkowaniu elementów tablicy
     if (rosnace == ROZMIAR - 1)
         cout << "Tablica jest posortowana rosnaco" << endl;
     else if (jednakowa == ROZMIAR - 1)
@@ -103,7 +106,7 @@ void zadanie1d(float *tab) // informację o uporządkowaniu elementów tablicy
         cout << "Tablica jest nie posortowana" << endl;
 }
 
-void zadanie1(float *tab)
+void zadanie1(float* tab)
 {
     // wpisywanie elementów do tablicy
     zadanie1a(tab);
@@ -118,8 +121,9 @@ void zadanie1(float *tab)
     zadanie1d(tab);
 }
 
-void zadanie2(float *tab)
+void zadanie2(float* tab)
 {
+    // wpisywanie losowych elementów z przedziału do tablicy
     float min, max;
 
     cout << "Wpisz minimalna liczbe z przedzialu: ";
@@ -135,8 +139,9 @@ void zadanie2(float *tab)
     zadanie1b(tab);
 }
 
-void sortowaniePrzezWstawianie(float *tab)
+void sortowaniePrzezWstawianie(float* tab)
 {
+    // sortowanie przez wstawianie
     cout << "Sortowanie przez wstawianie: " << endl;
     for (short int i = 1; i < ROZMIAR; i++)
     {
@@ -157,8 +162,9 @@ void sortowaniePrzezWstawianie(float *tab)
     zadanie1b(tab);
 }
 
-void sortowaniePrzezWybor(float *tab)
+void sortowaniePrzezWybor(float* tab)
 {
+    // sortowanie przez wybór
     cout << "Sortowanie przez wybor: " << endl;
     for (short int i = 0; i < ROZMIAR; i++)
     {
@@ -178,8 +184,9 @@ void sortowaniePrzezWybor(float *tab)
     zadanie1b(tab);
 }
 
-void sortowanieBabelkowe(float *tab)
+void sortowanieBabelkowe(float* tab)
 {
+    // sortowanie bąbelkowe
     cout << "Sortowanie babelkowe: " << endl;
 
     short int sorted;
@@ -203,8 +210,9 @@ void sortowanieBabelkowe(float *tab)
     zadanie1b(tab);
 }
 
-void zadanie3(float *tab)
+void zadanie3(float* tab)
 {
+    // wybór sposobu sortowania
     unsigned short int sortowanie = 0;
     do
     {
@@ -244,11 +252,13 @@ void zadanie3(float *tab)
 int main()
 {
     srand(time(NULL));
-    float tab[ROZMIAR] = {0}; // wstawić do main i funkcje zrobić z parametrem wskaźnikiem
+    float tab[ROZMIAR] = { 0 }; // inicjalizacja tablicy zerami
 
     // OBOWIAZKOWY wydruk danych autora
     printf("Autor: Dawid Jablonski (WT/N 11:15)");
 
+
+    // wybór zadania
     unsigned short int wybor = 0;
     do
     {
