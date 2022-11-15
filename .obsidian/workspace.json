@@ -11,9 +11,12 @@
             "id": "621d0702a5798001",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 12.16.30.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -94,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 12.16.30.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md"
               }
             }
           },
@@ -123,15 +126,15 @@
   },
   "active": "621d0702a5798001",
   "lastOpenFiles": [
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 4/Lista_4_AM1.pdf",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 12.16.30.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-13 11.13.48.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-13 12.01.04.excalidraw.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 5/2020_W05_wskazniki.pdf",
     "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykład 4/2020_W04_tablice.pdf",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 16.02.38.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 12.16.30.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/zagAM.pdf"
+    "Notatki/Podstawy programowania/Wykłady/Wykład 4/2020_W04_tablice.pdf"
   ]
 }
