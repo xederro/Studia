@@ -108,17 +108,38 @@ void zadanie1d(float* tab) // informację o uporządkowaniu elementów tablicy
 
 void zadanie1(float* tab)
 {
-    // wpisywanie elementów do tablicy
-    zadanie1a(tab);
+    unsigned short int sortowanie = 0;
+    do
+    {
+        cout << "\n0- Wyjscie z zadania\n1- Wpisanie elementow\n2- Wypisanie elementow\n3- Informacja o liczbach dodatnich i ujemnych \n4- Informacja o uporzadkowaniu\n\n";
+        cin >> sortowanie;
 
-    // wypisanie elementów tablicy
-    zadanie1b(tab);
+        switch (sortowanie)
+        {
+        case 0:
+            break;
+        case 1:
+            // wpisywanie elementów do tablicy
+            zadanie1a(tab);
+            break;
+        case 2:
+            // wypisanie elementów tablicy
+            zadanie1b(tab);
+            break;
+        case 3:
+            // sprawdzi i wypisze na ekranie komunikaty
+            zadanie1c(tab);
+            break;
+        case 4:
+            // informację o uporządkowaniu elementów tablicy
+            zadanie1d(tab);
+            break;
 
-    // sprawdzi i wypisze na ekranie komunikaty
-    zadanie1c(tab);
-
-    // informację o uporządkowaniu elementów tablicy
-    zadanie1d(tab);
+        default:
+            cout << "Zly Wybor";
+            break;
+        }
+    } while (sortowanie != 0);
 }
 
 void zadanie2(float* tab)
@@ -225,19 +246,19 @@ void zadanie3(float* tab)
             break;
         case 1:
             /*
-                Zadanie 1
+                Sortowanie bąbelkowe
             */
             sortowanieBabelkowe(tab);
             break;
         case 2:
             /*
-                Zadanie 2
+                Sortowanie przez wybór
             */
             sortowaniePrzezWybor(tab);
             break;
         case 3:
             /*
-                Zadanie 3
+                sortowanie przez wstawianie
             */
             sortowaniePrzezWstawianie(tab);
             break;
@@ -246,13 +267,13 @@ void zadanie3(float* tab)
             cout << "Zly Wybor";
             break;
         }
-    } while (sortowanie < 0 || sortowanie > 3);
+    } while (sortowanie != 0);
 }
 
 int main()
 {
     srand(time(NULL));
-    float tab[ROZMIAR] = { 0 }; // inicjalizacja tablicy zerami
+    float tab[ROZMIAR]; // inicjalizacja tablicy
 
     // OBOWIAZKOWY wydruk danych autora
     printf("Autor: Dawid Jablonski (WT/N 11:15)");
@@ -262,7 +283,7 @@ int main()
     unsigned short int wybor = 0;
     do
     {
-        cout << "\n0- Wyjscie z programu\n1- Zadanie 1\n2- Zadanie 2\n3- Zadanie 3\n4- Zadanie 4\n\n";
+        cout << "\n0- Wyjscie z programu\n1- Zadanie 1\n2- Zadanie 2\n3- Zadanie 3\n\n";
         cin >> wybor;
 
         switch (wybor)
