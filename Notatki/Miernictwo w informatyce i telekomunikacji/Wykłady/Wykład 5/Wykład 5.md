@@ -25,5 +25,17 @@ db$\micro$ - decybel wz. $\micro$V
 dBi - anteny izotropowej
 dBc - poziom względem fali nośnej
 
-
 6dB to 4-krotny wzrost mocy ale 2-krotny wzrost napięcia
+
+
+## Przykładowe obliczenia
+30dBmW = 1W
+
+50W -> 100/2W -> 20dBW-3dBW = 17dBW = 17dBW + 30dB = 47dBmW
+
+24dBuV -> 20+10-6 = 10\*3,17/2 = 15,8uV
+24dBuV -> 6+6+6+6=2\*2\*2\*2 = 16uV
+
+40mV -> 2\*2\*10 = 6dBmV + 6dBmV + 20dBmV = 32dBmV
+
+80mW -> 
