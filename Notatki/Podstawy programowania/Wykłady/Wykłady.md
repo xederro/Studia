@@ -3,7 +3,7 @@
 2. [[Notatki/Podstawy programowania/Wykłady/Wykład 2/Wykład 2|Wykład 2]]
 3. [[Notatki/Podstawy programowania/Wykłady/Wykład 3/Wykład 3|Wykład 3]]
 4. [[Notatki/Podstawy programowania/Wykłady/Wykład 4/Wykład 4|Wykład 4]]
-5. [[Wykład 5|Wykład 5]]
+5. [[Notatki/Podstawy programowania/Wykłady/Wykład 5/Wykład 5|Wykład 5]]
 
 
 ## Zaliczenie
