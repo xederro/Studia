@@ -38,4 +38,11 @@ dBc - poziom względem fali nośnej
 
 40mV -> 2\*2\*10 = 6dBmV + 6dBmV + 20dBmV = 32dBmV
 
-80mW -> 
+80mW -> 10\*2\*2\*2 = 10+3+3+3 = 19dBmW
+80mW -> 100mW/1.25 = 20dB-1dB = 19dBmW
+
+-27dBmW -> -30+3dB -> 1$\micro W$\*2 = 2$\micro W$
+
+42dBV -> 20 + 20 + 2 = 10\*10\*1,25 = 125V = $10^{42\over20}$
+42dBW -> 20 + 20 + 2 = 100\*100\*1,6 = 16000W = 16kW = $10^{42\over10}$
+
