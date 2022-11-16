@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f06423326de81c30",
+        "id": "284512cddff15661",
         "type": "tabs",
         "children": [
           {
-            "id": "963146b045627321",
+            "id": "882177ff3dcce67f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 12.16.30.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 1/Drawing 2022-11-16 11.11.12.excalidraw.md"
               }
             }
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5,
-    "collapsed": true
+    "width": 382.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 12.16.30.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 1/Drawing 2022-11-16 11.11.12.excalidraw.md"
               }
             }
           },
@@ -122,17 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "963146b045627321",
+  "active": "882177ff3dcce67f",
   "lastOpenFiles": [
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 16.02.38.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 1/Lista_1_AM1.pdf",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Kolos 1.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 1/Drawing 2022-11-16 10.56.40.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-13 12.01.04.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 5/Wykład decybele_konspekt_eportal.pdf",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 4/CCF31102022_0004.pdf",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 4/Lista_4_AM1.pdf",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 12.16.30.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-13 11.13.48.excalidraw.md"
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 5/Materia_y_dodatkowe_z_dB_Piotr_Komur_Kalkulator_decybelowy_Elektronika_Praktyczna_ (1).pdf",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 3/Labolatoria 3.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 12.16.30.excalidraw.md"
   ]
 }

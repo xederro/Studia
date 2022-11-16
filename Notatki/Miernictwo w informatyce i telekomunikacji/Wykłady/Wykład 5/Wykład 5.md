@@ -2,7 +2,7 @@
 [kalkulator](https://www.rohde-schwarz.com/pt/applications/db-calculator-application-note_56280-15492.html)
 ![[Materia_y_dodatkowe_z_dB_Piotr_Komur_Kalkulator_decybelowy_Elektronika_Praktyczna_ (1).pdf]]
 ![[Decybele.pdf]]
-
+![[Materia_y_dodatkowe_z_dB_Piotr_Komur_Kalkulator_decybelowy_Elektronika_Praktyczna_ (1).pdf]]
 
 # Decybele
 
