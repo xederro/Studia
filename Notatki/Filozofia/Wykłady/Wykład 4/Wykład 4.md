@@ -38,3 +38,6 @@ Istnieje wiele klasyfikacji nauk wedle rozmaitych kryteriów, między innymi: pr
 - Falsyfikacja
 - Konfirmacja
 - Dyskonfirmacja
+
+
+
