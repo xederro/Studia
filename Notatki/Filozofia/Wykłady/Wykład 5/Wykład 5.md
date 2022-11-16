@@ -29,10 +29,10 @@ obiektywna i konieczna prawidłowość występująca w rzeczywistości empiryczn
 ### Rodzaje praw nauki
 Podziały dychotomiczne praw nauki na:
 - jakościowe - ilościowe: charakter funkcyjny
-- empiryczne - teoretyczne: 
+- empiryczne - teoretyczne: rejestrujące
 - dynamiczne - systematyczne: 
 - synchroniczne - diachroniczne: 
-- strukturalne - funkcjonalne: 
+- strukturalne - funkcjonalne: jakie elementy systemu podlegają jakim przekształceniom
 
 ### Funkcje praw nauki
 - Eksplanacyjna
@@ -43,5 +43,6 @@ Podziały dychotomiczne praw nauki na:
   - Teleologiczne - odwołujące się do celu zdarzenia
   - Probabilistyczne - 
   - Teoretyczne - wynikają z teorii bez możliwości empirycznego potwierdzenia
-- Prognostyczna
+- Prognostyczna:
+  
 - Prakseologiczna
