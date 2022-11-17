@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3175c38a99917e54",
+        "id": "c1bea7f0364775a4",
         "type": "tabs",
         "children": [
           {
-            "id": "908fa7ef30d2893c",
+            "id": "e52838d388208e75",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -91,7 +91,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -117,7 +119,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "908fa7ef30d2893c",
+  "active": "49d30ce6368bee01",
   "lastOpenFiles": [
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykłady.md",
     "README.md",
