@@ -4,18 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "df3f7be6612e928e",
+        "id": "df34e0cc60486fb4",
         "type": "tabs",
         "children": [
           {
-            "id": "9b20d44d02ca5e6f",
+            "id": "7c59c5ca988c8098",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 6.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4494306d72a15626",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Zadania_Derive6_Fourier_podstawy_opis_plików_zadań_I_do_VII.pdf"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 307.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -91,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Zadania_Derive6_Fourier_podstawy_opis_plików_zadań_I_do_VII.pdf"
+              }
             }
           },
           {
@@ -117,17 +135,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "49d30ce6368bee01",
+  "active": "4494306d72a15626",
   "lastOpenFiles": [
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 6/Lista_6_Analiza_071122.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 5/Lista_5_Analiza_311022.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 12/Lista_12_An_Cał_ozn_191222.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 6.md",
+    "Notatki/Etyka inżynierska/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Etyka inżynierska/Wykłady/Wykłady.md",
+    "Notatki/Etyka inżynierska/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Etyka inżynierska/Wykłady/Wykład 2/Glowne_szkoly_metaetyczne.pdf",
+    "Notatki/Etyka inżynierska/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Etyka inżynierska/Wykłady/Wykład 1/Glowne_szkoly_metaetyczne.pdf",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykłady.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia.md"
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia.md"
   ]
 }

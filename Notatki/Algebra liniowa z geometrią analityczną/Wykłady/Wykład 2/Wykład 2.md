@@ -1,4 +1,5 @@
 ![[ALGA-Wyklad_03.pdf]]
+![[Wyklad_3a.pdf]]
 # Forma trygonometryczna
 
 ## Zapis w formie trygonometrycznej
