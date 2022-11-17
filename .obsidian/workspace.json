@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b0b8ef126f0a5fd5",
+        "id": "826c3bc1d539499d",
         "type": "tabs",
         "children": [
           {
-            "id": "92ce724851296ee0",
+            "id": "6b82bc278d180157",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 3/Drawing 2022-11-17 08.31.36.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 4/Drawing 2022-11-17 09.51.43.excalidraw.md"
               }
             }
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5,
-    "collapsed": true
+    "width": 382.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 3/Drawing 2022-11-17 08.31.36.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 4/Drawing 2022-11-17 09.51.43.excalidraw.md"
               }
             }
           },
@@ -122,8 +121,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "92ce724851296ee0",
+  "active": "6b82bc278d180157",
   "lastOpenFiles": [
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 3/Drawing 2022-11-17 08.31.36.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Kolos 1.md",
@@ -132,7 +132,6 @@
     "Notatki/Filozofia/Wykłady/Wykłady.md",
     "Notatki/Filozofia/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md"
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md"
   ]
 }
