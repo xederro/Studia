@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "826c3bc1d539499d",
+        "id": "df3f7be6612e928e",
         "type": "tabs",
         "children": [
           {
-            "id": "6b82bc278d180157",
+            "id": "9b20d44d02ca5e6f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 4/Drawing 2022-11-17 09.51.43.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 4/Drawing 2022-11-17 09.51.43.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -121,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6b82bc278d180157",
+  "active": "49d30ce6368bee01",
   "lastOpenFiles": [
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 3/Drawing 2022-11-17 08.31.36.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Kolos 1.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Filozofia/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Filozofia/Wykłady/Wykłady.md",
-    "Notatki/Filozofia/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md"
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 6/Lista_6_Analiza_071122.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 5/Lista_5_Analiza_311022.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 12/Lista_12_An_Cał_ozn_191222.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykłady.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia.md"
   ]
 }

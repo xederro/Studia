@@ -1,0 +1,1 @@
+![[ALGA_zestaw_05.pdf]]
