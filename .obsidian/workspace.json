@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "97904f3035a74ab6",
+        "id": "b0b8ef126f0a5fd5",
         "type": "tabs",
         "children": [
           {
-            "id": "65798671c2e04a1e",
+            "id": "92ce724851296ee0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notatki/Filozofia/Wykłady/Wykład 5/Wykład 5.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 3/Drawing 2022-11-17 08.31.36.excalidraw.md"
               }
             }
           }
@@ -98,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Filozofia/Wykłady/Wykład 5/Wykład 5.md"
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 3/Drawing 2022-11-17 08.31.36.excalidraw.md"
               }
             }
           },
@@ -125,17 +122,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "65798671c2e04a1e",
+  "active": "92ce724851296ee0",
   "lastOpenFiles": [
-    "Notatki/Filozofia/Wykłady/Wykłady.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 3/Drawing 2022-11-17 08.31.36.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Kolos 1.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Filozofia/Wykłady/Wykład 5/Wykład 5.md",
+    "Notatki/Filozofia/Wykłady/Wykłady.md",
     "Notatki/Filozofia/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 2/Drawing 2022-11-16 11.29.30.excalidraw.md",
-    "Excalidraw/Drawing 2022-11-16 17.04.29.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Kolos 1.md"
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md"
   ]
 }
