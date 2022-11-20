@@ -64,19 +64,12 @@ int main()
         int tab2[4][3] = { {1,7,5},{1,4,0},{2,5,9},{8,9,0} };
 
         // Tu prosz� dopisa� deklaracj� wska�nik�w wsk3, wsk4, wsk5
+        // Tu prosz� nada� warto�ci wska�nikom wsk3, wsk4, wsk5
+
 
         int* wsk3 = &(tab2[0][0]);
         int(*wsk4)[3] = &(tab2[0]);
         int(*wsk5)[4][3] = &tab2;
-
-
-
-
-        // Tu prosz� nada� warto�ci wska�nikom wsk3, wsk4, wsk5
-
-        *wsk3 = 1;
-        *wsk4[0] = 2;
-        *wsk5[0][0] = 3;
 
 
         // Tu prosz� dopisa� wydruk warto�ci wska�nik�w tab2, wsk3, wsk4, wsk5
@@ -100,11 +93,11 @@ int main()
         // oraz notacji wska�nikowej)        
 
         printf("     tab2[3][0] = %d\n", tab2[3][0]);
-        printf("     *(wsk3+(3*3)) = %d\n", *(wsk3 + (3 * 3)));
-        printf("     wsk3[3][0] = %d\n", *((&wsk3[0]) + 3 * 3));
-        printf("     *(wsk4+(3*3)) = %d\n", *(*(wsk4 + 3)));
+        printf("     *(wsk3 + (3 * 3)) = %d\n", *(wsk3 + (3 * 3)));
+        printf("     *((&wsk3[0]) + 3 * 3) = %d\n", *((&wsk3[0]) + 3 * 3));
+        printf("     *(*(wsk4 + 3)) = %d\n", *(*(wsk4 + 3)));
         printf("     wsk4[3][0] = %d\n", wsk4[3][0]);
-        printf("     *(wsk5 + (3 * 3)) = %d\n", **(*(wsk5)+3));
+        printf("     **(*(wsk5)+3) = %d\n", **(*(wsk5)+3));
         printf("     wsk5[3][0] = %d\n", *wsk5[0][3]);
 
 
@@ -125,24 +118,20 @@ int main()
         char* tab3[3] = { tab3a, tab3b, tab3c };
 
         // Tu prosz� dopisa� deklaracj� wska�nik�w wsk6, wsk7
+        // Tu prosz� nada� warto�ci wska�nikom wsk6, wsk7
+
 
         char** wsk6 = &(tab3[0]);
         char* (*wsk7)[3] = &tab3;
-
-        // Tu prosz� nada� warto�ci wska�nikom wsk6, wsk7
-
-        **wsk6 = { 1,2,3 };
-
-
 
 
         // Tu prosz� dopisa� wydruk warto�ci wska�nik�w tab3, wsk6, wsk7
         // oraz rozmiaru danych,  na kt�re wskazuj�.
 
 
-
-
-
+        printf("tab3 = %d, rozmar : %d\n", &tab3, sizeof(tab3));
+        printf("wsk6 = %d, rozmar : %d\n", wsk6, sizeof(**wsk6));
+        printf("wsk7 = %d, rozmar : %d\n", wsk7, sizeof(*tab3));
 
 
         // Tu prosz� dopisa� wydruk warto�ci elementu tablicy oznaczonego
@@ -152,6 +141,7 @@ int main()
         // oraz notacji wska�nikowej)                  
 
 
+        printf(": %c", )
 
 
 
@@ -159,6 +149,5 @@ int main()
 
 
 
-
-        return 0;
+                return 0;
 }
