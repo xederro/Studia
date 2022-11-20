@@ -101,7 +101,7 @@ int main()
 
         printf("     tab2[3][0] = %d\n", tab2[3][0]);
         printf("     *(wsk3+(3*3)) = %d\n", *(wsk3 + (3 * 3)));
-        printf("     wsk3[3][0] = %d\n", *(wsk4 + 3 * 3));
+        printf("     wsk3[3][0] = %d\n", *((&wsk3[0]) + 3 * 3));
         printf("     *(wsk4+(3*3)) = %d\n", *(wsk4 + (3 * 3)));
         printf("     wsk4[3][0] = %d\n", wsk4[3][0]);
         printf("     *(wsk5 + (3 * 3)) = %d\n", *(wsk5 + (3 * 3)));
