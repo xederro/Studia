@@ -1,7 +1,5 @@
 ![[Cwiczenia_4.pdf]]
 ![[Słowne nazwy typów.pdf]]
-![[lista4.cpp]]
-
 1. 
 | Deklaracja zmiennej | Nazwa (słowny opis typu danych)                                                                                                     | Wielkość zmiennej w pamięci (B) |
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
@@ -19,3 +17,17 @@
 | void (\*fun)();     | wskaźnik na bezparametrową funkcję zwracającą typ void                                                                              | 4                               |
 | float (\*fun)(int); | wskaźnik na funkcję przyjmującą parametr typu int zwracającą typ float                                                              | 4                               |
 2. 
+   ![[lista4.cpp]]
+   ![[lista4.exe]]
+3. 
+   ```cpp
+	   printf("%d, %d\n", tab2[w][k], *(*(tab2 + w) + k));
+	   printf("%d, %d", tab3[w][k], *(*(tab3 + w) + k));
+   ```
+   brak różnic
+
+
+
+
+
+

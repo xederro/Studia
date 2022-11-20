@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6a7fde809f82a826",
+        "id": "f5cfe1dd1f72851d",
         "type": "tabs",
         "children": [
           {
-            "id": "22a4065f004c8bfe",
+            "id": "a6324e6e59788865",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Słowne nazwy typów.pdf"
+                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -67,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 343.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -94,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Słowne nazwy typów.pdf"
+                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md"
               }
             }
           },
@@ -121,8 +125,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "22a4065f004c8bfe",
+  "active": "a6324e6e59788865",
   "lastOpenFiles": [
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Słowne nazwy typów.pdf",
     "Notatki/Etyka inżynierska/Wykłady/Wykład 1/Glowne_szkoly_metaetyczne.pdf",
     "Notatki/Etyka inżynierska/Wykłady/Wykład 1/Etyka_jako_dyscyplina_filozoficzna.pdf",
     "Notatki/Etyka inżynierska/Wykłady/Wykład 1/Podstawowe_pojecia_etyczne_-_problem_uzasadnienia_norm_etycznych.pdf",
@@ -131,7 +136,6 @@
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Drawing 2022-11-18 16.05.14.excalidraw.md",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Cwiczenia_4.pdf",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Pasted image 20221120131516.png",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Podstawy programowania/Podstawy programowania.md"
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia.md"
   ]
 }

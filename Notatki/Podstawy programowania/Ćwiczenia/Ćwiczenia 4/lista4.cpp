@@ -121,7 +121,7 @@ int main()
         // Tu prosz� nada� warto�ci wska�nikom wsk6, wsk7
 
 
-        char** wsk6 = &(tab3[0]);
+        char** wsk6 = tab3;
         char* (*wsk7)[3] = &tab3;
 
 
@@ -129,9 +129,12 @@ int main()
         // oraz rozmiaru danych,  na kt�re wskazuj�.
 
 
-        printf("tab3 = %d, rozmar : %d\n", &tab3, sizeof(tab3));
-        printf("wsk6 = %d, rozmar : %d\n", wsk6, sizeof(**wsk6));
-        printf("wsk7 = %d, rozmar : %d\n", wsk7, sizeof(*tab3));
+        printf("    tab3 = %p    sizeof(tab3) = %d    sizeof(*tab3) = %d \n\n",
+                &tab3, sizeof(tab3), sizeof(*tab3));
+        printf("    wsk6 = %p    sizeof(wsk6) = %d    sizeof(*wsk6) = %d \n\n",
+                &wsk6, sizeof(wsk6), sizeof(*wsk6));
+        printf("    wsk7 = %p    sizeof(wsk7) = %d    sizeof(*wsk7) = %d \n\n",
+                wsk7, sizeof(wsk7), sizeof(*wsk7));
 
 
         // Tu prosz� dopisa� wydruk warto�ci elementu tablicy oznaczonego
@@ -141,13 +144,18 @@ int main()
         // oraz notacji wska�nikowej)                  
 
 
-        printf(": %c", )
+        printf("tab3[2][1]: %d\n", tab3[2][1]);
+        printf("*(*(tab3 + 2) + 1): %d\n", *(*(tab3 + 2) + 1));
+        printf("wsk6[2][1]: %d\n", wsk6[2][1]);
+        printf("*(*(wsk6 + 2) + 1): %d\n", *(*(wsk6 + 2) + 1));
+        printf("wsk7[0][2][1]: %d\n", wsk7[0][2][1]);
+        printf("*(*(tab3 + 2) + 1): %d\n", *(*(*wsk7 + 2) + 1));
 
 
+        int w = 1;
+        int k = 1;
 
-
-
-
-
-                return 0;
+        printf("%d, %d\n", tab2[w][k], *(*(tab2 + w) + k));
+        printf("%d, %d", tab3[w][k], *(*(tab3 + w) + k));
+        return 0;
 }
