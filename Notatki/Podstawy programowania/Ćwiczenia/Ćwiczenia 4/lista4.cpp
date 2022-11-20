@@ -102,10 +102,10 @@ int main()
         printf("     tab2[3][0] = %d\n", tab2[3][0]);
         printf("     *(wsk3+(3*3)) = %d\n", *(wsk3 + (3 * 3)));
         printf("     wsk3[3][0] = %d\n", *((&wsk3[0]) + 3 * 3));
-        printf("     *(wsk4+(3*3)) = %d\n", *(wsk4 + (3 * 3)));
+        printf("     *(wsk4+(3*3)) = %d\n", *(*(wsk4 + 3)));
         printf("     wsk4[3][0] = %d\n", wsk4[3][0]);
-        printf("     *(wsk5 + (3 * 3)) = %d\n", *(wsk5 + (3 * 3)));
-        printf("     wsk5[3][0] = %d\n", wsk5[3][0]);
+        printf("     *(wsk5 + (3 * 3)) = %d\n", **(*(wsk5)+3));
+        printf("     wsk5[3][0] = %d\n", *wsk5[0][3]);
 
 
 
@@ -126,12 +126,12 @@ int main()
 
         // Tu prosz� dopisa� deklaracj� wska�nik�w wsk6, wsk7
 
-
-
-
+        char** wsk6 = &(tab3[0]);
+        char* (*wsk7)[3] = &tab3;
 
         // Tu prosz� nada� warto�ci wska�nikom wsk6, wsk7
 
+        **wsk6 = { 1,2,3 };
 
 
 

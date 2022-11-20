@@ -11,8 +11,10 @@
             "id": "22a4065f004c8bfe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Słowne nazwy typów.pdf"
+              }
             }
           }
         ]
@@ -91,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Słowne nazwy typów.pdf"
+              }
             }
           },
           {
