@@ -151,43 +151,5 @@ int main()
         printf("wsk7[0][2][1]: %d\n", wsk7[0][2][1]);
         printf("*(*(tab3 + 2) + 1): %d\n", *(*(*wsk7 + 2) + 1));
 
-
-        int w = 0;
-        int k = 0;
-
-        printf("%d, %d\n", tab2[w][k], *(*(tab2 + w) + k));
-        printf("%d, %d\n", tab3[w][k], *(*(tab3 + w) + k));
-
-
-        int wk[100][2] = { {0,0} };
-        int index = 0;
-        for (short w = 0; w < 4; w++)
-        {
-                for (short k = 0; k < 3; k++)
-                {
-                        printf("w: %d, k: %d, l:%d\n", w, k, tab2[w][k]);
-                        if (k == 0 && w == 0) continue;
-                        else if (tab2[wk[0][0]][wk[0][1]] < tab2[w][k])
-                        {
-                                printf("<\n");
-                                wk[0][0] = w;
-                                wk[0][1] = k;
-                                index = 0;
-                        }
-                        else if (tab2[wk[0][0]][wk[0][1]] == tab2[w][k]) {
-                                printf("==\n");
-                                wk[++index][0] = w;
-                                wk[index][1] = k;
-                        }
-
-                }
-        }
-
-        for (int i = 0; i <= index; i++)
-        {
-                printf("max:%d, na miejscu: w:%d, k:%d\n", tab2[wk[0][0]][wk[0][1]], wk[0][0], wk[0][1]);
-        }
-
-
         return 0;
 }

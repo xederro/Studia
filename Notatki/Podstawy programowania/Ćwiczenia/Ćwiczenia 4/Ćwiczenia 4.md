@@ -22,10 +22,111 @@
 3. 
    ```cpp
 	   printf("%d, %d\n", tab2[w][k], *(*(tab2 + w) + k));
-	   printf("%d, %d", tab3[w][k], *(*(tab3 + w) + k));
+	   printf("%d, %d\n", tab3[w][k], *(*(tab3 + w) + k));
    ```
    brak różnic
+4. 
+   ```cpp
+   int wk[100][2] = { {0,0} };
 
+        int index = 0;
+
+        for (short w = 0; w < 4; w++)
+
+        {
+
+                for (short k = 0; k < 3; k++)
+
+                {
+
+                        if (k == 0 && w == 0) continue;
+
+                        else if (tab2[wk[0][0]][wk[0][1]] < tab2[w][k])
+
+                        {
+
+                                wk[0][0] = w;
+
+                                wk[0][1] = k;
+
+                                index = 0;
+
+                        }
+
+                        else if (tab2[wk[0][0]][wk[0][1]] == tab2[w][k]) {
+
+                                wk[++index][0] = w;
+
+                                wk[index][1] = k;
+
+                        }
+
+  
+
+                }
+
+        }
+
+        for (int i = 0; i <= index; i++)
+
+        {
+
+                printf("max:%d, na miejscu: w:%d, k:%d\n", tab2[wk[0][0]][wk[0][1]], wk[i][0], wk[i][1]);
+
+        }
+   ```
+5. 
+   ```cpp
+   int wk[100][2] = { {0,0} };
+
+        int index = 0;
+
+        for (short w = 0; w < 3; w++)
+
+        {
+
+                for (short k = 0; tab3[w][k] != 0; k++)
+
+                {
+
+                        if (k == 0 && w == 0) continue;
+
+                        else if (tab3[wk[0][0]][wk[0][1]] < tab3[w][k])
+
+                        {
+
+                                wk[0][0] = w;
+
+                                wk[0][1] = k;
+
+                                index = 0;
+
+                        }
+
+                        else if (tab3[wk[0][0]][wk[0][1]] == tab3[w][k]) {
+
+                                wk[++index][0] = w;
+
+                                wk[index][1] = k;
+
+                        }
+
+  
+
+                }
+
+        }
+
+        for (int i = 0; i <= index; i++)
+
+        {
+
+                printf("max:%d, na miejscu: w:%d, k:%d\n", tab3[wk[0][0]][wk[0][1]], wk[i][0], wk[i][1]);
+
+        }
+   ```
+6. skompiluje się z ostrzeżeniami po czym zadziała i zwróci z
+   
 
 
 
