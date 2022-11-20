@@ -4,8 +4,9 @@
 3. [[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3|Ćwiczenia 3]]
 4. [[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4|Ćwiczenia 4]]
 5. [[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Kolos 1|Kolos 1]]
-6. [[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5|Ćwiczenia 5]]
-7. [[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6|Ćwiczenia 6]]
+6. [[Quiz 1]]
+7. [[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5|Ćwiczenia 5]]
+8. [[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6|Ćwiczenia 6]]
 
 ## Zaliczenie
 nr.indeksu%3 = ćwieczenia jakie trzeba zrobić
