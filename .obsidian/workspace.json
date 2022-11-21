@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "594fd5b7b45ad66a",
+            "id": "a3c24ae3ab694357",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 5/Wykład 5.md",
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -23,16 +23,16 @@
         ]
       },
       {
-        "id": "8b33f460e29166a2",
+        "id": "b5416d81908864b6",
         "type": "tabs",
         "children": [
           {
-            "id": "355d55d534ce5e0c",
+            "id": "594fd5b7b45ad66a",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 5/2020_W05_wskazniki.pdf"
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 6/2020_W06_funkcje_parametry.pdf"
               }
             }
           }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 5/Wykład 5.md"
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md"
               }
             }
           },
@@ -141,12 +141,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "594fd5b7b45ad66a",
+  "active": "a3c24ae3ab694357",
   "lastOpenFiles": [
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykład 5/2020_W05_wskazniki.pdf",
     "Notatki/Podstawy programowania/Wykłady/Wykład 6/2020_W06_funkcje_parametry.pdf",
+    "Notatki/Podstawy programowania/Wykłady/Wykład 5/Wykład 5.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Podstawy programowania/Wykłady/Wykład 5/2020_W05_wskazniki.pdf",
     "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
     "Notatki/Podstawy programowania/Wykłady/Kolokwium 1/Kolokwium 1.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md",
