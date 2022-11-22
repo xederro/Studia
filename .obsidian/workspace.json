@@ -4,36 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "848b937208359b8a",
+        "id": "a7904da4b160c25f",
         "type": "tabs",
         "children": [
           {
-            "id": "a3c24ae3ab694357",
+            "id": "1cf3f60953a947b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "b5416d81908864b6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "594fd5b7b45ad66a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 6/2020_W06_funkcje_parametry.pdf"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -113,9 +92,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md"
-              }
+              "state": {}
             }
           },
           {
@@ -141,17 +118,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a3c24ae3ab694357",
+  "active": "1cf3f60953a947b1",
   "lastOpenFiles": [
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.md",
+    "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 6/2020_W06_funkcje_parametry.pdf",
     "Notatki/Podstawy programowania/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 5/2020_W05_wskazniki.pdf",
     "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
     "Notatki/Podstawy programowania/Wykłady/Kolokwium 1/Kolokwium 1.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
-    "symbols.pdf",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Słowne nazwy typów.pdf"
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md"
   ]
 }

@@ -3,6 +3,7 @@
 2. [[Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Labolatoria 1|Labolatoria 1]]
 3. [[Labolatoria 2]]
 4. [[Labolatoria 3]]
+5. [[Labolatorium 4]]
 
 ## Zaliczenie
 konsultacje:
