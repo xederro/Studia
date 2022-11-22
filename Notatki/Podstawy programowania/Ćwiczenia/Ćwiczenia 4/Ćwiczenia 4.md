@@ -133,3 +133,13 @@
 & - operator adresowania
 \* - operator wyłuskania
 
+
+
+```cpp
+
+int grupa1 = {1,2,3,4,5};
+int grupa2 = {1,2,3,4,5,6,7,8,9};
+
+int *grupy = {grupa1, grupa2};
+
+```
