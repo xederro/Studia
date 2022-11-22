@@ -11,8 +11,29 @@
             "id": "1cf3f60953a947b1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 6.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8d1898aacd535541",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a454530ad4429e99",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 7_8-2021.pdf"
+              }
             }
           }
         ]
@@ -92,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 6.md"
+              }
             }
           },
           {
@@ -120,6 +143,8 @@
   },
   "active": "1cf3f60953a947b1",
   "lastOpenFiles": [
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 7_8-2021.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md",
@@ -127,8 +152,6 @@
     "Notatki/Podstawy programowania/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 5/2020_W05_wskazniki.pdf",
-    "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
-    "Notatki/Podstawy programowania/Wykłady/Kolokwium 1/Kolokwium 1.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md"
+    "Notatki/Podstawy programowania/Wykłady/Wykłady.md"
   ]
 }
