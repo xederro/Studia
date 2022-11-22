@@ -7,6 +7,9 @@ Data:   22 listopada 2022r.
 
 #include <stdio.h>
 
+using namespace std;
+
+
 void CzytajRownanie(float& a, float& b, float& c);
 void WypiszRozwiazanie(int N, float x, float y);
 float ObliczWyznacznik(float p1, float p2, float p3, float p4);

@@ -5,37 +5,71 @@ Tytul:  Zadania Laboratorium 4
 Data:   22 listopada 2022r.
 */
 
-#include <stdio.h>
+#include <iostream>
+
+#define N 250
+
+using namespace std;
 
 /*
-
-2.
-ala ma 2 koty
-ala ma  koty
-zwraca ilość usuniętych cyfr
-
-3.
-”\/*”  do  sekwencji  ”*\/”    oraz  wszystkie  znaki  począwszy  od  ciągu  ”//""
 
 4.
 wypisać jako %p na 16 zamieni
 
 */
 
-void zadanie2(char(*tab)[100]) {
-    for (char i = 0; (*tab)[i] != 0; i++) {
-        if ((*tab)[i] < '9' && (*tab)[i] > '0') {
-            for (char k = i; (*tab)[i] != 0; k++)
-            {
-                (*tab)[i] = (*tab)[i + 1];
-            }
-        }
+void Wczytywanie(char(&str)[N]) {
+    cout << "Wbisz zdanie:\n";
+    cin.ignore();
+    cin.getline(str, N);
+}
+
+void Wypisywanie(char str[N]) {
+    for (char i = 0; str[i] != 0; i++) {
+        cout << str[i];
     }
 }
 
+int Zadanie2UsuwanieLiczb(char(&str)[N]) {
+    int count = 0;
+    for (char i = 0; str[i] != 0; i++) {
+        if (str[i] > '0' && str[i] < '9') {
+            for (char k = i; str[k] != 0; k++) {
+                str[k] = str[k + 1];
+            }
+            i--; // jezeli cofnie wszystkie liczby o 1 to pusi sprawdzic jeszcze raz ten sam index
+            count++;
+        }
+    }
 
-void zadanie3() {
+    return count;
+}
 
+
+char* Zadanie3UsuwanieKometarzy(char(&str)[N]) {
+    for (char i = 0; str[i] != 0; i++) {
+        if (str[i] == '/' && str[i + 1] == '/') {
+            str[i] = 0;
+            break;
+        }
+        else if (str[i] == '/' && str[i + 1] == '*') {
+            do
+            {
+                for (char k = i; str[k] != 0; k++) {
+                    str[k] = str[k + 1];
+                }
+            } while (!(str[i] == '*' && str[i + 1] == '/'));
+
+            for (char k = 2; k; k--)
+            {
+                for (char k = i; str[k] != 0; k++) {
+                    str[k] = str[k + 1];
+                }
+            }
+        }
+    }
+
+    return str;
 }
 
 
@@ -47,46 +81,49 @@ void zadanie4() {
 int main() {
 
     // OBOWIAZKOWY wydruk danych autora
-    printf("Autor: Dawid Jablonski (WT/N 11:15)");
-
+    cout << "Autor: Dawid Jablonski (WT/N 11:15)\n";
 
     // wybór zadania
     unsigned short int wybor = 0;
     do
     {
-        printf("\n0- Wyjscie z programu\n1- Zadanie 2\n2- Zadanie 3\n3- Zadanie 4\n\n");
-        scanf("%hhd", &wybor);
+        cout << "\n0- Wyjscie z programu\n1- Zadanie 2\n2- Zadanie 3\n3- Zadanie 4\n\n";
+        cin >> wybor;
 
         switch (wybor)
         {
         case 0:
-            printf("Do widzenia");
+            cout << "Do widzenia";
             break;
         case 1:
+        {
             /*
                 Zadanie 2
             */
-            char tab[100];
-            printf("Wbisz zdanie:\n");
-
-            scanf("%s", &tab);
-            zadanie2(&tab);
-            for (char i = 0; tab[i] != 0; i++) {
-                printf("%c\n", tab[i]);
-            }
+            char str[N];
+            Wczytywanie(str);
+            Zadanie2UsuwanieLiczb(str);
+            Wypisywanie(str);
             break;
-            // case 2:
-            //     /*
-            //         Zadanie 3
-            //     */
-            //     zadanie3();
-            //     break;
-            // case 3:
-            //     /*
-            //         Zadanie 4
-            //     */
-            //     zadanie4();
-            //     break;
+        }
+        case 2:
+        {
+            /*
+                Zadanie 3
+            */
+            //test komentarza 2 /* abecadlo */ z pieca spadlo
+            char str[N];
+            Wczytywanie(str);
+            char(*str2)[N] = (char(*)[N])Zadanie3UsuwanieKometarzy(str); //zamiana wskaźnika na char na wskaźnik na tablice charów
+            Wypisywanie(*str2); // lub Wypisywanie(str);
+            break;
+        }
+        case 3:
+            /*
+                Zadanie 4
+            */
+            // zadanie4();
+            break;
 
         default:
             printf("Zly Wybor");
