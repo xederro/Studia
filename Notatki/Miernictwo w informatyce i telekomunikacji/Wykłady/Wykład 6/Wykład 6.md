@@ -3,7 +3,7 @@
 ![[oczka.pdf]]
 ![[polaczeniaR.pdf]]
 ![[zrodla.pdf]]
-![[Pasted image 20221122091152.png|Kartkówka]]
+![[Pasted image 20221122091152.png|Kartkówka]] #kolokwium 
 #kolokwium {
 # Prawo Ohma
 U = IR
@@ -66,6 +66,7 @@ Każdą sieć elektryczną (a w szczególności zasilacz) można zastąpić rów
 1. Metoda uproszczeń. 
 2. Metoda superpozycji. 
 3. Metoda stosowania twierdzeń Thevenina i Nortona. 
-4. Metoda oczkowa, zwana też metodą prądów oczkowych (preferowane są układy zawierające źródła napięciowe). 
-5. Metoda węzłowa, zwana też metodą napięć węzłowych jest najczęściej stosowana (preferowane są źródła prądowe). 
+4. Metoda oczkowa, zwana też metodą prądów oczkowych (preferowane są układy zawierające źródła napięciowe). #kolokwium 
+5. Metoda węzłowa, zwana też metodą napięć węzłowych jest najczęściej stosowana (preferowane są źródła prądowe).  //lubiana
 6. Metoda graficzna. Stosowana jest szczególnie w przypadku układów zawierających elementy nieliniowe.
+
