@@ -7,7 +7,7 @@
 | float b\[3\];       | 3 elementowa tablica liczb typu float                                                                                               | 12                              |
 | char \*c;           | wskaźnik na zmienną typu char                                                                                                       | 4                               |
 | int \*d\[3\];       | 3 elementowa tablica wskaźników na zmienną typu int                                                                                 | 12                              |
-| short (\*e)\[3\];   | 3 elementowa tablica wskaźników na zmienną typu short                                                                               | 12                              |
+| short (\*e)\[3\];   | Wskaźnik na 3 elementowa tablicę typu short                                                                                         | 4                               |
 | int \*(\*f)\[5\];   | wskaźnik na 5 elementową tablicę wskaźników na liczby typu int                                                                      | 4                               |
 | char \*text;        | wskaźnik na początek (pierwszy znak) łańcucha znaków                                                                                | 4                               |
 | int tab\[5\];       | 5 elementowa tablica zmiennych typu int                                                                                             | 20                              |
@@ -129,4 +129,7 @@
    
 
 
+
+& - operator adresowania
+\* - operator wyłuskania
 

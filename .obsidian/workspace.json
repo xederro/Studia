@@ -11,8 +11,13 @@
             "id": "ebe8d851c0d2b5db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 343.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -91,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md"
+              }
             }
           },
           {
