@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "96bb33ec715de094",
+        "id": "505eb1cb495078e2",
         "type": "tabs",
         "children": [
           {
-            "id": "ae56d4942ce8b88f",
+            "id": "f19356176589422e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.md",
+                "file": "Notatki/Filozofia/Wykłady/Wykład 5/Wykład 5.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 343.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -97,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.md"
+                "file": "Notatki/Filozofia/Wykłady/Wykład 5/Wykład 5.md"
               }
             }
           },
@@ -124,17 +125,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ae56d4942ce8b88f",
+  "active": "f19356176589422e",
   "lastOpenFiles": [
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Filozofia/Wykłady/Wykład 5/Wykład 5.md",
+    "README.md",
+    "Notatki/Filozofia/Wykłady/Wykłady.md",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.md",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Drawing 2022-11-22 13.13.17.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 7/ALGA-Wyklad_08.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 6/ALGA-Wyklad_07.pdf",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 7_8-2021.pdf",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md"
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 6/ALGA-Wyklad_07.pdf"
   ]
 }
