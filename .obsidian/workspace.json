@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "91a6e021afa92e37",
+        "id": "96bb33ec715de094",
         "type": "tabs",
         "children": [
           {
-            "id": "ebe8d851c0d2b5db",
+            "id": "ae56d4942ce8b88f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5,
-    "collapsed": true
+    "width": 343.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md"
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.md"
               }
             }
           },
@@ -125,8 +124,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ebe8d851c0d2b5db",
+  "active": "ae56d4942ce8b88f",
   "lastOpenFiles": [
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Drawing 2022-11-22 13.13.17.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 7/ALGA-Wyklad_08.pdf",
@@ -135,7 +135,6 @@
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 7_8-2021.pdf",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykład 6/2020_W06_funkcje_parametry.pdf"
+    "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md"
   ]
 }

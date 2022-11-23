@@ -18,6 +18,12 @@ wypisać jako %p na 16 zamieni
 
 */
 
+char C = 'A';
+int I = -1135;
+long L = 123891246;
+float F = 123.45602;
+double D = 123.4567890000009;
+
 void Wczytywanie(char(&str)[N]) {
     cout << "Wbisz zdanie:\n";
     cin.ignore();
@@ -72,8 +78,40 @@ char* Zadanie3UsuwanieKometarzy(char(&str)[N]) {
     return str;
 }
 
+template <typename T>
+void Zadanie4WypisywanieBajtow(T* x) {
+    for (int i = 0; i < sizeof(T); i++) {
+        printf("0x%02x ", *(((char*)x) + i));
+    }
+    printf("\n");
+}
+
+void WypiszZadanie4(char& c, int& i, long& l, float& f, double& d) {
+    printf("Char: %p\tsizeof(char): %d\twartosc: %c\t Bajty: ", &c, sizeof(c), c);
+    Zadanie4WypisywanieBajtow(&c);
+    printf("Int: %p\tsizeof(int): %d\twartosc: %d\t Bajty: ", &i, sizeof(i), i);
+    Zadanie4WypisywanieBajtow(&i);
+    printf("Long: %p\tsizeof(long): %d\twartosc: %ld\t Bajty: ", &l, sizeof(l), l);
+    Zadanie4WypisywanieBajtow(&l);
+    printf("Float: %p\tsizeof(float): %d\twartosc: %f\t Bajty: ", &f, sizeof(f), f);
+    Zadanie4WypisywanieBajtow(&f);
+    printf("Double: %p\tsizeof(double): %d\twartosc: %lf\t Bajty: ", &d, sizeof(d), d);
+    Zadanie4WypisywanieBajtow(&d);
+
+}
 
 void zadanie4() {
+    char c = 'z';
+    int i = 346;
+    long l = 13469134;
+    float f = .00000123456;
+    double d = 123456789.123456789;
+
+    cout << "Globalne:" << endl;
+    WypiszZadanie4(C, I, L, F, D);
+
+    cout << "Lokalne:" << endl;
+    WypiszZadanie4(c, i, l, f, d);
 
 }
 
@@ -111,7 +149,6 @@ int main() {
             /*
                 Zadanie 3
             */
-            //test komentarza 2 /* abecadlo */ z pieca spadlo
             char str[N];
             Wczytywanie(str);
             char(*str2)[N] = (char(*)[N])Zadanie3UsuwanieKometarzy(str); //zamiana wskaźnika na char na wskaźnik na tablice charów
@@ -122,7 +159,7 @@ int main() {
             /*
                 Zadanie 4
             */
-            // zadanie4();
+            zadanie4();
             break;
 
         default:
