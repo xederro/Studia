@@ -30692,7 +30692,14 @@ var ObsidianGit = class extends import_obsidian23.Plugin {
         if (checking) {
           return file !== null;
         } else {
-          (_a2 = getNewLeaf()) == null ? void 0 : _a2.setViewState({ type: DIFF_VIEW_CONFIG.type, state: { staged: false, file: file.path } });
+          (_a2 = getNewLeaf()) == null ? void 0 : _a2.setViewState({
+            type: DIFF_VIEW_CONFIG.type,
+            active: true,
+            state: {
+              staged: false,
+              file: file.path
+            }
+          });
         }
       }
     });
