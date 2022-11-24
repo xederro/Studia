@@ -3,19 +3,21 @@
 
 ![[Labolatoria4.1.cpp]]![[Labolatoria4.1.exe]]![[Labolatoria4.2.cpp]]![[Labolatoria4.2.exe]]![[Labolatorium 4.cpp]]![[Labolatorium 4.exe]]
 
-| Zmienna  | $\vdots$ | $\vdots$           |
+| Zmienna  | Koniec Adresu | Początek Adresu           |
 | -------- | -------- | ------------------ |
+|          | $\vdots$ | $\vdots$           |
 | GLOBALNE |          |                    |
 |          | $\vdots$ | $\vdots$           |
 |          | XX       | 0x00007ff7e27190XX |
+|          | $\vdots$ | $\vdots$           |
 | Char     | 10       | 0x41               |
 |          | 11       |                    |
 |          | 12       |                    |
 |          | 13       |                    |
-| Int      | 14       | 0xffffff91         |
+| Short    | 14       | 0xffffff91         |
 |          | 15       | 0xfffffffb         |
-|          | 16       | 0xffffffff         |
-|          | 17       | 0xffffffff         |
+|          | 16       |                    |
+|          | 17       |                    |
 | Long     | 18       | 0x2e               |
 |          | 19       | 0x6e               |
 |          | 1A       | 0x62               |
@@ -36,6 +38,7 @@
 | LOKALNE  |          |                    |
 |          | $\vdots$ | $\vdots$           |
 |          | XXX      | 000000b72b3ffXXX   |
+|          | $\vdots$ | $\vdots$           |
 | Double   | A88      | 0x75               |
 |          | A89      | 0x6b               |
 |          | A8A      | 0x7e               |
@@ -52,23 +55,15 @@
 |          | A95      | 0xffffff85         |
 |          | A96      | 0xffffffcd         |
 |          | A97      | 0x00               |
-| Int      | A98      | 0x5a               |
+| Short    | A98      | 0x5a               |
 |          | A99      | 0x01               |
-|          | A9A      | 0x00               |
-|          | A9B      | 0x00               |
+|          | A9A      |                    |
+|          | A9B      |                    |
 | Char     | A9C      | 0x7a               |
 |          | A9D      |                    |
 |          | A9E      |                    |
 |          | A9F      |                    |
 |          | B00      |                    |
-|          |          |                    |
 |          | $\vdots$ | $\vdots$           |
-
-
-
-Char: 000000b72b3ffa9f Bajty: 0x7a 
-Int: 000000b72b3ffa98 Bajty: 0x5a 0x01 0x00 0x00 
-Long: 000000b72b3ffa94 Bajty: 0xffffffce 0xffffff85 0xffffffcd 0x00 
-Float: 000000b72b3ffa90 Bajty: 0x29 0xffffffb3 0xffffffa5 0x35 
 
 

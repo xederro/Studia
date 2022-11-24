@@ -19,7 +19,7 @@ wypisać jako %p na 16 zamieni
 */
 
 char C = 'A';
-int I = -1135;
+short I = -1135;
 long L = 123891246;
 float F = 123.45602;
 double D = 123.4567890000009;
@@ -86,10 +86,10 @@ void Zadanie4WypisywanieBajtow(T* x) {
     printf("\n");
 }
 
-void WypiszZadanie4(char& c, int& i, long& l, float& f, double& d) {
+void WypiszZadanie4(char& c, short& i, long& l, float& f, double& d) {
     printf("Char: %p\tsizeof(char): %d\twartosc: %c\t Bajty: ", &c, sizeof(c), c);
     Zadanie4WypisywanieBajtow(&c);
-    printf("Int: %p\tsizeof(int): %d\twartosc: %d\t Bajty: ", &i, sizeof(i), i);
+    printf("Short: %p\tsizeof(int): %d\twartosc: %d\t Bajty: ", &i, sizeof(i), i);
     Zadanie4WypisywanieBajtow(&i);
     printf("Long: %p\tsizeof(long): %d\twartosc: %ld\t Bajty: ", &l, sizeof(l), l);
     Zadanie4WypisywanieBajtow(&l);
@@ -100,23 +100,18 @@ void WypiszZadanie4(char& c, int& i, long& l, float& f, double& d) {
 
 }
 
-void zadanie4() {
-    char c = 'z';
-    int i = 346;
-    long l = 13469134;
-    float f = .00000123456;
-    double d = 123456789.123456789;
-
-    cout << "Globalne:" << endl;
-    WypiszZadanie4(C, I, L, F, D);
-
-    cout << "Lokalne:" << endl;
-    WypiszZadanie4(c, i, l, f, d);
-
+void ZmienWskaznikiemZadanie4(char* c, short* i, long* l, float* f, double* d) {
+    *c = rand() % 26 + 65;
+    *i = rand() % 10000 - 5000;
+    *l = rand() % 1000000000;
+    *f = (rand() * (1.0 / RAND_MAX)) * 1000;
+    *d = (rand() * (1.0 / RAND_MAX)) * 1000000;
 }
 
 
+
 int main() {
+    srand(time(NULL));
 
     // OBOWIAZKOWY wydruk danych autora
     cout << "Autor: Dawid Jablonski (WT/N 11:15)\n";
@@ -156,11 +151,48 @@ int main() {
             break;
         }
         case 3:
+        {
             /*
                 Zadanie 4
             */
-            zadanie4();
-            break;
+            char c = 'z';
+            short i = 346;
+            long l = 13469134;
+            float f = .00000123456;
+            double d = 123456789.123456789;
+
+            cout << "Globalne:" << endl;
+            WypiszZadanie4(C, I, L, F, D);
+
+            cout << "Lokalne:" << endl;
+            WypiszZadanie4(c, i, l, f, d);
+
+            ZmienWskaznikiemZadanie4(&C, &I, &L, &F, &D);
+            ZmienWskaznikiemZadanie4(&c, &i, &l, &f, &d);
+
+            cout << "Globalne:" << endl;
+            WypiszZadanie4(C, I, L, F, D);
+
+            cout << "Lokalne:" << endl;
+            WypiszZadanie4(c, i, l, f, d);
+
+            &C + 8
+
+
+
+
+
+
+
+
+                cout << "Globalne:" << endl;
+            WypiszZadanie4(C, I, L, F, D);
+
+            cout << "Lokalne:" << endl;
+            WypiszZadanie4(c, i, l, f, d);
+        }
+
+        break;
 
         default:
             printf("Zly Wybor");
