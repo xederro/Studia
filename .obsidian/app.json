@@ -4,5 +4,11 @@
   "spellcheckLanguages": null,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./",
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

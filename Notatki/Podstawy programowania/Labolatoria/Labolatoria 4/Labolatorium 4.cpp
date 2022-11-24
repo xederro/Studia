@@ -176,16 +176,26 @@ int main() {
             cout << "Lokalne:" << endl;
             WypiszZadanie4(c, i, l, f, d);
 
-            &C + 8
+            *(&I + 6) = rand() % 10000 - 5000; // zmiana części zmiennej
+            *(&D - 1) = (rand() * (1.0 / RAND_MAX)) * 1000000; // zmiana 2 zmiennych naraz
+            *((long*)(&C + 4)) = rand() % 10000 - 5000;
+            *((char*)(&L - 2)) = rand() % 26 + 65;
 
 
+            *(&f + 3) = rand() % 10000 - 5000;// zapis złego typu do innej zmiennej
+            *((short*)((int*)(&d + 1) + 2)) = rand() % 10000 - 5000;
+            *(&l - 1) = rand() % 10000 - 5000;
 
+            *(char*)(&d) = rand() % 26 + 65; // zmiana zmiennej bajt po bajcie
+            *(char*)(&d + 1) = rand() % 26 + 65; // zmiana zmiennej bajt po bajcie
+            *(char*)(&d + 2) = rand() % 26 + 65; // zmiana zmiennej bajt po bajcie
+            *(char*)(&d + 3) = rand() % 26 + 65; // zmiana zmiennej bajt po bajcie
+            *(char*)(&d + 4) = rand() % 26 + 65; // zmiana zmiennej bajt po bajcie
+            *(char*)(&d + 5) = rand() % 26 + 65; // zmiana zmiennej bajt po bajcie
+            *(char*)(&d + 6) = rand() % 26 + 65; // zmiana zmiennej bajt po bajcie
+            *(char*)(&d + 7) = rand() % 26 + 65; // zmiana zmiennej bajt po bajcie
 
-
-
-
-
-                cout << "Globalne:" << endl;
+            cout << "Globalne:" << endl;
             WypiszZadanie4(C, I, L, F, D);
 
             cout << "Lokalne:" << endl;
