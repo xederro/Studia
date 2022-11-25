@@ -1,14 +1,13 @@
 /*
 Autor:  Dawid Jabłoński
 Grupa:  WT/N 11.15
-Tytul:  Zadania Laboratorium 4
+Tytul:  Zadanie 1 Laboratorium 4
 Data:   22 listopada 2022r.
 */
 
 #include <stdio.h>
 
 using namespace std;
-
 
 void CzytajRownanie(float& a, float& b, float& c);
 void WypiszRozwiazanie(int N, float x, float y);

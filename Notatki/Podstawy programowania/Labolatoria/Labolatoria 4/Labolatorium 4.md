@@ -65,3 +65,5 @@
 |          | A9F      |                    |
 |          | B00      |                    |
 |          | $\vdots$ | $\vdots$           |
+
+[[Tablica_Pamięci.png]]

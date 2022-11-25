@@ -11,105 +11,20 @@ Data:   22 listopada 2022r.
 
 using namespace std;
 
-/*
-
-4.
-wypisać jako %p na 16 zamieni
-
-*/
-
 char C = 'A';
 short I = -1135;
 long L = 123891246;
 float F = 123.45602;
 double D = 123.4567890000009;
 
-void Wczytywanie(char(&str)[N]) {
-    cout << "Wbisz zdanie:\n";
-    cin.ignore();
-    cin.getline(str, N);
-}
-
-void Wypisywanie(char str[N]) {
-    for (char i = 0; str[i] != 0; i++) {
-        cout << str[i];
-    }
-}
-
-int Zadanie2UsuwanieLiczb(char(&str)[N]) {
-    int count = 0;
-    for (char i = 0; str[i - count] != 0; i++) {
-        if (str[i - count] >= '0' && str[i - count] <= '9') {
-            for (char k = i - count; str[k] != 0; k++) {
-                str[k] = str[k + 1];
-            }
-            count++;
-        }
-    }
-
-    return count;
-}
-
-
-char* Zadanie3UsuwanieKometarzy(char(&str)[N]) {
-    for (char i = 0; str[i] != 0; i++) {
-        if (str[i] == '/' && str[i + 1] == '/') {
-            str[i] = 0;
-            break;
-        }
-        else if (str[i] == '/' && str[i + 1] == '*') {
-            int koniec = -1;
-            for (char k = i + 2; str[k] != 0; k++) {
-                if (str[k] == '*' && str[k + 1] == '/') {
-                    koniec = k + 2;
-                    break;
-                }
-            }
-            if (koniec != -1) {
-                for (char k = i; str[koniec] != 0; k++) {
-                    str[k] = str[koniec];
-                    koniec++;
-                }
-            }
-            else {
-                str[i] = 0;
-                break;
-            }
-        }
-    }
-
-    return str;
-}
-
+void Wczytywanie(char(&str)[N]);
+void Wypisywanie(char str[N]);
+int Zadanie2UsuwanieLiczb(char(&str)[N]);
+char* Zadanie3UsuwanieKometarzy(char(&str)[N]);
 template <typename T>
-void Zadanie4WypisywanieBajtow(T* x) {
-    for (int i = 0; i < sizeof(T); i++) {
-        printf("0x%02x ", *(((char*)x) + i));
-    }
-    printf("\n");
-}
-
-void WypiszZadanie4(char& c, short& i, long& l, float& f, double& d) {
-    printf("Char: %p\tsizeof(char): %d\twartosc: %c\t Bajty: ", &c, sizeof(c), c);
-    Zadanie4WypisywanieBajtow(&c);
-    printf("Short: %p\tsizeof(int): %d\twartosc: %d\t Bajty: ", &i, sizeof(i), i);
-    Zadanie4WypisywanieBajtow(&i);
-    printf("Long: %p\tsizeof(long): %d\twartosc: %ld\t Bajty: ", &l, sizeof(l), l);
-    Zadanie4WypisywanieBajtow(&l);
-    printf("Float: %p\tsizeof(float): %d\twartosc: %f\t Bajty: ", &f, sizeof(f), f);
-    Zadanie4WypisywanieBajtow(&f);
-    printf("Double: %p\tsizeof(double): %d\twartosc: %lf\t Bajty: ", &d, sizeof(d), d);
-    Zadanie4WypisywanieBajtow(&d);
-
-}
-
-void ZmienWskaznikiemZadanie4(char* c, short* i, long* l, float* f, double* d) {
-    *c = rand() % 26 + 65;
-    *i = rand() % 10000 - 5000;
-    *l = rand() % 1000000000;
-    *f = (rand() * (1.0 / RAND_MAX)) * 1000;
-    *d = (rand() * (1.0 / RAND_MAX)) * 1000000;
-}
+void Zadanie4WypisywanieBajtow(T* x);
+void WypiszZadanie4(char& c, short& i, long& l, float& f, double& d);
+void ZmienWskaznikiemZadanie4(char* c, short* i, long* l, float* f, double* d);
 
 
 
@@ -214,4 +129,91 @@ int main() {
     } while (wybor != 0);
 
     return 0;
+}
+
+void Wczytywanie(char(&str)[N]) {
+    cout << "Wbisz zdanie:\n";
+    cin.ignore();
+    cin.getline(str, N);
+}
+
+void Wypisywanie(char str[N]) {
+    for (char i = 0; str[i] != 0; i++) {
+        cout << str[i];
+    }
+}
+
+int Zadanie2UsuwanieLiczb(char(&str)[N]) {
+    int count = 0;
+    for (char i = 0; str[i - count] != 0; i++) {
+        if (str[i - count] >= '0' && str[i - count] <= '9') {
+            for (char k = i - count; str[k] != 0; k++) {
+                str[k] = str[k + 1];
+            }
+            count++;
+        }
+    }
+
+    return count;
+}
+
+
+char* Zadanie3UsuwanieKometarzy(char(&str)[N]) {
+    for (char i = 0; str[i] != 0; i++) {
+        if (str[i] == '/' && str[i + 1] == '/') {
+            str[i] = 0;
+            break;
+        }
+        else if (str[i] == '/' && str[i + 1] == '*') {
+            int koniec = -1;
+            for (char k = i + 2; str[k] != 0; k++) {
+                if (str[k] == '*' && str[k + 1] == '/') {
+                    koniec = k + 2;
+                    break;
+                }
+            }
+            if (koniec != -1) {
+                for (char k = i; str[koniec] != 0; k++) {
+                    str[k] = str[koniec];
+                    koniec++;
+                }
+            }
+            else {
+                str[i] = 0;
+                break;
+            }
+        }
+    }
+
+    return str;
+}
+
+template <typename T>
+void Zadanie4WypisywanieBajtow(T* x) {
+    for (int i = 0; i < sizeof(T); i++) {
+        printf("0x%02x ", *(((char*)x) + i));
+    }
+    printf("\n");
+}
+
+void WypiszZadanie4(char& c, short& i, long& l, float& f, double& d) {
+    printf("Char: %p\tsizeof(char): %d\twartosc: %c\t Bajty: ", &c, sizeof(c), c);
+    Zadanie4WypisywanieBajtow(&c);
+    printf("Short: %p\tsizeof(int): %d\twartosc: %d\t Bajty: ", &i, sizeof(i), i);
+    Zadanie4WypisywanieBajtow(&i);
+    printf("Long: %p\tsizeof(long): %d\twartosc: %ld\t Bajty: ", &l, sizeof(l), l);
+    Zadanie4WypisywanieBajtow(&l);
+    printf("Float: %p\tsizeof(float): %d\twartosc: %f\t Bajty: ", &f, sizeof(f), f);
+    Zadanie4WypisywanieBajtow(&f);
+    printf("Double: %p\tsizeof(double): %d\twartosc: %lf\t Bajty: ", &d, sizeof(d), d);
+    Zadanie4WypisywanieBajtow(&d);
+
+}
+
+void ZmienWskaznikiemZadanie4(char* c, short* i, long* l, float* f, double* d) {
+    *c = rand() % 26 + 65;
+    *i = rand() % 10000 - 5000;
+    *l = rand() % 1000000000;
+    *f = (rand() * (1.0 / RAND_MAX)) * 1000;
+    *d = (rand() * (1.0 / RAND_MAX)) * 1000000;
 }
