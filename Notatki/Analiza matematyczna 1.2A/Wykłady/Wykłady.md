@@ -3,6 +3,8 @@
 2. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 2/Wykład 2|Wykład 2]]
 3. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 3/Wykład 3|Wykład 3]]
 4. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Wykład 4|Wykład 4]]
+5. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 5/Wykład 5|Wykład 5]]
+6. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 6/Wykład 6|Wykład 6]]
 
 ## Zaliczenie
 egzamin bez poprawki 
