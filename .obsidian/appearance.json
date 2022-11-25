@@ -1,7 +1,8 @@
 {
   "translucency": false,
-  "baseFontSize": 20,
-  "cssTheme": "",
+  "baseFontSize": 16,
+  "cssTheme": "Obsidian Nord",
   "accentColor": "#ff0000",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSizeAction": true
 }

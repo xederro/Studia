@@ -1,7 +1,8 @@
 {
-  "lastOpenLanguageTab": "python",
+  "lastOpenLanguageTab": "go",
   "timeout": 10000,
   "allowInput": true,
+  "wslMode": false,
   "nodePath": "node",
   "nodeArgs": "",
   "jsInject": "",
@@ -45,6 +46,7 @@
   "rustInject": "",
   "cppRunner": "cling",
   "cppInject": "",
+  "cppArgs": "",
   "cppUseMain": false,
   "clingPath": "cling",
   "clingArgs": "",
@@ -71,6 +73,9 @@
   "scalaArgs": "",
   "scalaFileExtension": "scala",
   "scalaInject": "",
+  "cArgs": "",
+  "cUseMain": true,
+  "cInject": "",
   "jsInteractive": true,
   "tsInteractive": false,
   "csInteractive": false,
@@ -89,5 +94,6 @@
   "kotlinInteractive": false,
   "mathematicaInteractive": true,
   "haskellInteractive": false,
-  "scalaInteractive": false
+  "scalaInteractive": false,
+  "cInteractive": false
 }

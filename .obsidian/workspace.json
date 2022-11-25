@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7f39185234c5daea",
+        "id": "ea2f1cf8bbcc856c",
         "type": "tabs",
         "children": [
           {
-            "id": "b99dcf927797da75",
+            "id": "010c6c533c53a3df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.md",
+                "file": "README.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": false
               }
             }
@@ -97,16 +97,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.md"
+                "file": "README.md"
               }
-            }
-          },
-          {
-            "id": "0cd3a86e8a6d12fa",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -116,25 +108,55 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "615092184829cef3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1bdc2042d024876",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "b99dcf927797da75",
+  "active": "010c6c533c53a3df",
   "lastOpenFiles": [
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Tablica_Pamięci.png",
-    "Excalidraw/Drawing 2022-11-25 19.43.20.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 7/Wykład 7.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Drawing 2022-11-04 12.38.30.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Drawing 2022-11-04 11.16.50.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Filozofia/Wykłady/Wykład 5/Wykład 5.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 5/Materia_y_dodatkowe_z_dB_Piotr_Komur_Kalkulator_decybelowy_Elektronika_Praktyczna_ (1).pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 5/Wykład 5.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Miernictwo w informatyce i telekomunikacji.md",
+    "README.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 7/Drawing 2022-11-25 12.52.08.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 7/ALGA_zestaw_07.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 7/Drawing 2022-11-25 17.46.56.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 6/Drawing 2022-11-24 16.13.35.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 5/ALGA_zestaw_05.pdf"
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 7/Wykład 7.md"
   ]
 }
