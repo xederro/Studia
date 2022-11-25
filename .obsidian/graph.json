@@ -62,11 +62,18 @@
         "a": 1,
         "rgb": 11621088
       }
+    },
+    {
+      "query": "path:\"Notatki/Inne\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
-  "textFadeMultiplier": 0.2,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 2.43819444444444,
   "lineSizeMultiplier": 2.71041666666667,
   "collapse-forces": false,
@@ -74,6 +81,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.030182895067324182,
+  "scale": 0.02002201050731047,
   "close": true
 }

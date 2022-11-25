@@ -38,12 +38,11 @@ void Wypisywanie(char str[N]) {
 
 int Zadanie2UsuwanieLiczb(char(&str)[N]) {
     int count = 0;
-    for (char i = 0; str[i] != 0; i++) {
-        if (str[i] > '0' && str[i] < '9') {
-            for (char k = i; str[k] != 0; k++) {
+    for (char i = 0; str[i - count] != 0; i++) {
+        if (str[i - count] >= '0' && str[i - count] <= '9') {
+            for (char k = i - count; str[k] != 0; k++) {
                 str[k] = str[k + 1];
             }
-            i--; // jezeli cofnie wszystkie liczby o 1 to pusi sprawdzic jeszcze raz ten sam index
             count++;
         }
     }
@@ -59,18 +58,22 @@ char* Zadanie3UsuwanieKometarzy(char(&str)[N]) {
             break;
         }
         else if (str[i] == '/' && str[i + 1] == '*') {
-            do
-            {
-                for (char k = i; str[k] != 0; k++) {
-                    str[k] = str[k + 1];
+            int koniec = -1;
+            for (char k = i + 2; str[k] != 0; k++) {
+                if (str[k] == '*' && str[k + 1] == '/') {
+                    koniec = k + 2;
+                    break;
                 }
-            } while (!(str[i] == '*' && str[i + 1] == '/'));
-
-            for (char k = 2; k; k--)
-            {
-                for (char k = i; str[k] != 0; k++) {
-                    str[k] = str[k + 1];
+            }
+            if (koniec != -1) {
+                for (char k = i; str[koniec] != 0; k++) {
+                    str[k] = str[koniec];
+                    koniec++;
                 }
+            }
+            else {
+                str[i] = 0;
+                break;
             }
         }
     }

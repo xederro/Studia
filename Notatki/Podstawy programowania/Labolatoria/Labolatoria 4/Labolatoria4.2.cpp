@@ -75,18 +75,18 @@ int ObliczRozwiazanie(float a1, float b1, float c1, float a2, float b2, float c2
     float wyznacznikX = ObliczWyznacznik(c1, b1, c2, b2);
     float wyznacznikY = ObliczWyznacznik(a1, c1, a2, c2);
 
-    if (wyznacznik != 0) // gdy różne 0
+    if (wyznacznik != 0) // 1 rozwiazanie
     {
         *x = wyznacznikX / wyznacznik;
         *y = wyznacznikY / wyznacznik;
         return 1;
     }
 
-    if (wyznacznikX == 0 && wyznacznikY == 0) {
+    if (wyznacznikX == 0 && wyznacznikY == 0) {// nieskończenie wiele rozwiązań
         return 2;
     }
 
-    if (wyznacznikX != 0 && wyznacznikY != 0) {
+    if (wyznacznikX != 0 && wyznacznikY != 0) { // brak rozwiązań
         return 0;
     }
 
