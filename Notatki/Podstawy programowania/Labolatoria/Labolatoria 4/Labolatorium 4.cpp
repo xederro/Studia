@@ -1,7 +1,7 @@
 /*
 Autor:  Dawid Jabłoński
 Grupa:  WT/N 11.15
-Tytul:  Zadania Laboratorium 4
+Tytul:  Zadanie 2,3,4 z Laboratorium 4
 Data:   22 listopada 2022r.
 */
 
@@ -53,7 +53,8 @@ int main() {
             */
             char str[N];
             Wczytywanie(str);
-            Zadanie2UsuwanieLiczb(str);
+            int n = Zadanie2UsuwanieLiczb(str);
+            printf("Usunieto %d liczb\n", n);
             Wypisywanie(str);
             break;
         }

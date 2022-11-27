@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,15 +148,15 @@
   },
   "active": "010c6c533c53a3df",
   "lastOpenFiles": [
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Drawing 2022-11-04 12.38.30.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Drawing 2022-11-04 11.16.50.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Filozofia/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 5/Materia_y_dodatkowe_z_dB_Piotr_Komur_Kalkulator_decybelowy_Elektronika_Praktyczna_ (1).pdf",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Miernictwo w informatyce i telekomunikacji.md",
-    "README.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 7/Drawing 2022-11-25 12.52.08.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 7/Wykład 7.md"
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Lista_5_AM1.pdf",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 6/Drawing 2022-11-24 17.25.46.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 6/Pasted Image 20221124172549_279.png",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Drawing 2022-11-18 16.05.14.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Drawing 2022-11-24 16.54.15.excalidraw.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 5/ALGA_zestaw_05.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 5/Drawing 2022-11-18 17.12.04.excalidraw.md",
+    "README.md"
   ]
 }
