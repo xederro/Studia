@@ -7,20 +7,20 @@ Data:   22 listopada 2022r.
 
 #include <iostream>
 
-#define N 250
+#define N 100
 
 using namespace std;
 
-char C = 'A';
-short I = -1135;
-long L = 123891246;
-float F = 123.45602;
-double D = 123.4567890000009;
+char C;
+short I;
+long L;
+float F;
+double D;
 
-void Wczytywanie(char(&str)[N]);
-void Wypisywanie(char str[N]);
-int Zadanie2UsuwanieLiczb(char(&str)[N]);
-char* Zadanie3UsuwanieKometarzy(char(&str)[N]);
+void Wczytywanie(char(*str));
+void Wypisywanie(char str[N], unsigned long long n);
+int Zadanie2UsuwanieLiczb(char(*str));
+char* Zadanie3UsuwanieKometarzy(char(*str));
 template <typename T>
 void Zadanie4WypisywanieBajtow(T* x);
 void WypiszZadanie4(char& c, short& i, long& l, float& f, double& d);
@@ -32,19 +32,19 @@ int main() {
     srand(time(NULL));
 
     // OBOWIAZKOWY wydruk danych autora
-    cout << "Autor: Dawid Jablonski (WT/N 11:15)\n";
+    printf("Autor: Dawid Jablonski (WT/N 11:15)\n");
 
     // wybór zadania
     unsigned short int wybor = 0;
     do
     {
-        cout << "\n0- Wyjscie z programu\n1- Zadanie 2\n2- Zadanie 3\n3- Zadanie 4\n\n";
-        cin >> wybor;
+        printf("\n0- Wyjscie z programu\n1- Zadanie 2\n2- Zadanie 3\n3- Zadanie 4\n\n");
+        scanf("%hhd", &wybor);
 
         switch (wybor)
         {
         case 0:
-            cout << "Do widzenia";
+            printf("Do widzenia");
             break;
         case 1:
         {
@@ -53,9 +53,7 @@ int main() {
             */
             char str[N];
             Wczytywanie(str);
-            int n = Zadanie2UsuwanieLiczb(str);
-            printf("Usunieto %d liczb\n", n);
-            Wypisywanie(str);
+            Wypisywanie(str, (unsigned long long)Zadanie2UsuwanieLiczb(str));
             break;
         }
         case 2:
@@ -65,8 +63,7 @@ int main() {
             */
             char str[N];
             Wczytywanie(str);
-            char(*str2)[N] = (char(*)[N])Zadanie3UsuwanieKometarzy(str); //zamiana wskaźnika na char na wskaźnik na tablice charów
-            Wypisywanie(*str2); // lub Wypisywanie(str);
+            Wypisywanie(str, (unsigned long long)Zadanie3UsuwanieKometarzy(str)); // lub Wypisywanie(str);
             break;
         }
         case 3:
@@ -74,25 +71,38 @@ int main() {
             /*
                 Zadanie 4
             */
-            char c = 'z';
-            short i = 346;
-            long l = 13469134;
-            float f = .00000123456;
-            double d = 123456789.123456789;
+            char c;
+            short i;
+            long l;
+            float f;
+            double d;
 
-            cout << "Globalne:" << endl;
+            c = 'z';
+            i = 346;
+            l = 13469134;
+            f = .00000123456;
+            d = 123456789.123456789;
+
+            C = 'A';
+            I = -1135;
+            L = 123891246;
+            F = 123.45602;
+            D = 123.4567890000009;
+
+
+            printf("Globalne:\n");
             WypiszZadanie4(C, I, L, F, D);
 
-            cout << "Lokalne:" << endl;
+            printf("Lokalne:\n");
             WypiszZadanie4(c, i, l, f, d);
 
             ZmienWskaznikiemZadanie4(&C, &I, &L, &F, &D);
             ZmienWskaznikiemZadanie4(&c, &i, &l, &f, &d);
 
-            cout << "Globalne:" << endl;
+            printf("Globalne:\n");
             WypiszZadanie4(C, I, L, F, D);
 
-            cout << "Lokalne:" << endl;
+            printf("Lokalne:\n");
             WypiszZadanie4(c, i, l, f, d);
 
             *(&I + 6) = rand() % 10000 - 5000; // zmiana części zmiennej
@@ -114,10 +124,10 @@ int main() {
             *(char*)(&d + 6) = rand() % 26 + 65; // zmiana zmiennej bajt po bajcie
             *(char*)(&d + 7) = rand() % 26 + 65; // zmiana zmiennej bajt po bajcie
 
-            cout << "Globalne:" << endl;
+            printf("Globalne:\n");
             WypiszZadanie4(C, I, L, F, D);
 
-            cout << "Lokalne:" << endl;
+            printf("Lokalne:\n");
             WypiszZadanie4(c, i, l, f, d);
         }
 
@@ -132,19 +142,29 @@ int main() {
     return 0;
 }
 
-void Wczytywanie(char(&str)[N]) {
-    cout << "Wbisz zdanie:\n";
-    cin.ignore();
-    cin.getline(str, N);
+void Wczytywanie(char(*str)) {
+    printf("Wbisz zdanie:\n");
+
+    // cin.ignore();
+    char c;
+    do
+    {
+        c = getchar();  //ignorujemy znak nowej linii który został w buforze po menu
+    } while (c != '\n');
+
+
+    // cin.getline(str, N);
+    fgets(str, N, stdin);
 }
 
-void Wypisywanie(char str[N]) {
+void Wypisywanie(char str[N], unsigned long long n) {
     for (char i = 0; str[i] != 0; i++) {
-        cout << str[i];
+        printf("%c", str[i]);
     }
+    printf("\nFunkcja zwraca: %d\n", n);
 }
 
-int Zadanie2UsuwanieLiczb(char(&str)[N]) {
+int Zadanie2UsuwanieLiczb(char(*str)) {
     int count = 0;
     for (char i = 0; str[i - count] != 0; i++) {
         if (str[i - count] >= '0' && str[i - count] <= '9') {
@@ -159,24 +179,26 @@ int Zadanie2UsuwanieLiczb(char(&str)[N]) {
 }
 
 
-char* Zadanie3UsuwanieKometarzy(char(&str)[N]) {
+char* Zadanie3UsuwanieKometarzy(char(*str)) {
     for (char i = 0; str[i] != 0; i++) {
         if (str[i] == '/' && str[i + 1] == '/') {
             str[i] = 0;
             break;
         }
         else if (str[i] == '/' && str[i + 1] == '*') {
-            int koniec = -1;
+            char dlKometarza = 0;
             for (char k = i + 2; str[k] != 0; k++) {
                 if (str[k] == '*' && str[k + 1] == '/') {
-                    koniec = k + 2;
+                    dlKometarza = k - i + 2;
                     break;
                 }
             }
-            if (koniec != -1) {
-                for (char k = i; str[koniec] != 0; k++) {
-                    str[k] = str[koniec];
-                    koniec++;
+            if (dlKometarza != 0) {
+                for (char j = 0; j < dlKometarza; j++)
+                {
+                    for (char k = i; str[k] != 0; k++) {
+                        str[k] = str[k + 1];
+                    }
                 }
             }
             else {
