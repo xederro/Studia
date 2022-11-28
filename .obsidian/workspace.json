@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ea2f1cf8bbcc856c",
+        "id": "dc654fc2104964f9",
         "type": "tabs",
         "children": [
           {
-            "id": "010c6c533c53a3df",
+            "id": "b5ce9a17be87a7c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.md"
+                "file": "README.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "010c6c533c53a3df",
+  "active": "b5ce9a17be87a7c0",
   "lastOpenFiles": [
+    "README.md",
+    "Sylabus.pdf",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Lista_5_AM1.pdf",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 6/Drawing 2022-11-24 17.25.46.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 6/Pasted Image 20221124172549_279.png",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Drawing 2022-11-18 16.05.14.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Drawing 2022-11-24 16.54.15.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 5/ALGA_zestaw_05.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 5/Drawing 2022-11-18 17.12.04.excalidraw.md",
-    "README.md"
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Drawing 2022-11-24 16.54.15.excalidraw.md"
   ]
 }

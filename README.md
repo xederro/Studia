@@ -2,6 +2,7 @@
 
 # Studia
 ## Spis treści
+### Semestr 1
 1. [[Algebra liniowa z geometrą analityczną]]
 2. [[Analiza matematyczna 1.2A]]
 3. [[Etyka inżynierka]]
@@ -13,10 +14,9 @@
 9. [[Inne]]
 
 
-```ad-danger
+
+```ad-info
 ![[Sylabus.pdf|Sylabus]]
 ```
-
+[[Sylabus.pdf|Sylabus]]
 [[symbols.pdf|Symbole]]
-
-
