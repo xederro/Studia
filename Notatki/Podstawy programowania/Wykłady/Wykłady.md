@@ -12,7 +12,7 @@
 mail \[pp\] - podstawy programowania w temacie
 konsultacje: pokój nr 321 / C-3 [konsultacje](prowadzący.eka.pwr.edu.pl) 
 Kolokwia zaliczeniowe: 
-- I. 5 grudnia 2022 
+- I. 5 grudnia 2022 - 15.15-16.00
 - II. 30 stycznia 2023
 
 [materiały dydaktyczne](http://marek.piasecki.staff.iiar.pwr.edu.pl/dydaktyka)

@@ -4,15 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "c3056967b854442b",
+        "id": "632868b125806cf8",
         "type": "tabs",
         "children": [
           {
-            "id": "b7cb4ac4d8abd202",
+            "id": "3a4ed11db0b79178",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6f3b8bea8cab959e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f55463b7d1dcf17",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 6/2020_W06_funkcje_parametry.pdf"
+              }
             }
           }
         ]
@@ -65,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 375.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -92,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Inne/Inne.md"
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md"
               }
             }
           },
@@ -110,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Inne/Inne.md",
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Inne/Inne.md",
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,17 +163,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "49d30ce6368bee01",
+  "active": "3a4ed11db0b79178",
   "lastOpenFiles": [
+    "Notatki/Podstawy programowania/Wykłady/Wykład 6/2020_W06_funkcje_parametry.pdf",
+    "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
+    "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md",
+    "Notatki/Podstawy programowania/Wykłady/Wykład 5/Wykład 5.md",
     "README.md",
     "Sylabus.pdf",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Lista_5_AM1.pdf",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 6/Drawing 2022-11-24 17.25.46.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 6/Pasted Image 20221124172549_279.png",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Drawing 2022-11-18 16.05.14.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Drawing 2022-11-24 16.54.15.excalidraw.md"
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md"
   ]
 }
