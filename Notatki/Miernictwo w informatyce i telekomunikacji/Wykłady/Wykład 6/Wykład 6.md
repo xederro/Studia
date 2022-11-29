@@ -109,4 +109,3 @@ dwa napięcia, mierzymy siły elektromotorowyczne
 Galwanometr pokazuje zero gdy jest równowaga napięć
 $U_{ac} = U_{bd}$ i $U_{ad} = U_{bc}$
 rezystancje przeciwstawnych rezystorów są równe gdy galwanometr 0
-
