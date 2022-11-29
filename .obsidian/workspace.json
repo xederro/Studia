@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7b1765f302a397d1",
+        "id": "772f24a2a8cc10b1",
         "type": "tabs",
         "children": [
           {
-            "id": "635149bdf3b94cd5",
+            "id": "23d22ade7e186439",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Wykład 5.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 215.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Wykład 5.md"
+                "file": "README.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Wykład 5.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Wykład 5.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "635149bdf3b94cd5",
+  "active": "23d22ade7e186439",
   "lastOpenFiles": [
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Drawing 2022-11-29 13.19.47.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
+    "README.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Wykład 5.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Drawing 2022-11-29 13.19.47.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/ALGA-Wyklad_06.pdf",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 7_8-2021.pdf",
-    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 2/Labolatoria 2.md",
-    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/Labolatoria 1.md"
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 7_8-2021.pdf"
   ]
 }

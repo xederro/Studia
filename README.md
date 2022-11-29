@@ -15,6 +15,8 @@
 
 
 
+
+# Przydatne
 ```ad-info
 ![[Sylabus.pdf|Sylabus]]
 ```
