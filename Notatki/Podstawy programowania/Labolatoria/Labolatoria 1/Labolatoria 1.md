@@ -1,5 +1,4 @@
 ![[Laboratorium_01_2021.pdf]]
-![[labolatoria 1.exe]]
 ![[labolatoria 1.cpp]]
 
 

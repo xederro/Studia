@@ -112,19 +112,17 @@ int wiersz, kolumna;
 
 2. a. 
    ![[cw2zad2a.cpp]]
-   ![[cw2zad2a.exe]]
+
 	b.
 	![[cw2zad2b.cpp]]
-	![[cw2zad2b.exe]]
 
 3. 
    ![[cw2zad3.cpp]]
-   ![[cw2zad3.exe]]
 
 
 4. 
    ![[cw2zad4.cpp]]
-   ![[cw2zad4.exe]]
+
 
 1. 
 	1. A2 = 10 

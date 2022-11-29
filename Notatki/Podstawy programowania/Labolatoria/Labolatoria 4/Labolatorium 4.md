@@ -1,7 +1,7 @@
 ![[Laboratorium 4_2021.pdf]]
 ![[row_kwa.cpp]]
 
-![[Labolatoria4.1a.cpp]]![[Labolatoria4.1a.exe]]![[Labolatoria4.1b.cpp]]![[Labolatoria4.1b.exe]]![[Labolatorium 4.cpp]]![[Labolatorium 4.exe]]
+![[Labolatoria4.1a.cpp]]![[Labolatoria4.1b.cpp]]![[Labolatorium 4.cpp]]
 
 | Zmienna  | Koniec Adresu | Początek Adresu    |
 | -------- | ------------- | ------------------ |
