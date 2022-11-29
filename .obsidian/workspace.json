@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8d620b67b3026841",
+        "id": "7b1765f302a397d1",
         "type": "tabs",
         "children": [
           {
-            "id": "3258b4b28a2ab33f",
+            "id": "635149bdf3b94cd5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Drawing 2022-11-29 13.19.47.excalidraw.md"
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Wykład 5.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -94,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Drawing 2022-11-29 13.19.47.excalidraw.md"
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Wykład 5.md"
               }
             }
           },
@@ -112,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Drawing 2022-11-29 13.19.47.excalidraw.md",
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Wykład 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Drawing 2022-11-29 13.19.47.excalidraw.md",
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Wykład 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +146,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3258b4b28a2ab33f",
+  "active": "635149bdf3b94cd5",
   "lastOpenFiles": [
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Drawing 2022-11-29 13.19.47.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Wykład 5.md",
