@@ -19,24 +19,22 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "6f3b8bea8cab959e",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "0f55463b7d1dcf17",
+            "id": "f700574590970cee",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 6/2020_W06_funkcje_parametry.pdf"
+                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 2/Labolatoria 2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5,
-    "collapsed": true
+    "width": 375.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -114,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md"
+                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 2/Labolatoria 2.md"
               }
             }
           },
@@ -132,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md",
+                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 2/Labolatoria 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md",
+                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 2/Labolatoria 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,11 +160,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "49d30ce6368bee01",
+  "active": "f700574590970cee",
   "lastOpenFiles": [
+    "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 6/2020_W06_funkcje_parametry.pdf",
     "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 5/Wykład 5.md",
     "README.md",
     "Sylabus.pdf",
