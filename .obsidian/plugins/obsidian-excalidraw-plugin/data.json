@@ -3,7 +3,7 @@
   "embedUseExcalidrawFolder": false,
   "templateFilePath": "Excalidraw/Template.excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",
-  "compress": true,
+  "compress": false,
   "autosave": true,
   "autosaveInterval": 15000,
   "drawingFilenamePrefix": "Drawing ",
