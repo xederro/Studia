@@ -4,37 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "632868b125806cf8",
+        "id": "8bfeba60c4f60ab6",
         "type": "tabs",
         "children": [
           {
-            "id": "3a4ed11db0b79178",
+            "id": "060fe6531709d529",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f700574590970cee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 2/Labolatoria 2.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 6.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "b331312cdc7002e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55f860568cac989a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 7_8-2021.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 375.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 2/Labolatoria 2.md"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 6.md"
               }
             }
           },
@@ -129,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 2/Labolatoria 2.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 2/Labolatoria 2.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,17 +163,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f700574590970cee",
+  "active": "060fe6531709d529",
   "lastOpenFiles": [
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 6.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 7_8-2021.pdf",
+    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 2/Labolatoria 2.md",
+    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/Labolatoria 1.md",
+    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 2/lab2_b.pdf",
+    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 6/2020_W06_funkcje_parametry.pdf",
-    "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykład 5/Wykład 5.md",
-    "README.md",
-    "Sylabus.pdf",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Lista_5_AM1.pdf",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md"
+    "Notatki/Podstawy programowania/Wykłady/Wykłady.md"
   ]
 }

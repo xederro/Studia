@@ -1,6 +1,9 @@
+![[lab2_b.pdf]]
+
+
 ![[lab_2b.pdf]]
 
-![[lab1_b_zadanie.pdf]]
+
 ```latex
 \input{header}
 \begin{document}

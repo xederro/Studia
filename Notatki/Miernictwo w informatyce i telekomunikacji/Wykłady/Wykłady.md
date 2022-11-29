@@ -15,7 +15,7 @@ preferuje kontakt mailowy
 
 - 5-10 minutowa kartkówka pod koniec może się zdarzyć
 - "+" za aktywność
-- kolokwium - I termin, nie pójdziesz nie masz 2 terminu
+- kolokwium - I termin, nie pójdziesz nie masz 2 terminu, na ostatnich zajęciach
 - dopytki ustne
 
 książki do miernictwa dowolna

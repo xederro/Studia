@@ -70,3 +70,43 @@ Każdą sieć elektryczną (a w szczególności zasilacz) można zastąpić rów
 5. Metoda węzłowa, zwana też metodą napięć węzłowych jest najczęściej stosowana (preferowane są źródła prądowe).  //lubiana
 6. Metoda graficzna. Stosowana jest szczególnie w przypadku układów zawierających elementy nieliniowe.
 
+# Pomiar napięcia
+
+## Wpływ voltomierza na napięcie źródła badanego
+Rezystancje wewnętrzne urządzeń wpisać do excela
+jeżeli miernik ma rozrzut 1% a poprawka ma 0.001% to nie ma po co jej pisać (rezystancja mierzona do urządzenia \* 100%)
+
+## Wpływ amperomierza
+jeżeli miernik ma rozrzut 1% a poprawka ma 0.001% to nie ma po co jej pisać (-rezystancja urządzenia do mierzonej \* 100%)
+
+#kolokwium {
+	wiedzieć o amperomierzach i voltomierzach, jak podłącza, rezystancja, co mierzy
+	obrazek/układ i wskazać który jest dobry a który nie
+	meta: 
+	przeliczanie decybeli
+}
+
+## Ohmomierz
+!bez zasialania!
+
+#kolokwium {
+$R_{gr} = \sqrt{R_A*R_V}$
+
+$Rx>R_{Gr}$ to pmp
+$Rx<R_{Gr}$ to pmp
+}
+
+#kolokwium zadania z eportalu bywają, ale częściej źródła
+
+# Metody zerowe
+## Metoda mostkowa
+jedno napięcie, mierzymy małe rezystancje, 
+
+## Metoda Kompensacyjna
+dwa napięcia, mierzymy siły elektromotorowyczne
+
+## Mostkowy układ pomiarowy
+Galwanometr pokazuje zero gdy jest równowaga napięć
+$U_{ac} = U_{bd}$ i $U_{ad} = U_{bc}$
+rezystancje przeciwstawnych rezystorów są równe gdy galwanometr 0
+
