@@ -180,6 +180,7 @@ int Zadanie2UsuwanieLiczb(char(*str)) {
 
 
 char* Zadanie3UsuwanieKometarzy(char(*str)) {
+
     for (char i = 0; str[i] != 0; i++) {
         if (str[i] == '/' && str[i + 1] == '/') {
             str[i] = 0;
@@ -194,11 +195,8 @@ char* Zadanie3UsuwanieKometarzy(char(*str)) {
                 }
             }
             if (dlKometarza != 0) {
-                for (char j = 0; j < dlKometarza; j++)
-                {
-                    for (char k = i; str[k] != 0; k++) {
-                        str[k] = str[k + 1];
-                    }
+                for (char k = i; str[k + dlKometarza - 1] != 0; k++) {
+                    str[k] = str[k + dlKometarza];
                 }
             }
             else {

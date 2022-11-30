@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "772f24a2a8cc10b1",
+        "id": "55fe9724522cc826",
         "type": "tabs",
         "children": [
           {
-            "id": "23d22ade7e186439",
+            "id": "5de0642bba6666f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md"
+                "file": "README.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,8 +146,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "23d22ade7e186439",
+  "active": "5de0642bba6666f9",
   "lastOpenFiles": [
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Cwiczenia_1.pdf",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
@@ -156,7 +157,6 @@
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria 3/Labolatoria 3.md",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria 2/Labolatoria 2.md",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Labolatoria 1.md",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 0/Labolatoria 0.md"
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Labolatoria 1.md"
   ]
 }
