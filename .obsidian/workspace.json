@@ -11,12 +11,9 @@
             "id": "dfb477501ef530a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Notatki/Filozofia/Wykłady/Wykład 6/Wykład 6.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Tablica_Pamięci.png"
               }
             }
           }
@@ -98,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Filozofia/Wykłady/Wykład 6/Wykład 6.md"
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Tablica_Pamięci.png"
               }
             }
           },
@@ -116,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Filozofia/Wykłady/Wykład 6/Wykład 6.md",
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Tablica_Pamięci.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Filozofia/Wykłady/Wykład 6/Wykład 6.md",
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Tablica_Pamięci.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,6 +146,7 @@
   },
   "active": "dfb477501ef530a9",
   "lastOpenFiles": [
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.md",
     "Notatki/Filozofia/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Filozofia/Wykłady/Wykład 5/Wykład 5.md",
     "README.md",
@@ -157,7 +155,6 @@
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Cwiczenia_1.pdf",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.md"
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md"
   ]
 }

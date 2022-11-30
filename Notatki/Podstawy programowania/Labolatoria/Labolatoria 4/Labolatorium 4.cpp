@@ -40,7 +40,6 @@ int main() {
     {
         printf("\n0- Wyjscie z programu\n1- Zadanie 2\n2- Zadanie 3\n3- Zadanie 4\n\n");
         scanf("%hhd", &wybor);
-        printf("%hhd", wybor);
         switch (wybor)
         {
         case 0:
