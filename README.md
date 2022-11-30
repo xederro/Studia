@@ -1,4 +1,4 @@
-![GitHub code size in bytes](https://shields.io/github/languages/code-size/xederro/Studia?style=for-the-badge)
+![GitHub code size in bytes](https://shields.io/github/languages/code-size/xederro/Studia?style=for-the-badge) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A8GJFDV)
 # Studia
 ## Spis treści
 ### Semestr 1
