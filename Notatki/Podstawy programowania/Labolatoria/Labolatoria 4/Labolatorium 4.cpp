@@ -40,7 +40,7 @@ int main() {
     {
         printf("\n0- Wyjscie z programu\n1- Zadanie 2\n2- Zadanie 3\n3- Zadanie 4\n\n");
         scanf("%hhd", &wybor);
-
+        printf("%hhd", wybor);
         switch (wybor)
         {
         case 0:
@@ -130,6 +130,9 @@ int main() {
             printf("Lokalne:\n");
             WypiszZadanie4(c, i, l, f, d);
         }
+        // nie mogę po tym kodzie jeszcze raz wybrać zadania i nie wiem dla czego, 
+        // czy któraś z funkcji zmienia coś w pamięci i dlatego nie mogę wybrać zadania ponownie? 
+        // Czy jest inna tego przyczyna
 
         break;
 
@@ -212,7 +215,7 @@ char* Zadanie3UsuwanieKometarzy(char(*str)) {
 template <typename T>
 void Zadanie4WypisywanieBajtow(T* x) {
     for (int i = 0; i < sizeof(T); i++) {
-        printf("0x%02x ", *(((char*)x) + i));
+        printf("0x%02x ", *(((unsigned char*)x) + i));
     }
     printf("\n");
 }
