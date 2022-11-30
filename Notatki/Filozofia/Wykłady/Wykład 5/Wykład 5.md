@@ -113,3 +113,8 @@ Czy można przypisać Prawda lub Fałsz
 
 $${(\forall x) (W(x)\rightarrow Z(x)), W(a) ~Z(a)}\over{~(\forall x) W(x)\rightarrow Z(x)}$ 
 $$$$H ^ p \rightarrow q \times ~q$$
+
+1. Hipotetyzm heurystyczny
+   Pas Ochronny/Hipotezy Pomocnicze(Hard Core)
+   - Hardcore - nie falsyfikuje się, program badawczy - degeneracja lub rozwój
+   - Pas ochronny - chronią rdzeń i one są sprawdzane
