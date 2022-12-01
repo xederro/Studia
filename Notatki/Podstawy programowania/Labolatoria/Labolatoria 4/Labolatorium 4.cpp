@@ -211,6 +211,7 @@ char* Zadanie3UsuwanieKometarzy(char(*str)) {
     return str;
 }
 
+
 template <typename T>
 void Zadanie4WypisywanieBajtow(T* x) {
     for (int i = 0; i < sizeof(T); i++) {
