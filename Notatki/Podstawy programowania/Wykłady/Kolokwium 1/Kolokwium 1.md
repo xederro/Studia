@@ -25,7 +25,6 @@ Zagadnienia:
     a następnie wyświetli informację ile z nich ma wartości ujemne.
     
 6.  Napisz program, który policzy pierwiastki trójmianu kwadratowego
-    
     A*x2 + B*x + C = 0,  o współczynnikach A, B, C wprowadzanych z klawiatury
     
 7.  Napisz program wczytujący 4 liczby całkowite z klawiatury  
