@@ -18,7 +18,6 @@
 | float (\*fun)(int); | wskaźnik na funkcję przyjmującą parametr typu int zwracającą typ float                                                              | 4                               |
 2. 
    ![[lista4.cpp]]
-   ![[lista4.exe]]
 3. 
    ```cpp
 	   printf("%d, %d\n", tab2[w][k], *(*(tab2 + w) + k));
@@ -132,16 +131,4 @@
 
 & - operator adresowania
 \* - operator wyłuskania
-
-
-
-```cpp
-
-int grupa1 = {1,2,3,4,5};
-int grupa2 = {1,2,3,4,5,6,7,8,9};
-
-int *grupy = {grupa1, grupa2};
-
-```
-
 
