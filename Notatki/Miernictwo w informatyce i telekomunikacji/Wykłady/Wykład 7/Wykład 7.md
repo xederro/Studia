@@ -52,7 +52,7 @@ plus
 wartość skuteczna to sens energetyczny sygnału
 czyli jaką energie wygeneruje na oporniku, 230v ac to jest 326v amplitudy by wygenerowało tyle co 230v dc
 
-moc w dziedzinie częstotliwości odpowiada mocy w czasie tylko gdy dąży do nieskończoności
+moc w dziedzinie częstotliwości odpowiada mocy w czasie tylko gdy dąży do nieskończBoności
 } na pamięć slajd 10 
 
 #kolokwium {sygnały warsości bezwzględnem skuteczne współczynniki kształtu i szczytu / slajd 12}

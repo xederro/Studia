@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "03b61295ad716ff8",
+        "id": "7b3ff8c22ffe2c5b",
         "type": "tabs",
         "children": [
           {
-            "id": "b845f50e1a3a113e",
+            "id": "18527dd514581603",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 5/Labolatoria 5.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md"
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 5/Labolatoria 5.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 5/Labolatoria 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 5/Labolatoria 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,8 +147,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b845f50e1a3a113e",
+  "active": "18527dd514581603",
   "lastOpenFiles": [
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Słowne nazwy typów.pdf",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
@@ -157,7 +158,6 @@
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 5/Cwiczenia_5.pdf",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 5/Labolatoria 5.md",
-    "Notatki/Podstawy programowania/Podstawy programowania.md"
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 5/Labolatoria 5.md"
   ]
 }
