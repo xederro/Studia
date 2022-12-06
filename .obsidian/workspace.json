@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7b3ff8c22ffe2c5b",
+        "id": "7b4bead1e3d062ba",
         "type": "tabs",
         "children": [
           {
-            "id": "18527dd514581603",
+            "id": "941e27c82ccaf8cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 5/Labolatoria 5.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 6/Drawing 2022-12-06 13.10.49.excalidraw.md"
               }
             }
           }
@@ -70,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5,
-    "collapsed": true
+    "width": 389.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -98,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 5/Labolatoria 5.md"
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 6/Drawing 2022-12-06 13.10.49.excalidraw.md"
               }
             }
           },
@@ -116,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 5/Labolatoria 5.md",
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 6/Drawing 2022-12-06 13.10.49.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 5/Labolatoria 5.md",
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 6/Drawing 2022-12-06 13.10.49.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,17 +143,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "18527dd514581603",
+  "active": "941e27c82ccaf8cf",
   "lastOpenFiles": [
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 6/Wykład 6.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Wykład 5.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/ALGA-Wyklad_06.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 5/Labolatoria 5.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Słowne nazwy typów.pdf",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Cwiczenia_4.pdf",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 5/Cwiczenia_5.pdf",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 5/Labolatoria 5.md"
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Cwiczenia_4.pdf"
   ]
 }
