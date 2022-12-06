@@ -24,3 +24,55 @@ https://www.youtube.com/watch?v=1JnayXHhjlg
 ![[Podstawy_analizy_widmowej_Hewlett-Packard.pdf]]
 ![[TRANSFOMS_and_SERIES.pdf]]
 ![[Zadania_Derive6_Fourier_podstawy_opis_plików_zadań_I_do_VII.pdf]]
+
+# Wykład nr 9
+
+
+plusik
+funkcja sinux = Asin(W t)
+funkcja kwadratowa = Asign(sin(W t))
+xsign(x) = moduł
+funkcja trójkątna = arcsin(sin(W t))
+
+Jeżeli funkcja kwadratowa ma T(Wo), zauważył, że sin może mieć te samą przejście, i 3w0 również ma to samo przejście więc jest złożeniem nieskończenie wielu częstotliwości (2n+1)W0 - nie ma parzystych bo jest to funkcja parzysta
+
+100mhz pasmo i  częstotliwość 1Mhz (10ns)  wtedy czas narastania: 5ns
+
+D=Tp/T =  Duty cycle, czas trwania/okres
+
+przeniesmiemy syngał wolniejszy od pasma, bo nie może jednocześnie rosnąć i maleć bo nie rośnie nieskończenie szybko
+
+obraz jest cyfrowy ale dźwięk analogowy
+
+częstotliwość próbkowania musi być conajmniej 2 razy większa od częstotliwości sygnału
+
+plus
+
+#kolokwium {
+wartość skuteczna to sens energetyczny sygnału
+czyli jaką energie wygeneruje na oporniku, 230v ac to jest 326v amplitudy by wygenerowało tyle co 230v dc
+
+moc w dziedzinie częstotliwości odpowiada mocy w czasie tylko gdy dąży do nieskończoności
+} na pamięć slajd 10 
+
+#kolokwium {sygnały warsości bezwzględnem skuteczne współczynniki kształtu i szczytu / slajd 12}
+
+gdy zmieniamy wypełnienie to zmieniamy średnią energię (dłużej na - niż na +) ale moc zostaje taka sama
+
+podstawowe parametry sygnałów opisujące przebiegi okresowa #kolokwium 
+
+#kolokwium zadania z końca
+
+![[Recording 20221206103048.webm]]
+
+
+
+
+
+
+
+
+
+
+
+

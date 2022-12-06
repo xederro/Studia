@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 389.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -97,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md"
               }
             }
           },
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,6 +149,7 @@
   },
   "active": "b845f50e1a3a113e",
   "lastOpenFiles": [
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Słowne nazwy typów.pdf",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Cwiczenia_4.pdf",
@@ -156,7 +158,6 @@
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 5/Cwiczenia_5.pdf",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria 5/Labolatoria 5.md",
-    "Notatki/Podstawy programowania/Podstawy programowania.md",
-    "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykłady.md"
+    "Notatki/Podstawy programowania/Podstawy programowania.md"
   ]
 }
