@@ -4,16 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "3c081d0ffc4e444f",
+        "id": "4af1b854b7dd10ac",
         "type": "tabs",
         "children": [
           {
-            "id": "804367595aa9f16c",
+            "id": "9eda4d2706320258",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-08 16.06.01.excalidraw.md"
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-08 20.50.43.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "1f3dc3edcc48cdec",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 5/Drawing 2022-11-18 17.12.04.excalidraw.md"
               }
             }
           }
@@ -94,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-08 16.06.01.excalidraw.md"
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-08 20.50.43.excalidraw.md"
               }
             }
           },
@@ -112,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-08 16.06.01.excalidraw.md",
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-08 20.50.43.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-08 16.06.01.excalidraw.md",
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-08 20.50.43.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,17 +153,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "804367595aa9f16c",
+  "active": "9eda4d2706320258",
   "lastOpenFiles": [
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 5/Drawing 2022-11-18 17.12.04.excalidraw.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-08 20.50.43.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Kolos 2.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/ALGA_zestaw_08.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-08 12.05.18.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 7/ALGA_zestaw_07.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-08 11.05.02.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 5/ALGA_zestaw_05.pdf",
-    "Notatki/Filozofia/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Filozofia/Wykłady/Wykład 6/Wykład 6.md"
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-08 11.05.02.excalidraw.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-08 12.05.18.excalidraw.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-08 16.06.01.excalidraw.md"
   ]
 }

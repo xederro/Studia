@@ -8,5 +8,8 @@
    
 3. Układy Cramera (zad 8.1)
    
+   ![[Drawing 2022-12-08 16.06.01.excalidraw]]
    
-   
+
+
+![[Drawing 2022-12-08 20.08.30.excalidraw]]
