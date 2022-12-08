@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0093cf59854582b3",
+        "id": "7caf138314ea1c4d",
         "type": "tabs",
         "children": [
           {
-            "id": "e7af407682706876",
+            "id": "babbc24f27ba978e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notatki/Filozofia/Wykłady/Wykład 7/Wykład 7.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-08 12.05.18.excalidraw.md"
               }
             }
           }
@@ -97,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Filozofia/Wykłady/Wykład 7/Wykład 7.md"
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-08 12.05.18.excalidraw.md"
               }
             }
           },
@@ -115,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Filozofia/Wykłady/Wykład 7/Wykład 7.md",
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-08 12.05.18.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Filozofia/Wykłady/Wykład 7/Wykład 7.md",
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-08 12.05.18.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,17 +143,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e7af407682706876",
+  "active": "babbc24f27ba978e",
   "lastOpenFiles": [
-    "Notatki/Filozofia/Wykłady/Wykład 6/Wykład 6.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Kolos 2.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 7/ALGA_zestaw_07.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-08 11.05.02.excalidraw.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 5/ALGA_zestaw_05.pdf",
     "Notatki/Filozofia/Wykłady/Wykład 7/Wykład 7.md",
+    "Notatki/Filozofia/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Filozofia/Wykłady/Wykłady.md",
     "Notatki/Filozofia/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 6/Drawing 2022-12-06 13.10.49.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/ALGA-Wyklad_06.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md"
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md"
   ]
 }
