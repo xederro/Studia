@@ -4,7 +4,7 @@
    
 2. Równanie macierzowe (zad 7.8)  
    
-   
+   ![[Drawing 2022-12-08 12.05.18.excalidraw]]
    
 3. Układy Cramera (zad 8.1)
    
