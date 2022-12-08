@@ -13,3 +13,7 @@
 
 
 ![[Drawing 2022-12-08 20.08.30.excalidraw]]
+
+![[Drawing 2022-12-08 20.50.43.excalidraw]]
+
+
