@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "592ef865c5835075",
+        "id": "08a94019cf2db711",
         "type": "tabs",
         "children": [
           {
-            "id": "dae3b4ef8f48a9a9",
+            "id": "f669817bdc7275a8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 389.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -91,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md"
+              }
             }
           },
           {
@@ -108,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,15 +147,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dae3b4ef8f48a9a9",
+  "active": "f669817bdc7275a8",
   "lastOpenFiles": [
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 5/ALGA_zestaw_05.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Kolos 2.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 6/Drawing 2022-12-06 13.10.49.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Kolos 2.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-08 20.08.30.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-08 20.50.43.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 5/Drawing 2022-11-18 17.12.04.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 5/ALGA_zestaw_05.pdf",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-08 11.05.02.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-08 12.05.18.excalidraw.md"
