@@ -4,20 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "acd7357dd12cc8ca",
+        "id": "d1eb8e9b59567c9a",
         "type": "tabs",
         "children": [
           {
-            "id": "604f88bf6d1ac2b8",
+            "id": "d2b03b8bc3c6ceb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 7/Wykład 7.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed98de08491981b3",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-09 14.18.58.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 7/Drawing 2022-12-09 15.15.53.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-09 14.18.58.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 7/Drawing 2022-12-09 15.15.53.excalidraw.md"
               }
             }
           },
@@ -112,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-09 14.18.58.excalidraw.md",
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 7/Drawing 2022-12-09 15.15.53.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-09 14.18.58.excalidraw.md",
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 7/Drawing 2022-12-09 15.15.53.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,17 +157,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "604f88bf6d1ac2b8",
+  "active": "ed98de08491981b3",
   "lastOpenFiles": [
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-09 14.19.02.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-09 14.18.58.excalidraw.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-09 14.19.02.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Kolos 2.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-08 20.50.43.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 8/Drawing 2022-12-09 11.12.32.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 7/Drawing 2022-11-25 12.52.08.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 7/Drawing 2022-12-02 11.12.05.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 8/Wykład 8.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6.md"
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 8/Wykład 8.md"
   ]
 }
