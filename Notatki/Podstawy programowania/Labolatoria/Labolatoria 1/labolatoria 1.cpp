@@ -259,21 +259,21 @@ int main()
 
     /*
     Zadanie 1
-    */
-    zadanie1();
-    system("PAUSE");
+    // */
+    // zadanie1();
+    // system("PAUSE");
 
-    /*
-    Zadanie 2
-    */
-    zadanie2();
-    system("PAUSE");
+    // /*
+    // Zadanie 2
+    // */
+    // zadanie2();
+    // system("PAUSE");
 
-    /*
-    Zadanie 3
-    */
-    zadanie3();
-    system("PAUSE");
+    // /*
+    // Zadanie 3
+    // */
+    // zadanie3();
+    // system("PAUSE");
 
     /*
     Zadanie 4
