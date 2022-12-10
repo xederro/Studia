@@ -1,13 +1,15 @@
 /*
 Autor:  Dawid Jabłoński
 Grupa:  WT/N 11.15
-Tytul:  Zadanie 1a Laboratorium 4
-Data:   22 listopada 2022r.
+Tytul:  Laboratorium 5
+Data:   10 Grudnia 2022r.
 */
 
-#include <stdio.h>
+#include <iostream>
 #include <stdlib.h>
 #include <string.h>
+
+#define bufSize 100
 
 using namespace std;
 
@@ -48,6 +50,7 @@ int main()
     InitTab(WSK); // Inicjalizacja tablicy dynamicznej  
 
     char c = 0;
+    char buf[bufSize]; // bufor na dane wczytywane z klawiatury 
 
     do
     {
@@ -64,9 +67,8 @@ int main()
 
         case 1:
         {
-            char buf[81]; // bufor na dane wczytywane z klawiatury 
             printf("Wprowadz imie: ");
-            fgets(buf, 81, stdin);
+            fgets(buf, bufSize, stdin);
             AddName(buf, WSK);
         }
         break;
@@ -82,9 +84,8 @@ int main()
 
         case 3:
         {
-            char buf[81]; // bufor na dane wczytywane z klawiatury
             printf("Wprowadz imie do usuniecia: ");
-            fgets(buf, 81, stdin);
+            fgets(buf, bufSize, stdin);
             RemoveName(buf, WSK);
         }
         break;
@@ -132,125 +133,192 @@ int main()
 
 void InitTab(char**& wsk) {
     wsk = (char**)malloc(sizeof(char*));
-    wsk[0] = NULL;
+    *wsk = NULL;
 }
 
 void AddName(char* buf, char**& wsk) {
     int end = 0;
 
-    while (*wsk != NULL) end++;
+    while (wsk[end] != NULL) {
+        end++;
+    }
+
+    for (int i = 0; i < strlen(buf); i++)
+    {
+        if (i == 0)
+        {
+            buf[i] = toupper(buf[i]);
+        }
+        else if (buf[i - 1] == ' ')
+        {
+            buf[i] = toupper(buf[i]);
+        }
+        else
+        {
+            buf[i] = tolower(buf[i]);
+        }
+    }
 
     wsk = (char**)realloc(wsk, (end + 2) * sizeof(char*));
 
-    wsk[end + 1] = (char*)malloc(strlen(buf) * sizeof(char));
+    wsk[end] = (char*)malloc((strlen(buf) + 1) * sizeof(char));
 
-    wsk[end + 2] = NULL;
+    strcpy(wsk[end], buf);
+
+    wsk[end + 1] = NULL;
+
+    printf("Dodano imie: %s\n", buf);
 }
 
 void RemoveNameByIndex(int nr, char**& wsk) {
+    nr--; // bo numerujemy od 1 a nie od 0
     int end = 0;
 
-    while (*wsk != NULL) end++;
+    while (wsk[end] != NULL) {
+        end++;
+    }
 
-    if (nr > end + 1)
-    {
+    if (nr < 0 || nr >= end) {
+        printf("Nie ma takiego imienia");
         return;
     }
 
-    for (int i = nr - 1; i <= end; i++)
-    {
+    printf("Usunieto imie: %sZ pozycji: %d\n", wsk[nr], nr + 1);
+    free(wsk[nr]);
+
+    for (int i = nr; i < end; i++) {
         wsk[i] = wsk[i + 1];
     }
 
-    wsk = (char**)realloc(wsk, end * sizeof(char*));
+    wsk = (char**)realloc(wsk, (end) * sizeof(char*));
+
+    wsk[end - 1] = NULL;
+
+
+
+
 }
 
 void RemoveName(char* buf, char**& wsk) {
     int end = 0;
 
-    while (*wsk != NULL) end++;
+    while (wsk[end] != NULL) {
+        end++;
+    }
 
-    int nr = 0;
-    for (int i = 0; wsk[i] != NULL; i++)
+    for (int i = 0; i < strlen(buf); i++)
     {
-        if (strcmp(buf, wsk[i]) == 0)
+        if (i == 0)
         {
-            nr = i;
-            break;
+            buf[i] = toupper(buf[i]);
+        }
+        else if (buf[i - 1] == ' ')
+        {
+            buf[i] = toupper(buf[i]);
+        }
+        else
+        {
+            buf[i] = tolower(buf[i]);
         }
     }
 
-    if (nr > end + 1)
-    {
-        return;
+    for (int i = 0; i < end; i++) {
+        if (strcmp(wsk[i], buf) == 0) {
+            free(wsk[i]);
+
+            for (int j = i; j < end; j++) {
+                wsk[j] = wsk[j + 1];
+            }
+
+            wsk = (char**)realloc(wsk, (end) * sizeof(char*));
+
+            wsk[end - 1] = NULL;
+
+            return;
+        }
     }
 
-    for (int i = nr - 1; i <= end; i++)
-    {
-        wsk[i] = wsk[i + 1];
-    }
-
-    wsk = (char**)realloc(wsk, end * sizeof(char*));
+    printf("Usunieto imie: %s\n", buf);
 }
 
 void PrintAllNames(char** wsk) {
-    for (int i = 0; wsk[i] != NULL; i++)
-    {
-        for (int j = 0; wsk[i][j] != 0; j++)
-        {
-            printf("%c", wsk[i][j]);
-        }
+    int end = 0;
+
+    while (wsk[end] != NULL) {
+        end++;
+    }
+
+    for (int i = 0; i < end; i++) {
+        printf("%s", wsk[i]);
+    }
+
+    if (end == 0) {
+        printf("Brak imion");
     }
 }
 
 void PrintNames(char first_letter, char** wsk) {
-    for (int i = 0; wsk[i] != NULL; i++)
-    {
-        if (wsk[i][0] == first_letter)
-        {
-            for (int j = 0; wsk[i][j] != 0; j++)
-            {
-                printf("%c", wsk[i][j]);
-            }
+    int end = 0;
+
+    while (wsk[end] != NULL) {
+        end++;
+    }
+
+    first_letter = toupper(first_letter);
+
+    bool printed = false;
+    for (int i = 0; i < end; i++) {
+        if (wsk[i][0] == first_letter) {
+            printf("%s", wsk[i]);
+            printed = true;
         }
+    }
+
+    if (end == 0) {
+        printf("Brak imion");
+    }
+    else if (!printed)
+    {
+        printf("Brak imion zaczynajacych sie na %c", first_letter);
     }
 }
 
 void SortAlphabet(char** wsk) {
     int end = 0;
 
-    while (*wsk != NULL) end++;
+    while (wsk[end] != NULL) {
+        end++;
+    }
 
-
-    for (int i = 0; i < end; i++)
-    {
-        for (int j = 0; j < end - 1; j++)
-        {
-            if (strcmp(wsk[j], wsk[j + 1]) > 0)
-            {
+    for (int i = 0; i < end; i++) {
+        for (int j = 0; j < end - 1; j++) {
+            if (strcmp(wsk[j], wsk[j + 1]) > 0) {
                 char* temp = wsk[j];
                 wsk[j] = wsk[j + 1];
                 wsk[j + 1] = temp;
             }
         }
     }
+
+    printf("Posortowano alfabetycznie\n");
 }
 
 void SortLength(char** wsk) {
     int end = 0;
 
-    while (*wsk != NULL) end++;
+    while (wsk[end] != NULL) {
+        end++;
+    }
 
-    for (int i = 0; i < end; i++)
-    {
-        for (int j = 0; j < end - 1; j++)
-        {
-            if (strlen(wsk[j]) > strlen(wsk[j + 1]))
-            {
+    for (int i = 0; i < end; i++) {
+        for (int j = 0; j < end - 1; j++) {
+            if (strlen(wsk[j]) > strlen(wsk[j + 1])) {
                 char* temp = wsk[j];
                 wsk[j] = wsk[j + 1];
                 wsk[j + 1] = temp;
             }
         }
     }
+
+    printf("Posortowano dlugoscia\n");
 }

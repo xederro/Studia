@@ -99,7 +99,7 @@ void zadanie2()
     case 10:
     case 12:
         // Sprawdzenie czy dzien nalezy do miesiaca
-        if (dz > 31)
+        if (dz > 31 || dz < 0)
         {
             printf("Nie jest to poprawna data\n");
             return;
@@ -111,7 +111,7 @@ void zadanie2()
     case 9:
     case 11:
         // Sprawdzenie czy dzien nalezy do miesiaca
-        if (dz > 30)
+        if (dz > 30 || dz < 0)
         {
             printf("Nie jest to poprawna data\n");
             return;
@@ -120,7 +120,7 @@ void zadanie2()
 
     case 2:
         // Sprawdzenie czy dzien nalezy do miesiaca w zaleznosci od roku parzystego
-        if (dz > 28 + jestPrzystepny(rok))
+        if (dz > 28 + jestPrzystepny(rok) || dz < 0)
         {
             printf("Nie jest to poprawna data\n");
             return;
@@ -259,21 +259,21 @@ int main()
 
     /*
     Zadanie 1
-    // */
-    // zadanie1();
-    // system("PAUSE");
+    */
+    zadanie1();
+    system("PAUSE");
 
-    // /*
-    // Zadanie 2
-    // */
-    // zadanie2();
-    // system("PAUSE");
+    /*
+    Zadanie 2
+    */
+    zadanie2();
+    system("PAUSE");
 
-    // /*
-    // Zadanie 3
-    // */
-    // zadanie3();
-    // system("PAUSE");
+    /*
+    Zadanie 3
+    */
+    zadanie3();
+    system("PAUSE");
 
     /*
     Zadanie 4
