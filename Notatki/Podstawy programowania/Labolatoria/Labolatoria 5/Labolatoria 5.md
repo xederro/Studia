@@ -48,10 +48,7 @@ delete wf;//[]wf
 
 
 
-zadanie 1:
-tablica wskaźników kończona nullem, a tablica cstingów \0
-po malloc wsk\[0\] = null //pusta tablica
-wsk\[poz+1\] = strdup(buf)
-do sortowania można strcmp()
+![[Labolatoria 5.1.cpp]]
+![[Labolatoria 5.2.cpp]]
 
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c848047539ee4fa1",
+        "id": "8ef2c7ca32bcfbdd",
         "type": "tabs",
         "children": [
           {
-            "id": "180dbf2fe78d6d94",
+            "id": "a4092715f88bb4a9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 389.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -137,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "180dbf2fe78d6d94",
+  "active": "a4092715f88bb4a9",
   "lastOpenFiles": [
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Drawing 2022-12-02 17.38.59.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 7/Drawing 2022-12-09 15.15.53.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-09 14.18.58.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-09 14.19.02.excalidraw.md",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 5/Labolatoria 5.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Pasted Image 20221209143211_901.png",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Kolos 2.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Drawing 2022-12-08 20.50.43.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 8/Drawing 2022-12-09 11.12.32.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 7/Drawing 2022-11-25 12.52.08.excalidraw.md"
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Pasted Image 20221209141913_225.png"
   ]
 }

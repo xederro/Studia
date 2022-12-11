@@ -8,6 +8,7 @@
 7. [[Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6|Ćwiczenia 6]]
 8. [[Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7|Ćwiczenia 7]]
 9. [[Ćwiczenia 8|Ćwiczenia 8]]
+10. [[Kolos 2|Kolos 2]]
 
 ## Zaliczenia
 3 kolosy + aktywność

@@ -7,6 +7,7 @@
 6. [[Quiz 1]]
 7. [[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5|Ćwiczenia 5]]
 8. [[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6|Ćwiczenia 6]]
+9. [[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7|Ćwiczenia 7]]
 
 ## Zaliczenie
 nr.indeksu%3 = ćwieczenia jakie trzeba zrobić
