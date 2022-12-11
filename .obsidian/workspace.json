@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8ef2c7ca32bcfbdd",
+        "id": "11664308cc4b7ef3",
         "type": "tabs",
         "children": [
           {
-            "id": "a4092715f88bb4a9",
+            "id": "e5cdf094ac44ade2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Drawing 2022-12-11 16.04.02.excalidraw.md"
+              }
             }
           }
         ]
@@ -65,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5,
-    "collapsed": true
+    "width": 389.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -92,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Drawing 2022-12-11 16.04.02.excalidraw.md"
+              }
             }
           },
           {
@@ -109,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Drawing 2022-12-11 16.04.02.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Drawing 2022-12-11 16.04.02.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,17 +143,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a4092715f88bb4a9",
+  "active": "e5cdf094ac44ade2",
   "lastOpenFiles": [
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 5/Labolatoria 5.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Pasted Image 20221209143211_901.png",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Kolos 2.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 8/Wykład 8.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 8/Drawing 2022-12-09 11.12.32.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Kolos 2.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Lista_5_AM1.pdf",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Drawing 2022-12-11 15.32.38.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 6/Lista_6_AM1.pdf",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 9/Ćwiczenia 9.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 2/Pasted Image 20221209141913_225.png"
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 7/Drawing 2022-12-09 15.15.53.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 8/Drawing 2022-12-09 11.12.32.excalidraw.md",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 5/Labolatoria 5.md"
   ]
 }
