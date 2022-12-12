@@ -1,0 +1,1 @@
+![[W10_Analiza_21_Calki_nieozn.pdf]]

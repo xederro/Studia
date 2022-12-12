@@ -9,4 +9,6 @@
 4. 
    ![[Drawing 2022-12-12 18.33.47.excalidraw]]
 5. 
+   ![[Drawing 2022-12-12 19.18.33.excalidraw]]
+6. 
    

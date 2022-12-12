@@ -1,5 +1,5 @@
-
-![[Derive6_wprowadzenie.pdf]]
+![[Wnr9.pdf]] h: nr9
+![[Derive6_wprowadzenie.pdf]] h: Mierniki1
 Derive:
 https://en.softonic.com/download/derive/windows/post-download
 https://www.oocities.org/tweety_aaf/derive.html
@@ -21,9 +21,9 @@ https://www.youtube.com/watch?v=1JnayXHhjlg
 ![[V_przyklad.mth]]
 ![[VI_przyklad.mth]]
 ![[VII_przyklad.mth]]
-![[Podstawy_analizy_widmowej_Hewlett-Packard.pdf]]
-![[TRANSFOMS_and_SERIES.pdf]]
-![[Zadania_Derive6_Fourier_podstawy_opis_plików_zadań_I_do_VII.pdf]]
+![[Podstawy_analizy_widmowej_Hewlett-Packard.pdf]] h: Mierniki1
+![[TRANSFOMS_and_SERIES.pdf]] h: Mierniki1
+![[Zadania_Derive6_Fourier_podstawy_opis_plików_zadań_I_do_VII.pdf]] h: Mierniki1
 
 # Wykład nr 9
 
@@ -62,10 +62,6 @@ gdy zmieniamy wypełnienie to zmieniamy średnią energię (dłużej na - niż n
 podstawowe parametry sygnałów opisujące przebiegi okresowa #kolokwium 
 
 #kolokwium zadania z końca
-
-![[Recording 20221206103048.webm]]
-
-
 
 
 

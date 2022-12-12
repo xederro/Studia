@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d57057cc5e5ecf59",
+        "id": "a817c1262a708dcd",
         "type": "tabs",
         "children": [
           {
-            "id": "c87504baad19dafe",
+            "id": "58a40a467da8ccb5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Drawing 2022-12-12 19.18.33.excalidraw.md"
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 8/Wykład 8.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -94,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Drawing 2022-12-12 19.18.33.excalidraw.md"
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 8/Wykład 8.md"
               }
             }
           },
@@ -112,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Drawing 2022-12-12 19.18.33.excalidraw.md",
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 8/Wykład 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Drawing 2022-12-12 19.18.33.excalidraw.md",
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 8/Wykład 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c87504baad19dafe",
+  "active": "58a40a467da8ccb5",
   "lastOpenFiles": [
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Kolos 2.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 6/Lista_6_AM1.pdf",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Drawing 2022-12-12 18.33.47.excalidraw.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykład 7/2020_W07_teksty-tablice_znakowe.pdf",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Drawing 2022-12-11 17.54.49.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 9/Ćwiczenia 9.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
-    "Notatki/Podstawy programowania/Podstawy programowania.md"
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 7/Wykład 7.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 6/Wykład 6.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Wykład 5.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 8/Wykład 8.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 10/Wykład 10.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 9/Wykład 9.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 9/Wnr11.pdf"
   ]
 }

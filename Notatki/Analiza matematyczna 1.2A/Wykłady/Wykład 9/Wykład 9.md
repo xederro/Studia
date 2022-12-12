@@ -1,0 +1,1 @@
+![[W9_Analiza_21_Poch_cz_Eks_Wielu_Zm.pdf]]
