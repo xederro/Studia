@@ -14,3 +14,36 @@
 ![[Trojkąt.jpg]]
 ![[Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Woltomierz_na_przetworniku_AC.pdf]]h: Mierniki2
 ![[Wzmacniacze_Operacyjne_dla_Wszystkich_TI.pdf]] h: Mierniki2
+
+# Tranzystory i jego zastosowanie
+
+kolektor
+emiter
+baza - podaje się prąd i na wyższych płynie prąd (inny)
+
+Warstwy:
+n(c) 
+p(b) 
+n(e) 
+
+Wzór Shockleya: $I_D = I_S(e^{U_DKT\over gn}-1)$
+
+Dioda wprowadza zniekształcenia harmoniczne
+jeżeli wymuszamy prądem iB to dostajemy iC = k\*IB, gdzie k to wzmocnienie
+
+obszar nasycenia, nie da się dać wyższego prądu który zmienia prąd płynący na emiterze i kolektorze
+obszar aktywny, można zmieniać
+obszar wyłączenia, nie płynie prąd
+
+#Lab :<
+
+# Wzmacniacze operacyjne
+
+
+
+
+
+
+
+
+

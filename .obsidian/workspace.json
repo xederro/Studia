@@ -4,32 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "79fbc265a4360182",
+        "id": "9086f0672b9c67d9",
         "type": "tabs",
         "children": [
           {
-            "id": "f8bde637a0b0befe",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b5ccf61d90d30cb2",
+            "id": "ac085f90a5280db8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Wykład 8.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 389.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -106,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria.md"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Wykład 8.md"
               }
             }
           },
@@ -124,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Wykład 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Wykład 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,17 +147,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b5ccf61d90d30cb2",
+  "active": "ac085f90a5280db8",
   "lastOpenFiles": [
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Trojkąt.jpg",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Prostokat_50%.jpg",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Sinus.jpg",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Wykład 8.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 9/Wnr11.pdf",
+    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria.md",
     "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 3/Labolatoria 3.md",
     "Notatki/Etyka inżynierska/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Etyka inżynierska/Wykłady/Wykłady.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykłady.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 10/Wykład 10.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 9/Wykład 9.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 8/Wykład 8.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 6/Drawing 2022-11-24 16.13.35.excalidraw.md"
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykłady.md"
   ]
 }
