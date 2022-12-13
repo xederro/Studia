@@ -8,6 +8,7 @@
 7. [[Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 7/Wykład 7|Wykład 7]]
 8. [[Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 8/Wykład 8|Wykład 8]]
 9. [[Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 9/Wykład 9|Wykład 9]]
+10. [[Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 10/Wykład 10|Wykład 10]]
 
 ## Zaliczenie
 na USOS jest kurs z prezentacjami etc. na eportal przerzuca

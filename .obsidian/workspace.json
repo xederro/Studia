@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a817c1262a708dcd",
+        "id": "79fbc265a4360182",
         "type": "tabs",
         "children": [
           {
-            "id": "58a40a467da8ccb5",
+            "id": "f8bde637a0b0befe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 8/Wykład 8.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -70,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 389.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -96,9 +92,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 8/Wykład 8.md"
-              }
+              "state": {}
             }
           },
           {
@@ -115,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 8/Wykład 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 8/Wykład 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "58a40a467da8ccb5",
+  "active": "f8bde637a0b0befe",
   "lastOpenFiles": [
+    "Notatki/Etyka inżynierska/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Etyka inżynierska/Wykłady/Wykłady.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykłady.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 10/Wykład 10.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 9/Wykład 9.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 8/Wykład 8.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 10/Wykład 10.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 9/Wykład 9.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 9/Wnr11.pdf"
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 6/Drawing 2022-11-24 16.13.35.excalidraw.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Wykład 5.md"
   ]
 }
