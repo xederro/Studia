@@ -14,8 +14,22 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "b5ccf61d90d30cb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5,
-    "collapsed": true
+    "width": 389.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -92,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria.md"
+              }
             }
           },
           {
@@ -109,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +155,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f8bde637a0b0befe",
+  "active": "b5ccf61d90d30cb2",
   "lastOpenFiles": [
+    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 3/Labolatoria 3.md",
     "Notatki/Etyka inżynierska/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Etyka inżynierska/Wykłady/Wykłady.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykłady.md",
@@ -148,7 +166,6 @@
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 6/Drawing 2022-11-24 16.13.35.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Wykład 5.md"
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 6/Drawing 2022-11-24 16.13.35.excalidraw.md"
   ]
 }

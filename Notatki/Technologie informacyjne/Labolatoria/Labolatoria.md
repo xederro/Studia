@@ -2,6 +2,7 @@
 1. [[Notatki/Technologie informacyjne/Labolatoria/Labolatoria 0/Labolatoria 0|Labolatoria 0]]
 2. [[Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/Labolatoria 1|Labolatoria 1]]
 3. [[Notatki/Technologie informacyjne/Labolatoria/Labolatoria 2/Labolatoria 2|Labolatoria 2]]
+4. [[Notatki/Technologie informacyjne/Labolatoria/Labolatoria 3/Labolatoria 3|Labolatoria 3]]
 
 
 ## Zaliczenie
