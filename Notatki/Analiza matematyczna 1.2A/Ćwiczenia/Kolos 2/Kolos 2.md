@@ -11,4 +11,7 @@
 5. 
    ![[Drawing 2022-12-12 19.18.33.excalidraw]]
 6. 
+   ![[Drawing 2022-12-13 16.52.34.excalidraw]]
+   ![[Drawing 2022-12-13 19.07.52.excalidraw]]
+   
    
