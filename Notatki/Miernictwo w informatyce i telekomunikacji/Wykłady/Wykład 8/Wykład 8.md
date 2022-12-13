@@ -39,8 +39,15 @@ obszar wyłączenia, nie płynie prąd
 
 # Wzmacniacze operacyjne
 
+U+-|\\-+Uz
+     |  >-Uo
+U-- |/--Uz
 
+od +Uz do -Uz może prąd jechać
+$k_u=\frac{\delta U_o}{U_+ - U_-}$
 
+Wzmaczniacz pdwracający z rezystancją jest wzmacniaczem całkującym
+Wzmacniacz odwracający z impedancją jest wzmacniazem różniczkującym
 
 
 
