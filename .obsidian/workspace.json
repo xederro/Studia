@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "39398b945af4c532",
+        "id": "76bfff11714a5f13",
         "type": "tabs",
         "children": [
           {
-            "id": "9189ebbe9a0e3535",
+            "id": "7a9d137e8a0dd6f6",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 7/Drawing 2022-12-13 13.57.47.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Drawing 2022-12-13 16.52.34.excalidraw.md"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 7/Drawing 2022-12-13 13.57.47.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Drawing 2022-12-13 16.52.34.excalidraw.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 7/Drawing 2022-12-13 13.57.47.excalidraw.md",
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Drawing 2022-12-13 16.52.34.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 7/Drawing 2022-12-13 13.57.47.excalidraw.md",
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Drawing 2022-12-13 16.52.34.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,17 +143,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9189ebbe9a0e3535",
+  "active": "7a9d137e8a0dd6f6",
   "lastOpenFiles": [
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 7/Drawing 2022-12-13 13.11.34.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 7/Drawing 2022-12-13 13.57.47.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 7/Lista_7_AM1.pdf",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Drawing 2022-12-13 16.52.34.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Kolos 2.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 7/Wykład 7.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 7/Wyklad_8a.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 7/Drawing 2022-12-13 13.57.47.excalidraw.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 7/Drawing 2022-12-13 13.11.34.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Wykład 8.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Trojkąt.jpg",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Prostokat_50%.jpg",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Sinus.jpg",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 9/Wnr11.pdf",
-    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria.md",
-    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 3/Labolatoria 3.md"
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Trojkąt.jpg"
   ]
 }
