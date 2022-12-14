@@ -9,7 +9,7 @@
 8. [[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6|Ćwiczenia 6]]
 9. [[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7|Ćwiczenia 7]]
 10. [[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8|Ćwiczenia 8]]
-11. [[Ćwiczenia 9|Ćwiczenia 9]]
+11. [[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 9/Ćwiczenia 9|Ćwiczenia 9]]
 12. [[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Kolos 2|Kolos 2]]
 
 ## Zaliczenie
