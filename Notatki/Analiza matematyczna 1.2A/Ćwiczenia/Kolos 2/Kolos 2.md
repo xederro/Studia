@@ -16,3 +16,9 @@
    
 7. 
    ![[Drawing 2022-12-14 14.14.25.excalidraw]]
+8. 
+   ![[Drawing 2022-12-15 16.00.48.excalidraw]]
+9. 
+   ![[Drawing 2022-12-15 16.57.09.excalidraw]]
+10. 
+    

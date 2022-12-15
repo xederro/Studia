@@ -11,6 +11,7 @@
 10. [[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8|Ćwiczenia 8]]
 11. [[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 9/Ćwiczenia 9|Ćwiczenia 9]]
 12. [[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Kolos 2|Kolos 2]]
+13. [[Ćwiczenia 10|Ćwiczenia 10]]
 
 ## Zaliczenie
 nr.indeksu%3 = ćwieczenia jakie trzeba zrobić
