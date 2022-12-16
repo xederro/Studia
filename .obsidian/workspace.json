@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f012524903e8b164",
+        "id": "6dc4f8dbcf1c28f7",
         "type": "tabs",
         "children": [
           {
-            "id": "60a0c6b85790c940",
+            "id": "52c3a1052acda5e8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Drawing 2022-12-16 13.54.35.excalidraw.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Drawing 2022-12-16 13.54.35.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -112,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Drawing 2022-12-16 13.54.35.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Drawing 2022-12-16 13.54.35.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,12 +137,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "60a0c6b85790c940",
+  "active": "52c3a1052acda5e8",
   "lastOpenFiles": [
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Drawing 2022-12-16 13.54.35.excalidraw.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Untitled.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Drawing 2022-12-16 13.54.35.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 10/Drawing 2022-12-14 12.56.19.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład11/Drawing 2022-12-16 12.40.59.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład11/Wykład 11.md",
