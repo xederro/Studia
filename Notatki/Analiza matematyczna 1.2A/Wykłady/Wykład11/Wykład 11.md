@@ -1,0 +1,1 @@
+![[Drawing 2022-12-16 12.40.59.excalidraw]]
