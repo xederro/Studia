@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "07350cb423add316",
+        "id": "4d58c7bd9771e130",
         "type": "tabs",
         "children": [
           {
-            "id": "b013d317613e8462",
+            "id": "2604d2d2c94fd1d0",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -137,7 +137,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b013d317613e8462",
+  "active": "2604d2d2c94fd1d0",
   "lastOpenFiles": [
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Drawing 2022-12-16 13.54.35.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
