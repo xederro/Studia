@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "4d58c7bd9771e130",
+        "id": "fc9da606bf9dbc79",
         "type": "tabs",
         "children": [
           {
-            "id": "2604d2d2c94fd1d0",
+            "id": "ccd21dcc726c14ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 221.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2604d2d2c94fd1d0",
+  "active": "ccd21dcc726c14ec",
   "lastOpenFiles": [
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wnr9.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Wnr10.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 9/Wnr11.pdf",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 2/Drawing 2022-12-16 13.54.35.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład11/Wykład 11.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład11/Drawing 2022-12-16 12.40.59.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 10/Ćwiczenia 10.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 10/Drawing 2022-12-16 16.38.22.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Drawing 2022-12-14 16.24.37.excalidraw.md",
-    "Untitled 2.md",
-    "Untitled 1.md"
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 10/Drawing 2022-12-16 16.38.22.excalidraw.md"
   ]
 }
