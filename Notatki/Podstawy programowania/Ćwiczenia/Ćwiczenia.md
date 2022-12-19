@@ -4,6 +4,7 @@
 3. [[Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3|Ćwiczenia 3]]
 4. [[Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4|Ćwiczenia 4]]
 5. [[Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5|Ćwiczenia 5]]
+6. [[Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6|Ćwiczenia 6]]
 
 ## Zaliczenie
 kurs to ocena za laby + ćwiczenia + wykłady
