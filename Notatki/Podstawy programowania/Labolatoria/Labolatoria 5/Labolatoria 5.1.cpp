@@ -1,7 +1,7 @@
 /*
 Autor:  Dawid Jabłoński
 Grupa:  WT/N 11.15
-Tytul:  Laboratorium 5
+Tytul:  Laboratorium 5.1
 Data:   10 Grudnia 2022r.
 */
 

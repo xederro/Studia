@@ -11,8 +11,10 @@
             "id": "ccd21dcc726c14ec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 7/2020_W07_teksty-tablice_znakowe.pdf"
+              }
             }
           }
         ]
@@ -91,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 7/2020_W07_teksty-tablice_znakowe.pdf"
+              }
             }
           },
           {
@@ -108,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 7/2020_W07_teksty-tablice_znakowe.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 7/2020_W07_teksty-tablice_znakowe.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,6 +145,7 @@
   },
   "active": "ccd21dcc726c14ec",
   "lastOpenFiles": [
+    "Notatki/Podstawy programowania/Wykłady/Wykład 6/2020_W06_funkcje_parametry.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wnr9.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Wnr10.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 9/Wnr11.pdf",
@@ -147,7 +154,6 @@
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład11/Wykład 11.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład11/Drawing 2022-12-16 12.40.59.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 10/Ćwiczenia 10.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 10/Drawing 2022-12-16 16.38.22.excalidraw.md"
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 10/Ćwiczenia 10.md"
   ]
 }
