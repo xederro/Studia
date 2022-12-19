@@ -2,5 +2,4 @@
 
 operator \[\]\(\)- można zmienić
 
-
-
+ 
