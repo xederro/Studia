@@ -11,9 +11,12 @@
             "id": "ccd21dcc726c14ec",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 7/2020_W07_teksty-tablice_znakowe.pdf"
+                "file": "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykłady.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -94,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 7/2020_W07_teksty-tablice_znakowe.pdf"
+                "file": "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykłady.md"
               }
             }
           },
@@ -112,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 7/2020_W07_teksty-tablice_znakowe.pdf",
+                "file": "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykłady.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 7/2020_W07_teksty-tablice_znakowe.pdf",
+                "file": "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykłady.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,6 +148,7 @@
   },
   "active": "ccd21dcc726c14ec",
   "lastOpenFiles": [
+    "Notatki/Podstawy programowania/Wykłady/Wykład 7/2020_W07_teksty-tablice_znakowe.pdf",
     "Notatki/Podstawy programowania/Wykłady/Wykład 6/2020_W06_funkcje_parametry.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wnr9.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Wnr10.pdf",
@@ -153,7 +157,6 @@
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład11/Wykład 11.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład11/Drawing 2022-12-16 12.40.59.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 10/Ćwiczenia 10.md"
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia.md"
   ]
 }
