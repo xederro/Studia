@@ -133,7 +133,6 @@ int main()
 
 void InitTab(char**& wsk) {
     wsk = new char*;
-
     *wsk = NULL;
 }
 

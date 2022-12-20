@@ -159,23 +159,9 @@ void AddName(char* buf, char**& wsk) {
         }
     }
 
-    char** err = wsk;
-
     wsk = (char**)realloc(wsk, (end + 2) * sizeof(char*));
 
-    if (!wsk) {
-        printf("Blad alokacji pamieci");
-        wsk = err;
-        return;
-    }
-
     wsk[end] = (char*)malloc((strlen(buf) + 1) * sizeof(char));
-
-    if (!wsk[end]) {
-        printf("Blad alokacji pamieci");
-        wsk = NULL;
-        return;
-    }
 
     strcpy(wsk[end], buf);
 
@@ -204,15 +190,7 @@ void RemoveNameByIndex(int nr, char**& wsk) {
         wsk[i] = wsk[i + 1];
     }
 
-    char** err = wsk;
-
     wsk = (char**)realloc(wsk, (end) * sizeof(char*));
-
-    if (!wsk) {
-        printf("Blad alokacji pamieci");
-        wsk = err;
-        return;
-    }
 
     wsk[end - 1] = NULL;
 }
@@ -248,15 +226,7 @@ void RemoveName(char* buf, char**& wsk) {
                 wsk[j] = wsk[j + 1];
             }
 
-            char** err = wsk;
-
             wsk = (char**)realloc(wsk, (end) * sizeof(char*));
-
-            if (!wsk) {
-                printf("Blad alokacji pamieci");
-                wsk = err;
-                return;
-            }
 
             wsk[end - 1] = NULL;
 

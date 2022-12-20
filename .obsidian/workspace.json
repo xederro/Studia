@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7ae503ecbee61764",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -146,7 +158,21 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a87c1b106276192d",
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "7ae503ecbee61764",
   "lastOpenFiles": [
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria 6/Labolatoria 6.md",
     "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
