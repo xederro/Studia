@@ -5,4 +5,7 @@ struct - typ strukturalny
 w c nazwą będzie struct nazwa
 w c++ można pominąć struct
 
+w c trzeba kopiować pamięć
+w c++ można operatorem =
 
+do zrobienia:
