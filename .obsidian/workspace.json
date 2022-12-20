@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 9/Wykład 9.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -97,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 9/Wykład 9.md"
               }
             }
           },
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 9/Wykład 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 9/Wykład 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,13 +149,13 @@
   },
   "active": "9ced9d01f1698679",
   "lastOpenFiles": [
+    "README.md",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria 6/Labolatoria 6.md",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 7/Wykład 7.md",
-    "README.md",
     "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
     "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykłady.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 7/2020_W07_teksty-tablice_znakowe.pdf"
