@@ -6,6 +6,7 @@
 5. [[Labolatorium 4|Labolatoria 4]]
 6. [[Labolatoria 5|Labolatoria 5]]
 7. [[Labolatoria 6|Labolatoria 6]]
+8. [[Kolokwium|Kolokwium]]
 
 ## Zaliczenie
 konsultacje:

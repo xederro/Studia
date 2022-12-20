@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "12d2ca7f8e805ed2",
+        "id": "ed5215ef04515ead",
         "type": "tabs",
         "children": [
           {
-            "id": "9ced9d01f1698679",
+            "id": "a87c1b106276192d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 9/Wykład 9.md",
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 6/Labolatoria 6.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
-    "collapsed": true
+    "width": 221.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 9/Wykład 9.md"
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 6/Labolatoria 6.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 9/Wykład 9.md",
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 6/Labolatoria 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 9/Wykład 9.md",
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 6/Labolatoria 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9ced9d01f1698679",
+  "active": "a87c1b106276192d",
   "lastOpenFiles": [
-    "README.md",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 6/Labolatoria 6.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykład 8/Wykład 8.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
-    "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykłady.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykład 7/2020_W07_teksty-tablice_znakowe.pdf"
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 6/Labolatoria 6.md",
+    "Notatki/Podstawy programowania/Wykłady/Wykład 9/Wykład 9.md",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
+    "Notatki/Podstawy programowania/Labolatoria/Kolokwium/Kolokwium.md",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 5/Labolatoria 5.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 9/Wykład 9.md",
+    "README.md",
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md"
   ]
 }
