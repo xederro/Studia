@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "726f399d0cd3498b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +172,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "123edfd3c926892e",
+  "active": "726f399d0cd3498b",
   "lastOpenFiles": [
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria 6/Labolatoria 6.md",
