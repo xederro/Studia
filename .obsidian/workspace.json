@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Filozofia/Wykłady/Wykład 8/Wykład 8.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 6.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "tag:#kolokwium",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,12 +66,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
-    "collapsed": true
+    "width": 221.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Filozofia/Wykłady/Wykład 8/Wykład 8.md"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 6.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Filozofia/Wykłady/Wykład 8/Wykład 8.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Filozofia/Wykłady/Wykład 8/Wykład 8.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,20 +157,21 @@
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
   "active": "123edfd3c926892e",
   "lastOpenFiles": [
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 6/Labolatoria 6.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykład 9/Wykład 9.md",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
-    "Notatki/Podstawy programowania/Labolatoria/Kolokwium/Kolokwium.md",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 5/Labolatoria 5.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 10/Wykład 10.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 9/Wykład 9.md",
-    "README.md",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia.md"
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 5/Wykład 5.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Niepewność złożona2021.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/ea-4-02m.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3 wzorce 2022na23.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3.md"
   ]
 }
