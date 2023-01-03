@@ -80,7 +80,7 @@ wielkość określona zdefiniowana jednoznacznie
 - kandel
 
 
-## Wielokrotności i podwielkości  #kolokwium
+## Wielokrotności i pod wielkości  #kolokwium
 - tera - T - $10^{12}$
 - giga - G - $10^9$
 - mega - M - $10^6$
