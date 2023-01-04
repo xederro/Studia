@@ -1,1 +1,1 @@
-![[Drawing 2022-12-14 16.40.11.excalidraw]]
+![[ALGA_zestaw_09.pdf]]

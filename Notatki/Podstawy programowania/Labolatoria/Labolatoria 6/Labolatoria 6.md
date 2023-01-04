@@ -9,3 +9,4 @@ w c trzeba kopiować pamięć
 w c++ można operatorem =
 
 do zrobienia:
+![[Labolatoria 6.cpp]]
