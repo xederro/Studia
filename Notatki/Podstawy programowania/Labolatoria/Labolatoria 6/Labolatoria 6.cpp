@@ -18,8 +18,9 @@ struct Ware
     unsigned int stock = 0;
 };
 
-Ware createWare();
+Ware createWare(FILE*);
 void createTabWithGivenSize(Ware*&, unsigned int&, unsigned int);
+inline void printRow(unsigned int, Ware);
 void printWare(Ware*, unsigned int);
 void printWareName(Ware*, unsigned int, char*);
 void printWarePrice(Ware*, unsigned int, char, float);
@@ -194,21 +195,19 @@ int main()
     return 0;
 }
 
-Ware createWare() {
+Ware createWare(FILE* input) {
     Ware temp;
-    printf("Wpisz nazwe produktu:\n");
-    fgets(temp.name, 21, stdin);
+    if (input == stdin) printf("Wpisz nazwe produktu:\n");
+    fgets(temp.name, 21, input);
     for (char* i = temp.name; *i; i++) {
         if (*i == '\n') {
             *i = '\0';
         }
     }
-    printf("Wpisz cene produktu:\n");
-    scanf("%f", &temp.price);
-    scanf("%c");
-    printf("Wpisz ilosc produktu:\n");
-    scanf("%u", &temp.stock);
-    scanf("%c");
+    if (input == stdin) printf("Wpisz cene produktu:\n");
+    fscanf(input, "%f", &temp.price);
+    if (input == stdin) printf("Wpisz ilosc produktu:\n");
+    fscanf(input, "%u", &temp.stock);
     return temp;
 }
 
@@ -228,8 +227,13 @@ void createTabWithGivenSize(Ware*& Tab, unsigned int& Size, unsigned int count) 
 
     while (count-- > 0) {
         printf("\nDodajemy %u. Towar\n", Size - count);
-        Tab[Size - count - 1] = createWare();
+        Tab[Size - count - 1] = createWare(stdin);
+        fgetc(stdin);
     }
+}
+
+inline void printRow(unsigned int index, Ware t) {
+    printf("| %10u. | %21s | %10.2fzl | %10u |\n", index, t.name, t.price, t.stock);
 }
 
 void printWare(Ware* Tab, unsigned int Size) {
@@ -242,7 +246,7 @@ void printWare(Ware* Tab, unsigned int Size) {
     printf("|      Nr.    |         Nazwa         |     Cena     |    Ilosc   |\n");
     printf("+-----------------------------------------------------------------+\n");
     for (unsigned int i = 0; i < Size; i++) {
-        printf("| %10u. | %21s | %10.2fzl | %10u |\n", i + 1, Tab[i].name, Tab[i].price, Tab[i].stock);
+        printRow(i + 1, Tab[i]);
     }
     printf("+-----------------------------------------------------------------+\n");
 }
@@ -259,7 +263,7 @@ void printWareName(Ware* Tab, unsigned int Size, char* name) {
     for (unsigned int i = 0; i < Size; i++) {
         if (strstr(Tab[i].name, name) != NULL)
         {
-            printf("| %10u. | %21s | %10.2fzl | %10u |\n", i + 1, Tab[i].name, Tab[i].price, Tab[i].stock);
+            printRow(i + 1, Tab[i]);
         }
     }
     printf("+-----------------------------------------------------------------+\n");
@@ -280,19 +284,19 @@ void printWarePrice(Ware* Tab, unsigned int Size, char lhe, float price) {
         case '<':
             if (Tab[i].price < price)
             {
-                printf("| %10u. | %21s | %10.2fzl | %10u |\n", i + 1, Tab[i].name, Tab[i].price, Tab[i].stock);
+                printRow(i + 1, Tab[i]);
             }
             break;
         case '=':
             if (Tab[i].price == price)
             {
-                printf("| %10u. | %21s | %10.2fzl | %10u |\n", i + 1, Tab[i].name, Tab[i].price, Tab[i].stock);
+                printRow(i + 1, Tab[i]);
             }
             break;
         case '>':
             if (Tab[i].price > price)
             {
-                printf("| %10u. | %21s | %10.2fzl | %10u |\n", i + 1, Tab[i].name, Tab[i].price, Tab[i].stock);
+                printRow(i + 1, Tab[i]);
             }
             break;
 
@@ -316,19 +320,19 @@ void printWareStock(Ware* Tab, unsigned int Size, char lhe, unsigned int stock) 
         case '<':
             if (Tab[i].stock < stock)
             {
-                printf("| %10u. | %21s | %10.2fzl | %10u |\n", i + 1, Tab[i].name, Tab[i].price, Tab[i].stock);
+                printRow(i + 1, Tab[i]);
             }
             break;
         case '=':
             if (Tab[i].stock == stock)
             {
-                printf("| %10u. | %21s | %10.2fzl | %10u |\n", i + 1, Tab[i].name, Tab[i].price, Tab[i].stock);
+                printRow(i + 1, Tab[i]);
             }
             break;
         case '>':
             if (Tab[i].stock > stock)
             {
-                printf("| %10u. | %21s | %10.2fzl | %10u |\n", i + 1, Tab[i].name, Tab[i].price, Tab[i].stock);
+                printRow(i + 1, Tab[i]);
             }
             break;
 
@@ -345,7 +349,7 @@ void addNewWare(Ware*& Tab, unsigned int& Size) {
         Tab = temp;
         return;
     }
-    Tab[Size] = createWare();
+    Tab[Size] = createWare(stdin);
     Size++;
     if (temp != NULL && temp != Tab) {
         delete[] temp;
@@ -433,14 +437,7 @@ void backupFromFile(Ware*& Tab, unsigned int& Size, char* name) {
 
     for (unsigned int i = 0; i < Size;i++) {
         fgetc(file);
-        fgets((Tab + i)->name, 21, file);
-        for (char* j = (Tab + i)->name; *j; j++) {
-            if (*j == '\n') {
-                *j = '\0';
-            }
-        }
-        fscanf(file, "%f", &((Tab + i)->price));
-        fscanf(file, "%u", &((Tab + i)->stock));
+        Tab[i] = createWare(file);
     }
     fclose(file);
 }
