@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "1a5ce75e25bf6d02",
+        "id": "fe42a94566c4a5dc",
         "type": "tabs",
         "children": [
           {
-            "id": "feb8386f427d69eb",
+            "id": "b95043bc4317cff1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Drawing 2023-01-05 10.33.26.excalidraw.md"
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 9/Wykład 9.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "33beb5aa97c8cc37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6375ec12f7dbc843",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 9/2020_W09_struktury.pdf"
               }
             }
           }
@@ -67,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -94,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Drawing 2023-01-05 10.33.26.excalidraw.md"
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 9/Wykład 9.md"
               }
             }
           },
@@ -112,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Drawing 2023-01-05 10.33.26.excalidraw.md",
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 9/Wykład 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Drawing 2023-01-05 10.33.26.excalidraw.md",
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 9/Wykład 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,21 +173,21 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "feb8386f427d69eb",
+  "active": "b95043bc4317cff1",
   "lastOpenFiles": [
+    "Notatki/Podstawy programowania/Wykłady/Wykład 9/2020_W09_struktury.pdf",
+    "Notatki/Podstawy programowania/Wykłady/Wykład 9/Wykład 9.md",
+    "Notatki/Podstawy programowania/Wykłady/Wykład 8/Wykład 8.md",
+    "Notatki/Podstawy programowania/Wykłady/Wykład 8/2020_W08_dynamiczna_alokacja_pamieci.pdf",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Drawing 2023-01-05 10.33.26.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Lista_10_AM1.pdf",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Pasted Image 20230105103413_844.png",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Drawing 2023-01-05 10.33.26.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Ćwiczenia 10.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Drawing 2022-12-14 16.24.37.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 9/Drawing 2023-01-04 09.33.44.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 9/ALGA_zestaw_09.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 9/Ćwiczenia 9.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 10/Ćwiczenia 10.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 10/ALGA_zestaw_10.pdf"
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 9/Drawing 2023-01-04 09.33.44.excalidraw.md"
   ]
 }
