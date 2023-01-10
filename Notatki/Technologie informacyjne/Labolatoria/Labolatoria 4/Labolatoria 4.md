@@ -1,5 +1,6 @@
 ![[TI___lab4.pdf]]
-![[TI___lab4.pdf]]
+![[lab4_a.pdf]]
+![[lab4b.pdf]]
 ```tex
 \input{header}
 \begin{document}
