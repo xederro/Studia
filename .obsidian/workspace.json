@@ -13,26 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 9/Wykład 9.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "33beb5aa97c8cc37",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6375ec12f7dbc843",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 9/2020_W09_struktury.pdf"
               }
             }
           }
@@ -86,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
-    "collapsed": true
+    "width": 221.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -114,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 9/Wykład 9.md"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md"
               }
             }
           },
@@ -132,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 9/Wykład 9.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 9/Wykład 9.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,8 +162,8 @@
   },
   "active": "b95043bc4317cff1",
   "lastOpenFiles": [
-    "Notatki/Podstawy programowania/Wykłady/Wykład 9/2020_W09_struktury.pdf",
     "Notatki/Podstawy programowania/Wykłady/Wykład 9/Wykład 9.md",
+    "Notatki/Podstawy programowania/Wykłady/Wykład 9/2020_W09_struktury.pdf",
     "Notatki/Podstawy programowania/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 8/2020_W08_dynamiczna_alokacja_pamieci.pdf",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Drawing 2023-01-05 10.33.26.excalidraw.md",

@@ -100,10 +100,12 @@ int main()
                 {
                     if (lhe != 0)
                     {
+                        scanf("%c");
                         printf("Zly wybor\n");
                     }
                     printf("Wpisz znak:\n");
                     scanf("%c", &lhe);
+
                 } while (lhe != '>' && lhe != '=' && lhe != '<');
 
                 float price = 0;
@@ -120,6 +122,7 @@ int main()
                 {
                     if (lhe != 0)
                     {
+                        scanf("%c");
                         printf("Zly wybor\n");
                     }
                     printf("Wpisz znak:\n");
