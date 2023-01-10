@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fe42a94566c4a5dc",
+        "id": "18de87f5d6c97181",
         "type": "tabs",
         "children": [
           {
-            "id": "b95043bc4317cff1",
+            "id": "afee460fc3e5b753",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
+                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 4/Labolatoria 4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md"
+                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 4/Labolatoria 4.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
+                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 4/Labolatoria 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
+                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 4/Labolatoria 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,17 +160,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "b95043bc4317cff1",
+  "active": "afee460fc3e5b753",
   "lastOpenFiles": [
+    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria.md",
+    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 4/Labolatoria 4.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 9/Wykład 9.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 9/2020_W09_struktury.pdf",
     "Notatki/Podstawy programowania/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 8/2020_W08_dynamiczna_alokacja_pamieci.pdf",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Drawing 2023-01-05 10.33.26.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Lista_10_AM1.pdf",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Pasted Image 20230105103413_844.png",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Ćwiczenia 10.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Drawing 2022-12-14 16.24.37.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 9/Drawing 2023-01-04 09.33.44.excalidraw.md"
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Pasted Image 20230105103413_844.png"
   ]
 }
