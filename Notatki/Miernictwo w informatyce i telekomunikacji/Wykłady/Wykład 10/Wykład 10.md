@@ -42,7 +42,7 @@ Największa częstotliwość sygnałów które możne przenieść bez zniekszta�
 
 Częstotliwość próbkowania, 
 
-dla $\sin{x} >2.5*f_{max}$
+dla $\sin{x}/x >2.5*f_{max}$
 dla interpolacji liniowej $>10*f_{max}$
 
-kompromis - min nadpróbkowanie 5 f_max
+kompromis - min nadpróbkowanie $>5*f_{max}$
