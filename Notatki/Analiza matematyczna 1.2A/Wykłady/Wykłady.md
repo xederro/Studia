@@ -9,7 +9,7 @@
 8. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 8/Wykład 8|Wykład 8]]
 9. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 9/Wykład 9|Wykład 9]]
 10. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 10/Wykład 10|Wykład 10]]
-11. [[Wykład 11|Wykład 11]]
+11. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład11/Wykład 11|Wykład 11]]
 
 ## Zaliczenie
 egzamin bez poprawki 

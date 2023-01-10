@@ -1,0 +1,1 @@
+![[ALGA-Wyklad_14.pdf]]

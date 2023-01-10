@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8c7eecda05e9bc4d",
+        "id": "0f055c81dd3aae71",
         "type": "tabs",
         "children": [
           {
-            "id": "cabc383ae5f5dbd4",
+            "id": "46cf687cfc8e4bd0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 10/Wykład 10.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 11/Drawing 2023-01-10 13.17.35.excalidraw.md"
               }
             }
           }
@@ -70,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 518.5,
-    "collapsed": true
+    "width": 368.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -98,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 10/Wykład 10.md"
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 11/Drawing 2023-01-10 13.17.35.excalidraw.md"
               }
             }
           },
@@ -116,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 10/Wykład 10.md",
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 11/Drawing 2023-01-10 13.17.35.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 10/Wykład 10.md",
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 11/Drawing 2023-01-10 13.17.35.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,17 +157,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "cabc383ae5f5dbd4",
+  "active": "46cf687cfc8e4bd0",
   "lastOpenFiles": [
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 9/Wykład 9.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Wykład 8.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 10/Wykład 10.md",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 6/Labolatoria 6.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Ćwiczenia 10.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Drawing 2023-01-05 10.33.26.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 9/Ćwiczenia 9.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 9/Drawing 2023-01-04 09.33.44.excalidraw.md",
-    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 4/Labolatoria 4.md",
-    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 4/lab4b.pdf"
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 11/Wykład 11.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 10/ALGA-Wyklad_11.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 14/Wykład 14.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykłady.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 13/Wykład 13.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 15/Wykład 15.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 12/Wykład 12.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 12/ALGA-Wyklad_13.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 10/ALGA_zestaw_10.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 10/Wykład 10.md"
   ]
 }
