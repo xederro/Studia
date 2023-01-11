@@ -12,8 +12,6 @@
 8. [[Własność intelektualna i prawo autorskie]]
 9. [[Inne]]
 
-
-
 # Przydatne
 >[!info]
 >![[Sylabus.pdf|Sylabus]]
