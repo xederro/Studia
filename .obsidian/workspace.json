@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0f055c81dd3aae71",
+        "id": "6b98783fea90c47c",
         "type": "tabs",
         "children": [
           {
-            "id": "46cf687cfc8e4bd0",
+            "id": "30e57098ec8beb4b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 11/Drawing 2023-01-10 13.17.35.excalidraw.md"
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -94,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 11/Drawing 2023-01-10 13.17.35.excalidraw.md"
+                "file": "README.md"
               }
             }
           },
@@ -112,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 11/Drawing 2023-01-10 13.17.35.excalidraw.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 11/Drawing 2023-01-10 13.17.35.excalidraw.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +148,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -157,17 +159,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "46cf687cfc8e4bd0",
+  "active": "30e57098ec8beb4b",
   "lastOpenFiles": [
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 11/Wykład 11.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 10/ALGA-Wyklad_11.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 14/Wykład 14.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykłady.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 13/Wykład 13.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 15/Wykład 15.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 12/Wykład 12.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 12/ALGA-Wyklad_13.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 10/ALGA_zestaw_10.pdf",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 10/Wykład 10.md"
+    "Notatki/Algebra liniowa z geometrią analityczną/Algebra liniowa z geometrą analityczną.md",
+    "README.md",
+    "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md",
+    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria.md",
+    "Notatki/Technologie informacyjne/Wykłady/Wykłady.md",
+    "Notatki/Technologie informacyjne/Technologie informacyjne.md",
+    "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykłady.md",
+    "Notatki/Własność intelektualna i prawo autorskie/Własność intelektualna i prawo autorskie.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 11/Drawing 2023-01-10 13.17.35.excalidraw.md"
   ]
 }

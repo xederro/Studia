@@ -14,10 +14,9 @@
 
 
 
-
 # Przydatne
-```ad-info
-![[Sylabus.pdf|Sylabus]]
-```
+>[!info]
+>![[Sylabus.pdf|Sylabus]]
+
 [[Sylabus.pdf|Sylabus]]
 [[symbols.pdf|Symbole]]

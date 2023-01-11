@@ -22,6 +22,5 @@ Kolokwia zaliczeniowe:
 
 Jeżeli student bardzo dobrze napisze pierwsze kolokwium (85%) i uzyska z ćwiczeń oraz laboratorium ocenę  4.5 (z obu form) to średnia ocen z laboratorium i ćwiczeń będzie przepisana jako ocena zaliczeniowa z wykładu. (wówczas nie trzeba będzie pisać drugiego kolokwium) W pozostałych przypadkach końcowa ocena całego kursu będzie uśrednioną oceną z: kolokwium z wykładu 50%, ćwiczeń 25% laboratorium 25% 
 
-```ad-warning
-Uwaga: wszystkie oceny muszą być pozytywne.
-```
+>[!warning]
+>Uwaga: wszystkie oceny muszą być pozytywne.
