@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "98bed141302f2e17",
+        "id": "392e725c590eb4ef",
         "type": "tabs",
         "children": [
           {
-            "id": "88522aee730f93bc",
+            "id": "ab4c7f564b2d9a16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notatki/Filozofia/Wykłady/Wykład 8/Wykład 8.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 10/Drawing 2023-01-12 17.36.20.excalidraw.md"
               }
             }
           }
@@ -97,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Filozofia/Wykłady/Wykład 8/Wykład 8.md"
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 10/Drawing 2023-01-12 17.36.20.excalidraw.md"
               }
             }
           },
@@ -115,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Filozofia/Wykłady/Wykład 8/Wykład 8.md",
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 10/Drawing 2023-01-12 17.36.20.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,17 +139,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "88522aee730f93bc",
+  "active": "ab4c7f564b2d9a16",
   "lastOpenFiles": [
-    "Notatki/Filozofia/Wykłady/Wykład 9/Wykład 9.md",
-    "Notatki/Filozofia/Wykłady/Wykład 8/Wykład 8.md",
-    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 0/Labolatoria 0.md",
-    "README.md",
-    "Untitled.canvas",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 11/Wykład 11.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 11/Drawing 2023-01-10 13.17.35.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Algebra liniowa z geometrą analityczną.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria.md"
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 10/Untitled.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 10/ALGA_zestaw_10.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 9/Ćwiczenia 9.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 10/Ćwiczenia 10.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 12/Lista_12_AM1.pdf",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 3/Drawing 2023-01-12 16.29.08.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 3/Kolos 3.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Lista_10_AM1.pdf",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Pasted Image 20230105113210_306.png",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Pasted Image 20230105103413_844.png"
   ]
 }
