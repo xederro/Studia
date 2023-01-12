@@ -15,6 +15,10 @@
 ![[Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Woltomierz_na_przetworniku_AC.pdf]]h: Mierniki2
 ![[Wzmacniacze_Operacyjne_dla_Wszystkich_TI.pdf]] h: Mierniki2
 
+![[Diody.pdf]]
+![[Op-Amps.pdf]]
+![[Tranzyst_Materia.pdf]]
+
 # Tranzystory i jego zastosowanie
 
 kolektor
