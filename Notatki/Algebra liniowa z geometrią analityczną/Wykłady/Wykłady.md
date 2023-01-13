@@ -10,7 +10,7 @@
 9. [[Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 9/Wykład 9|Wykład 9]]
 10. [[Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 10/Wykład 10|Wykład 10]]
 11. [[Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 11/Wykład 11|Wykład 11]]
-12. [[Wykład 12|Wykład 12]]
+12. [[Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 12/Wykład 12|Wykład 12]]
 13. [[Wykład 13|Wykład 13]]
 14. [[Wykład 14|Wykład 14]]
 15. [[Wykład 15|Wykład 15]]
