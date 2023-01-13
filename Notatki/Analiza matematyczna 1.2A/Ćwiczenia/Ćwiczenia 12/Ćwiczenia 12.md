@@ -1,1 +1,1 @@
-![[Lista_12_AM1.pdf]]
+![[Lista_12_AM1.pdf]]![[Drawing 2023-01-13 16.09.31.excalidraw]]
