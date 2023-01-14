@@ -1,4 +1,4 @@
 # Znaki towarowe
 
-[tmdn](tmdn.org) 
+[tmdn](tmdn.org)
 

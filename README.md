@@ -16,5 +16,6 @@
 >[!info]
 >![[Sylabus.pdf|Sylabus]]
 
-[[Sylabus.pdf|Sylabus]]
-[[symbols.pdf|Symbole]]
+>[!info]
+>[[Sylabus.pdf|Sylabus]]
+>[[symbols.pdf|Symbole]]
