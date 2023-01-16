@@ -41,7 +41,7 @@ zabieg w celu uzyskania informacji(liczba + jednostka)
 - określa przewidywalny rozrzut wielokrotnych wyników tego samego obiektu, precyzyjne powinny dawać bardzo zbliżony wynik
 ### Rozdzielczość
 - minimalna mierzalna zmiana wyniku pomiaru, "ziarno" wskazania miernika 1 $\degree C$ a 0,1 $\degree C$
-## Czułość
+### Czułość
 - bardziej reaguje na zmiany
 
 
