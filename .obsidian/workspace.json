@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d0fe783437386dcf",
+        "id": "1a86a6442575cb55",
         "type": "tabs",
         "children": [
           {
-            "id": "7d5f1b957c472090",
+            "id": "9208464db515507b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykład 4/Wykład 4.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e95825c42a8de2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykład 4/Wykład 4.md",
+                "file": "Notatki/Podstawy programowania/Labolatoria/Kolokwium/Kolokwium.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykład 4/Wykład 4.md"
+                "file": "Notatki/Podstawy programowania/Labolatoria/Kolokwium/Kolokwium.md"
               }
             }
           },
@@ -129,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykład 4/Wykład 4.md",
+                "file": "Notatki/Podstawy programowania/Labolatoria/Kolokwium/Kolokwium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,11 +142,11 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "5e95825c42a8de2e",
+  "active": "9208464db515507b",
   "lastOpenFiles": [
+    "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Własność intelektualna i prawo autorskie/Własność intelektualna i prawo autorskie.md",
     "tmdn.org.md",
-    "Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykład 4/Wykład 4.md",
     "README.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 11/Ćwiczenia 11.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 11/Drawing 2023-01-13 15.20.51.excalidraw.md",
