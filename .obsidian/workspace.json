@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d278164c563ef7ff",
+        "id": "9f915aa01ee73918",
         "type": "tabs",
         "children": [
           {
-            "id": "b048eac698b9de6a",
+            "id": "bef5384e9b9ad5c4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Laboratorium 4_2021.pdf"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/Wykład 11.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -67,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -94,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Laboratorium 4_2021.pdf"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/Wykład 11.md"
               }
             }
           },
@@ -112,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Laboratorium 4_2021.pdf",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/Wykład 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,17 +143,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "b048eac698b9de6a",
+  "active": "bef5384e9b9ad5c4",
   "lastOpenFiles": [
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/w14_2023.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/Wykład 11.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md",
+    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Laboratorium 4_2021.pdf",
     "Notatki/Podstawy programowania/Wykłady/Wykład 10/Wykład 10.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 9/Wykład 9.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 9/2020_W09_struktury.pdf",
     "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
     "Notatki/Podstawy programowania/Podstawy programowania.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 1/Wyklad1_konspekt_eportal.pdf",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md"
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 2/Wykład 2.md"
   ]
 }
