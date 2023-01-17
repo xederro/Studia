@@ -75,7 +75,7 @@ Skala nominalna oparta jest tylko na relacji równoważności np. RGB(10,10,10),
 
 Skala porządkowa - określone są w niej relacje równoważności i ścisłego uporządkowania, cechom obiektów o większej intensywności podaje się wyższe liczby, np. 1 kapitan to nie 5 majtków, skala skala twardości minerałów Mosha
 
-Skala addytywna - odwzorowuje relacje ścisłego uporządkowania i równości interwałów. Różnice między dwiema wartościami w tej skali dająsięobliczyć i mają interpretacje w świecie rzeczywistym np. temperatura
+Skala addytywna - odwzorowuje relacje ścisłego uporządkowania i równości interwałów. Różnice między dwiema wartościami w tej skali dają się obliczyć i mają interpretacje w świecie rzeczywistym np. temperatura
 
 Skala ilorazowa, stosunkowa, metryczna - odwzorowuje relacje ścisłego uporządkowania i równości interwałów i równoważności skali np skala Kelwina
 
