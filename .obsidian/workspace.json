@@ -11,12 +11,9 @@
             "id": "b048eac698b9de6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 10/Wykład 10.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Laboratorium 4_2021.pdf"
               }
             }
           }
@@ -70,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 335.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -98,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 10/Wykład 10.md"
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Laboratorium 4_2021.pdf"
               }
             }
           },
@@ -116,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 10/Wykład 10.md",
+                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Laboratorium 4_2021.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
