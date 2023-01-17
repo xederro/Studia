@@ -395,12 +395,34 @@ var require_dist = __commonJS({
       function internalize(holder, name, reviver) {
         var value = holder[name];
         if (value != null && typeof value === "object") {
-          for (var key2 in value) {
-            var replacement = internalize(value, key2, reviver);
-            if (replacement === void 0) {
-              delete value[key2];
-            } else {
-              value[key2] = replacement;
+          if (Array.isArray(value)) {
+            for (var i2 = 0; i2 < value.length; i2++) {
+              var key2 = String(i2);
+              var replacement = internalize(value, key2, reviver);
+              if (replacement === void 0) {
+                delete value[key2];
+              } else {
+                Object.defineProperty(value, key2, {
+                  value: replacement,
+                  writable: true,
+                  enumerable: true,
+                  configurable: true
+                });
+              }
+            }
+          } else {
+            for (var key$1 in value) {
+              var replacement$1 = internalize(value, key$1, reviver);
+              if (replacement$1 === void 0) {
+                delete value[key$1];
+              } else {
+                Object.defineProperty(value, key$1, {
+                  value: replacement$1,
+                  writable: true,
+                  enumerable: true,
+                  configurable: true
+                });
+              }
             }
           }
         }
@@ -1100,7 +1122,12 @@ var require_dist = __commonJS({
           if (Array.isArray(parent)) {
             parent.push(value);
           } else {
-            parent[key] = value;
+            Object.defineProperty(parent, key, {
+              value,
+              writable: true,
+              enumerable: true,
+              configurable: true
+            });
           }
         }
         if (value !== null && typeof value === "object") {
@@ -11433,14 +11460,14 @@ var makeRustSettings_default = (tab, containerEl) => {
 var import_obsidian21 = require("obsidian");
 var makeScalaSettings_default = (tab, containerEl) => {
   containerEl.createEl("h3", { text: "Scala Settings" });
-  new import_obsidian21.Setting(containerEl).setName("scala path").setDesc("Path to your scala installation").addText((text) => text.setValue(tab.plugin.settings.tsPath).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian21.Setting(containerEl).setName("scala path").setDesc("Path to your scala installation").addText((text) => text.setValue(tab.plugin.settings.scalaPath).onChange((value) => __async(void 0, null, function* () {
     const sanitized = tab.sanitizePath(value);
-    tab.plugin.settings.tsPath = sanitized;
+    tab.plugin.settings.scalaPath = sanitized;
     console.log("scala path set to: " + sanitized);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian21.Setting(containerEl).setName("Scala arguments").addText((text) => text.setValue(tab.plugin.settings.tsArgs).onChange((value) => __async(void 0, null, function* () {
-    tab.plugin.settings.tsArgs = value;
+  new import_obsidian21.Setting(containerEl).setName("Scala arguments").addText((text) => text.setValue(tab.plugin.settings.scalaArgs).onChange((value) => __async(void 0, null, function* () {
+    tab.plugin.settings.scalaArgs = value;
     console.log("Scala args set to: " + value);
     yield tab.plugin.saveSettings();
   })));
