@@ -2,3 +2,4 @@
 .idea
 **/*.exe
 **/Recording*.webm
+.obsidian/workspace.json
