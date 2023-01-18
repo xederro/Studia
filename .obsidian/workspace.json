@@ -11,9 +11,12 @@
             "id": "a52999a47455e409",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Drawing 2022-12-16 16.38.22.excalidraw.md"
+                "file": "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -46,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#kolokwium",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 335.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -95,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Drawing 2022-12-16 16.38.22.excalidraw.md"
+                "file": "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md"
               }
             }
           },
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Drawing 2022-12-16 16.38.22.excalidraw.md",
+                "file": "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,15 +144,15 @@
   },
   "active": "a52999a47455e409",
   "lastOpenFiles": [
+    "Notatki/Filozofia/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Filozofia/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Filozofia/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Drawing 2022-12-16 16.38.22.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Drawing 2022-12-14 16.40.11.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Drawing 2022-12-02 17.38.59.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 13/Wykład 13.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 13/Drawing 2023-01-17 13.18.34.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 13/ALGA-Wyklad_14.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 15/ALGA-Wyklad_16.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 14/ALGA-Wyklad_15.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 12/Wykład 12.md"
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 13/Wykład 13.md"
   ]
 }
