@@ -1,4 +1,9 @@
 ![Repo Size](https://img.shields.io/github/repo-size/Xederro/Studia?style=for-the-badge)[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A8GJFDV)
+
+Zalecamy zapoznanie się z:
+[[LICENSE]]
+[[CONTRIBUTING]]
+
 # Studia
 ## Spis treści
 ### Semestr 1
