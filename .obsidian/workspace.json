@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e8f9d043b03446fe",
+        "id": "828a608a56699c1c",
         "type": "tabs",
         "children": [
           {
-            "id": "a52999a47455e409",
+            "id": "f4b806fe2de4cad2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Drawing 2022-12-16 16.38.22.excalidraw.md"
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -67,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 335.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -95,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Drawing 2022-12-16 16.38.22.excalidraw.md"
+                "file": "README.md"
               }
             }
           },
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Drawing 2022-12-16 16.38.22.excalidraw.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,17 +142,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "a52999a47455e409",
+  "active": "f4b806fe2de4cad2",
   "lastOpenFiles": [
+    "LICENSE.md",
+    "README.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Drawing 2022-12-16 16.38.22.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Drawing 2022-12-14 16.40.11.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Drawing 2022-12-02 17.38.59.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 13/Wykład 13.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 13/Drawing 2023-01-17 13.18.34.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 13/ALGA-Wyklad_14.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 15/ALGA-Wyklad_16.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 14/ALGA-Wyklad_15.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 12/Wykład 12.md"
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 13/ALGA-Wyklad_14.pdf"
   ]
 }
