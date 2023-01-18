@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2496af3dea130c35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/Labolatoria 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/Labolatoria 1.md"
               }
             }
           },
@@ -115,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/Labolatoria 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,17 +156,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "7a16c58632dc455c",
+  "active": "2496af3dea130c35",
   "lastOpenFiles": [
+    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/lab1_b.pdf",
+    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/lab1_b_zadanie.pdf",
+    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/Labolatoria 1.md",
+    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 2/Labolatoria 2.md",
+    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 0/Labolatoria 0.md",
     "README.md",
-    "CONTRIBUTING.md",
     "LICENSE.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Drawing 2022-12-16 16.38.22.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Drawing 2022-12-14 16.40.11.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Drawing 2022-12-02 17.38.59.excalidraw.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 13/Wykład 13.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 13/Drawing 2023-01-17 13.18.34.excalidraw.md"
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Drawing 2022-12-16 16.38.22.excalidraw.md"
   ]
 }

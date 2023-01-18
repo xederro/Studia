@@ -1,8 +1,10 @@
-![Repo Size](https://img.shields.io/github/repo-size/Xederro/Studia?style=for-the-badge)[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A8GJFDV)
+![Repo Size](https://img.shields.io/github/repo-size/Xederro/Studia?style=for-the-badge)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A8GJFDV)
 
 Zalecamy zapoznanie się z:
 [[LICENSE]]
 [[CONTRIBUTING]]
+[[CODE_OF_CONDUCT]]
 
 # Studia
 ## Spis treści
@@ -17,7 +19,7 @@ Zalecamy zapoznanie się z:
 8. [[Własność intelektualna i prawo autorskie]]
 9. [[Inne]]
 
-# Przydatne
+## Przydatne
 >[!info]
 >![[Sylabus.pdf|Sylabus]]
 

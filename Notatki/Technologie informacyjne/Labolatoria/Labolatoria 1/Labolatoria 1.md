@@ -83,7 +83,7 @@ main.tex
 }{%
     Wtorek TP 11:15% termin
 }{-}{-}{%
-    Dawid Jabłoński 272970% dane osobowe
+    % dane osobowe
 }{%
     https://www.overleaf.com/5852572962tmdfqcfdryvm% link do edytowalnej wersji projektu
 }{\today}{%
