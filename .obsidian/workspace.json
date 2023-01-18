@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a16c58632dc455c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2496af3dea130c35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/Labolatoria 1.md",
+                "file": "Notatki/Filozofia/Wykłady/Wykład 9/Wykład 9.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -111,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/Labolatoria 1.md"
+                "file": "Notatki/Filozofia/Wykłady/Wykład 9/Wykład 9.md"
               }
             }
           },
@@ -129,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/Labolatoria 1.md",
+                "file": "Notatki/Filozofia/Wykłady/Wykład 9/Wykład 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,15 +145,15 @@
   },
   "active": "2496af3dea130c35",
   "lastOpenFiles": [
+    "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Filozofia/Wykłady/Wykład 9/Wykład 9.md",
+    "Notatki/Filozofia/Wykłady/Wykłady.md",
+    "Notatki/Filozofia/Wykłady/Wykład 10/Wykład 10.md",
+    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/Labolatoria 1.md",
     "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/lab1_b.pdf",
     "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/lab1_b_zadanie.pdf",
-    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/Labolatoria 1.md",
     "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 2/Labolatoria 2.md",
     "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 0/Labolatoria 0.md",
-    "README.md",
-    "LICENSE.md",
-    "CODE_OF_CONDUCT.md",
-    "CONTRIBUTING.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Drawing 2022-12-16 16.38.22.excalidraw.md"
+    "README.md"
   ]
 }
