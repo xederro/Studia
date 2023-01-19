@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7b33f7c4109a0f4e",
+        "id": "ebd9bac6ebb15dbc",
         "type": "tabs",
         "children": [
           {
-            "id": "2496af3dea130c35",
+            "id": "55cc5ce9f19d7de4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Filozofia/Wykłady/Wykłady.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Filozofia/Wykłady/Wykłady.md"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Filozofia/Wykłady/Wykłady.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,17 +142,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "2496af3dea130c35",
+  "active": "55cc5ce9f19d7de4",
   "lastOpenFiles": [
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3 wzorce 2022na23.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Filozofia/Wykłady/Wykłady.md",
     "Notatki/Filozofia/Wykłady/Wykład 9/Wykład 9.md",
     "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Filozofia/Wykłady/Wykłady.md",
     "Notatki/Filozofia/Wykłady/Wykład 10/Wykład 10.md",
     "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/Labolatoria 1.md",
-    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/lab1_b.pdf",
-    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/lab1_b_zadanie.pdf",
-    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 2/Labolatoria 2.md",
-    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 0/Labolatoria 0.md",
-    "README.md"
+    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/lab1_b.pdf"
   ]
 }

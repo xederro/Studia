@@ -19,7 +19,7 @@ Eksperyment jakim jest proces pomiaru musi być solidnie zaplanowany i przygotow
    - Znajomość metod pomiarowych przydatnych do danego celu
    - Dobór metody - "mierz siły na zamiary" czy "zamiar według sił"?
      **bezpośrednie** np. przykładanie termometru
-     - Wychyłowa - połorzenie wskazówki w przyrządzie analogowym np. wychylenie wskazówki woltomierza
+     - Wychyłowa - położenie wskazówki w przyrządzie analogowym np. wychylenie wskazówki woltomierza
      - Zerowa (kompensacyjne) - porównanie wartości mierzonej z wzorcem np. waga wzorcowa (w teorii najdokładniejsze)
      - Zerowa (komparacyjna) - potrafimy użyć wielokrotności wzorców - waga wielokrotnościowa
      - Różnicowa - połączenie powyższych wartość wzorca + wartość wychylenia np. waga która do kg działa jako wychyłowa a powyżej wielokrotnościowa, 1.5 kg sera 1kg odważnik i 0.5 kg na wadze
@@ -30,7 +30,7 @@ Eksperyment jakim jest proces pomiaru musi być solidnie zaplanowany i przygotow
 4. jakich narzędzi pomiarowych chcemy użyć
    Środki techniczne używane do pomiaru
    - Wzorce miar - rezystor wzorcowy, wzorzec czasu -
-   - Sprawdziany - układy pomiarowe służace do sprawdzenia czy dana wielkość spełnia kryteria
+   - Sprawdziany - układy pomiarowe służące do sprawdzenia czy dana wielkość spełnia kryteria
    - Przyrządy pomiarowe - woltomierz, amperomierz, linijka, komputerowa karta pomiarowa
    - Przetwornik pomiarowy - przetwarza wartość wielkości na wartość innej wielkości lub inne wartości tej samej wartości
    - rejestrator - utrwala nietrwały wynik pomiaru
@@ -41,9 +41,9 @@ Eksperyment jakim jest proces pomiaru musi być solidnie zaplanowany i przygotow
    - Czy będziemy mierzyć jedną metodą czy różnymi metodami?
    - Jedno narzędzie pomiarowe czy kilka?
    - Dlaczego? Użyteczny
-   - powienien być wiarygodny i miarodajny
+   - powinien być wiarygodny i miarodajny
    - użyteczny do określonego celu
-   - oszacowany niepewność błąd
+   - oszacowana niepewność błąd
    - błąd powinien być adekwatny do potrzeb
 7. Jak zaprezentować wynik
    Wynik pomiaru powinien być zachowany, odtwarzalny np. dla późniejszej weryfikacji wyników
@@ -80,11 +80,11 @@ Skala addytywna - odwzorowuje relacje ścisłego uporządkowania i równości in
 Skala ilorazowa, stosunkowa, metryczna - odwzorowuje relacje ścisłego uporządkowania i równości interwałów i równoważności skali np skala Kelwina
 
 
-Pomiary pojedyńczej wartości a pomiary funkcyjne
-- pomiary funkcyjne - różnych zaelżności albo zmiany parametrów określonej wielkości
+Pomiary pojedynczej wartości a pomiary funkcyjne
+- pomiary funkcyjne - różnych zależności albo zmiany parametrów określonej wielkości
   
   Określamy zakres zmian parametru wejściowego i wyjściowego
-  - pomiar poziomu sygnału wi-fi w funkcji odległosci - od 1m do odległości dla której poziom spadnie poniżej -70dBm
+  - pomiar poziomu sygnału Wi-Fi w funkcji odległości - od 1m do odległości dla której poziom spadnie poniżej -70dBm
   - pomiar pasma przenoszenia wzmacniacza akustycznego - zakres częstotliwości od 10hz do 30khz
   
   Określenie zasady doboru punktów pomiarowych ich liczby oraz odstępu między punktami: 
