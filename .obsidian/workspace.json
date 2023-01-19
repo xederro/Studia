@@ -11,12 +11,9 @@
             "id": "55cc5ce9f19d7de4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 13/Drawing 2023-01-19 19.08.04.excalidraw.md"
               }
             }
           }
@@ -97,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3.md"
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 13/Drawing 2023-01-19 19.08.04.excalidraw.md"
               }
             }
           },
@@ -115,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3.md",
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 13/Drawing 2023-01-19 19.08.04.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,15 +141,15 @@
   },
   "active": "55cc5ce9f19d7de4",
   "lastOpenFiles": [
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3 wzorce 2022na23.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 13/Drawing 2023-01-17 13.18.34.excalidraw.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 13/Untitled.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 13/Wykład 13.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 12/Wykład 12.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3 wzorce 2022na23.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Filozofia/Wykłady/Wykłady.md",
-    "Notatki/Filozofia/Wykłady/Wykład 9/Wykład 9.md",
-    "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Filozofia/Wykłady/Wykład 10/Wykład 10.md",
-    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/Labolatoria 1.md",
-    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/lab1_b.pdf"
+    "Notatki/Filozofia/Wykłady/Wykład 9/Wykład 9.md"
   ]
 }
