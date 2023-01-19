@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Filozofia/Wykłady/Wykład 9/Wykład 9.md",
+                "file": "Notatki/Filozofia/Wykłady/Wykłady.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 335.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Filozofia/Wykłady/Wykład 9/Wykład 9.md"
+                "file": "Notatki/Filozofia/Wykłady/Wykłady.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Filozofia/Wykłady/Wykład 9/Wykład 9.md",
+                "file": "Notatki/Filozofia/Wykłady/Wykłady.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,8 +144,8 @@
   },
   "active": "2496af3dea130c35",
   "lastOpenFiles": [
-    "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Filozofia/Wykłady/Wykład 9/Wykład 9.md",
+    "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Filozofia/Wykłady/Wykłady.md",
     "Notatki/Filozofia/Wykłady/Wykład 10/Wykład 10.md",
     "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 1/Labolatoria 1.md",
