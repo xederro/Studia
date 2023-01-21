@@ -1,1 +1,1 @@
-![[ALGA-Wyklad_11.pdf]]
+![[ALGA-Wyklad_11.pdf]]![[Wyklad_11a.pdf]]

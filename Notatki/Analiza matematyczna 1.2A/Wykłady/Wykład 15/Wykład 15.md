@@ -1,0 +1,1 @@
+![[W15_Powrorzenie_A.pdf]]
