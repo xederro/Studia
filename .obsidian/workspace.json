@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3221525ca9267359",
+        "id": "45d7ac535e319357",
         "type": "tabs",
         "children": [
           {
-            "id": "adf31c278bf985ec",
+            "id": "e6e2c7c887a2bdef",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Drawing 2023-01-21 10.49.13.excalidraw.md"
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Drawing 2023-01-21 12.31.28.excalidraw.md"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Drawing 2023-01-21 10.49.13.excalidraw.md"
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Drawing 2023-01-21 12.31.28.excalidraw.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Drawing 2023-01-21 10.49.13.excalidraw.md",
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Drawing 2023-01-21 12.31.28.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,17 +139,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "adf31c278bf985ec",
+  "active": "e6e2c7c887a2bdef",
   "lastOpenFiles": [
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 9/ALGA_zestaw_09.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 9/Ćwiczenia 9.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Drawing 2023-01-21 12.31.28.excalidraw.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Kolos 3.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Pasted Image 20230121104955_207.png",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Drawing 2023-01-21 10.49.13.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/ALGA_zestaw_08.pdf",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Drawing 2023-01-21 10.49.13.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Kolos 3.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 13/Wykład 13.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 13/W13_Analiza_21_Calka_2_zm.pdf",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 13/Ćwiczenia 13.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 13/Lista_13_AM1.pdf"
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md"
   ]
 }
