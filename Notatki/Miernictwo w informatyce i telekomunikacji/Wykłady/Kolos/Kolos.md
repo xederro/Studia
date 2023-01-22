@@ -49,38 +49,138 @@ wynik eksperymentu może mieć charakter:
  **pośrednie** np. mierzymy napięcie i prąd by znać rezystancje
 
 # Wykład 3
-Podczas zaliczenia nie będzie pytań, w których będziecie musieli wytłumaczyć zjawiska fizyczne, dzięki którym działają wzorce. Należy znać ich nazwy (zjawisk). 
-Pojawią się pytania z umiejętności przeliczania: procenty -> promile -> ppm -> zapis liczbowy Należy znać rodzaje wzorców i wiedzieć jakie mogą osiągać dokładności. Należy umieć wymienić zastosowania wzorca napięcia (uwzględniając również przyrządy przetwarzające różne wielkości fizyczne na napięcie).
+Należy znać rodzaje wzorców i wiedzieć jakie mogą osiągać dokładności. Należy umieć wymienić zastosowania wzorca napięcia (uwzględniając również przyrządy przetwarzające różne wielkości fizyczne na napięcie).
 
-| Co                       | Metoda                                    | Błąd                        | Zjawisko            |
-| ------------------------ | ----------------------------------------- | --------------------------- | ------------------- |
-| Napięcie(U)\[V\]         | Złącze Josephsona                         | $10^{-7}$                   | efekt stało-prądowy |
-|                          | Ogniwo Westona                            | 0,01 do 0,0002 (2ppm/rok)   |                     |
-|                          | Dioda Zenera                              | 1ppm/rok                    |                     |
-| Prąd(I)\[A\]             | Waga prądowa                              | 0,002 ppm                   |                     |
-|                          | Kalibrator prądu                          | 10 ÷ 50 ppm                 |                     |
-| Rezystancja(R)\[$\ohm$\] | kwantowy efekt Halla                      |                             |                     |
-|                          | Rezystory wzorcowe                        |                             |                     |
-| Pojemność(C)\[F\]        | kondensatory liczalne                     |                             |                     |
-|                          | kondensatory płaskie                      |                             |                     |
-| Indukcyjność(L)\[H\]     | cewki indukcyjności własnej               | ~5ppm ($5 \times 10^{4}\%$) |                     |
-|                          | cewki indukcyjności wzajemnej             |                             |                     |
-| Czas / Częstotliwość     | Fontanna cezowa                           |                             |                     |
-|                          | Cezowe zegary atomowe                     |$1,3.10-8 ppm$|                     |
-|                          | Generatory kwarcowe                       |                             |                     |
-|                          | Radiowe sygnały częstotliwości wzorcowych |                             |                     |
+| Co                       | Metoda                                    | Błąd                        | Zjawisko                   |
+| ------------------------ | ----------------------------------------- | --------------------------- | -------------------------- |
+| Napięcie(U)\[V\]         | Złącze Josephsona                         | $10^{-7}$                   | efekt stało-prądowy        |
+|                          | Ogniwo Westona                            | 0,01 do 0,0002 (2ppm/rok)   |                            |
+|                          | Dioda Zenera                              | 1ppm/rok                    |                            |
+| Prąd(I)\[A\]             | Waga prądowa                              | 0,002 ppm                   |                            |
+|                          | Kalibrator prądu                          | 10 ÷ 50 ppm                 |                            |
+| Rezystancja(R)\[$\ohm$\] | kwantowy efekt Halla                      |                             |                            |
+|                          | Rezystory wzorcowe                        |                             |                            |
+| Pojemność(C)\[F\]        | kondensatory liczalne                     |                             |                            |
+|                          | kondensatory płaskie                      |                             |                            |
+| Indukcyjność(L)\[H\]     | cewki indukcyjności własnej               | ~5ppm ($5 \times 10^{4}\%$) |                            |
+|                          | cewki indukcyjności wzajemnej             |                             |                            |
+| Czas / Częstotliwość     | Fontanna cezowa                           |                             |                            |
+|                          | Cezowe zegary atomowe                     | $1.3\times 10^{-8} ppm$     | szarpanie spinu elektronów |
+|                          | Generatory kwarcowe                       |$2.3\times 10^{-10} ppm - \pm \frac{1s}{138mln lat}$|                            |
+|                          | Radiowe sygnały częstotliwości wzorcowych |                             |                            |
+
+Laboratoria wzorcujące utrzymują wzorce odniesienia, ponieważ stosują je do wzorcowania przyrządów przetwarzających różne wielkości fizyczne na napięcie. Przykładem jest termopara. Pomiar temperatury następuje poprzez pomiar różnicy potencjałów pomiędzy złączem pomiarowym i odniesienia. Ponadto wzorce napięcia służą do kalibracji liczników energii elektrycznej, multimetrów, kalibratorów napięcia. Wzorce odniesienia pomagają wyznaczyć wartość poprawną źródeł napięć referencyjnych w przetwornikach analogowo-cyfrowych i cyfrowo-analogowych, które występują licznie w nowoczesnych systemach pomiarowych. Wzorcowe źródła napięcia znajdują także zastosowanie w laboratoriach wojskowych, gdzie są wykorzystywane do kalibracji sprzętu elektronicznego będącego częścią uzbrojenia
 
 procent - liczba części na sto $\rightarrow \frac{1}{100} lub 10^{-2} lub$ 1% 
 promil - liczba części na tysiąc $\rightarrow \frac{1}{1000} lub 10^{-2}$
 ppm - liczba części na milion $\rightarrow \frac{1}{1000000} lub 10^{-6}$ 
 
+# Wykład 4
+
+prawidłowy zapis wyników pomiarów
+
+## Błędy
+
+- Błąd systematyczny - składnik błędu pomiaru, który przy powtarzaniu pomiarów pozostaje stały lub zmienia się w przewidywalny sposób.
+- Błąd przypadkowy - składnik błędu pomiaru, który przy powtarzaniu pomiarów zmienia się w nieprzewidywalny sposób.
+- Błąd gruby – błąd wynikający z niepoprawnego wykonania pomiaru np.: użycie uszkodzonego przyrządu, fałszywe odczytanie wskazania, źle połączony układ pomiarowy, silne zakłócenie itp.
+
+## Źródła błędów
+• niepełna definicja wielkości mierzonej,
+• niedoskonała realizacja definicji wielkości mierzonej,
+• niereprezentatywne pobieranie próbek, tzn. mierzona próbka nie jest reprezentatywna dla definiowanej
+wielkości mierzonej,
+• niepełna znajomość wpływu warunków środowiskowych na procedurę pomiarową lub niedoskonały
+pomiar parametrów charakteryzujących te warunki,
+• subiektywne błędy w odczytywaniu wskazań przyrządów analogowych,
+• skończona rozdzielczość lub próg pobudliwości przyrządu,
+• niedokładnie znane wartości przypisane wzorcom i materiałom odniesienia,
+
+## Niepewności pomiarowe
+
+**Niepewność bezwzględna** - różnica między wartością wielkości zmierzoną (czyli wynikiem pomiaru) a wartością prawdziwą wielkości mierzonej.
+
+**Niepewność względna δx** - stosunek błędu pomiaru (bezwzględnego) do wartości prawdziwej wielkości mierzonej zazwyczaj wyrażany w procentach lub w ppm
+
+## Zaokrąglanie 
+1. Niepewności pomiarowe zaokrąglamy zawsze w górę. 
+2. Stosujemy zaokrąglenie do dwóch cyfr znaczących.
 
 
+dopasowanie do podanych wielkości fizycznych odpowiednie jednostki
+- masa
+- natężenie prądu
+- napięcie
+- odległość
+- okres
+- światłość
+- temperatura
 
+przedstaw w zapisie inżynierskim podane wielkości
+$3,5 * 10^{-2} A$ - natężenie (czego) prądu - $35 mA$
+$12 * 10^2 V$ - Napięcie prądu - $1,2 kV$
+Co za wielkość były zmierzone?
 
+# Wykład 5
 
+## Mocowy
+$X[db] = 10log\frac{P1}{P2}$
 
+## Napięciowy
+$X[db] = 20log\frac{U1}{U2}$
 
+![[Pasted image 20230122163620.png]]
 
+# Wykład 6
 
+## Prawo Ohma
+U = IR
+R = 1/G
+G - konduktancja 1/$\ohm$ \[S-simens\]
+1S = 1A/1V
+I = GU
 
+## Prawo Kirchhoffa
+### I prawo
+I1 + I2 + I3 = I4 + I5
+### II prawo
+$\sum_i U_i = \sum_k \epsilon_k$ 
+
+## Rezystancja
+$P=IU=I^2R=\frac{U^2}{R}=U^2G=\frac{I^2}{G}$
+
+## Źródło napięciowe
+idealne - takie samo napięcie niezaeżnie od obciązenia
+![[Pasted image 20230122170950.png]]
+
+## Źródło prądowe
+idealne - takie sam natężenie niezależnie od napięcia
+![[Pasted image 20230122171038.png]]
+
+## Twierdzenie Thevenina
+Każdą sieć elektryczną można zamienić na:
+![[Pasted image 20230122171620.png]]
+$R_T = \frac{U_T}{I_{ZWARCIA}}$
+$U_T = U_{ROZWARCIA}$
+
+## Twierdzenie Nortona
+Każdą sieć elektryczną można zamienić na:
+![[Pasted image 20230122171802.png]]
+$R_N = \frac{U_{ROZWARCIA}}{I_N}$
+$I_N = I_{ZWARCIA}$
+
+$$R_T = R_N = \frac{U_{ROZWARCIA}}{I_{ZWARCIA}}$$
+| ?mierz      | jak podłączyć | uwagi                  | Układ |
+| ----------- | ------------- | ---------------------- | ----- |
+| Amperomierz | Szeregowo     | najlepiej $0\ohm$      |![[Pasted image 20230122172536.png]]|
+| Voltomierz  | Równolegle    | najlepiej $\infty\ohm$ |![[Pasted image 20230122172514.png]]|
+| Ohmomierz   |               | bez zasilania          |       |
+
+# Wykład 7
+
+## Rozwinięcie w szereg Fouriera funkcji czasowej
+### Szereg
+$$f(t)_\infty = \sum_{n=-\infty}^{+\infty}F_ne^{jnw_0t}$$
+### Współczynniki Fouriera
+$$F_n = \frac{1}{T} \int_{-T/2}^{T/2}f(t)e^{-jnw_0t}$$
+$$F_0 = \frac{1}{T} \int_{-T/2}^{T/2}f(t)$$
