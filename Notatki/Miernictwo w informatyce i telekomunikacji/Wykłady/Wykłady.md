@@ -10,6 +10,7 @@
 9. [[Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 9/Wykład 9|Wykład 9]]
 10. [[Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 10/Wykład 10|Wykład 10]]
 11. [[Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/Wykład 11|Wykład 11]]
+12. [[Kolos|Kolos]]
 
 ## Zaliczenie
 C-5 803/807

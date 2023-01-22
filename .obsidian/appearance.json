@@ -4,5 +4,8 @@
   "cssTheme": "Obsidian Nord",
   "accentColor": "#ff0000",
   "nativeMenus": false,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "width"
+  ]
 }
