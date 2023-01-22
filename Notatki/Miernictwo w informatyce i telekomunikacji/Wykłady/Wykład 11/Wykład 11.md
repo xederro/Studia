@@ -31,7 +31,7 @@ $X_L = \omega L e^{j\frac{\pi}{2}}$ - zapis symboliczny
 podkreślenie pod U lub I oznacza że będzie to liczb zespolona
 
 #kolokwium {
-Idealna cewka powoduje przesunięcie napięcia o $-\frac{\pi}{2}$
+Idealny kondensator powoduje przesunięcie napięcia o $-\frac{\pi}{2}$
 -> reaktancja pojemnościowa - $X_L=j \omega C = j 2 \pi fC$ - opór ale zespolony \[$\ohm$\]
 -> susceptancja pojemnościowa - $B_L=\frac{1}{X_L}$ - przewodność ale zespolona \{siemens\]
 }

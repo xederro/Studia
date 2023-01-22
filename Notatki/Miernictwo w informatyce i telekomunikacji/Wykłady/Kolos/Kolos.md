@@ -182,5 +182,86 @@ $$R_T = R_N = \frac{U_{ROZWARCIA}}{I_{ZWARCIA}}$$
 ### Szereg
 $$f(t)_\infty = \sum_{n=-\infty}^{+\infty}F_ne^{jnw_0t}$$
 ### Współczynniki Fouriera
-$$F_n = \frac{1}{T} \int_{-T/2}^{T/2}f(t)e^{-jnw_0t}$$
-$$F_0 = \frac{1}{T} \int_{-T/2}^{T/2}f(t)$$
+$$F_n = \frac{1}{T} \int_{-T/2}^{T/2}f(t)e^{-jnw_0t}dt$$
+$$F_0 = \frac{1}{T} \int_{-T/2}^{T/2}f(t)dt$$
+| Parametr  | Czas Ciągły                                          | Czas Dyskretny                           |
+| --------- | ---------------------------------------------------- | ---------------------------------------- |
+| Średnia   | $AVG = F_0 = \frac{1}{T} \int_{-T/2}^{T/2}f(t)dt$    | $AVG = x = \frac1N\sum_{k=1}^Nf(k)$      |
+| Skuteczna | $RMS = \sqrt{\frac{1}{T} \int_{-T/2}^{T/2}f^2(t)dt}$ | $RMS = \sqrt{\frac1N\sum_{k=1}^Nf^2(k)}$ |
+| Moc       | $P = \frac{1}{T} \int_{-T/2}^{T/2}f^2(t)dt$          | $P = \frac1N\sum_{k=1}^Nf^2(k)$          |
+
+![[Pasted image 20230122180919.png]]
+
+wartość skuteczna to sens energetyczny sygnału
+czyli jaką energie wygeneruje na oporniku, 230v ac to jest 326v amplitudy by wygenerowało tyle co 230v dc
+
+moc w dziedzinie częstotliwości odpowiada mocy w czasie tylko gdy dąży do nieskończoności
+
+# Wykład 10
+
+Najlepiej nieskończona impedancja.
+- DC - przemienny i składowa stała
+- AC - przemienny bez składowej stałej
+- GND - 0
+
+## Podstawowe parametry oscyloskopu
+
+### Pasmo
+Pasmo zajmowane przez sygnał
+Nie ma nieskończonych pasm
+Największa częstotliwość sygnałów które możne przenieść bez zniekształceń, gdyby był nieskończony to istniała by idealnie kwadratowa funkcja
+
+### Czas narostu sygnału
+   $T_R$ - czas narostu sygnału
+   $t_R[\micro s] = 0,35/B[MHz]$ - oscyloskopu
+   $T'_R zmierzone - \sqrt{t_R^2 + T_R^2}$
+
+## Jak mierzyć oscyloskopem
+
+1. Odczytujemy liczbę dziaek na ekranie
+2. Przeliczamy liczbę działek na wartości bezwzględne na podstawie nastaw oscyloskopu
+   - Amplituda - V/dc
+   - Czas - ($\micro$s/ms/s)/dz
+   - Niepewność głównie z rozdziałki
+
+# Wykład 11
+
+## Cewka
+Idealna cewka powoduje przesunięcie napięcia o $\frac{\pi}{2}$
+-> reaktancja indukcyjna - $X_L=j \omega L = j 2 \pi fL$ - opór ale zespolony \[$\ohm$\]
+indukcyjna lub pojemnościowa
+-> susceptancja indukcyjna - $B_L=\frac{1}{X_L}$ - przewodność ale zespolona
+
+## Kondensator
+Idealny kondensator powoduje przesunięcie napięcia o $-\frac{\pi}{2}$
+-> reaktancja pojemnościowa - $X_L=j \omega C = j 2 \pi fC$ - opór ale zespolony \[$\ohm$\]
+-> susceptancja pojemnościowa - $B_L=\frac{1}{X_L}$ - przewodność ale zespolona \{siemens\]
+
+## Idealna indukcyjność
+prawo ohma jest zachowane w liczbach zespolonych
+
+$I = Re(I_me^{j(\omega t+\phi)})$
+$U = L\frac{d}{dt}I_me^{j(\omega t+\phi)}$
+$X_L = \omega L e^{j\frac{\pi}{2}}$ - zapis symboliczny
+podkreślenie pod U lub I oznacza że będzie to liczb zespolona
+
+## Impedancja (Admitancja)
+Impedancja - $Z = U/I = R+jX=R+j(\omega L - 1/\omega C)$ - (opór zespolony)
+Admitancja - odwrotność Impedancji - $Y = I/U = G+jB=G+j(\omega C - 1/\omega L)$
+
+## Moc chwilowa dla prądów i napięć przemiennych
+$P = U_sI_scos(\phi)$ \[W\]
+
+Moc bierna \[War\]
+$Q=U_sI_s sint(\phi)$
+
+Moc pozorna \[VA\]
+$Q=U_sI_s$
+
+## Moc zespolona S=UI*
+
+\*-sprzęrzone
+\[VA\]
+
+moc zespolona daje moc czynną + moc bierną
+|S| = moc pozorna
