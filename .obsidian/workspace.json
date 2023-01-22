@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4a17c65bbb2e364f",
+        "id": "65f77a4fc0709a6f",
         "type": "tabs",
         "children": [
           {
-            "id": "10b9793fc4ef2d68",
+            "id": "246868755d66e7b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md",
+                "file": "LICENSE.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md"
+                "file": "LICENSE.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md",
+                "file": "LICENSE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,17 +142,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "10b9793fc4ef2d68",
+  "active": "246868755d66e7b7",
   "lastOpenFiles": [
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230122172524.png",
+    "CONTRIBUTING.md",
+    "Drawing 2023-01-22 19.01.54.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Kolos 3.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Pasted Image 20230122104917_026.png",
+    "Drawing 2023-01-22 18.59.38.excalidraw.md",
+    "Template.excalidraw.md",
+    "Untitled.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Drawing 2023-01-22 10.49.14.excalidraw.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Pasted Image 20230121104955_207.png",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/Wykład 11.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3 wzorce 2022na23.pdf",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 10/Wykład 10.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 9/Wykład 9.md"
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md"
   ]
 }
