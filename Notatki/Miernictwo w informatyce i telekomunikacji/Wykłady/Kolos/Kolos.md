@@ -26,10 +26,12 @@ wynik eksperymentu może mieć charakter:
 - bardziej reaguje na zmiany
 
 ## Wielokrotności i podwielokrotności 
+- peta - P - $10^{15}$
 - tera - T - $10^{12}$
 - giga - G - $10^9$
 - mega - M - $10^6$
 - kilo - k - $10^3$
+- 0
 - mili - m - $10^{-3}$
 - mikro - $\mu$ - $10^{-6}$
 - nano - n - $10^{-9}$
@@ -49,30 +51,29 @@ wynik eksperymentu może mieć charakter:
  **pośrednie** np. mierzymy napięcie i prąd by znać rezystancje
 
 # Wykład 3
-Należy znać rodzaje wzorców i wiedzieć jakie mogą osiągać dokładności. Należy umieć wymienić zastosowania wzorca napięcia (uwzględniając również przyrządy przetwarzające różne wielkości fizyczne na napięcie).
 
-| Co                       | Metoda                                    | Błąd                        | Zjawisko                   |
-| ------------------------ | ----------------------------------------- | --------------------------- | -------------------------- |
-| Napięcie(U)\[V\]         | Złącze Josephsona                         | $10^{-7}$                   | efekt stało-prądowy        |
-|                          | Ogniwo Westona                            | 0,01 do 0,0002 (2ppm/rok)   |                            |
-|                          | Dioda Zenera                              | 1ppm/rok                    |                            |
-| Prąd(I)\[A\]             | Waga prądowa                              | 0,002 ppm                   |                            |
-|                          | Kalibrator prądu                          | 10 ÷ 50 ppm                 |                            |
-| Rezystancja(R)\[$\ohm$\] | kwantowy efekt Halla                      |                             |                            |
-|                          | Rezystory wzorcowe                        |                             |                            |
-| Pojemność(C)\[F\]        | kondensatory liczalne                     |                             |                            |
-|                          | kondensatory płaskie                      |                             |                            |
-| Indukcyjność(L)\[H\]     | cewki indukcyjności własnej               | ~5ppm ($5 \times 10^{4}\%$) |                            |
-|                          | cewki indukcyjności wzajemnej             |                             |                            |
-| Czas / Częstotliwość     | Fontanna cezowa                           |                             |                            |
-|                          | Cezowe zegary atomowe                     | $1.3\times 10^{-8} ppm$     | szarpanie spinu elektronów |
-|                          | Generatory kwarcowe                       |$2.3\times 10^{-10} ppm - \pm \frac{1s}{138mln lat}$|                            |
-|                          | Radiowe sygnały częstotliwości wzorcowych |                             |                            |
+| Co                       | Metoda                                    | Błąd                                                 | Zjawisko                   |
+| ------------------------ | ----------------------------------------- | ---------------------------------------------------- | -------------------------- |
+| Napięcie(U)\[V\]         | Złącze Josephsona                         | $10^{-7}$                                            | efekt stało-prądowy        |
+|                          | Ogniwo Westona                            | 0,01 do 0,0002 (2ppm/rok)                            |                            |
+|                          | Dioda Zenera                              | 1ppm/rok                                             |                            |
+| Prąd(I)\[A\]             | Waga prądowa                              | 0,002 ppm                                            |                            |
+|                          | Kalibrator prądu                          | 10 ÷ 50 ppm                                          |                            |
+| Rezystancja(R)\[$\ohm$\] | kwantowy efekt Halla                      |                                                      |                            |
+|                          | Rezystory wzorcowe                        |                                                      |                            |
+| Pojemność(C)\[F\]        | kondensatory liczalne                     |                                                      |                            |
+|                          | kondensatory płaskie                      |                                                      |                            |
+| Indukcyjność(L)\[H\]     | cewki indukcyjności własnej               | ~5ppm ($5 \times 10^{4}\%$)                          |                            |
+|                          | cewki indukcyjności wzajemnej             |                                                      |                            |
+| Czas / Częstotliwość     | Fontanna cezowa                           | $2.3\times 10^{-10} ppm - \pm \frac{1s}{138mln lat}$ |                            |
+|                          | Cezowe zegary atomowe                     | $1.3\times 10^{-8} ppm$                              | szarpanie spinu elektronów |
+|                          | Generatory kwarcowe                       |                                                      |                            |
+|                          | Radiowe sygnały częstotliwości wzorcowych |                                                      |                            |
 
 Laboratoria wzorcujące utrzymują wzorce odniesienia, ponieważ stosują je do wzorcowania przyrządów przetwarzających różne wielkości fizyczne na napięcie. Przykładem jest termopara. Pomiar temperatury następuje poprzez pomiar różnicy potencjałów pomiędzy złączem pomiarowym i odniesienia. Ponadto wzorce napięcia służą do kalibracji liczników energii elektrycznej, multimetrów, kalibratorów napięcia. Wzorce odniesienia pomagają wyznaczyć wartość poprawną źródeł napięć referencyjnych w przetwornikach analogowo-cyfrowych i cyfrowo-analogowych, które występują licznie w nowoczesnych systemach pomiarowych. Wzorcowe źródła napięcia znajdują także zastosowanie w laboratoriach wojskowych, gdzie są wykorzystywane do kalibracji sprzętu elektronicznego będącego częścią uzbrojenia
 
 procent - liczba części na sto $\rightarrow \frac{1}{100} lub 10^{-2} lub$ 1% 
-promil - liczba części na tysiąc $\rightarrow \frac{1}{1000} lub 10^{-2}$
+promil - liczba części na tysiąc $\rightarrow \frac{1}{1000} lub 10^{-3}$
 ppm - liczba części na milion $\rightarrow \frac{1}{1000000} lub 10^{-6}$ 
 
 # Wykład 4
