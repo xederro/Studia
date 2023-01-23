@@ -107,7 +107,6 @@ pomiar parametrów charakteryzujących te warunki,
 1. Niepewności pomiarowe zaokrąglamy zawsze w górę. 
 2. Stosujemy zaokrąglenie do dwóch cyfr znaczących.
 
-
 dopasowanie do podanych wielkości fizycznych odpowiednie jednostki
 - masa
 - natężenie prądu
@@ -151,7 +150,7 @@ $\sum_i U_i = \sum_k \epsilon_k$
 $P=IU=I^2R=\frac{U^2}{R}=U^2G=\frac{I^2}{G}$
 
 ## Źródło napięciowe
-idealne - takie samo napięcie niezaeżnie od obciązenia
+idealne - takie samo napięcie niezależnie od obciązenia
 ![[Pasted image 20230122170950.png]]
 
 ## Źródło prądowe
