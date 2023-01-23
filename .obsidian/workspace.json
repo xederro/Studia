@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Kolos 3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 430.5,
-    "collapsed": true
+    "width": 430.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md"
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Kolos 3.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Kolos 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,17 +142,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "49d30ce6368bee01",
+  "active": "bbdca9f8832b6a08",
   "lastOpenFiles": [
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 9/Ćwiczenia 9.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 10/Wykład 10.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 10/2020_W10_operacje_plikowe.pdf",
     "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 11/Wykład 11.md",
     "Notatki/Podstawy programowania/Wykłady/Kolokwium 2/Kolokwium 2.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
     "README.md",
     "LICENSE.md",
-    "CONTRIBUTING.md",
-    "CODE_OF_CONDUCT.md"
+    "CONTRIBUTING.md"
   ]
 }
