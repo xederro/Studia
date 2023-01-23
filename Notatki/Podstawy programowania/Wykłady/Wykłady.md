@@ -10,6 +10,8 @@
 9. [[Notatki/Podstawy programowania/Wykłady/Wykład 8/Wykład 8|Wykład 8]]
 10. [[Notatki/Podstawy programowania/Wykłady/Wykład 9/Wykład 9|Wykład 9]]
 11. [[Notatki/Podstawy programowania/Wykłady/Wykład 10/Wykład 10|Wykład 10]]
+12. [[Notatki/Podstawy programowania/Wykłady/Wykład 11/Wykład 11|Wykład 11]]
+13. [[Kolokwium 2|Kolokwium 2]]
 
 
 ## Zaliczenie

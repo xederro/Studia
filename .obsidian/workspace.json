@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "763bb0a241919dbf",
+        "id": "ce6b60b0626d1019",
         "type": "tabs",
         "children": [
           {
-            "id": "ce08d49a83df7c9e",
+            "id": "5202ea4ba5f6dcb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 10/Wykład 10.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md"
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 10/Wykład 10.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
+                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 10/Wykład 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,17 +143,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "49d30ce6368bee01",
+  "active": "5202ea4ba5f6dcb9",
   "lastOpenFiles": [
+    "Notatki/Podstawy programowania/Wykłady/Wykład 10/2020_W10_operacje_plikowe.pdf",
+    "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
+    "Notatki/Podstawy programowania/Wykłady/Wykład 11/Wykład 11.md",
+    "Notatki/Podstawy programowania/Wykłady/Kolokwium 2/Kolokwium 2.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
     "README.md",
     "LICENSE.md",
     "CONTRIBUTING.md",
     "CODE_OF_CONDUCT.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Drawing 2023-01-22 10.49.14.excalidraw.png",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Pasted Image 20230122104917_026.png",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Pasted Image 20230121123221_720.png",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Pasted Image 20230121104955_207.png",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Drawing 2023-01-22 10.49.14.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 11/Drawing 2023-01-20 17.29.30.excalidraw.md"
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Drawing 2023-01-22 10.49.14.excalidraw.png"
   ]
 }
