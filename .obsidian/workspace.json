@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ce6b60b0626d1019",
+        "id": "611cf5c4f814597b",
         "type": "tabs",
         "children": [
           {
-            "id": "5202ea4ba5f6dcb9",
+            "id": "bbdca9f8832b6a08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 10/Wykład 10.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 10/Wykład 10.md"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 10/Wykład 10.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,8 +143,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5202ea4ba5f6dcb9",
+  "active": "49d30ce6368bee01",
   "lastOpenFiles": [
+    "Notatki/Podstawy programowania/Wykłady/Wykład 10/Wykład 10.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 10/2020_W10_operacje_plikowe.pdf",
     "Notatki/Podstawy programowania/Wykłady/Wykłady.md",
     "Notatki/Podstawy programowania/Wykłady/Wykład 11/Wykład 11.md",
@@ -153,7 +154,6 @@
     "README.md",
     "LICENSE.md",
     "CONTRIBUTING.md",
-    "CODE_OF_CONDUCT.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Drawing 2023-01-22 10.49.14.excalidraw.png"
+    "CODE_OF_CONDUCT.md"
   ]
 }

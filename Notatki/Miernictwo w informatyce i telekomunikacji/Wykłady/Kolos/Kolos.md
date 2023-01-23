@@ -124,10 +124,10 @@ Co za wielkość były zmierzone?
 # Wykład 5
 
 ## Mocowy
-$X[db] = 10log\frac{P1}{P2}$
+$X[dB] = 10log\frac{P1}{P2}$
 
 ## Napięciowy
-$X[db] = 20log\frac{U1}{U2}$
+$X[dB] = 20log\frac{U1}{U2}$
 
 ![[Pasted image 20230122163620.png]]
 
