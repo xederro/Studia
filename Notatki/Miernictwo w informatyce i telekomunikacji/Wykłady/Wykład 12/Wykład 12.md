@@ -122,7 +122,6 @@ oczka kirhoffa
 przeliczanie niepewności ://
 zapisanie w zapisie inżynierskiej
 definicja tylko wybór
-
 }
 
 
