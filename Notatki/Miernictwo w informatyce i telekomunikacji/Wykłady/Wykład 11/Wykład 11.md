@@ -96,3 +96,25 @@ moc zespolona daje moc czynną + moc bierną
 Watomierz - 4 gniazda - 2 obwodu, prądowy, napięciowy 
 
 Waromierz - 
+
+## Przesunięcie fazowe
+
+przesunięcie dwóch funkcji zależnych od czasu między sobą
+$2\pi\frac{t}{T}$
+T - okres
+t - różnica
+
+#kolokwium {
+jak mierzyć jak odczytywać z oscyloskopu
+mierzymy okres a  nie czestotliwosc
+}
+
+## Figura Lissajous
+
+figury powstające przez wyświetlenie 2 funkcji jako x i y od czasu w zależności od przesunięcia fazowego i częstotliwości funkcji
+#laby{
+wyznaczanie stosunku częstotliwości
+rysujemy 2 proste w miejscach z największą ilością przecięć
+liczymy przecięcia - x=2, y-8
+$\frac{f_y}{f_x} = \frac{x}{y} = \frac{8}{2} = 4$
+}

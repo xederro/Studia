@@ -6,7 +6,6 @@
 5. [[Labolatoria 4|Labolatoria 4]]
 6. [[Notatki/Technologie informacyjne/Labolatoria/Labolatoria 5/Labolatoria 5|Labolatoria 5]]
 
-
 ## Zaliczenie
 Kontakty przez mail lub teams
 
