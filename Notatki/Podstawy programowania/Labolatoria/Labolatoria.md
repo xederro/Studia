@@ -6,7 +6,7 @@
 5. [[Labolatorium 4|Labolatoria 4]]
 6. [[Notatki/Podstawy programowania/Labolatoria/Labolatoria 5/Labolatoria 5|Labolatoria 5]]
 7. [[Labolatoria 6|Labolatoria 6]]
-8. [[Kolokwium|Kolokwium]]
+8. [[Notatki/Podstawy programowania/Labolatoria/Kolokwium/Kolokwium|Kolokwium]]
 
 ## Zaliczenie
 konsultacje:

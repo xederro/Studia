@@ -4,23 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "a88f383971fac1dd",
+        "id": "c81e35a9bf72cc82",
         "type": "tabs",
         "children": [
           {
-            "id": "5dfaafc394b46f58",
+            "id": "63060ecbac68c0ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 12/Wykład 12.md",
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Kolokwium.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab7581296cc0d50d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-01-24 14.02.21.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 430.5,
-    "collapsed": true
+    "width": 430.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -98,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 12/Wykład 12.md"
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-01-24 14.02.21.excalidraw.md"
               }
             }
           },
@@ -116,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 12/Wykład 12.md",
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-01-24 14.02.21.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,17 +153,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5dfaafc394b46f58",
+  "active": "ab7581296cc0d50d",
   "lastOpenFiles": [
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Untitled.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Kolokwium.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 14/Drawing 2023-01-19 19.08.04.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 13/Drawing 2023-01-20 11.18.06.excalidraw.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 12/Wykład 12.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Drawing 2022-12-16 16.38.22.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Drawing 2022-12-14 16.40.11.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Drawing 2022-12-02 17.38.59.excalidraw.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 12/Wykład 12.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/w14_2023.pdf",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/Wykład 11.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Drawing 2023-01-22 10.49.14.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Drawing 2023-01-21 12.31.28.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Drawing 2023-01-21 10.49.13.excalidraw.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md"
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/Wykład 11.md"
   ]
 }
