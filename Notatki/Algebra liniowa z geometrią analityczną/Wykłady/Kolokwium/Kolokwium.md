@@ -1,0 +1,1 @@
+![[Drawing 2023-01-24 14.02.21.excalidraw]]

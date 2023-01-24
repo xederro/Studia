@@ -11,10 +11,8 @@
             "id": "39752c0eca9862f7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Drawing 2023-01-24 16.09.39.excalidraw.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -67,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 430.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -94,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Drawing 2023-01-24 16.09.39.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -113,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Drawing 2023-01-24 16.09.39.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,15 +136,15 @@
   },
   "active": "39752c0eca9862f7",
   "lastOpenFiles": [
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Pasted Image 20230122104917_026.png",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Drawing 2023-01-24 16.09.39.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Kolos 3.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Pasted Image 20230121104955_207.png",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Pasted Image 20230121123221_720.png",
+    "Notatki/Filozofia/Wykłady/Wykłady.md",
+    "Notatki/Filozofia/Wykłady/Wykład 9/Wykład 9.md",
+    "Notatki/Technologie informacyjne/Wykłady/Wykłady.md",
+    "Notatki/Technologie informacyjne/Technologie informacyjne.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykłady.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Kolokwium.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-01-24 14.02.21.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Untitled.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 14/Drawing 2023-01-19 19.08.04.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 13/Drawing 2023-01-20 11.18.06.excalidraw.md"
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Kolos 3.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Drawing 2023-01-24 16.09.39.excalidraw.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Pasted Image 20230122104917_026.png"
   ]
 }

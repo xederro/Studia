@@ -14,6 +14,7 @@
 13. [[Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 13/Wykład 13|Wykład 13]]
 14. [[Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 14/Wykład 14|Wykład 14]]
 15. [[Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 15/Wykład 15|Wykład 15]]
+16. [[Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Kolokwium|Kolokwium]]
 
 ## Zaliczenie
 na USOS jest kurs z prezentacjami etc. na eportal przerzuca

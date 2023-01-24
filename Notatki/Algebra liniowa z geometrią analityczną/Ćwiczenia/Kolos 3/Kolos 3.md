@@ -9,4 +9,4 @@ zadanie 12.11
 Znaleźć rzut
 ![[Drawing 2023-01-21 10.49.13.excalidraw]]
 ![[Drawing 2023-01-21 12.31.28.excalidraw]]
-![[Drawing 2023-01-22 10.49.14.excalidraw]]
+![[Drawing 2023-01-22 10.49.14.excalidraw]]![[Drawing 2023-01-24 16.09.39.excalidraw]]
