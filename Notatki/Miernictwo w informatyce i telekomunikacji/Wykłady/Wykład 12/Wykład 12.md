@@ -122,6 +122,10 @@ oczka kirhoffa
 przeliczanie niepewności ://
 zapisanie w zapisie inżynierskiej
 definicja tylko wybór
+punkty ujemne ale min 0 punktów
+decybele
+wymienić z systemów
+napisz wzór
 }
 
 
