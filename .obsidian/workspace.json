@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bd9f0ae1f0e9b126",
+        "id": "08175fcd2e5fd347",
         "type": "tabs",
         "children": [
           {
-            "id": "39752c0eca9862f7",
+            "id": "7f2ae0e9c52af8e3",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Drawing 2023-01-21 10.49.13.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 3/Drawing 2023-01-25 10.24.40.excalidraw.md"
               }
             }
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Drawing 2023-01-21 10.49.13.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 3/Drawing 2023-01-25 10.24.40.excalidraw.md"
               }
             }
           },
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Drawing 2023-01-21 10.49.13.excalidraw.md",
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 3/Drawing 2023-01-25 10.24.40.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,17 +139,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "39752c0eca9862f7",
+  "active": "7f2ae0e9c52af8e3",
   "lastOpenFiles": [
-    "Notatki/Filozofia/Wykłady/Wykład 9/Wykład 9.md",
-    "Notatki/Filozofia/Wykłady/Wykład 8/Wykład 8.md",
-    "Notatki/Filozofia/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Filozofia/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Filozofia/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Filozofia/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Filozofia/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Filozofia/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Kolos 3.md"
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Lista_10_AM1.pdf",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 3/Kolos 3.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 3/Drawing 2023-01-25 09.55.37.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 9/Lista_9_AM1.pdf",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 9/Ćwiczenia 9.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 3/Drawing 2023-01-25 09.15.58.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 3/Pasted Image 20230112162911_178.png",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 3/Pasted image 20230112162628.png",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 3/Drawing 2023-01-21 10.49.13.excalidraw.md",
+    "Notatki/Filozofia/Wykłady/Wykład 9/Wykład 9.md"
   ]
 }
