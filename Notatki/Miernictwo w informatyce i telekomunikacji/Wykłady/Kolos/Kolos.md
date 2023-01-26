@@ -321,3 +321,5 @@ funkcje:
 sygnał harmoniczny to sinusoida
 parzysty - cosinus
 nieparzysty - sinus
+
+![[Drawing 2023-01-26 14.51.11.excalidraw]]
