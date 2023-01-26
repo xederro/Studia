@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0efff54bdd0c9bed",
+        "id": "2f7e3e23b9e7c5fd",
         "type": "tabs",
         "children": [
           {
-            "id": "a9498804257515ca",
+            "id": "dddf05ba08d9ecd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -143,8 +142,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a9498804257515ca",
+  "active": "49d30ce6368bee01",
   "lastOpenFiles": [
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 3/Drawing 2023-01-26 20.04.35.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 3/Kolos 3.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Drawing 2023-01-26 14.51.11.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 5/Wykład 5.md",
@@ -152,8 +153,6 @@
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/Wykład 11.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/w14_2023.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 3/Kolos 3.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 3/Drawing 2023-01-26 12.32.44.excalidraw.md"
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3.md"
   ]
 }
