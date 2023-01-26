@@ -26,6 +26,7 @@ wynik eksperymentu może mieć charakter:
 - bardziej reaguje na zmiany
 
 ## Wielokrotności i podwielokrotności 
+#bylo v
 - peta - P - $10^{15}$
 - tera - T - $10^{12}$
 - giga - G - $10^9$
@@ -42,6 +43,7 @@ wynik eksperymentu może mieć charakter:
 # Wykład 2
 
 ## Metody pomiarowe
+#bylo v
 **bezpośrednie** np. przykładanie termometru
  - Wychyłowa - położenie wskazówki w przyrządzie analogowym np. wychylenie wskazówki woltomierza
  - Zerowa (kompensacyjne) - porównanie wartości mierzonej z wzorcem np. waga wzorcowa (w teorii najdokładniejsze)
@@ -51,7 +53,7 @@ wynik eksperymentu może mieć charakter:
  **pośrednie** np. mierzymy napięcie i prąd by znać rezystancje
 
 # Wykład 3
-
+#bylo v
 | Co                       | Metoda                                    | Błąd                                                 | Zjawisko                   |
 | ------------------------ | ----------------------------------------- | ---------------------------------------------------- | -------------------------- |
 | Napięcie(U)\[V\]         | Złącze Josephsona                         | $10^{-7}$                                            | efekt stało-prądowy        |
@@ -103,6 +105,9 @@ pomiar parametrów charakteryzujących te warunki,
 
 **Niepewność względna δx** - stosunek błędu pomiaru (bezwzględnego) do wartości prawdziwej wielkości mierzonej zazwyczaj wyrażany w procentach lub w ppm
 
+**Niepewność złożona** - $\sqrt{\delta x_1^2 + \delta x_2^2 + \cdots + \delta x_n^2}$ #bylo
+
+
 ## Zaokrąglanie 
 1. Niepewności pomiarowe zaokrąglamy zawsze w górę. 
 2. Stosujemy zaokrąglenie do dwóch cyfr znaczących.
@@ -140,7 +145,8 @@ G - konduktancja 1/$\ohm$ \[S-simens\]
 1S = 1A/1V
 I = GU
 
-## Prawo Kirchhoffa
+## Prawo Kirchhoffa 
+#bylo oczka
 ### I prawo
 I1 + I2 + I3 = I4 + I5
 ### II prawo
@@ -152,30 +158,30 @@ $P=IU=I^2R=\frac{U^2}{R}=U^2G=\frac{I^2}{G}$
 ## Źródło napięciowe
 idealne - takie samo napięcie niezależnie od obciązenia
 ![[Pasted image 20230122170950.png]]
-
+#bylo ^
 ## Źródło prądowe
 idealne - takie sam natężenie niezależnie od napięcia
 ![[Pasted image 20230122171038.png]]
-
+#bylo ^
 ## Twierdzenie Thevenina
 Każdą sieć elektryczną można zamienić na:
 ![[Pasted image 20230122171620.png]]
 $R_T = \frac{U_T}{I_{ZWARCIA}}$
 $U_T = U_{ROZWARCIA}$
-
+#bylo ^
 ## Twierdzenie Nortona
 Każdą sieć elektryczną można zamienić na:
 ![[Pasted image 20230122171802.png]]
 $R_N = \frac{U_{ROZWARCIA}}{I_N}$
 $I_N = I_{ZWARCIA}$
-
+#bylo  ^
 $$R_T = R_N = \frac{U_{ROZWARCIA}}{I_{ZWARCIA}}$$
 | ?mierz      | jak podłączyć | uwagi                  | Układ |
 | ----------- | ------------- | ---------------------- | ----- |
 | Amperomierz | Szeregowo     | najlepiej $0\ohm$      |![[Pasted image 20230122172536.png]]|
 | Voltomierz  | Równolegle    | najlepiej $\infty\ohm$ |![[Pasted image 20230122172514.png]]|
 | Ohmomierz   |               | bez zasilania          |       |
-
+#bylo ^
 # Wykład 7
 
 ## Rozwinięcie w szereg Fouriera funkcji czasowej
@@ -189,9 +195,9 @@ $$F_0 = \frac{1}{T} \int_{-T/2}^{T/2}f(t)dt$$
 | Średnia   | $AVG = F_0 = \frac{1}{T} \int_{-T/2}^{T/2}f(t)dt$    | $AVG = x = \frac1N\sum_{k=1}^Nf(k)$      |
 | Skuteczna | $RMS = \sqrt{\frac{1}{T} \int_{-T/2}^{T/2}f^2(t)dt}$ | $RMS = \sqrt{\frac1N\sum_{k=1}^Nf^2(k)}$ |
 | Moc       | $P = \frac{1}{T} \int_{-T/2}^{T/2}f^2(t)dt$          | $P = \frac1N\sum_{k=1}^Nf^2(k)$          |
-
+^ #bylo
 ![[Pasted image 20230122180919.png]]
-
+^ #bylo
 wartość skuteczna to sens energetyczny sygnału
 czyli jaką energie wygeneruje na oporniku, 230v ac to jest 326v amplitudy by wygenerowało tyle co 230v dc
 
@@ -216,9 +222,9 @@ Największa częstotliwość sygnałów które możne przenieść bez zniekszta�
    $t_R[\micro s] = 0,35/B[MHz]$ - oscyloskopu
    $T'_R zmierzone - \sqrt{t_R^2 + T_R^2}$
 
-## Jak mierzyć oscyloskopem
-
-1. Odczytujemy liczbę dziaek na ekranie
+## Jak mierzyć oscyloskopem 
+#bylo
+1. Odczytujemy liczbę działek na ekranie
 2. Przeliczamy liczbę działek na wartości bezwzględne na podstawie nastaw oscyloskopu
    - Amplituda - V/dc
    - Czas - ($\micro$s/ms/s)/dz
@@ -265,3 +271,53 @@ $Q=U_sI_s$
 
 moc zespolona daje moc czynną + moc bierną
 |S| = moc pozorna
+
+## Przesunięcie fazowe
+
+przesunięcie dwóch funkcji zależnych od czasu między sobą
+$2\pi\frac{t}{T}$
+T - okres
+t - różnica
+
+## Wyznaczanie stosunku częstotliwości figury Lissajous
+
+rysujemy 2 proste w miejscach z największą ilością przecięć
+liczymy przecięcia - x=2, y-8
+$\frac{f_y}{f_x} = \frac{x}{y} = \frac{8}{2} = 4$
+
+# Wykład 12
+
+## Komputerowy system pomiarowy
+#bylo v
+- sterowanie przepływem informacji w systemie
+- przetwarzanie danych
+- wizualizacja
+- archiwizacja
+
+## Interface
+#bylo v
+połączenie między rozważanym systemem a innym systemem
+
+- kable
+- złącza
+- nadajniki i odbiorniki
+- funkcje
+- linie sygnałowe
+- zależności czasowe / zasady sterowania
+- konwerter
+
+ma: zasięg, szybkość, dyspersja, tłumienie
+
+funkcje:
+- przekazywanie sygnałów
+- konwersja
+- synchronizacja
+- obsługa przerwań
+- buforowanie
+- korekcja błędu
+
+
+# Dodatki
+sygnał harmoniczny to sinusoida
+parzysty - cosinus
+nieparzysty - sinus
