@@ -11,8 +11,10 @@
             "id": "dddf05ba08d9ecd1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 3/Drawing 2023-01-26 12.32.44.excalidraw.md"
+              }
             }
           }
         ]
@@ -65,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -91,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 3/Drawing 2023-01-26 12.32.44.excalidraw.md"
+              }
             }
           },
           {
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 3/Drawing 2023-01-26 12.32.44.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,15 +142,15 @@
   },
   "active": "dddf05ba08d9ecd1",
   "lastOpenFiles": [
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 3/Kolos 3.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 3/Drawing 2023-01-26 20.04.35.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 3/Kolos 3.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 12/Drawing 2023-01-13 16.29.32.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Drawing 2023-01-26 14.51.11.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 12/Wykład 12.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/Wykład 11.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/w14_2023.pdf",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3.md"
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 2/Wykład 2.md"
   ]
 }
