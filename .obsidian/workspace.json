@@ -4,31 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "5ec033aa206a2830",
+        "id": "2704f8bb4385be7c",
         "type": "tabs",
         "children": [
           {
-            "id": "3700fd9ae84732b2",
+            "id": "b927812f6a04487c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 13/Drawing 2023-01-20 16.17.05.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "690b4df088160cde",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Tablica_Pamięci.png"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Tablica_Pamięci.png"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md"
               }
             }
           },
@@ -123,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Tablica_Pamięci.png",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,17 +142,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "690b4df088160cde",
+  "active": "b927812f6a04487c",
   "lastOpenFiles": [
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 13/Drawing 2023-01-27 16.07.05.excalidraw.md",
-    "Untitled.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 13/Untitled.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 13/Drawing 2023-01-20 16.17.05.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 13/Drawing 2023-01-20 11.18.06.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 14/Drawing 2023-01-27 11.20.49.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 14/Wykład 14.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 3/Kolos 3.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 3/Drawing 2023-01-27 13.47.42.excalidraw.md"
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230122172536.png",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230122172514.png",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230122171802.png",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230122171620.png",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230122171038.png",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230122170950.png",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230122163620.png",
+    "Notatki/Technologie informacyjne/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Technologie informacyjne/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Technologie informacyjne/Technologie informacyjne.md"
   ]
 }
