@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2704f8bb4385be7c",
+        "id": "08106caf521c9084",
         "type": "tabs",
         "children": [
           {
-            "id": "b927812f6a04487c",
+            "id": "98dd80accc0a2b6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -142,17 +143,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b927812f6a04487c",
+  "active": "98dd80accc0a2b6b",
   "lastOpenFiles": [
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230122172536.png",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230122172514.png",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230122171802.png",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230122171620.png",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230122171038.png",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230122170950.png",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230122163620.png",
-    "Notatki/Technologie informacyjne/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Technologie informacyjne/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Technologie informacyjne/Technologie informacyjne.md"
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/Wykład 11.md",
+    "Notatki/Etyka inżynierska/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Etyka inżynierska/Wykłady/Wykłady.md",
+    "Notatki/Etyka inżynierska/Etyka inżynierka.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 13/Ćwiczenia 13.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 13/Lista_13_AM1.pdf",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 13/Drawing 2023-01-27 16.07.05.excalidraw.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230122172536.png"
   ]
 }

@@ -112,7 +112,7 @@ mierzymy okres a  nie czestotliwosc
 ## Figura Lissajous
 
 figury powstające przez wyświetlenie 2 funkcji jako x i y od czasu w zależności od przesunięcia fazowego i częstotliwości funkcji
-#laby{
+#lab{
 wyznaczanie stosunku częstotliwości
 rysujemy 2 proste w miejscach z największą ilością przecięć
 liczymy przecięcia - x=2, y-8

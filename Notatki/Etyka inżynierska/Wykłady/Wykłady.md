@@ -5,3 +5,4 @@
 4. [[Notatki/Etyka inżynierska/Wykłady/Wykład 4/Wykład 4|Wykład 4]]
 
 ## Zaliczenie
+![[Etyka inżynierska - pytania.docx]]

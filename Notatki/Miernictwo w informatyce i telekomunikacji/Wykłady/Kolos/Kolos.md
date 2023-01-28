@@ -83,7 +83,6 @@ ppm - liczba części na milion $\rightarrow \frac{1}{1000000} lub 10^{-6}$
 prawidłowy zapis wyników pomiarów
 
 ## Błędy
-
 - Błąd systematyczny - składnik błędu pomiaru, który przy powtarzaniu pomiarów pozostaje stały lub zmienia się w przewidywalny sposób.
 - Błąd przypadkowy - składnik błędu pomiaru, który przy powtarzaniu pomiarów zmienia się w nieprzewidywalny sposób.
 - Błąd gruby – błąd wynikający z niepoprawnego wykonania pomiaru np.: użycie uszkodzonego przyrządu, fałszywe odczytanie wskazania, źle połączony układ pomiarowy, silne zakłócenie itp.
@@ -176,11 +175,11 @@ $R_N = \frac{U_{ROZWARCIA}}{I_N}$
 $I_N = I_{ZWARCIA}$
 #bylo  ^
 $$R_T = R_N = \frac{U_{ROZWARCIA}}{I_{ZWARCIA}}$$
-| ?mierz      | jak podłączyć | uwagi                  | Układ |
-| ----------- | ------------- | ---------------------- | ----- |
-| Amperomierz | Szeregowo     | najlepiej $0\ohm$      |![[Pasted image 20230122172536.png]]|
-| Voltomierz  | Równolegle    | najlepiej $\infty\ohm$ |![[Pasted image 20230122172514.png]]|
-| Ohmomierz   |               | bez zasilania          |       |
+| ?mierz      | jak podłączyć | uwagi                  | Układ                                | Idealne do |
+| ----------- | ------------- | ---------------------- | ------------------------------------ | ---------- |
+| Amperomierz | Szeregowo     | najlepiej $0\ohm$      | ![[Pasted image 20230122172536.png]] |mierzenia małych rezystancji|
+| Voltomierz  | Równolegle    | najlepiej $\infty\ohm$ | ![[Pasted image 20230122172514.png]] |mierzenia dużych rezystancji|
+| Ohmomierz   |               | bez zasilania          |                                      |            |
 #bylo ^
 # Wykład 7
 
@@ -234,14 +233,14 @@ Największa częstotliwość sygnałów które możne przenieść bez zniekszta�
 
 ## Cewka
 Idealna cewka powoduje przesunięcie napięcia o $\frac{\pi}{2}$
--> reaktancja indukcyjna - $X_L=j \omega L = j 2 \pi fL$ - opór ale zespolony \[$\ohm$\]
+- reaktancja indukcyjna - $X_L=j \omega L = j 2 \pi fL$ - opór ale zespolony \[$\ohm$\]
 indukcyjna lub pojemnościowa
--> susceptancja indukcyjna - $B_L=\frac{1}{X_L}$ - przewodność ale zespolona
+- susceptancja indukcyjna - $B_L=\frac{1}{X_L}$ - przewodność ale zespolona
 
 ## Kondensator
 Idealny kondensator powoduje przesunięcie napięcia o $-\frac{\pi}{2}$
--> reaktancja pojemnościowa - $X_L=j \omega C = j 2 \pi fC$ - opór ale zespolony \[$\ohm$\]
--> susceptancja pojemnościowa - $B_L=\frac{1}{X_L}$ - przewodność ale zespolona \{siemens\]
+- reaktancja pojemnościowa - $X_L=j \omega C = j 2 \pi fC$ - opór ale zespolony \[$\ohm$\]
+- susceptancja pojemnościowa - $B_L=\frac{1}{X_L}$ - przewodność ale zespolona \[siemens\]
 
 ## Idealna indukcyjność
 prawo ohma jest zachowane w liczbach zespolonych
@@ -280,9 +279,9 @@ T - okres
 t - różnica
 
 ## Wyznaczanie stosunku częstotliwości figury Lissajous
-
+#bylo v
 rysujemy 2 proste w miejscach z największą ilością przecięć
-liczymy przecięcia - x=2, y-8
+liczymy przecięcia - x=2, y=8
 $\frac{f_y}{f_x} = \frac{x}{y} = \frac{8}{2} = 4$
 
 # Wykład 12
