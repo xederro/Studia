@@ -189,11 +189,13 @@ $$f(t)_\infty = \sum_{n=-\infty}^{+\infty}F_ne^{jnw_0t}$$
 ### Współczynniki Fouriera
 $$F_n = \frac{1}{T} \int_{-T/2}^{T/2}f(t)e^{-jnw_0t}dt$$
 $$F_0 = \frac{1}{T} \int_{-T/2}^{T/2}f(t)dt$$
-| Parametr  | Czas Ciągły                                          | Czas Dyskretny                           |
-| --------- | ---------------------------------------------------- | ---------------------------------------- |
-| Średnia   | $AVG = F_0 = \frac{1}{T} \int_{-T/2}^{T/2}f(t)dt$    | $AVG = x = \frac1N\sum_{k=1}^Nf(k)$      |
-| Skuteczna | $RMS = \sqrt{\frac{1}{T} \int_{-T/2}^{T/2}f^2(t)dt}$ | $RMS = \sqrt{\frac1N\sum_{k=1}^Nf^2(k)}$ |
-| Moc       | $P = \frac{1}{T} \int_{-T/2}^{T/2}f^2(t)dt$          | $P = \frac1N\sum_{k=1}^Nf^2(k)$          |
+| Parametr               | Czas Ciągły                                          | Czas Dyskretny                           |
+| ---------------------- | ---------------------------------------------------- | ---------------------------------------- |
+| Wartość Średnia        | $AVG = F_0 = \frac{1}{T} \int_{-T/2}^{T/2}f(t)dt$    | $AVG = x = \frac1N\sum_{k=1}^Nf(k)$      |
+| Moc                    | $P = \frac{1}{T} \int_{-T/2}^{T/2}f^2(t)dt$          | $P = \frac1N\sum_{k=1}^Nf^2(k)$          |
+| Moc Skuteczna          | $RMS = \sqrt{\frac{1}{T} \int_{-T/2}^{T/2}f^2(t)dt}$ | $RMS = \sqrt{\frac1N\sum_{k=1}^Nf^2(k)}$ |
+| Współczynnik kształtu  | $Wk =\frac{RMS}{\|f(x)\|}$                           | $Wk =\frac{RMS}{\|f(x)\|}$               |
+| Współczynnik Amplitudy | $Wk =\frac{f(x)_{MAX}}{RMS}$                            | $Wk =\frac{f(x)_{MAX}}{RMS}$                |
 ^ #bylo
 ![[Pasted image 20230122180919.png]]
 ^ #bylo
@@ -239,8 +241,8 @@ indukcyjna lub pojemnościowa
 
 ## Kondensator
 Idealny kondensator powoduje przesunięcie napięcia o $-\frac{\pi}{2}$
-- reaktancja pojemnościowa - $X_L=j \omega C = j 2 \pi fC$ - opór ale zespolony \[$\ohm$\]
-- susceptancja pojemnościowa - $B_L=\frac{1}{X_L}$ - przewodność ale zespolona \[siemens\]
+- reaktancja pojemnościowa - $X_C=j \omega C = j 2 \pi fC$ - opór ale zespolony \[$\ohm$\]
+- susceptancja pojemnościowa - $B_C=\frac{1}{X_C}$ - przewodność ale zespolona \[siemens\]
 
 ## Idealna indukcyjność
 prawo ohma jest zachowane w liczbach zespolonych
