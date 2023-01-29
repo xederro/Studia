@@ -193,11 +193,19 @@ $$F_0 = \frac{1}{T} \int_{-T/2}^{T/2}f(t)dt$$
 | ---------------------- | ---------------------------------------------------- | ---------------------------------------- |
 | Wartość Średnia        | $AVG = F_0 = \frac{1}{T} \int_{-T/2}^{T/2}f(t)dt$    | $AVG = x = \frac1N\sum_{k=1}^Nf(k)$      |
 | Moc                    | $P = \frac{1}{T} \int_{-T/2}^{T/2}f^2(t)dt$          | $P = \frac1N\sum_{k=1}^Nf^2(k)$          |
-| Moc Skuteczna          | $RMS = \sqrt{\frac{1}{T} \int_{-T/2}^{T/2}f^2(t)dt}$ | $RMS = \sqrt{\frac1N\sum_{k=1}^Nf^2(k)}$ |
+| Wartość Skuteczna          | $RMS = \sqrt{\frac{1}{T} \int_{-T/2}^{T/2}f^2(t)dt}$ | $RMS = \sqrt{\frac1N\sum_{k=1}^Nf^2(k)}$ |
 | Współczynnik kształtu  | $Wk =\frac{RMS}{\|f(x)\|}$                           | $Wk =\frac{RMS}{\|f(x)\|}$               |
 | Współczynnik Amplitudy | $Wk =\frac{f(x)_{MAX}}{RMS}$                            | $Wk =\frac{f(x)_{MAX}}{RMS}$                |
 ^ #bylo
-![[Pasted image 20230122180919.png]]
+| Rodzaj sygnału                           | Postać sygnału                       | Wartość średnia bezwzględna | Wartość skuteczna | Współczynnik kształtu | Współczynnik szczytu |
+| ---------------------------------------- | ------------------------------------ | --------------------------- | ----------------- | --------------------- | -------------------- |
+| Sygnał stały DC                          | ![[Pasted image 20230129215723.png]] | $1$                         | $1$               | $1$                   | $1$                  |
+| Prostokątny symetryczny                  | ![[Pasted image 20230129215830.png]] | $1$                         | $1$               | $1$                   | $1$                  |
+| Sinusoidalny                             | ![[Pasted image 20230129215919.png]] | $2\over\pi$                 | $1\over\sqrt{2}$  | $\pi\over2\sqrt{2}$   | $\sqrt2$             |
+| Sinusoidalny wyprostowany dwópołówkowo   | ![[Pasted image 20230129215933.png]] | $2\over\pi$                 | $1\over\sqrt{2}$  | $\pi\over2\sqrt{2}$   | $\sqrt2$             |
+| Sinusoidalny wyprostowany jednopołówkowo | ![[Pasted image 20230129215941.png]] | $1\over\pi$                 | $1\over2$         | $\pi\over2$           | $2$                  |
+| Trójkąt symetryczny                      | ![[Pasted image 20230129222234.png]] | $1\over2$                   | $1\over\sqrt3$    | $2\over\sqrt3$        | \sqrt3               |
+| Piłokształtny                            | ![[Pasted image 20230129222243.png]] | $1\over2$                   | $1\over\sqrt3$    | $2\over\sqrt3$        | \sqrt3               |
 ^ #bylo
 wartość skuteczna to sens energetyczny sygnału
 czyli jaką energie wygeneruje na oporniku, 230v ac to jest 326v amplitudy by wygenerowało tyle co 230v dc
