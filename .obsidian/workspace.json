@@ -11,12 +11,9 @@
             "id": "98dd80accc0a2b6b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Quiz 1/Pasted Image 20221118124245_347.png"
               }
             }
           }
@@ -70,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -98,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md"
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Quiz 1/Pasted Image 20221118124245_347.png"
               }
             }
           },
@@ -116,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
+                "file": "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Quiz 1/Pasted Image 20221118124245_347.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,17 +139,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "49d30ce6368bee01",
+  "active": "98dd80accc0a2b6b",
   "lastOpenFiles": [
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230122163620.png",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/Wykład 11.md",
-    "Notatki/Etyka inżynierska/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Etyka inżynierska/Wykłady/Wykłady.md",
-    "Notatki/Etyka inżynierska/Etyka inżynierka.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 13/Ćwiczenia 13.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 13/Lista_13_AM1.pdf",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 13/Drawing 2023-01-27 16.07.05.excalidraw.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230122172536.png"
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Quiz 1/Pasted Image 20221118123506_435.png",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Quiz 1/Pasted Image 20221118122342_058.png",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Quiz 1/Pasted Image 20221118121920_524.png",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Quiz 1/Pasted Image 20221118121248_327.png",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Quiz 1/Pasted Image 20221118120613_088.png",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Quiz 1/Pasted Image 20221118115605_723.png",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Quiz 1/Pasted Image 20221118114804_439.png",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Quiz 1/Pasted Image 20221118113224_564.png",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Quiz 1/Pasted Image 20221118112457_937.png",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Quiz 1/Drawing 2022-11-18 11.15.33.excalidraw.md"
   ]
 }
