@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 5/Wykład 5.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 5/Wykład 5.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 5/Wykład 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,6 +145,8 @@
   },
   "active": "98dd80accc0a2b6b",
   "lastOpenFiles": [
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Quiz 1/Pasted Image 20221118124245_347.png",
@@ -152,8 +154,6 @@
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Quiz 1/Pasted Image 20221118122342_058.png",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Quiz 1/Pasted Image 20221118121920_524.png",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Quiz 1/Pasted Image 20221118121248_327.png",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Quiz 1/Pasted Image 20221118120613_088.png",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Quiz 1/Pasted Image 20221118115605_723.png",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Quiz 1/Pasted Image 20221118114804_439.png"
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Quiz 1/Pasted Image 20221118120613_088.png"
   ]
 }
