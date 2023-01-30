@@ -194,7 +194,7 @@ $$F_0 = \frac{1}{T} \int_{-T/2}^{T/2}f(t)dt$$
 | Wartość Średnia        | $AVG = F_0 = \frac{1}{T} \int_{-T/2}^{T/2}f(t)dt$    | $AVG = x = \frac1N\sum_{k=1}^Nf(k)$      |
 | Moc                    | $P = \frac{1}{T} \int_{-T/2}^{T/2}f^2(t)dt$          | $P = \frac1N\sum_{k=1}^Nf^2(k)$          |
 | Wartość Skuteczna          | $RMS = \sqrt{\frac{1}{T} \int_{-T/2}^{T/2}f^2(t)dt}$ | $RMS = \sqrt{\frac1N\sum_{k=1}^Nf^2(k)}$ |
-| Współczynnik kształtu  | $Wk =\frac{RMS}{\|f(x)\|}$                           | $Wk =\frac{RMS}{\|f(x)\|}$               |
+| Współczynnik kształtu  | $Wk =\frac{RMS}{\|AVG\|}$                           | $Wk =\frac{RMS}{\|AVG\|}$               |
 | Współczynnik Amplitudy | $Wk =\frac{f(x)_{MAX}}{RMS}$                            | $Wk =\frac{f(x)_{MAX}}{RMS}$                |
 ^ #bylo
 | Rodzaj sygnału                           | Postać sygnału                       | Wartość średnia bezwzględna | Wartość skuteczna | Współczynnik kształtu | Współczynnik szczytu |
