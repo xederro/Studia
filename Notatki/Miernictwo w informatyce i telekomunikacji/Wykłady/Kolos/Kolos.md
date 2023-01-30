@@ -175,11 +175,11 @@ $R_N = \frac{U_{ROZWARCIA}}{I_N}$
 $I_N = I_{ZWARCIA}$
 #bylo  ^
 $$R_T = R_N = \frac{U_{ROZWARCIA}}{I_{ZWARCIA}}$$
-| ?mierz      | jak podłączyć | uwagi                  | Układ                                | Idealne do |
-| ----------- | ------------- | ---------------------- | ------------------------------------ | ---------- |
-| Amperomierz | Szeregowo     | najlepiej $0\ohm$      | ![[Pasted image 20230122172536.png]] |mierzenia małych rezystancji|
-| Voltomierz  | Równolegle    | najlepiej $\infty\ohm$ | ![[Pasted image 20230122172514.png]] |mierzenia dużych rezystancji|
-| Ohmomierz   |               | bez zasilania          |                                      |            |
+| ?mierz      | jak podłączyć | uwagi                  | Układ                                | Idealne do                   |
+| ----------- | ------------- | ---------------------- | ------------------------------------ | ---------------------------- |
+| Amperomierz | Szeregowo     | najlepiej $0\ohm$      | ![[Pasted image 20230122172536.png]] | mierzenia małych rezystancji |
+| Voltomierz  | Równolegle    | najlepiej $\infty\ohm$ | ![[Pasted image 20230122172514.png]] | mierzenia dużych rezystancji | 
+| Ohmomierz   |               | bez zasilania          | ![[Pasted image 20230130143813.png]] |                              |
 #bylo ^
 # Wykład 7
 
