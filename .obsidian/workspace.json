@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a3e90ecfd3883564",
+        "id": "44cd89d7abb6d5bb",
         "type": "tabs",
         "children": [
           {
-            "id": "aba52dc90f7b09c9",
+            "id": "40fbd35142df63c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -143,8 +143,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aba52dc90f7b09c9",
+  "active": "40fbd35142df63c5",
   "lastOpenFiles": [
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Drawing 2023-01-30 12.02.42.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Drawing 2023-01-30 10.56.53.excalidraw.md",
@@ -153,7 +154,6 @@
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230129215933.png",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230129215919.png",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230129215830.png",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230129215723.png",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230122180919.png"
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230129215723.png"
   ]
 }
