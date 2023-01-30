@@ -204,8 +204,8 @@ $$F_0 = \frac{1}{T} \int_{-T/2}^{T/2}f(t)dt$$
 | Sinusoidalny                             | ![[Pasted image 20230129215919.png]] | $2\over\pi$                 | $1\over\sqrt{2}$  | $\pi\over2\sqrt{2}$   | $\sqrt2$             |
 | Sinusoidalny wyprostowany dwópołówkowo   | ![[Pasted image 20230129215933.png]] | $2\over\pi$                 | $1\over\sqrt{2}$  | $\pi\over2\sqrt{2}$   | $\sqrt2$             |
 | Sinusoidalny wyprostowany jednopołówkowo | ![[Pasted image 20230129215941.png]] | $1\over\pi$                 | $1\over2$         | $\pi\over2$           | $2$                  |
-| Trójkąt symetryczny                      | ![[Pasted image 20230129222234.png]] | $1\over2$                   | $1\over\sqrt3$    | $2\over\sqrt3$        | \sqrt3               |
-| Piłokształtny                            | ![[Pasted image 20230129222243.png]] | $1\over2$                   | $1\over\sqrt3$    | $2\over\sqrt3$        | \sqrt3               |
+| Trójkąt symetryczny                      | ![[Pasted image 20230129222234.png]] | $1\over2$                   | $1\over\sqrt3$    | $2\over\sqrt3$        | $\sqrt3$               |
+| Piłokształtny                            | ![[Pasted image 20230129222243.png]] | $1\over2$                   | $1\over\sqrt3$    | $2\over\sqrt3$        | $\sqrt3$               |
 ^ #bylo
 wartość skuteczna to sens energetyczny sygnału
 czyli jaką energie wygeneruje na oporniku, 230v ac to jest 326v amplitudy by wygenerowało tyle co 230v dc
