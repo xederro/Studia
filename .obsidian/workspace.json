@@ -11,8 +11,13 @@
             "id": "aba52dc90f7b09c9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 702.5
+    "width": 702.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -91,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md"
+              }
             }
           },
           {
@@ -108,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
