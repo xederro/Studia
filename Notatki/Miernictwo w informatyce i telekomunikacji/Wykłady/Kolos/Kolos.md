@@ -331,4 +331,4 @@ sygnał harmoniczny to sinusoida
 parzysty - cosinus
 nieparzysty - sinus
 
-![[Drawing 2023-01-26 14.51.11.excalidraw]]
+![[Drawing 2023-01-26 14.51.11.excalidraw]]![[Drawing 2023-01-30 10.56.53.excalidraw]]![[Drawing 2023-01-30 12.02.42.excalidraw]]
