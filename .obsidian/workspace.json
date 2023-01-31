@@ -11,12 +11,9 @@
             "id": "40fbd35142df63c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 12/Drawing 2023-01-31 13.18.57.excalidraw.md"
               }
             }
           }
@@ -70,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 702.5,
-    "collapsed": true
+    "width": 702.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -98,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md"
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 12/Drawing 2023-01-31 13.18.57.excalidraw.md"
               }
             }
           },
@@ -116,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 12/Drawing 2023-01-31 13.18.57.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,15 +141,15 @@
   },
   "active": "40fbd35142df63c5",
   "lastOpenFiles": [
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 12/W12_Analiza__20_Cal_ozn.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Drawing 2023-01-30 12.02.42.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Drawing 2023-01-30 10.56.53.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230129222220.png",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230129215941.png",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230129215933.png",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230129215919.png",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230129215830.png",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230129215723.png"
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230129215830.png"
   ]
 }
