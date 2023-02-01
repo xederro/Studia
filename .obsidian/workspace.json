@@ -18,16 +18,6 @@
             }
           },
           {
-            "id": "4276ddd119d82a8e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/ALGA_zestaw_04.pdf"
-              }
-            }
-          },
-          {
             "id": "76bedadee18943b1",
             "type": "leaf",
             "state": {
@@ -157,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 375.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -231,15 +222,15 @@
   },
   "active": "2c824aa7bd286819",
   "lastOpenFiles": [
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-01-31 19.04.11.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Kolokwium.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 5/ALGA_zestaw_05.pdf",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-01-24 14.02.21.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/ALGA_zestaw_04.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-01-31 19.04.11.excalidraw.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Kolokwium.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/ALGA_zestaw_03.pdf",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 2/ALGA_zestaw_02.pdf",
     "Untitled.md",
-    "Untitled 1.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 1/ALGA_zestaw_01.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 12/ALGA_zestaw_11.pdf"
+    "Untitled 1.md"
   ]
 }
