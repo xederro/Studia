@@ -4,15 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "1832cebbd0528a63",
+        "id": "4097570fcdc0e6fe",
         "type": "tabs",
         "children": [
           {
-            "id": "be6246e7c527dada",
+            "id": "6e84c4cdd96eeeac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-02-02 13.46.08.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "4afd431240208736",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 11/ALGA_zestaw_12.pdf"
+              }
+            }
+          },
+          {
+            "id": "1c384a68cf01ec8d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-01-24 14.02.21.excalidraw.md"
+              }
             }
           }
         ]
@@ -65,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 393.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -91,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-02-02 13.46.08.excalidraw.md"
+              }
             }
           },
           {
@@ -108,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-02-02 13.46.08.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,17 +159,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "49d30ce6368bee01",
+  "active": "6e84c4cdd96eeeac",
   "lastOpenFiles": [
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Kolokwium.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-02-01 13.17.21.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Pasted Image 20230201113453_617.png",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 15/Wykład 15.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 15/Drawing 2023-02-02 11.49.33.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 15/W15_Powrorzenie_A.pdf",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 14/Drawing 2023-01-27 11.20.49.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 11/ALGA_zestaw_12.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-01-24 14.02.21.excalidraw.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 12/ALGA_zestaw_11.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-02-02 13.46.08.excalidraw.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-01-31 19.04.11.excalidraw.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Kolokwium.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 10/ALGA_zestaw_10.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-01-24 14.02.21.excalidraw.md"
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-02-01 13.17.21.excalidraw.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 9/ALGA_zestaw_09.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Pasted Image 20230201113453_617.png"
   ]
 }
