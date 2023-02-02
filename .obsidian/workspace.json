@@ -4,47 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dc9b74322c359836",
+        "id": "1832cebbd0528a63",
         "type": "tabs",
         "children": [
           {
-            "id": "2c824aa7bd286819",
+            "id": "be6246e7c527dada",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-02-01 13.17.21.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "e18e0a9115fc68b6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-01-24 14.02.21.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "da8db69191353d61",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 10/ALGA_zestaw_10.pdf"
-              }
-            }
-          },
-          {
-            "id": "6484e17189f5b550",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 11/ALGA_zestaw_12.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 200
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -123,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-02-01 13.17.21.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-02-01 13.17.21.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,17 +134,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2c824aa7bd286819",
+  "active": "49d30ce6368bee01",
   "lastOpenFiles": [
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 10/ALGA_zestaw_10.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-01-24 14.02.21.excalidraw.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Kolokwium.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-02-01 13.17.21.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-01-31 19.04.11.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-02-01 11.34.32.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/ALGA_zestaw_04.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Pasted Image 20230201113453_617.png",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 15/Wykład 15.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 15/Drawing 2023-02-02 11.49.33.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 15/W15_Powrorzenie_A.pdf",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 14/Drawing 2023-01-27 11.20.49.excalidraw.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 11/ALGA_zestaw_12.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 12/ALGA_zestaw_11.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 9/ALGA_zestaw_09.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/ALGA_zestaw_08.pdf"
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 10/ALGA_zestaw_10.pdf",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-01-24 14.02.21.excalidraw.md"
   ]
 }
