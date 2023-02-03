@@ -2,3 +2,5 @@
 ![[Drawing 2023-02-01 11.34.32.excalidraw]]
 ![[Drawing 2023-02-01 13.17.21.excalidraw]]
 ![[Drawing 2023-02-02 21.00.59.excalidraw]]
+![[Drawing 2023-02-02 21.51.27.excalidraw]]
+![[Drawing 2023-02-02 13.46.08.excalidraw]]

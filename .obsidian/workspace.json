@@ -4,16 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "9848600fdfeba39e",
+        "id": "12604fba3db1dd99",
         "type": "tabs",
         "children": [
           {
-            "id": "f214fd2e8cec0e10",
+            "id": "54f76065fcb09eb3",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-02-02 13.46.08.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 1.2A/Wykłady/Kolokwium/Drawing 2023-02-02 11.49.33.excalidraw.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "431d2ebc923ac089",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d20e8d6725c70ab3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Analiza matematyczna 1.2A/Wykłady/Kolokwium/W15_Powrorzenie_A.pdf"
               }
             }
           }
@@ -94,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-02-02 13.46.08.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 1.2A/Wykłady/Kolokwium/Drawing 2023-02-02 11.49.33.excalidraw.md"
               }
             }
           },
@@ -112,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-02-02 13.46.08.excalidraw.md",
+                "file": "Notatki/Analiza matematyczna 1.2A/Wykłady/Kolokwium/Drawing 2023-02-02 11.49.33.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,17 +155,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f214fd2e8cec0e10",
+  "active": "54f76065fcb09eb3",
   "lastOpenFiles": [
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 11/Ćwiczenia 11.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-02-02 21.00.59.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-02-02 21.51.27.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Kolokwium.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-01-31 19.04.11.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Pasted Image 20230201184927_036.png",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-02-01 13.17.21.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 10/ALGA_zestaw_10.pdf",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-02-02 13.46.08.excalidraw.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Pasted Image 20230201190157_593.png"
+    "Untitled.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Kolokwium/Drawing 2023-02-02 11.49.33.excalidraw.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Kolokwium/W15_Powrorzenie_A.pdf",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Kolokwium/Pasted Image 20230203144902_999.png",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Kolokwium/Kolokwium.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 14/Ćwiczenia 14.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 12/Ćwiczenia 12.md",
+    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 11/Drawing 2023-01-13 16.09.31.excalidraw.md",
+    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Kolokwium.md"
   ]
 }

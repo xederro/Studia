@@ -12,8 +12,8 @@
 11. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 11/Wykład 11|Wykład 11]]
 12. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 12/Wykład 12|Wykład 12]]
 13. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 13/Wykład 13|Wykład 13]]
-14. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 14/Wykład 14]]
-15. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 15/Wykład 15]]
+14. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 14/Wykład 14|Wykład 14]]
+15. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Kolokwium/Kolokwium|Kolokwium]]
 
 ## Zaliczenie
 egzamin bez poprawki 
