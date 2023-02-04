@@ -11,9 +11,9 @@
             "id": "38f69129fde61da3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Wykłady/Kolokwium/Analyza.pdf"
+                "file": "Notatki/Analiza matematyczna 1.2A/Wykłady/Kolokwium/Drawing 2023-02-04 12.34.39.excalidraw.md"
               }
             }
           },
@@ -21,14 +21,13 @@
             "id": "03836b9a77f4ea0f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Wykłady/Kolokwium/Drawing 2023-02-04 11.36.01.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 1.2A/Wykłady/Kolokwium/Analyza.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Wykłady/Kolokwium/Drawing 2023-02-04 11.36.01.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 1.2A/Wykłady/Kolokwium/Drawing 2023-02-04 12.34.39.excalidraw.md"
               }
             }
           },
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Analiza matematyczna 1.2A/Wykłady/Kolokwium/Drawing 2023-02-04 11.36.01.excalidraw.md",
+                "file": "Notatki/Analiza matematyczna 1.2A/Wykłady/Kolokwium/Drawing 2023-02-04 12.34.39.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,17 +149,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03836b9a77f4ea0f",
+  "active": "38f69129fde61da3",
   "lastOpenFiles": [
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Kolokwium/Analyza.pdf",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Kolokwium/Drawing 2023-02-04 12.34.39.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Kolokwium/Drawing 2023-02-04 11.36.01.excalidraw.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Kolokwium/Drawing 2023-02-04 10.53.43.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Kolokwium/Kolokwium.md",
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Kolokwium/Drawing 2023-02-04 10.53.43.excalidraw.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Kolokwium/Drawing 2023-02-02 11.49.33.excalidraw.md",
     "Untitled.md",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Kolokwium/W15_Powrorzenie_A.pdf",
     "Notatki/Analiza matematyczna 1.2A/Wykłady/Kolokwium/Pasted Image 20230203144902_999.png",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 14/Ćwiczenia 14.md"
+    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykłady.md"
   ]
 }
