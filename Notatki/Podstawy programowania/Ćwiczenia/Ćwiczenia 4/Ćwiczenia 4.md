@@ -132,3 +132,4 @@
 & - operator adresowania
 \* - operator wyłuskania
 
+[[Notatki/Podstawy programowania/Wykłady/Wykład 5/Wykład 5]]

@@ -13,3 +13,5 @@
    ![[Ćwiczenia 3.4.cpp]]
 5. 
    ![[Ćwiczenia 3.5.cpp]]
+
+[[Notatki/Podstawy programowania/Wykłady/Wykład 4/Wykład 4]]

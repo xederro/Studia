@@ -25,3 +25,5 @@ double 15 cyfr znaczących
 & - operator adresowania
 1. 
    ![[zadanie1.png]]
+
+[[Notatki/Podstawy programowania/Wykłady/Wykład 1/Wykład 1]]

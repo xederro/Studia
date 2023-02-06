@@ -8,35 +8,16 @@ Zalecamy zapoznanie się z:
 
 # Studia
 ## Spis treści
-### Semestr 1
-1. [[Algebra liniowa z geometrą analityczną]]
-2. [[Analiza matematyczna 1.2A]]
-3. [[Etyka inżynierka]]
-4. [[Filozofia]]
-5. [[Miernictwo w informatyce i telekomunikacji]]
-6. [[Podstawy programowania]]
-7. [[Technologie informacyjne]]
-8. [[Własność intelektualna i prawo autorskie]]
+### Semestr 1  
+1. [[Algebra liniowa z geometrą analityczną]]  
+2. [[Analiza matematyczna 1.2A]]  
+3. [[Etyka inżynierka]]  
+4. [[Filozofia]]  
+5. [[Miernictwo w informatyce i telekomunikacji]]  
+6. [[Podstawy programowania]]  
+7. [[Technologie informacyjne]]  
+8. [[Własność intelektualna i prawo autorskie]]  
 9. [[Inne]]
-
-```dataview
-list 
-from "Notatki"
-where semestr = 1
-```
-
-```dataviewjs
-for (let group of dv.pages().groupBy(p => p.semestr??p.semestr)) 
-	{ 
-		dv.header(3, group.key); 
-		dv.table(["Name", "Time Read", "Rating"], 
-			group
-				.rows
-				.sort(k => k.name, 'desc')
-				.map(k => [k.file.link, k["name"], k.rating])
-			) 
-	}
-```
 
 ## Przydatne
 >[!info]

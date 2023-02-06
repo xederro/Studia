@@ -63,3 +63,7 @@
 9. 
    a. w = 1 * (5 - 2 + 2 * (-5)) = -7
    b. x = 2/(3 * 2 - 4) = 1
+
+
+[[Notatki/Podstawy programowania/Wykłady/Wykład 1/Wykład 1]]
+[[Notatki/Podstawy programowania/Wykłady/Wykład 2/Wykład 2]]

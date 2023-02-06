@@ -143,3 +143,8 @@
     Wielkość tablicy powinna być zadawana przez użytkownika (z klawiatury).  
     Następnie napisz funkcję wczytującą kolejne teksty z klawiatury  
     i umieszczającą je w tej dynamicznie utworzonej tablicy.
+
+[[Notatki/Podstawy programowania/Wykłady/Wykład 8/Wykład 8]]
+[[Notatki/Podstawy programowania/Wykłady/Wykład 9/Wykład 9]]
+[[Notatki/Podstawy programowania/Wykłady/Wykład 10/Wykład 10]]
+[[Notatki/Podstawy programowania/Wykłady/Wykład 11/Wykład 11]]

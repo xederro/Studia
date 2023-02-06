@@ -10,3 +10,7 @@ w c++ można operatorem =
 
 do zrobienia:
 ![[Labolatoria 6.cpp]]
+
+[[Notatki/Podstawy programowania/Wykłady/Wykład 9/Wykład 9]]
+[[Notatki/Podstawy programowania/Wykłady/Wykład 8/Wykład 8]]
+[[Notatki/Podstawy programowania/Wykłady/Wykład 10/Wykład 10]]

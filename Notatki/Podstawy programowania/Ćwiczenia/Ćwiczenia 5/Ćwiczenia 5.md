@@ -23,3 +23,6 @@
    \0
    \0
    
+
+[[Notatki/Podstawy programowania/Wykłady/Wykład 8/Wykład 8]]
+[[Notatki/Podstawy programowania/Wykłady/Wykład 11/Wykład 11]]

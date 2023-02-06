@@ -14,3 +14,4 @@ kompilacja warunkowa:
 	// code
 \#endif
 
+[[Notatki/Podstawy programowania/Wykłady/Wykład 4/Wykład 4]]
