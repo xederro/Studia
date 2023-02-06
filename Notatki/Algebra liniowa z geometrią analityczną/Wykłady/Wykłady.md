@@ -1,3 +1,7 @@
+---
+semestr: 1
+---
+
 # Wykłady
 1. [[Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 1/Wykład 1|Wykład 1]]
 2. [[Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 2/Wykład 2|Wykład 2]]

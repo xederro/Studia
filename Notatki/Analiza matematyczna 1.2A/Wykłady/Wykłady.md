@@ -1,3 +1,7 @@
+---
+semestr: 1
+---
+
 # Wykłady
 1. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 1/Wykład 1|Wykład 1]]
 2. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 2/Wykład 2|Wykład 2]]

@@ -1,3 +1,7 @@
+---
+semestr: 1
+---
+
 # Ćwiczenia
 1. [[Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1|Ćwiczenia 1]]
 2. [[Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2|Ćwiczenia 2]]

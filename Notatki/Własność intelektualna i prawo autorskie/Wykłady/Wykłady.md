@@ -1,3 +1,7 @@
+---
+semestr: 1
+---
+
 # Wykłady
 1. [[Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykład 1/Wykład 1|Wykład 1]]
 2. [[Notatki/Własność intelektualna i prawo autorskie/Wykłady/Wykład 2/Wykład 2|Wykład 2]]

@@ -1,3 +1,7 @@
+---
+semestr: 1
+---
+
 # Ćwiczenia
 1. [[Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1|Ćwiczenia 1]]
 2. [[Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2|Ćwiczenia 2]]

@@ -51,3 +51,5 @@ $a+bi$ i $a-bi$
 $i^{-1}=-i$
 $i^3=-i$
 $i^4=1$
+
+[[Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1]][[Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2]]

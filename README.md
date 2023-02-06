@@ -19,6 +19,25 @@ Zalecamy zapoznanie się z:
 8. [[Własność intelektualna i prawo autorskie]]
 9. [[Inne]]
 
+```dataview
+list 
+from "Notatki"
+where semestr = 1
+```
+
+```dataviewjs
+for (let group of dv.pages().groupBy(p => p.semestr??p.semestr)) 
+	{ 
+		dv.header(3, group.key); 
+		dv.table(["Name", "Time Read", "Rating"], 
+			group
+				.rows
+				.sort(k => k.name, 'desc')
+				.map(k => [k.file.link, k["name"], k.rating])
+			) 
+	}
+```
+
 ## Przydatne
 >[!info]
 >![[Sylabus.pdf|Sylabus]]

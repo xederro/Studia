@@ -27,3 +27,4 @@ $$\cos\varphi={\sqrt3\over2}, \qquad \sin\varphi={1\over2}$$
 $$\varphi={\pi\over6}$$
 
 cdn.
+[[Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3]][[Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4]]
