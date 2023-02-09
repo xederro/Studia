@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "68f1a235016eeed5",
+        "id": "5e0a48d4fcc2e500",
         "type": "tabs",
         "children": [
           {
-            "id": "e5b185f28b7ebb67",
+            "id": "6e6d6543d6db14fb",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 282.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -114,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -126,7 +126,6 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
@@ -134,17 +133,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e5b185f28b7ebb67",
+  "active": "6e6d6543d6db14fb",
   "lastOpenFiles": [
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md"
+    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 5/Labolatoria 5.md",
+    "Notatki/Technologie informacyjne/Labolatoria/Labolatoria.md",
+    "Notatki/Technologie informacyjne/Technologie informacyjne.md",
+    "README.md",
+    "Notatki/Rachunek prawdopodobieństwa/Rachunek prawdopodobieństwa.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykłady.md",
+    "Notatki/Analiza matematyczna 1.2A/Analiza matematyczna 1.2A.md",
+    "Notatki/Algebra liniowa 2/Algebra liniowa 2.md",
+    "Notatki/Analiza matematyczna 2.3A/Analiza matematyczna 2.3A.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykłady.md"
   ]
 }

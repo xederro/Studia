@@ -13,11 +13,23 @@ Zalecamy zapoznanie się z:
 2. [[Analiza matematyczna 1.2A]]  
 3. [[Etyka inżynierka]]  
 4. [[Filozofia]]  
-5. [[Miernictwo w informatyce i telekomunikacji]]  
+5. [[Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady|Miernictwo w informatyce i telekomunikacji - Wykłady]]  
 6. [[Podstawy programowania]]  
 7. [[Technologie informacyjne]]  
 8. [[Własność intelektualna i prawo autorskie]]  
-9. [[Inne]]
+
+### Semestr 2
+1. [[Algebra liniowa 2]]
+2. [[Analiza matematyczna 2.3A]]
+3. [[Fizyka 1.1A]]
+4. [[Matematyka dyskretna]]
+5. [[Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria|Miernictwo w informatyce i telekomunikacji - Labolatoria]]
+6. [[Podstawy automatyki i robotyki]]
+7. [[Programowanie obiektowe]]
+8. [[Rachunek prawdopodobieństwa]]
+9. [[Teoria systemów]]
+
+[[Inne]]
 
 ## Przydatne
 >[!info]

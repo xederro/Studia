@@ -69,6 +69,62 @@
         "a": 1,
         "rgb": 14701233
       }
+    },
+    {
+      "query": "path:\"Notatki/Algebra liniowa 2\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Notatki/Analiza matematyczna 2.3A\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Notatki/Fizyka 1.1A\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Notatki/Matematyka dyskretna\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Notatki/Podstawy automatyki i robotyki\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"Notatki/Programowanie obiektowe\"",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"Notatki/Rachunek prawdopodobieństwa\"",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:\"Notatki/Teoria systemów\"",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": false,
@@ -81,6 +137,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.015355906606692754,
+  "scale": 0.030182895067324203,
   "close": true
 }
