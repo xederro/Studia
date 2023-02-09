@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5,
-    "collapsed": true
+    "width": 419.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -137,6 +136,7 @@
   },
   "active": "e5b185f28b7ebb67",
   "lastOpenFiles": [
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8.md",
@@ -145,7 +145,6 @@
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
     "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md"
+    "Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md"
   ]
 }
