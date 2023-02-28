@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5e0a48d4fcc2e500",
+        "id": "9ed605fad955b178",
         "type": "tabs",
         "children": [
           {
-            "id": "6e6d6543d6db14fb",
+            "id": "f2d337fdae23ced3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -133,7 +133,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6e6d6543d6db14fb",
+  "active": "49d30ce6368bee01",
   "lastOpenFiles": [
     "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 5/Labolatoria 5.md",
     "Notatki/Technologie informacyjne/Labolatoria/Labolatoria.md",
