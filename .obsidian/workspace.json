@@ -11,11 +11,27 @@
             "id": "f2d337fdae23ced3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykłady.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45985865297ccc27",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Drawing 2023-02-28 13.12.18.excalidraw.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Drawing 2023-02-28 13.12.18.excalidraw.md"
+              }
             }
           },
           {
@@ -108,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Drawing 2023-02-28 13.12.18.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,17 +152,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "49d30ce6368bee01",
+  "active": "45985865297ccc27",
   "lastOpenFiles": [
+    "Notatki/Fizyka 1.1A/Wykłady/Wykłady.md",
+    "Notatki/Fizyka 1.1A/Fizyka 1.1A.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Drawing 2023-02-28 13.12.18.excalidraw.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Technologie informacyjne/Labolatoria/Labolatoria 5/Labolatoria 5.md",
     "Notatki/Technologie informacyjne/Labolatoria/Labolatoria.md",
     "Notatki/Technologie informacyjne/Technologie informacyjne.md",
     "README.md",
     "Notatki/Rachunek prawdopodobieństwa/Rachunek prawdopodobieństwa.md",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykłady.md",
-    "Notatki/Analiza matematyczna 1.2A/Analiza matematyczna 1.2A.md",
-    "Notatki/Algebra liniowa 2/Algebra liniowa 2.md",
-    "Notatki/Analiza matematyczna 2.3A/Analiza matematyczna 2.3A.md",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykłady.md"
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykłady.md"
   ]
 }
