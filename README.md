@@ -38,3 +38,24 @@ Zalecamy zapoznanie się z:
 >[!info]
 >[[Sylabus.pdf|Sylabus]]
 >[[symbols.pdf|Symbole]]
+
+
+Tworzenie folderów (batch):
+```run-bash
+chcp 65001
+
+for /l %%x in (1, 1, 11) do (
+   mkdir "Wykłady/Wykład %%x"
+   echo !>>"Wykłady/Wykład %%x/Wykład %%x.md"
+)
+
+for /l %%x in (1, 1, 11) do (
+   mkdir "Labolatoria/Labolatoria %%x"
+   echo !>>"Labolatoria/Labolatoria %%x/Labolatoria %%x.md"
+)
+
+#for /l %%x in (1, 1, 11) do (
+#   mkdir "Ćwiczenia/Ćwiczenia %%x"
+#   echo !>>"Ćwiczenia/Ćwiczenia %%x/Ćwiczenia %%x.md"
+#)
+```
