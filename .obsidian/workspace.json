@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5f90c932d2a6fdaa",
+        "id": "7c996297038fd930",
         "type": "tabs",
         "children": [
           {
-            "id": "2abe8fa0be84378f",
+            "id": "9cad9d09367740e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykłady.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -70,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -96,9 +92,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykłady.md"
-              }
+              "state": {}
             }
           },
           {
@@ -115,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykłady.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,43 +134,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2abe8fa0be84378f",
+  "active": "9cad9d09367740e7",
   "lastOpenFiles": [
-    "Notatki/Programowanie obiektowe/Programowanie obiektowe.md",
-    "README.md",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 11/Labolatoria 11.md",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykłady.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 11",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 10/Labolatoria 10.md",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 10",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 9/Labolatoria 9.md",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 9",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 8/Labolatoria 8.md",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 8",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Labolatoria 7.md",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 6/Labolatoria 6.md",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 6",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Labolatoria 5.md",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 4/Labolatoria 4.md",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 4",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 3/Labolatoria 3.md",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 3",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 2/Labolatoria 2.md",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 2",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 1/Labolatoria 1.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 11/Wykład 11.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 10/Wykład 10.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 9/Wykład 9.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 8/Wykład 8.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 2/Wykład 2.md"
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Wykład 9.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Wykład 8.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Wykład 7.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 6/Wykład 6.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 5/Wykład 5.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/1 Lista zadań kinematyka i dynamika 2022.pdf",
+    "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład 7.md",
+    "Notatki/Matematyka dyskretna/Wykłady/Wykład 6/Wykład 6.md",
+    "Notatki/Matematyka dyskretna/Wykłady/Wykład 5/Wykład 5.md",
+    "Notatki/Matematyka dyskretna/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Matematyka dyskretna/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Matematyka dyskretna/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 11/Ćwiczenia 11.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Ćwiczenia 10.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Ćwiczenia 9.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Lista_6_MD.pdf",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Lista_3_MD.pdf",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Lista 2 MD.pdf",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 7/Lista_7_MD.pdf",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 7/ObjectProj3.pdf",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Notatki do wykładów optyka falowa 2021.pdf",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Notatki do wykładów optyka falowa 2021.pdf.crdownload",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/soczewki grube.pdf",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/soczewki grube.pdf.crdownload",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/skuteczna.png"
   ]
 }

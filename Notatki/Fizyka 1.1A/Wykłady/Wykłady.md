@@ -12,12 +12,6 @@ semestr: 2
 7. [[Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Wykład 7|Wykład 7]]
 8. [[Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Wykład 8|Wykład 8]]
 9. [[Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Wykład 9|Wykład 9]]
-10. [[Notatki/Fizyka 1.1A/Wykłady/Wykład 10/Wykład 10|Wykład 10]]
-11. [[Notatki/Fizyka 1.1A/Wykłady/Wykład 11/Wykład 11|Wykład 11]]
-12. [[Notatki/Fizyka 1.1A/Wykłady/Wykład 12/Wykład 12|Wykład 12]]
-13. [[Notatki/Fizyka 1.1A/Wykłady/Wykład 13/Wykład 13|Wykład 13]]
-14. [[Notatki/Fizyka 1.1A/Wykłady/Wykład 14/Wykład 14|Wykład 14]]
-15. [[Notatki/Fizyka 1.1A/Wykłady/Wykład 15/Wykład 15|Wykład 15]]
 
 ## Zaliczenie
 
