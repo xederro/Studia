@@ -29,9 +29,19 @@
                 "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Drawing 2023-02-28 13.12.18.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "a9669e76625e4bad",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,7 +162,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "45985865297ccc27",
+  "active": "a9669e76625e4bad",
   "lastOpenFiles": [
     "Notatki/Fizyka 1.1A/Wykłady/Wykłady.md",
     "Notatki/Fizyka 1.1A/Fizyka 1.1A.md",
