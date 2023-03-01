@@ -3,7 +3,18 @@ semestr: 2
 ---
 
 # Wykłady
-
+1. [[Notatki/Teoria systemów/Wykłady/Wykład 1/Wykład 1|Wykład 1]]
 
 ## Zaliczenie
+111-c3 - na stronie będą godziny
+
+Będzie lista obecności
+4 obecności to ocena za wykład +.5, sama obecność nieobowiązkowa
+
+sprawdzian na przedostatnich zajęciach 24 Maja
+otwarte pytania z teorii 50% 3 potem po 2 punkty/kolejna ocena
+trzeba zaliczyć oba
+na ostatnich zajęciach jest poprawa - piszemy to samo ale 3 to 70%, tylko zalicza się na 3
+
+materiał będą zamieszczone przed sprawdzianem
 

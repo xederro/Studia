@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "af9c910a3bfd1c25",
+        "id": "1e5713278c897f6c",
         "type": "tabs",
         "children": [
           {
-            "id": "9ce48512a7add1c1",
+            "id": "43e53083c2dc1a63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Notatki/Teoria systemów/Wykłady/Wykłady.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7568b16db988ea7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Teoria systemów/Wykłady/Wykład 1/Wykład 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -97,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Notatki/Teoria systemów/Wykłady/Wykład 1/Wykład 1.md"
               }
             }
           },
@@ -115,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Notatki/Teoria systemów/Wykłady/Wykład 1/Wykład 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,8 +156,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ce48512a7add1c1",
+  "active": "7568b16db988ea7b",
   "lastOpenFiles": [
+    "Notatki/Teoria systemów/Wykłady/Wykłady.md",
+    "Notatki/Teoria systemów/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Teoria systemów/Wykłady/Wykład 1",
+    "README.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Wykład 9.md",
@@ -167,9 +186,6 @@
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 11/Ćwiczenia 11.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Ćwiczenia 10.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Ćwiczenia 9.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Lista_6_MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Lista_3_MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Lista 2 MD.pdf",
@@ -178,7 +194,6 @@
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Notatki do wykładów optyka falowa 2021.pdf",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Notatki do wykładów optyka falowa 2021.pdf.crdownload",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/soczewki grube.pdf",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/soczewki grube.pdf.crdownload",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/skuteczna.png"
   ]
 }
