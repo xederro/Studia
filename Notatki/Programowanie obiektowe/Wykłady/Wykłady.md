@@ -17,3 +17,14 @@ semestr: 2
 
 ## Zaliczenie
 
+mail
+konsultacje c-16 w P2.5/teams
+poniedziałek 9-11
+środa 11-13
+
+obecność nieobowiązkowa
+
+(w+c)/2=ocena końcowa ważona - obie zdane, zaokrąglamy do najbliższej potem w górę
+
+sprawdzian na ostatnich labach - test komputerowy
+jeden termin poprawkowy 03.07.2022, poprawka to 0,2 ilość punktów z pierwszego i 0,8 z poprawnego
