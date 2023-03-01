@@ -4,3 +4,4 @@
 - analiza i synteza
 - układy dynamiczne
 
+``
