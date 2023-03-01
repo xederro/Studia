@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c5a951a3427b75a9",
+        "id": "d06fa3d63d90a1ca",
         "type": "tabs",
         "children": [
           {
-            "id": "3656b4162e3d9e77",
+            "id": "528cc81e6ba221dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 1/Wykład 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 1/Drawing 2023-03-01 13.22.02.excalidraw.md"
               }
             }
           }
@@ -70,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5,
-    "collapsed": true
+    "width": 349.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -98,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 1/Wykład 1.md"
+                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 1/Drawing 2023-03-01 13.22.02.excalidraw.md"
               }
             }
           },
@@ -116,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 1/Wykład 1.md",
+                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 1/Drawing 2023-03-01 13.22.02.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,10 +138,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3656b4162e3d9e77",
+  "active": "528cc81e6ba221dd",
   "lastOpenFiles": [
-    "Notatki/Programowanie obiektowe/Wykłady/Wykłady.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykłady.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 1/Drawing 2023-03-01 13.22.02.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 1",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykłady.md",
     "Notatki/Teoria systemów/Wykłady/Wykłady.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 1",
@@ -169,9 +169,6 @@
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Lista_6_MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Lista_3_MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Lista 2 MD.pdf",
@@ -179,7 +176,6 @@
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 7/ObjectProj3.pdf",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Notatki do wykładów optyka falowa 2021.pdf",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Notatki do wykładów optyka falowa 2021.pdf.crdownload",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/soczewki grube.pdf",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/skuteczna.png"
   ]
 }

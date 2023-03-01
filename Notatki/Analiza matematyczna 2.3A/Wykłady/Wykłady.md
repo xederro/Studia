@@ -7,3 +7,6 @@ semestr: 2
 
 ## Zaliczenie
 
+do kwietnia kurs
+egzamin pod koniec
+
