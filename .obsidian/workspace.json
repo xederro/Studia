@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "6a131ba75d92178f",
+        "id": "389978b8c3013a92",
         "type": "tabs",
         "children": [
           {
-            "id": "ca7f7faf5a35324f",
+            "id": "a556e45448c11323",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykłady.md",
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykłady.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e271dfa356e6362",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Wykład 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykłady.md"
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykłady.md"
               }
             }
           },
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykłady.md",
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykłady.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,18 +154,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ca7f7faf5a35324f",
+  "active": "a556e45448c11323",
   "lastOpenFiles": [
+    "README.md",
+    "Notatki/Matematyka dyskretna/Wykłady/Wykłady.md",
+    "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykłady.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 1/Drawing 2023-03-01 13.22.02.excalidraw.md",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykłady.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 1",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykłady.md",
     "Notatki/Teoria systemów/Wykłady/Wykłady.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 1",
-    "README.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Wykład 9.md",
@@ -170,8 +185,6 @@
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/1 Lista zadań kinematyka i dynamika 2022.pdf",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Lista_6_MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Lista_3_MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Lista 2 MD.pdf",
