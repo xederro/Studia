@@ -27,10 +27,10 @@ zabieg w celu uzyskania informacji(liczba + jednostka)
 
 
 ## Wynik
-- wynikiem jest wartość opisującą ilościowo mierzoną wielkość, przedział w którym znajduje się wielkość prawdziwa
+- wynikiem jest wartość opisującą ilościowo mierzoną wielkość, przedzia w którzym znajduje się wielkość prawdziwa
 - wynikiem jest liczba i jednostka
 - wynikiem jest przedział np. 5.00V $\pm$ 0,10V (wartość $\pm$ niepewność)
-- jest niedokładny, niepowtarzalny. sam pomiar można powtórzyć
+- jest niedokłądny, niepowtarzalny. sam pomiar można powtórzyć
 
 
 
@@ -41,7 +41,7 @@ zabieg w celu uzyskania informacji(liczba + jednostka)
 - określa przewidywalny rozrzut wielokrotnych wyników tego samego obiektu, precyzyjne powinny dawać bardzo zbliżony wynik
 ### Rozdzielczość
 - minimalna mierzalna zmiana wyniku pomiaru, "ziarno" wskazania miernika 1 $\degree C$ a 0,1 $\degree C$
-### Czułość
+## Czułość
 - bardziej reaguje na zmiany
 
 
@@ -64,7 +64,7 @@ wielkość określona zdefiniowana jednoznacznie
 
 ## Układ jednostek miar
 - uporządkowany zbiór jednostek miar wielkości podstawowych i pochodnych
-- wielkości podstawowe są to wielkości uznawane jako niezależne w danym układzie i za ich pomocą definiuje się wielkości pochodne
+- wielkości podstawowe są to wielkości uznawane jako niezależne w danym ukłądzie i za ich pomocą definiuje się wielkości pochodne
 - wielkości pochodne to wielkości zdefiniowane przez funkcje / zależności wielkości pochodnych np 1/V
 
 
@@ -80,7 +80,7 @@ wielkość określona zdefiniowana jednoznacznie
 - kandel
 
 
-## Wielokrotności i podwielokrotności  #kolokwium
+## Wielokrotności i pod wielkości  #kolokwium
 - tera - T - $10^{12}$
 - giga - G - $10^9$
 - mega - M - $10^6$
@@ -115,7 +115,7 @@ graph TD;
 
 
 ## Wzorcowanie, skalowanie, adjustacja
-- Wzorcowanie / kalibracja: określanie niepewności wzorcowania przez porównanie wskazania miernika wzorcowego do wzorcowanego 
+- Wzorcowanie / kalibracja: określanie niepewności wzorcowania -rzez podównanie wskazania miernika wzorcowego do wzorcowanego 
 
 
 
