@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "389978b8c3013a92",
+        "id": "95c524c923bdbab1",
         "type": "tabs",
         "children": [
           {
-            "id": "6e271dfa356e6362",
+            "id": "0ee164b086dec0dd",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Drawing 2023-03-02 09.23.12.excalidraw.md"
+                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 1/Drawing 2023-03-02 12.19.04.excalidraw.md"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Drawing 2023-03-02 09.23.12.excalidraw.md"
+                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 1/Drawing 2023-03-02 12.19.04.excalidraw.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Drawing 2023-03-02 09.23.12.excalidraw.md",
+                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 1/Drawing 2023-03-02 12.19.04.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,10 +138,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6e271dfa356e6362",
+  "active": "0ee164b086dec0dd",
   "lastOpenFiles": [
-    "Notatki/Matematyka dyskretna/Wykłady/Wykłady.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 1/Drawing 2023-03-02 12.19.04.excalidraw.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykłady.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 1",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Drawing 2023-03-02 09.23.12.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Wykłady/Wykłady.md",
     "Untitled.canvas",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Wykład 1.md",
     "README.md",
@@ -166,8 +170,6 @@
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/1 Lista zadań kinematyka i dynamika 2022.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Lista_6_MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Lista_3_MD.pdf",
@@ -175,7 +177,6 @@
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 7/Lista_7_MD.pdf",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 7/ObjectProj3.pdf",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Notatki do wykładów optyka falowa 2021.pdf",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Notatki do wykładów optyka falowa 2021.pdf.crdownload",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/skuteczna.png"
   ]
 }
