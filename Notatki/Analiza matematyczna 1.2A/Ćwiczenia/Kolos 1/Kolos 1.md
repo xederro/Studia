@@ -6,4 +6,4 @@
 ![[Pasted image 20221111121508.png]]
 ![[Drawing 2022-11-13 11.13.48.excalidraw]]
 ![[Pasted image 20221111121520.png]]
-![[Drawing 2022-11-13 12.01.04.excalidraw]]
+![[Drawing 2022-11-13 12.01.04.excalidraw]][[Quiz 1]][[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1]][[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2]][[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3]][[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4]][[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5]]

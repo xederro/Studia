@@ -17,3 +17,4 @@
 ![[Drawing 2022-12-08 20.50.43.excalidraw]]
 
 ![[Drawing 2022-12-09 14.18.58.excalidraw]]
+[[Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5]][[Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6]][[Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7]][[Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8]]

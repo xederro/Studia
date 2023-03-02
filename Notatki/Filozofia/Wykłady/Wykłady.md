@@ -1,3 +1,7 @@
+---
+semestr: 1
+---
+
 # Wykłady
 1. [[Notatki/Filozofia/Wykłady/Wykład 1/Wykład 1|Wykład 1]]
 2. [[Notatki/Filozofia/Wykłady/Wykład 2/Wykład 2|Wykład 2]]
@@ -7,6 +11,7 @@
 6. [[Notatki/Filozofia/Wykłady/Wykład 6/Wykład 6|Wykład 6]]
 7. [[Notatki/Filozofia/Wykłady/Wykład 7/Wykład 7|Wykład 7]]
 8. [[Notatki/Filozofia/Wykłady/Wykład 8/Wykład 8|Wykład 8]]
+9. [[Notatki/Filozofia/Wykłady/Wykład 9/Wykład 9|Wykład 9]]
 
 ## Zaliczenie
 2 nieobecności

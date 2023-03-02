@@ -1,3 +1,7 @@
+---
+semestr: 1
+---
+
 # Wykłady
 1. [[Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 1/Wykład 1|Wykład 1]]
 2. [[Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 2/Wykład 2|Wykład 2]]
@@ -9,6 +13,9 @@
 8. [[Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Wykład 8|Wykład 8]]
 9. [[Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 9/Wykład 9|Wykład 9]]
 10. [[Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 10/Wykład 10|Wykład 10]]
+11. [[Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/Wykład 11|Wykład 11]]
+12. [[Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 12/Wykład 12|Wykład 12]]
+13. [[Kolos|Kolos]]
 
 ## Zaliczenie
 C-5 803/807

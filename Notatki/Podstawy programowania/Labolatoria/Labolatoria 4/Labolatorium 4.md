@@ -67,3 +67,6 @@
 |          | $\vdots$      | $\vdots$           |
 
 [[Tablica_Pamięci.png]]
+
+[[Notatki/Podstawy programowania/Wykłady/Wykład 5/Wykład 5]][[Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6]]
+[[Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Wykład 5]]

@@ -52,3 +52,5 @@ delete wf;//[]wf
 ![[Labolatoria 5.2.cpp]]
 
 
+[[Notatki/Podstawy programowania/Wykłady/Wykład 8/Wykład 8]]
+[[Notatki/Podstawy programowania/Wykłady/Wykład 11/Wykład 11]]

@@ -26,8 +26,6 @@ $12 * 10^2 V$ - Napięcie prądu - $1,2 kV$
 Co za wielkość były zmierzone?
 }
 
-
-
 Wielkości rzeczywistej nigdy nie mierzymy, mierzymy zakres miedzy którym znajduje się wielkość rzeczywista
 
 ## Błąd

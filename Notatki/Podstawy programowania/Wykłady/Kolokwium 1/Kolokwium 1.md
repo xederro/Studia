@@ -103,3 +103,12 @@ Zagadnienia:
      a w drugiej zapis wskaźnikowy)
      ![[3.5.cpp]]
      
+
+
+[[Notatki/Podstawy programowania/Wykłady/Wykład 1/Wykład 1]]
+[[Notatki/Podstawy programowania/Wykłady/Wykład 2/Wykład 2]]
+[[Notatki/Podstawy programowania/Wykłady/Wykład 3/Wykład 3]]
+[[Notatki/Podstawy programowania/Wykłady/Wykład 4/Wykład 4]]
+[[Notatki/Podstawy programowania/Wykłady/Wykład 5/Wykład 5]]
+[[Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6]]
+[[Notatki/Podstawy programowania/Wykłady/Wykład 7/Wykład 7]]

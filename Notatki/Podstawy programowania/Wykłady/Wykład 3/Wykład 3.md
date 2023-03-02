@@ -10,3 +10,4 @@ rand()/RAND_MAX - między 0 a 1
 
 
 
+[[Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2]][[Notatki/Podstawy programowania/Labolatoria/Labolatoria 2/Labolatoria 2]]

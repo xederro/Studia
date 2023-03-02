@@ -16,8 +16,8 @@ Wzorce powinny spełniać wymagania:
 - Łatwość porównywania i stosowania
 
 procent - liczba części na sto $\rightarrow \frac{1}{100} lub 10^{-2} lub$ 1% 
-promil - liczba części na sto $\rightarrow \frac{1}{1000} lub 10^{-2} lub$ 1% % 
-ppm - liczba części na sto $\rightarrow \frac{1}{1000000} lub 10^{-6} lub$ 1% 
+promil - liczba części na tysiąc $\rightarrow \frac{1}{1000} lub 10^{-2}$
+ppm - liczba części na milion $\rightarrow \frac{1}{1000000} lub 10^{-6}$ 
 
 Charakterystyka wzorca:
 - nominalna miara wzorca

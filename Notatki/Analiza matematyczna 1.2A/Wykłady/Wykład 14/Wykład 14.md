@@ -1,0 +1,1 @@
+![[W14_Analiza_21_Calka_3_zm.pdf]]![[Drawing 2023-01-27 11.20.49.excalidraw]][[Ćwiczenia 14]]

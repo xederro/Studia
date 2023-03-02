@@ -138,3 +138,4 @@ int wiersz, kolumna;
 	   R2 = 35
 
 
+[[Notatki/Podstawy programowania/Wykłady/Wykład 3/Wykład 3]]

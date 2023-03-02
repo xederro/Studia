@@ -1,3 +1,7 @@
+---
+semestr: 1
+---
+
 # Wykłady
 1. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 1/Wykład 1|Wykład 1]]
 2. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 2/Wykład 2|Wykład 2]]
@@ -9,7 +13,11 @@
 8. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 8/Wykład 8|Wykład 8]]
 9. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 9/Wykład 9|Wykład 9]]
 10. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 10/Wykład 10|Wykład 10]]
-11. [[Wykład 11|Wykład 11]]
+11. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 11/Wykład 11|Wykład 11]]
+12. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 12/Wykład 12|Wykład 12]]
+13. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 13/Wykład 13|Wykład 13]]
+14. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 14/Wykład 14|Wykład 14]]
+15. [[Notatki/Analiza matematyczna 1.2A/Wykłady/Kolokwium/Kolokwium|Kolokwium]]
 
 ## Zaliczenie
 egzamin bez poprawki 

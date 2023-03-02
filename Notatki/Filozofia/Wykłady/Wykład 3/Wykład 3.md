@@ -1,23 +1,22 @@
 # Religia i filozofia
 
 
-religia i filozofia stanowią jedność - średniowiecze
-religia i filozofia są różne ale zachodzą uzupełniające się związki
+**średniowiecze** - religia i filozofia stanowią jedność. 
+**koło wiedeńskie** - filozofia nie ma nic wspólnego z religią.
+**najnowsze stwierdzenie** - religia i filozofia są różne ale zachodzą na siebie, uzupełniają się.
 
-
-| Filozofia | oderwane od obu                                                                         | Religia       |
-| --------- | --------------------------------------------------------------------------------------- | ------------- |
-|           | Istnienie Boga (biologiczne, ontologiczne, antropologiczne, kumulatywne, kosmologiczne) | doktryna      |
-|           |                                                                                         | kult          |
-|           |                                                                                         | normy moralne |
-|           |                                                                                         | instytucja    |
-|           |                                                                                         | teologia      |
-|           |                                                                                         |               |
-
+# Istnienie boga
+Możemy wskazać wiele argumentów za istnieniem boga:
+- biologiczne
+- kumulatywne
+- metafizyczne
+Jednak racjonalnie nie jesteśmy wskazać czemu niektórzy ludzie wierzą, a niektórzy nie
 
 Kultura = Religia(Etos) + Filozofia + Prawo rzymskie
-+
-istnienie pozwala rozróżnić dwie identyczne osoby oraz to że mimo zmiany atomów w ciele jesteśmy sobą
+Nie każda religia prowadzi do równości np. płci. Religia chrześcijańska na to pozwala, dlatego europa rozwinęła się w ten sposób.
+
+**Istnienie człowieka**:
+Pozwala rozróżnić dwie identyczne osoby oraz to że mimo zmiany atomów w ciele jesteśmy sobą
 
 
 

@@ -71,3 +71,5 @@ $P\subset N$
 liczba elementów $N=Z=Q \not= NW$
 
 $\aleph_0$ - aleph 0 
+
+[[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1]]

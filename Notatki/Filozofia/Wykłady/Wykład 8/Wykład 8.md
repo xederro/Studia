@@ -26,4 +26,18 @@ Wymiary tożsamości
 Załorzenia: mamy jakąś złożoność która generuje funkcje myślowe
 - kim jest drugi człowiek dla mnie (Innym)
 - jakie jest najbardziej pierwotne doświadczenie siebie (jako wartość)
-- 
+
+Największa rozpacz, to takie cierpienie że jedynym ratunkiem jest śmierć i wiedza że ta nigdy nie nadejdzie
+
+## Logoterapia V.E.Frankla
+
+### Antagonizm noo-psychiczny i nerwica noogenna
+
+Soma(Psyche(Nous - Akt woli, postawy) - Cechy konstytuowane osobowości) - procesy życiowe
+
+Nerwica noogenna - choniczne zdołowanie, jak depresja ale o podłożu poza psychiką(np poza traumami).
+
+Sens odczuwamy:
+- Wartości przeżyciowe
+- Wartości twórcze
+- Wartości postawy zaangażowania

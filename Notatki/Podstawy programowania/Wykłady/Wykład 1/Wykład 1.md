@@ -16,3 +16,4 @@ The following are widely considered the main programming paradigms, as seen when
 
 `int argc, char* argv[ ]` - algorytm count, tablica wskaźnikowa wartości argumentów
 
+[[Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1]][[Notatki/Podstawy programowania/Labolatoria/Labolatoria 0/Labolatoria 0]][[Notatki/Podstawy programowania/Labolatoria/Labolatoria 1/Labolatoria 1]]

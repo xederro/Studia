@@ -20,5 +20,4 @@
    ![[Drawing 2022-12-15 16.00.48.excalidraw]]
 9. 
    ![[Drawing 2022-12-15 16.57.09.excalidraw]]
-10. 
-    
+[[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5]][[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6]][[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7]][[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8]][[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 9/Ćwiczenia 9]]

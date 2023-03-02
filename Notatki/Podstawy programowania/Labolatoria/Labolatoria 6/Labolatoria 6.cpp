@@ -19,6 +19,7 @@ struct Ware
 };
 
 Ware createWare(FILE*);
+void removeUnusedInput(FILE*, char*);
 void createTabWithGivenSize(Ware*&, unsigned int&, unsigned int);
 inline void printRow(unsigned int, Ware);
 void printWare(Ware*, unsigned int);
@@ -86,8 +87,8 @@ int main()
             {
                 char name[21];
                 printf("Wpisz nazwe lub jej czesc:\n");
-                scanf("%s", name);
-                scanf("%c");
+                fgets(name, 21, stdin);
+                removeUnusedInput(stdin, name);
                 printWareName(Tab, Size, name);
             }
             break;
@@ -99,10 +100,12 @@ int main()
                 {
                     if (lhe != 0)
                     {
+                        scanf("%c");
                         printf("Zly wybor\n");
                     }
                     printf("Wpisz znak:\n");
                     scanf("%c", &lhe);
+
                 } while (lhe != '>' && lhe != '=' && lhe != '<');
 
                 float price = 0;
@@ -119,6 +122,7 @@ int main()
                 {
                     if (lhe != 0)
                     {
+                        scanf("%c");
                         printf("Zly wybor\n");
                     }
                     printf("Wpisz znak:\n");
@@ -161,8 +165,8 @@ int main()
         {
             char name[51];
             printf("Wpisz nazwe pliku(Max 50 znakow):\n");
-            scanf("%s", name);
-            scanf("%c");
+            fgets(name, 51, stdin);
+            removeUnusedInput(stdin, name);
             backupToFile(Tab, Size, name);
         }
         break;
@@ -170,9 +174,9 @@ int main()
         case 7:
         {
             char name[56];
-            printf("Wpisz nazwe pliku(Max 54 znaki):\n");
-            scanf("%s", name);
-            scanf("%c");
+            printf("Wpisz nazwe pliku(Max 55 znakow):\n");
+            fgets(name, 56, stdin);
+            removeUnusedInput(stdin, name);
             backupFromFile(Tab, Size, name);
         }
         break;
@@ -199,16 +203,31 @@ Ware createWare(FILE* input) {
     Ware temp;
     if (input == stdin) printf("Wpisz nazwe produktu:\n");
     fgets(temp.name, 21, input);
-    for (char* i = temp.name; *i; i++) {
-        if (*i == '\n') {
-            *i = '\0';
-        }
-    }
+    removeUnusedInput(input, temp.name);
     if (input == stdin) printf("Wpisz cene produktu:\n");
     fscanf(input, "%f", &temp.price);
     if (input == stdin) printf("Wpisz ilosc produktu:\n");
     fscanf(input, "%u", &temp.stock);
     return temp;
+}
+
+void removeUnusedInput(FILE* input, char* tekst) {
+    bool isEnd = false;
+
+    for (char* i = tekst; *i; i++) {
+        if (*i == '\n') {
+            *i = '\0';
+            isEnd = true;
+        }
+    }
+
+    if (!isEnd)
+    {
+        char l = 0;
+        do {
+            l = fgetc(input);
+        } while (l != '\n');
+    }
 }
 
 void createTabWithGivenSize(Ware*& Tab, unsigned int& Size, unsigned int count) {
