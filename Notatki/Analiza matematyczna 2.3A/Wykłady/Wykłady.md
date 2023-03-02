@@ -10,3 +10,6 @@ semestr: 2
 do kwietnia kurs
 egzamin pod koniec
 
+egzamin 
+I term - 28 czerwca 9-15
+II term - 5 lipca 9-12
