@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d06fa3d63d90a1ca",
+        "id": "6a131ba75d92178f",
         "type": "tabs",
         "children": [
           {
-            "id": "528cc81e6ba221dd",
+            "id": "ca7f7faf5a35324f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 1/Drawing 2023-03-01 13.22.02.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykłady.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -94,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 1/Drawing 2023-03-01 13.22.02.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykłady.md"
               }
             }
           },
@@ -112,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 1/Drawing 2023-03-01 13.22.02.excalidraw.md",
+                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykłady.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +141,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "528cc81e6ba221dd",
+  "active": "ca7f7faf5a35324f",
   "lastOpenFiles": [
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykłady.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 1/Drawing 2023-03-01 13.22.02.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykłady.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 1",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykłady.md",
