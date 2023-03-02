@@ -1,0 +1,2 @@
+H: Wyklad78
+![[Notatki Elektryczność2022.pdf]]![[Elektrycznosc - rozwiązane zadania.pdf]]![[Elektryczność - Konrad Pempera.pdf]]![[impedancja i moc2020.pdf]]![[rezonans i imp zastepcza.pdf]]![[skuteczna.png]]
