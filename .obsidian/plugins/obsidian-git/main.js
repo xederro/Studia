@@ -9375,7 +9375,7 @@ var require_feather = __commonJS({
           });
           (module3.exports = function(O, key2, value, options) {
             var unsafe = options ? !!options.unsafe : false;
-            var simple = options ? !!options.enumerable : false;
+            var simple2 = options ? !!options.enumerable : false;
             var noTargetGet = options ? !!options.noTargetGet : false;
             if (typeof value == "function") {
               if (typeof key2 == "string" && !has(value, "name"))
@@ -9383,7 +9383,7 @@ var require_feather = __commonJS({
               enforceInternalState(value).source = TEMPLATE.join(typeof key2 == "string" ? key2 : "");
             }
             if (O === global2) {
-              if (simple)
+              if (simple2)
                 O[key2] = value;
               else
                 setGlobal(key2, value);
@@ -9391,9 +9391,9 @@ var require_feather = __commonJS({
             } else if (!unsafe) {
               delete O[key2];
             } else if (!noTargetGet && O[key2]) {
-              simple = true;
+              simple2 = true;
             }
-            if (simple)
+            if (simple2)
               O[key2] = value;
             else
               hide(O, key2, value);
@@ -19619,6 +19619,10 @@ function getNewLeaf(event) {
   }
   return leaf;
 }
+function splitRemoteBranch(remoteBranch) {
+  const [remote, ...branch2] = remoteBranch.split("/");
+  return [remote, branch2.length === 0 ? void 0 : branch2.join("/")];
+}
 
 // src/isomorphicGit.ts
 var IsomorphicGit = class extends GitManager {
@@ -19648,15 +19652,14 @@ var IsomorphicGit = class extends GitManager {
     this.fs = new MyAdapter(this.app.vault, this.plugin);
   }
   getRepo() {
-    var _a2;
     return {
       fs: this.fs,
       dir: this.plugin.settings.basePath,
-      gitdir: (_a2 = this.plugin.settings.gitDir) != null ? _a2 : void 0,
+      gitdir: this.plugin.settings.gitDir || void 0,
       onAuth: () => {
-        var _a3, _b;
+        var _a2, _b;
         return {
-          username: (_a3 = this.plugin.localStorage.getUsername()) != null ? _a3 : void 0,
+          username: (_a2 = this.plugin.localStorage.getUsername()) != null ? _a2 : void 0,
           password: (_b = this.plugin.localStorage.getPassword()) != null ? _b : void 0
         };
       },
@@ -19971,11 +19974,13 @@ var IsomorphicGit = class extends GitManager {
     const remote = (_a2 = await this.getConfig(`branch.${current}.remote`)) != null ? _a2 : "origin";
     return remote;
   }
-  async checkout(branch2) {
+  async checkout(branch2, remote) {
     try {
       return this.wrapFS(isomorphic_git_default.checkout({
         ...this.getRepo(),
-        ref: branch2
+        ref: branch2,
+        force: !!remote,
+        remote
       }));
     } catch (error) {
       this.plugin.displayError(error);
@@ -20009,13 +20014,14 @@ var IsomorphicGit = class extends GitManager {
       throw error;
     }
   }
-  async clone(url, dir) {
+  async clone(url, dir, depth) {
     const progressNotice = this.showNotice("Initializing clone");
     try {
       await this.wrapFS(isomorphic_git_default.clone({
         ...this.getRepo(),
         dir,
         url,
+        depth,
         onProgress: (progress) => {
           if (progressNotice !== void 0) {
             progressNotice.noticeEl.innerText = this.getProgressText("Cloning", progress);
@@ -20101,7 +20107,7 @@ var IsomorphicGit = class extends GitManager {
     this.getRepo().dir = basePath;
   }
   async updateUpstreamBranch(remoteBranch) {
-    const [remote, branch2] = remoteBranch.split("/");
+    const [remote, branch2] = splitRemoteBranch(remoteBranch);
     const branchInfo = await this.branchInfo();
     await this.setConfig(`branch.${branchInfo.current}.merge`, `refs/heads/${branch2}`);
     await this.setConfig(`branch.${branch2}.remote`, remote);
@@ -24377,14 +24383,23 @@ var SimpleGit = class extends GitManager {
   }
   async log(file, relativeToVault = true) {
     const path2 = this.getPath(file, relativeToVault);
-    const res = await this.git.log({ file: path2 }, (err) => this.onError(err));
-    return res.all;
+    const res = await this.git.log({ file: path2, "--name-only": null }, (err) => this.onError(err));
+    return res.all.map((e) => {
+      var _a2, _b;
+      return {
+        ...e,
+        fileName: (_b = (_a2 = e.diff) == null ? void 0 : _a2.files.first()) == null ? void 0 : _b.file
+      };
+    });
   }
   async show(commitHash, file, relativeToVault = true) {
     const path2 = this.getPath(file, relativeToVault);
     return this.git.show([commitHash + ":" + path2], (err) => this.onError(err));
   }
-  async checkout(branch2) {
+  async checkout(branch2, remote) {
+    if (remote) {
+      branch2 = `${remote}/${branch2}`;
+    }
     await this.git.checkout(branch2, (err) => this.onError(err));
     if (this.plugin.settings.submoduleRecurseCheckout) {
       const submodulePaths = await this.getSubmodulePaths();
@@ -24409,8 +24424,8 @@ var SimpleGit = class extends GitManager {
   async init() {
     await this.git.init(false, (err) => this.onError(err));
   }
-  async clone(url, dir) {
-    await this.git.clone(url, path.join(this.app.vault.adapter.getBasePath(), dir), [], (err) => this.onError(err));
+  async clone(url, dir, depth) {
+    await this.git.clone(url, path.join(this.app.vault.adapter.getBasePath(), dir), depth ? ["--depth", `${depth}`] : [], (err) => this.onError(err));
   }
   async setConfig(path2, value) {
     if (value == void 0) {
@@ -24463,7 +24478,7 @@ var SimpleGit = class extends GitManager {
         await this.git.branch(["--set-upstream", remoteBranch]);
       } catch (e2) {
         console.error(e2);
-        await this.git.push(["--set-upstream", ...remoteBranch.split("/")], (err) => this.onError(err));
+        await this.git.push(["--set-upstream", ...splitRemoteBranch(remoteBranch)], (err) => this.onError(err));
       }
     }
   }
@@ -24569,7 +24584,7 @@ var ObsidianGitSettingsTab = class extends import_obsidian7.PluginSettingTab {
           }
         }));
       if (!plugin.settings.autoBackupAfterFileChange)
-        new import_obsidian7.Setting(containerEl).setName(`Auto ${commitOrBackup} after lastest commit`).setDesc(`If turned on, set last auto ${commitOrBackup} time to lastest commit`).addToggle((toggle) => toggle.setValue(plugin.settings.setLastSaveToLastCommit).onChange(async (value) => {
+        new import_obsidian7.Setting(containerEl).setName(`Auto ${commitOrBackup} after latest commit`).setDesc(`If turned on, set last auto ${commitOrBackup} time to latest commit`).addToggle((toggle) => toggle.setValue(plugin.settings.setLastSaveToLastCommit).onChange(async (value) => {
           plugin.settings.setLastSaveToLastCommit = value;
           plugin.saveSettings();
           this.display();
@@ -25138,7 +25153,12 @@ var LocalStorageSettings = class {
 init_polyfill_buffer();
 var import_obsidian12 = __toModule(require("obsidian"));
 async function openLineInGitHub(editor, file, manager) {
-  const { isGitHub, branch: branch2, repo, user } = await getData(manager);
+  const data = await getData(manager);
+  if (data.result === "failure") {
+    new import_obsidian12.Notice(data.reason);
+    return;
+  }
+  const { isGitHub, branch: branch2, repo, user } = data;
   if (isGitHub) {
     const path2 = manager.getPath(file.path, true);
     const from = editor.getCursor("from").line + 1;
@@ -25153,7 +25173,12 @@ async function openLineInGitHub(editor, file, manager) {
   }
 }
 async function openHistoryInGitHub(file, manager) {
-  const { isGitHub, branch: branch2, repo, user } = await getData(manager);
+  const data = await getData(manager);
+  if (data.result === "failure") {
+    new import_obsidian12.Notice(data.reason);
+    return;
+  }
+  const { isGitHub, branch: branch2, repo, user } = data;
   const path2 = manager.getPath(file.path, true);
   if (isGitHub) {
     window.open(`https://github.com/${user}/${repo}/commits/${branch2}/${path2}`);
@@ -25165,10 +25190,23 @@ async function getData(manager) {
   const branchInfo = await manager.branchInfo();
   const remoteBranch = branchInfo.tracking;
   const branch2 = branchInfo.current;
+  if (remoteBranch == null) {
+    return {
+      result: "failure",
+      reason: "Remote branch is not configured"
+    };
+  }
+  if (branch2 == null) {
+    return {
+      result: "failure",
+      reason: "Failed to get current branch name"
+    };
+  }
   const remote = remoteBranch.substring(0, remoteBranch.indexOf("/"));
   const remoteUrl = await manager.getConfig(`remote.${remote}.url`);
   const [isGitHub, httpsUser, httpsRepo, sshUser, sshRepo] = remoteUrl.match(/(?:^https:\/\/github\.com\/(.*)\/(.*)\.git$)|(?:^git@github\.com:(.*)\/(.*)\.git$)/);
   return {
+    result: "success",
     isGitHub: !!isGitHub,
     repo: httpsRepo || sshRepo,
     user: httpsUser || sshUser,
@@ -30852,6 +30890,11 @@ var ObsidianGit = class extends import_obsidian23.Plugin {
       callback: () => this.promiseQueue.addTask(() => this.pullChangesFromRemote())
     });
     this.addCommand({
+      id: "switch-to-remote-branch",
+      name: "Switch to remote branch",
+      callback: () => this.promiseQueue.addTask(() => this.switchRemoteBranch())
+    });
+    this.addCommand({
       id: "add-to-gitignore",
       name: "Add file to gitignore",
       checkCallback: (checking) => {
@@ -31252,8 +31295,20 @@ var ObsidianGit = class extends import_obsidian23.Plugin {
             }
           }
         }
+        const depth = await new GeneralModal({
+          placeholder: "Specify depth of clone. Leave empty for full clone.",
+          allowEmpty: true
+        }).open();
+        let depthInt = void 0;
+        if (depth !== "") {
+          depthInt = parseInt(depth);
+          if (isNaN(depthInt)) {
+            new import_obsidian23.Notice("Invalid depth. Aborting clone.");
+            return;
+          }
+        }
         new import_obsidian23.Notice(`Cloning new repo into "${dir}"`);
-        await this.gitManager.clone(url, dir);
+        await this.gitManager.clone(url, dir, depthInt);
         new import_obsidian23.Notice("Cloned new repo.");
         new import_obsidian23.Notice("Please restart Obsidian");
         if (dir && dir !== ".") {
@@ -31384,9 +31439,8 @@ var ObsidianGit = class extends import_obsidian23.Plugin {
     return true;
   }
   async hasTooBigFiles(files) {
-    var _a2;
     const branchInfo = await this.gitManager.branchInfo();
-    const remote = (_a2 = branchInfo.tracking) == null ? void 0 : _a2.split("/")[0];
+    const remote = branchInfo.tracking ? splitRemoteBranch(branchInfo.tracking)[0] : null;
     if (remote) {
       const remoteUrl = await this.gitManager.getRemoteUrl(remote);
       if (remoteUrl == null ? void 0 : remoteUrl.includes("github.com")) {
@@ -31493,6 +31547,19 @@ var ObsidianGit = class extends import_obsidian23.Plugin {
       return selectedBranch;
     }
   }
+  async switchRemoteBranch() {
+    var _a2;
+    if (!await this.isAllInitialized())
+      return;
+    const selectedBranch = await this.selectRemoteBranch() || "";
+    const [remote, branch2] = splitRemoteBranch(selectedBranch);
+    if (branch2 != void 0 && remote != void 0) {
+      await this.gitManager.checkout(branch2, remote);
+      this.displayMessage(`Switched to ${selectedBranch}`);
+      (_a2 = this.branchBar) == null ? void 0 : _a2.display();
+      return selectedBranch;
+    }
+  }
   async createBranch() {
     var _a2;
     if (!await this.isAllInitialized())
@@ -31515,7 +31582,8 @@ var ObsidianGit = class extends import_obsidian23.Plugin {
     const branch2 = await new GeneralModal({ options: branchInfo.branches, placeholder: "Delete branch", onlySelection: true }).open();
     if (branch2 != void 0) {
       let force = false;
-      if (!await this.gitManager.branchIsMerged(branch2)) {
+      const merged = await this.gitManager.branchIsMerged(branch2);
+      if (!merged) {
         const forceAnswer = await new GeneralModal({ options: ["YES", "NO"], placeholder: "This branch isn't merged into HEAD. Force delete?", onlySelection: true }).open();
         if (forceAnswer !== "YES") {
           return;

@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "95c524c923bdbab1",
+        "id": "626b6f01ba3fc594",
         "type": "tabs",
         "children": [
           {
-            "id": "0ee164b086dec0dd",
+            "id": "9ee94a9dbbd6c695",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-02 15.21.31.excalidraw.md"
+                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 1/Wykład 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -67,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 349.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -94,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-02 15.21.31.excalidraw.md"
+                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 1/Wykład 1.md"
               }
             }
           },
@@ -112,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-02 15.21.31.excalidraw.md",
+                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 1/Wykład 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,14 +142,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0ee164b086dec0dd",
+  "active": "9ee94a9dbbd6c695",
   "lastOpenFiles": [
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykłady.md",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Untitled.md",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 1",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-02 15.21.31.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230302155207_739.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230302153352_013.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykłady.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-02 15.21.31.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 1/Drawing 2023-03-02 12.19.04.excalidraw.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 1/Wykład 1.md",
@@ -170,14 +178,11 @@
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/1 Lista zadań kinematyka i dynamika 2022.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Lista_6_MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Lista_3_MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Lista 2 MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 7/Lista_7_MD.pdf",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 7/ObjectProj3.pdf",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/skuteczna.png"
   ]
 }
