@@ -12,3 +12,8 @@ semestr: 2
 
 ## Zaliczenie
 
+obecność obowiązkowa
+6 działów tematycznych
+można odrobić
+
+praca w grupach
