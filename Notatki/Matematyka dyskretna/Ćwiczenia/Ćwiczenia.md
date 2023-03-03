@@ -17,3 +17,20 @@ semestr: 2
 
 ## Zaliczenie
 
+sr 12-15 pt 10-11
+s.336 / c4
+1 nieobecność
+3 kolokwia - srednia
+co najmniej 2 pozytywne
+45 minut
+
+na 5, 9 i 14 spotkaniu
+- 31.03
+- 12.05
+- 23.06
+
+nie ma poprawek
+aktywność 0.5 st.
+plusy
+quizy
+z materiałów dodatkowych są zadania z kolokwiów 
