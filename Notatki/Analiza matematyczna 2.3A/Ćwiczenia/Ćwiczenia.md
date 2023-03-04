@@ -4,6 +4,12 @@ semestr: 2
 
 # Ćwiczenia
 1. [[Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1|Ćwiczenia 1]]
+2. [[Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2|Ćwiczenia 2]]
+3. [[Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3|Ćwiczenia 3]]
+4. [[Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4|Ćwiczenia 4]]
+5. [[Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5|Ćwiczenia 5]]
+6. [[Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6|Ćwiczenia 6]]
+7. [[Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7|Ćwiczenia 7]]
 
 ## Zaliczenie
 

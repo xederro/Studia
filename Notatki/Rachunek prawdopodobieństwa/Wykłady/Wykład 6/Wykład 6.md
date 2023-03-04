@@ -1,0 +1,1 @@
+![[Rachunek_Pr_W6.pdf]]

@@ -1,0 +1,1 @@
+![[W7_Korel_i_Reg (2).pdf]]
