@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "596206660f86446c",
+        "id": "7acb20421d461de0",
         "type": "tabs",
         "children": [
           {
-            "id": "c98cdece194e1c26",
+            "id": "86f5508ecc0292c7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 2/Labolatoria 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 293.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -91,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 2/Labolatoria 2.md"
+              }
             }
           },
           {
@@ -108,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 2/Labolatoria 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,27 +142,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c98cdece194e1c26",
+  "active": "86f5508ecc0292c7",
   "lastOpenFiles": [
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 2/Lab2_lista.pdf",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 1/Labolatoria 1.md",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 2/Labolatoria 2.md",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 1/HelloWorld.java",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 1/Lab1_lista.pdf",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 3/Labolatoria 3.md",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 4/Labolatoria 4.md",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Labolatoria 5.md",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 6/Labolatoria 6.md",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 6/Lab6_lista.pdf",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Labolatoria 7.md",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Lab7_lista.pdf",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Lab7_lista (1).pdf",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Lab5_lista.pdf",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 4/Lab4-assig-A.pdf",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 3/Lab3_lista.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230303141643_021.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 4/AM2-zestaw_04.pdf",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 4/AM2-zestaw_04.pdf.crdownload",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 3/AM2-zestaw_03.pdf",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 3/AM2-zestaw_03.pdf.crdownload",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/AM2-zestaw_02.pdf",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/AM2-zestaw_02.pdf.crdownload",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/AM2-zestaw_01.pdf",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/AM2-zestaw_01.pdf.crdownload",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 7",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykłady.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 7/Wykład 7.md",
@@ -164,18 +180,10 @@
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Fizyka 1.1A/Fizyka 1.1A.md",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-03 13.17.51.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-03 14.16.14.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303135653_931.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303135304_963.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303134129_940.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303132652_957.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230302155207_739.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230302153352_013.png",
     "Untitled.canvas",

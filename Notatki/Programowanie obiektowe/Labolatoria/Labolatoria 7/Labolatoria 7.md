@@ -1,1 +1,1 @@
-!
+![[Lab7_lista.pdf]]
