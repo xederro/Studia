@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5eb111ac374dea57",
+        "id": "900ec393b70799ad",
         "type": "tabs",
         "children": [
           {
-            "id": "8dd9c3164e0a4d66",
+            "id": "d6304efca6b39052",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Algebra liniowa 2/Algebra liniowa 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -96,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Algebra liniowa 2/Algebra liniowa 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -115,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Algebra liniowa 2/Algebra liniowa 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,8 +133,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8dd9c3164e0a4d66",
+  "active": "d6304efca6b39052",
   "lastOpenFiles": [
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Labolatoria 6.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 5/Labolatoria 5.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 4/Labolatoria 4.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 3/Labolatoria 3.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Labolatoria 2.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 1/Labolatoria 1.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Cw6_R_-_seria_mostek_i_Rz_i_dzielniki_2023.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 5/Cw5_-_pomiary_AC_i_PWM_2023.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 4/Cw_4_Pomiar_Rezystancji_i_Impedancji_2023.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 3/Cw3_pomiar_diod_i_ADC_DAC_2023.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Cw2_pomiar_UiI_DC_2023.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 1/Cw1_oscyloskop_2023.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 5",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 4",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 3",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria.md",
+    "Notatki/Algebra liniowa 2/Algebra liniowa 2.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 11/Ćwiczenia 11.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Ćwiczenia 10.md",
@@ -158,28 +170,7 @@
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 12/Ćwiczenia 12.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 11/Ćwiczenia 11.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Ćwiczenia 10.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Algebra liniowa z geometrią analityczną/Algebra liniowa z geometrą analityczną.md",
-    "Notatki/Algebra liniowa 2/Algebra liniowa 2.md",
-    "Notatki/Etyka inżynierska/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Etyka inżynierska/Etyka inżynierka.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 2/Lab2_lista.pdf",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 1/HelloWorld.java",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 1/Lab1_lista.pdf",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 6/Lab6_lista.pdf",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Lab7_lista.pdf",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Lab7_lista (1).pdf",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Lab5_lista.pdf",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 4/Lab4-assig-A.pdf",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 3/Lab3_lista.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230303141643_021.png",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 4/AM2-zestaw_04.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303135653_931.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303135304_963.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303134129_940.png",
