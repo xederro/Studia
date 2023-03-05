@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7acb20421d461de0",
+        "id": "01ec33f0e22714b1",
         "type": "tabs",
         "children": [
           {
-            "id": "86f5508ecc0292c7",
+            "id": "d25242399187b3e3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-03 14.16.14.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-03 14.16.14.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -112,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-03 14.16.14.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +133,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "86f5508ecc0292c7",
+  "active": "d25242399187b3e3",
   "lastOpenFiles": [
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-03 14.16.14.excalidraw.md",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 2/Labolatoria 2.md",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 2/Lab2_lista.pdf",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 1/Labolatoria 1.md",
