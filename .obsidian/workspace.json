@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "47f21f9d1f9b780d",
+        "id": "6eddee4109f945f0",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a55cd3a9e8773d",
+            "id": "3dd8fb92809bb91b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 4/Labolatoria 4.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 293.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 4/Labolatoria 4.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 4/Labolatoria 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,10 +141,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a55cd3a9e8773d",
+  "active": "3dd8fb92809bb91b",
   "lastOpenFiles": [
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180932.jpg",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180932.jpg.~tmp",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180940.jpg",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180925.jpg",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180946.jpg",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180904.jpg",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 1",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Labolatoria 6.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 5/Labolatoria 5.md",
@@ -153,7 +159,6 @@
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 3/Labolatoria 3.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Labolatoria 2.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 1/Labolatoria 1.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Cw6_R_-_seria_mostek_i_Rz_i_dzielniki_2023.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 5/Cw5_-_pomiary_AC_i_PWM_2023.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 4/Cw_4_Pomiar_Rezystancji_i_Impedancji_2023.pdf",
@@ -162,7 +167,6 @@
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 1/Cw1_oscyloskop_2023.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 5",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 4",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria.md",
     "Notatki/Algebra liniowa 2/Algebra liniowa 2.md",
@@ -179,15 +183,11 @@
     "Notatki/Etyka inżynierska/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 13/Ćwiczenia 13.md",
     "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 12/Ćwiczenia 12.md",
-    "Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 11/Ćwiczenia 11.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230303141643_021.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303135653_931.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303135304_963.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303134129_940.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303132652_957.png",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230302155207_739.png",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230302153352_013.png",
-    "Untitled.canvas",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/skuteczna.png"
+    "Untitled.canvas"
   ]
 }
