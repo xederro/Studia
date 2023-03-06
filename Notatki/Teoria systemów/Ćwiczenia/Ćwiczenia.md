@@ -7,3 +7,17 @@ semestr: 2
 
 ## Zaliczenie
 
+111 c-3 
+środy 9-11 
+wtorek/czwartek 
+
+1 nieobecność
+nie pisać maili z usprawiedliwieniem
+
+na przedostatnich zajęciach sprawdzian
+zadania z list
+50% na zaliczenie
+2 termin 70% na zaliczenie ale to samo co na 1 - dostajemy swoje kartki
+
+w czasie zajęć będzie aktywność 3 '+' to .5 wyżej ale do pozytywnej
+
