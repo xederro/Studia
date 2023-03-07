@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2f2c9586bea5f117",
+        "id": "95721c4955c404e9",
         "type": "tabs",
         "children": [
           {
-            "id": "f3cd6ae2242dece0",
+            "id": "8048ac42cb58c031",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Drawing 2023-03-07 13.10.22.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -67,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 293.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -93,9 +92,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Drawing 2023-03-07 13.10.22.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -112,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Drawing 2023-03-07 13.10.22.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +134,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f3cd6ae2242dece0",
+  "active": "8048ac42cb58c031",
   "lastOpenFiles": [
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Drawing 2023-03-07 13.10.22.excalidraw.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykłady.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Drawing 2023-03-07 13.10.22.excalidraw.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Równania ruchu.pdf",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Wykład 2 Dynamika.pdf",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Fizyka - Dynamika Adam Wroński.pdf",
