@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "95721c4955c404e9",
+        "id": "f992ff2b95780a4c",
         "type": "tabs",
         "children": [
           {
-            "id": "8048ac42cb58c031",
+            "id": "326e56b1a44f4678",
             "type": "leaf",
             "state": {
               "type": "pdf-annotator",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 5/Wykład 5.md"
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 2/Wykład 2.md"
               }
             }
           }
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 293.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 5/Wykład 5.md"
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 2/Wykład 2.md"
               }
             }
           },
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Podstawy programowania/Wykłady/Wykład 5/Wykład 5.md",
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 2/Wykład 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +139,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8048ac42cb58c031",
+  "active": "49d30ce6368bee01",
   "lastOpenFiles": [
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Podstawy programowania/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Drawing 2023-03-07 13.10.22.excalidraw.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykłady.md",
@@ -178,9 +182,6 @@
     "Notatki/Matematyka dyskretna/Wykłady/Wykłady.md",
     "Notatki/Fizyka 1.1A/Fizyka 1.1A.md",
     "Notatki/Filozofia/Wykłady/Wykłady.md",
-    "Notatki/Filozofia/Filozofia.md",
-    "Notatki/Etyka inżynierska/Wykłady/Wykłady.md",
-    "Notatki/Etyka inżynierska/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230303141643_021.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303135653_931.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303135304_963.png",
