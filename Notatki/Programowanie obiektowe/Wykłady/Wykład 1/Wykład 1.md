@@ -1,7 +1,3 @@
----
-annotation-target: JavaIntroduction-Eclipse.pdf
----
-
 ![[JavaIntroduction-Eclipse.pdf]]
 
 
