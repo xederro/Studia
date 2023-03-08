@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dfb7d20f37055c51",
+        "id": "5592e524d0559b66",
         "type": "tabs",
         "children": [
           {
-            "id": "da76251141cbecb6",
+            "id": "d3ac3b5159c9abe7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 1/Wykład 1.md",
+                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,53 +21,17 @@
             }
           },
           {
-            "id": "29f21cb898a97a15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 2/Wykład 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0e8eeac45c8c358",
+            "id": "b6df812155056360",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 2/Drawing 2023-03-08 13.23.59.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "c3023f036f780ce5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 3/Wykład 3.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "717c95ff43372823",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 3/Drawing 2023-03-08 14.00.06.excalidraw.md"
+                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-08 17.01.13.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 3/Drawing 2023-03-08 14.00.06.excalidraw.md"
+                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-08 17.01.13.excalidraw.md"
               }
             }
           },
@@ -162,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 3/Drawing 2023-03-08 14.00.06.excalidraw.md",
+                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-08 17.01.13.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,54 +152,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "717c95ff43372823",
+  "active": "b6df812155056360",
   "lastOpenFiles": [
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 3/Drawing 2023-03-08 14.00.06.excalidraw.md",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 2/Drawing 2023-03-08 13.23.59.excalidraw.md",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 3",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 2",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Drawing 2023-03-07 13.10.22.excalidraw.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykłady.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Równania ruchu.pdf",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Wykład 2 Dynamika.pdf",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Fizyka - Dynamika Adam Wroński.pdf",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230308174231_092.png",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230308172557_021.png",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230308170128_162.png",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-08 17.01.13.excalidraw.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/1 Lista zadań kinematyka i dynamika 2022.pdf",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Wykład 1 Pojęcia podstawowe i kinematyka2021.pdf",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 4/Labolatoria 4.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria.md",
+    "Untitled.canvas",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 8/Wykład 8.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Wykład 7.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 6/Wykład 6.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 5/Wykład 5.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 8/AM2-zestaw_08.pdf",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 8/AM2-zestaw_08.pdf.crdownload",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 7/AM2-zestaw_07.pdf",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 7/AM2-zestaw_07.pdf.crdownload",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/AM2-zestaw_06.pdf",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/AM2-zestaw_06.pdf.crdownload",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/AM2-zestaw_05.pdf",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/AM2-zestaw_05.pdf.crdownload",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 4/AM2-zestaw_04.pdf.crdownload",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykłady.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykłady.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/Wykład 7.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Wykład 6.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/Wykład 5.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180932.jpg",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180932.jpg.~tmp",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180940.jpg",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180925.jpg",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180946.jpg",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180904.jpg",
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 1",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Labolatoria 6.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 5/Labolatoria 5.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 3/Labolatoria 3.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Labolatoria 2.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 1/Labolatoria 1.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Cw6_R_-_seria_mostek_i_Rz_i_dzielniki_2023.pdf",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria.md",
-    "Notatki/Algebra liniowa 2/Algebra liniowa 2.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 11/Ćwiczenia 11.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Ćwiczenia 10.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230303141643_021.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303135653_931.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303135304_963.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303134129_940.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303132652_957.png",
-    "Untitled.canvas"
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303135304_963.png"
   ]
 }

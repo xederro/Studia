@@ -1,0 +1,1 @@
+![[AL2-wyklad-7.pdf]]![[AL2-zestaw-7.pdf]]![[Wyklad_7a_cz1.pdf]]![[Wyklad_7a_cz2.pdf]]

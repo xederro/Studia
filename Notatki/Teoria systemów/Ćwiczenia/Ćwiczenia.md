@@ -3,7 +3,7 @@ semestr: 2
 ---
 
 # Ćwiczenia
-
+1. [[Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1|Ćwiczenia 1]]
 
 ## Zaliczenie
 

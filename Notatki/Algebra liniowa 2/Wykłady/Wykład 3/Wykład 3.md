@@ -1,0 +1,1 @@
+![[AL2-Wyklad-3.pdf]]![[Notatki/Algebra liniowa 2/Wykłady/Wykład 3/Wyklad_3a.pdf]]![[AL2-zestaw-3.pdf]]
