@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "95721c4955c404e9",
+        "id": "dfb7d20f37055c51",
         "type": "tabs",
         "children": [
           {
-            "id": "8048ac42cb58c031",
+            "id": "da76251141cbecb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -141,8 +141,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8048ac42cb58c031",
+  "active": "da76251141cbecb6",
   "lastOpenFiles": [
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Podstawy programowania/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Drawing 2023-03-07 13.10.22.excalidraw.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykłady.md",
@@ -181,9 +184,6 @@
     "Notatki/Matematyka dyskretna/Wykłady/Wykłady.md",
     "Notatki/Fizyka 1.1A/Fizyka 1.1A.md",
     "Notatki/Filozofia/Wykłady/Wykłady.md",
-    "Notatki/Filozofia/Filozofia.md",
-    "Notatki/Etyka inżynierska/Wykłady/Wykłady.md",
-    "Notatki/Etyka inżynierska/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230303141643_021.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303135653_931.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303135304_963.png",
