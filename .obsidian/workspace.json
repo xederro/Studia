@@ -4,23 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "45d9dfca9c494d58",
+        "id": "dfb7d20f37055c51",
         "type": "tabs",
         "children": [
           {
-            "id": "935adfdd78a499f0",
+            "id": "da76251141cbecb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LICENSE.md",
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 1/Wykład 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "29f21cb898a97a15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 2/Wykład 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0e8eeac45c8c358",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 2/Drawing 2023-03-08 13.23.59.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LICENSE.md"
+                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 2/Drawing 2023-03-08 13.23.59.excalidraw.md"
               }
             }
           },
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LICENSE.md",
+                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 2/Drawing 2023-03-08 13.23.59.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,17 +161,18 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "49d30ce6368bee01",
+  "active": "b0e8eeac45c8c358",
   "lastOpenFiles": [
-    "CONTRIBUTING.md",
-    "CODE_OF_CONDUCT.md",
-    "README.md",
-    "LICENSE.md",
-    "conflict-files-obsidian-git.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 2/Drawing 2023-03-08 13.23.59.excalidraw.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 2",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Podstawy programowania/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Drawing 2023-03-07 13.10.22.excalidraw.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykłady.md",
@@ -175,7 +200,6 @@
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 1/Labolatoria 1.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Cw6_R_-_seria_mostek_i_Rz_i_dzielniki_2023.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 5/Cw5_-_pomiary_AC_i_PWM_2023.pdf",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 4/Cw_4_Pomiar_Rezystancji_i_Impedancji_2023.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria.md",
     "Notatki/Algebra liniowa 2/Algebra liniowa 2.md",
@@ -183,6 +207,7 @@
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 11/Ćwiczenia 11.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Ćwiczenia 10.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
+    "Notatki/Matematyka dyskretna/Wykłady/Wykłady.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230303141643_021.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303135653_931.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303135304_963.png",
