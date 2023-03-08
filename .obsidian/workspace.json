@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f992ff2b95780a4c",
+        "id": "dfb7d20f37055c51",
         "type": "tabs",
         "children": [
           {
-            "id": "326e56b1a44f4678",
+            "id": "da76251141cbecb6",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 2/Wykład 2.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
