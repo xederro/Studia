@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dfb7d20f37055c51",
+        "id": "45d9dfca9c494d58",
         "type": "tabs",
         "children": [
           {
-            "id": "da76251141cbecb6",
+            "id": "935adfdd78a499f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 1/Wykład 1.md",
+                "file": "LICENSE.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 1/Wykład 1.md"
+                "file": "LICENSE.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 1/Wykład 1.md",
+                "file": "LICENSE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,15 +137,17 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "da76251141cbecb6",
+  "active": "49d30ce6368bee01",
   "lastOpenFiles": [
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 2/Wykład 2.md",
+    "CONTRIBUTING.md",
+    "CODE_OF_CONDUCT.md",
+    "README.md",
+    "LICENSE.md",
+    "conflict-files-obsidian-git.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Podstawy programowania/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Drawing 2023-03-07 13.10.22.excalidraw.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykłady.md",
@@ -181,9 +183,6 @@
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 11/Ćwiczenia 11.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Ćwiczenia 10.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykłady.md",
-    "Notatki/Fizyka 1.1A/Fizyka 1.1A.md",
-    "Notatki/Filozofia/Wykłady/Wykłady.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230303141643_021.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303135653_931.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303135304_963.png",
