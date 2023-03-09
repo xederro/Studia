@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f9134454e35f08e4",
+        "id": "4afb0b9697cadab1",
         "type": "tabs",
         "children": [
           {
-            "id": "82ad431539cc37d2",
+            "id": "ee4e2b22b1fc6383",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Drawing 2023-03-02 09.23.12.excalidraw.md"
+                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 3/Drawing 2023-03-09 11.55.14.excalidraw.md"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Drawing 2023-03-02 09.23.12.excalidraw.md"
+                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 3/Drawing 2023-03-09 11.55.14.excalidraw.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Drawing 2023-03-02 09.23.12.excalidraw.md",
+                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 3/Drawing 2023-03-09 11.55.14.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,12 +138,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82ad431539cc37d2",
+  "active": "ee4e2b22b1fc6383",
   "lastOpenFiles": [
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 2/Drawing 2023-03-09 11.17.29.excalidraw.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 3/Drawing 2023-03-09 11.55.14.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Drawing 2023-03-02 09.23.12.excalidraw.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Wykład_1.pdf",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Drawing 2023-03-02 09.23.12.excalidraw.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykłady.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 2/Drawing 2023-03-09 09.16.22.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
@@ -171,8 +173,6 @@
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 8/AM2-zestaw_08.pdf",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 8/AM2-zestaw_08.pdf.crdownload",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 7/AM2-zestaw_07.pdf",
