@@ -13,6 +13,6 @@ semestr: 2
 
 ## Zaliczenie
 
-Kolokwium 04.07.2023
+Kolokwium 04.07.2023 - 45 minut 7/8 zadań
 (c+w)/2 = ocena końcowa
 
