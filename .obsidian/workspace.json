@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e39c1179b1f986a8",
+        "id": "2bc63eb0225957b3",
         "type": "tabs",
         "children": [
           {
-            "id": "ba90621d5d84dbd6",
+            "id": "0083e903b2c51a79",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-03 14.16.14.excalidraw.md"
+                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 2/Wykład 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -67,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 293.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -94,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-03 14.16.14.excalidraw.md"
+                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 2/Wykład 2.md"
               }
             }
           },
@@ -112,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-03 14.16.14.excalidraw.md",
+                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 2/Wykład 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +142,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba90621d5d84dbd6",
+  "active": "0083e903b2c51a79",
   "lastOpenFiles": [
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykłady.md",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 2",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-03 14.16.14.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-08 18.12.26.excalidraw.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Wykład_1.pdf",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Drawing 2023-03-02 09.23.12.excalidraw.md",
@@ -154,7 +163,6 @@
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykłady.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-03 14.16.14.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-03 13.17.51.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230308181241_644.png",
     "CODE_OF_CONDUCT.md",
@@ -171,15 +179,12 @@
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 8/AM2-zestaw_08.pdf",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 8/AM2-zestaw_08.pdf.crdownload",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 7/AM2-zestaw_07.pdf",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 7/AM2-zestaw_07.pdf.crdownload",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/AM2-zestaw_06.pdf",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/AM2-zestaw_06.pdf.crdownload",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/AM2-zestaw_05.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180932.jpg",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180940.jpg",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180925.jpg",
