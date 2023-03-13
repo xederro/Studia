@@ -86,5 +86,5 @@ public class Fib {
 }
 ```
 
-[[Printer.java]]
-[[Fib.java]]
+![[Printer.java]]
+![[Fib.java]]
