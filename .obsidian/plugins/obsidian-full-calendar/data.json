@@ -1,0 +1,17 @@
+{
+  "calendarSources": [
+    {
+      "type": "ical",
+      "color": "#ff0000",
+      "url": "webcal://apps.usos.pwr.edu.pl/services/tt/upcoming_ical?lang=pl&user_id=563478&key=scTYuVJ7MHr3tfbu4wQu"
+    }
+  ],
+  "defaultCalendar": 0,
+  "recursiveLocal": true,
+  "firstDay": 1,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "listWeek"
+  },
+  "timeFormat24h": true
+}

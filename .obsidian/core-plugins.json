@@ -1,20 +1,14 @@
 [
   "file-explorer",
   "global-search",
-  "switcher",
   "graph",
   "canvas",
   "outgoing-link",
   "tag-pane",
-  "page-preview",
-  "note-composer",
   "command-palette",
   "editor-status",
-  "starred",
-  "markdown-importer",
   "outline",
   "word-count",
   "slides",
-  "audio-recorder",
   "file-recovery"
 ]
