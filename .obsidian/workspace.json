@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ac042fc623027f91",
+        "id": "3ccb20960ae30527",
         "type": "tabs",
         "children": [
           {
-            "id": "a6bda3a52836c164",
+            "id": "2d58dae6514836f4",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-08 17.01.13.excalidraw.md"
+                "file": "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-13 07.29.13.excalidraw.md"
               }
             }
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 293.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-08 17.01.13.excalidraw.md"
+                "file": "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-13 07.29.13.excalidraw.md"
               }
             }
           },
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-08 17.01.13.excalidraw.md",
+                "file": "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-13 07.29.13.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,8 +138,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6bda3a52836c164",
+  "active": "2d58dae6514836f4",
   "lastOpenFiles": [
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-13 07.29.13.excalidraw.md",
+    "Notatki/Teoria systemów/Ćwiczenia/Untitled.md",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 2",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-08 17.01.13.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-10 13.16.47.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230308181241_644.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Lista 2 MD.pdf",
@@ -168,20 +173,15 @@
     "CODE_OF_CONDUCT.md",
     "CONTRIBUTING.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-08 17.01.13.excalidraw.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230308174231_092.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230308172557_021.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230308170128_162.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/1 Lista zadań kinematyka i dynamika 2022.pdf",
     "Untitled.canvas",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 8/Wykład 8.md",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 8/AM2-zestaw_08.pdf",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 8/AM2-zestaw_08.pdf.crdownload",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 7/AM2-zestaw_07.pdf",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 7/AM2-zestaw_07.pdf.crdownload",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/AM2-zestaw_06.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180932.jpg",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180940.jpg",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180925.jpg",
