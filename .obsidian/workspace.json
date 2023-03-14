@@ -4,23 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "2466cd3fa229c057",
+        "id": "ba2f139c672df8ab",
         "type": "tabs",
         "children": [
           {
-            "id": "c6931fdda0365ce8",
+            "id": "9ff55b3559bc4f7b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 1/Labolatoria 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f094f867b89cfc0c",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,16 +88,6 @@
             }
           },
           {
-            "id": "9118e3852fdd0170",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 1/Labolatoria 1.md"
-              }
-            }
-          },
-          {
             "id": "0f01b4308a0bf430",
             "type": "leaf",
             "state": {
@@ -102,22 +96,30 @@
             }
           },
           {
-            "id": "d1bdc2042d024876",
+            "id": "513706df279c3801",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 1/Labolatoria 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "972bc58ecad3fd93",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 337.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -130,8 +132,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c6931fdda0365ce8",
+  "active": "f094f867b89cfc0c",
   "lastOpenFiles": [
+    "CODE_OF_CONDUCT.md",
+    "README.md",
+    "CONTRIBUTING.md",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 1/Labolatoria 1.md",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 2/Labolatoria 2.md",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 3/Labolatoria 3.md",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 3/Tour.java",
@@ -166,10 +172,6 @@
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykłady.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-03 13.17.51.excalidraw.md",
-    "CODE_OF_CONDUCT.md",
-    "CONTRIBUTING.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230308174231_092.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230308172557_021.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230308170128_162.png",
