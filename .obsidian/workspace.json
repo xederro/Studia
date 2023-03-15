@@ -4,27 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ba2f139c672df8ab",
+        "id": "8d2e45b25086357c",
         "type": "tabs",
         "children": [
           {
-            "id": "9ff55b3559bc4f7b",
+            "id": "29e0e5118d16480a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f094f867b89cfc0c",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-14 13.16.23.excalidraw.md"
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-14 13.16.23.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-14 13.16.23.excalidraw.md"
+              }
             }
           }
         ],
@@ -132,8 +128,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "f094f867b89cfc0c",
+  "active": "29e0e5118d16480a",
   "lastOpenFiles": [
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-14 13.16.23.excalidraw.md",
     "CODE_OF_CONDUCT.md",
     "README.md",
     "CONTRIBUTING.md",
@@ -170,8 +168,6 @@
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 3/Drawing 2023-03-09 11.55.14.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230308174231_092.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230308172557_021.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230308170128_162.png",
