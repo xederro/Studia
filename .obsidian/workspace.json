@@ -4,29 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "018d41a5edf0f910",
+        "id": "a0f25bfcd2e558fb",
         "type": "tabs",
         "children": [
           {
-            "id": "cf5e3bd035890403",
+            "id": "cb0200b5b2e49d92",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3ebf4210b1c791d8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 4/Drawing 2023-03-15 13.25.16.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 4/Drawing 2023-03-15 13.25.16.excalidraw.md",
+                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 4/Drawing 2023-03-15 13.25.16.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md"
               }
             }
           }
@@ -137,8 +131,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "3ebf4210b1c791d8",
+  "active": "cb0200b5b2e49d92",
   "lastOpenFiles": [
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-15 16.22.41.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 2/Drawing 2023-03-08 13.23.59.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230315162256_647.png",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 2/AM2-Wyklad_02.pdf",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/AM2-zestaw_01.pdf",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 4/Drawing 2023-03-15 13.25.16.excalidraw.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 2/JavaIntroduction.pdf",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 3/Labolatoria 3.md",
@@ -167,16 +168,9 @@
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 2/Fib.java",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-13 07.29.13.excalidraw.md",
     "Notatki/Teoria systemów/Ćwiczenia/Untitled.md",
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 2",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-08 17.01.13.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230308181241_644.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Lista 2 MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230303141643_021.png",
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykłady.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-03 14.16.14.excalidraw.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230308174231_092.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230308172557_021.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230308170128_162.png",
@@ -184,7 +178,6 @@
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180932.jpg",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180940.jpg",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180925.jpg",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180946.jpg",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180904.jpg"
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180946.jpg"
   ]
 }
