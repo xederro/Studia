@@ -4,20 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "27ec8dc4ce0be610",
+        "id": "018d41a5edf0f910",
         "type": "tabs",
         "children": [
           {
-            "id": "ea27bfa715b74ed4",
+            "id": "cf5e3bd035890403",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ebf4210b1c791d8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
               "state": {
-                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 2/JavaIntroduction.pdf"
+                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 4/Drawing 2023-03-15 13.25.16.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -59,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 293.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -95,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 2/JavaIntroduction.pdf",
+                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 4/Drawing 2023-03-15 13.25.16.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 2/JavaIntroduction.pdf"
+                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 4/Drawing 2023-03-15 13.25.16.excalidraw.md"
               }
             }
           }
@@ -129,10 +137,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ea27bfa715b74ed4",
+  "active": "3ebf4210b1c791d8",
   "lastOpenFiles": [
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 3/Labolatoria 3.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 4/Drawing 2023-03-15 13.25.16.excalidraw.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 2/JavaIntroduction.pdf",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 3/Labolatoria 3.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 2/Drawing 2023-03-15 07.30.40.excalidraw.md",
