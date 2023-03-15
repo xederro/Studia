@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8d2e45b25086357c",
+        "id": "e5679d0eb03acaa1",
         "type": "tabs",
         "children": [
           {
-            "id": "29e0e5118d16480a",
+            "id": "3b87d0ebb155bca0",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-14 13.16.23.excalidraw.md"
+                "file": "Notatki/Teoria systemów/Wykłady/Wykład 2/Drawing 2023-03-15 07.30.40.excalidraw.md"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-14 13.16.23.excalidraw.md",
+                "file": "Notatki/Teoria systemów/Wykłady/Wykład 2/Drawing 2023-03-15 07.30.40.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-14 13.16.23.excalidraw.md"
+                "file": "Notatki/Teoria systemów/Wykłady/Wykład 2/Drawing 2023-03-15 07.30.40.excalidraw.md"
               }
             }
           }
@@ -128,10 +128,18 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "29e0e5118d16480a",
+  "active": "3b87d0ebb155bca0",
   "lastOpenFiles": [
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
+    "Notatki/Teoria systemów/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Teoria systemów/Wykłady/Wykład 2/Drawing 2023-03-15 07.30.40.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-10 13.16.47.excalidraw.md",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
+    "Notatki/Teoria systemów/Wykłady/Wykłady.md",
+    "Notatki/Teoria systemów/Wykłady/Wykład 2",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-14 13.16.23.excalidraw.md",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
     "CODE_OF_CONDUCT.md",
     "README.md",
     "CONTRIBUTING.md",
@@ -145,12 +153,10 @@
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 2/Printer.java",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 2/Fib.java",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-13 07.29.13.excalidraw.md",
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
     "Notatki/Teoria systemów/Ćwiczenia/Untitled.md",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 2",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-08 17.01.13.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-10 13.16.47.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230308181241_644.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Lista 2 MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230303141643_021.png",
@@ -160,14 +166,8 @@
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 2",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-03 14.16.14.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-08 18.12.26.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Wykład_1.pdf",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Drawing 2023-03-02 09.23.12.excalidraw.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 2/Drawing 2023-03-09 09.16.22.excalidraw.md",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 2/Drawing 2023-03-09 11.17.29.excalidraw.md",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 3/Drawing 2023-03-09 11.55.14.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230308174231_092.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230308172557_021.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230308170128_162.png",
