@@ -41,7 +41,7 @@ public class Triangle {
     }  
   
     public static void main(String[] args) {  
-        print_triangle(10);  
+        print_triangle(5);  
     }  
 }
 ```
