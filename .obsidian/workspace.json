@@ -4,18 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "2664a6a694fa29dd",
+        "id": "345c2e9ab6d1855d",
         "type": "tabs",
         "children": [
           {
-            "id": "9e6a43916a549139",
+            "id": "c30f2d9891cf6d88",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Wykład 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "808a59eac2451739",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Drawing 2023-03-16 09.21.17.excalidraw.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Drawing 2023-03-16 09.21.17.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Drawing 2023-03-16 09.21.17.excalidraw.md"
+              }
             }
           }
         ],
@@ -123,8 +142,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9e6a43916a549139",
+  "active": "808a59eac2451739",
   "lastOpenFiles": [
+    "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Drawing 2023-03-16 09.21.17.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Wykłady/Wykład 2/Drawing 2023-03-09 09.16.22.excalidraw.md",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 3/Labolatoria 3.md",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 3/Triangle.java",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 2/Wykład 2.md",
@@ -139,7 +163,6 @@
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 4/Drawing 2023-03-15 13.25.16.excalidraw.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 2/JavaIntroduction.pdf",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 3/Labolatoria 3.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 2/Drawing 2023-03-15 07.30.40.excalidraw.md",
@@ -154,11 +177,7 @@
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
     "CODE_OF_CONDUCT.md",
     "README.md",
-    "CONTRIBUTING.md",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 1/Labolatoria 1.md",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 2/Labolatoria 2.md",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 3/Tour.java",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 3/Triangle.java",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 3/Triangle 1.java",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 3/Lab3_lista.pdf",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 2/Printer.java",
