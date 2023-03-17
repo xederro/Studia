@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6614f9e994f5b593",
+        "id": "d1c0d2630cbcbd00",
         "type": "tabs",
         "children": [
           {
-            "id": "473c44e98e7efd8c",
+            "id": "cdb3f10b3a5410a9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-15 16.22.41.excalidraw.md"
+                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 3/Wykład 3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -59,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 327.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -94,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-15 16.22.41.excalidraw.md",
+                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 3/Wykład 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-15 16.22.41.excalidraw.md"
+                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 3/Wykład 3.md"
               }
             }
           }
@@ -128,14 +132,19 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "473c44e98e7efd8c",
+  "active": "cdb3f10b3a5410a9",
   "lastOpenFiles": [
+    "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Drawing 2023-03-02 09.23.12.excalidraw.md",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykłady.md",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 3",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-15 16.22.41.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-02 15.21.31.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 1/AM2-Wyklad_01.pdf",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/AM2-zestaw_01.pdf",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 2/AM2-Wyklad_02.pdf",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230316152822_528.png",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 2/Drawing 2023-03-09 09.16.22.excalidraw.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 2/Wykład_2_Relacje.pdf",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Drawing 2023-03-16 09.21.17.excalidraw.md",
@@ -147,7 +156,6 @@
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 1/Wyklad1_konspekt_eportal.pdf",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-15 16.22.41.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 2/Drawing 2023-03-08 13.23.59.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230315162256_647.png",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 4/Wykład 4.md",
@@ -163,10 +171,7 @@
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
     "Notatki/Teoria systemów/Wykłady/Wykłady.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 2",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-14 13.16.23.excalidraw.md",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 3/Tour.java",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 3/Triangle 1.java",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230308181241_644.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230303141643_021.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230308174231_092.png",
