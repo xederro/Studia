@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "11f89d57c06f2fea",
+        "id": "571aa38cb2288e2a",
         "type": "tabs",
         "children": [
           {
-            "id": "864d8f7dd2bb8417",
+            "id": "2177abe15e076f86",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-10 13.16.47.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -59,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5069465637207,
-    "collapsed": true
+    "width": 327.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -95,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-10 13.16.47.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-10 13.16.47.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -129,17 +123,52 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "864d8f7dd2bb8417",
+  "floating": {
+    "id": "25125646b2fb8682",
+    "type": "floating",
+    "children": [
+      {
+        "id": "758033fb918486f4",
+        "type": "window",
+        "children": [
+          {
+            "id": "74356edff3f9741d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "864d8f7dd2bb8417",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-17 14.34.00.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1410,
+        "y": 12,
+        "width": 602,
+        "height": 810,
+        "maximize": false,
+        "zoom": 1
+      }
+    ]
+  },
+  "active": "2177abe15e076f86",
   "lastOpenFiles": [
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-17 14.34.00.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-17 13.36.36.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-17 13.17.55.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-10 13.16.47.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-08 18.12.26.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Lista_3_MD.pdf",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-17 14.34.00.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Pasted Image 20230317143415_407.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-17 13.36.36.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Pasted Image 20230317133714_094.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-17 13.17.55.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Untitled.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-10 13.16.47.excalidraw.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Drawing 2023-03-02 09.23.12.excalidraw.md",
