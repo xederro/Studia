@@ -1,5 +1,8 @@
 ---
 semestr: 2
+ocena: 
+ects: 1
+typ: 'W'
 ---
 
 # Wykłady

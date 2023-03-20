@@ -1,5 +1,8 @@
 ---
 semestr: 1
+ocena: 4.5
+ects: 2
+typ: 'C'
 ---
 
 # Ćwiczenia
