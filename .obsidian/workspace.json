@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "571aa38cb2288e2a",
+        "id": "e9427c3ddcd8978a",
         "type": "tabs",
         "children": [
           {
-            "id": "2177abe15e076f86",
+            "id": "f80c21be8478214a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -123,43 +123,18 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "floating": {
-    "id": "25125646b2fb8682",
-    "type": "floating",
-    "children": [
-      {
-        "id": "758033fb918486f4",
-        "type": "window",
-        "children": [
-          {
-            "id": "74356edff3f9741d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "864d8f7dd2bb8417",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-17 14.34.00.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1410,
-        "y": 12,
-        "width": 602,
-        "height": 810,
-        "maximize": false,
-        "zoom": 1
-      }
-    ]
-  },
-  "active": "2177abe15e076f86",
+  "active": "f80c21be8478214a",
   "lastOpenFiles": [
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 4/Cw_4_Pomiar_Rezystancji_i_Impedancji_2023.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/Labolatoria 0.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/Strona_tytułowa_sprawozdanie2020.docx",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/aproksymacja.xlsx",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/zaokraglenia i przyblirzenia.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/VC8045.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/104016.INSTRUKCJA_PL..2007-01-01.1.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/D9205A_instrukcja obsługi.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/104691.INSTRUKCJA_PL..2015-04-22.2.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-17 14.34.00.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-17 13.36.36.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-17 13.17.55.excalidraw.md",
@@ -177,29 +152,19 @@
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-15 16.22.41.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-02 15.21.31.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 1/AM2-Wyklad_01.pdf",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/AM2-zestaw_01.pdf",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 2/AM2-Wyklad_02.pdf",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230316152822_528.png",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 2/Drawing 2023-03-09 09.16.22.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 2/Wykład_2_Relacje.pdf",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Drawing 2023-03-16 09.21.17.excalidraw.md",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 3/Labolatoria 3.md",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 3/Triangle.java",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 1/Wyklad1_konspekt_eportal.pdf",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 2/Drawing 2023-03-08 13.23.59.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230315162256_647.png",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 4/Drawing 2023-03-15 13.25.16.excalidraw.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 2/JavaIntroduction.pdf",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Teoria systemów/Wykłady/Wykład 2/Drawing 2023-03-15 07.30.40.excalidraw.md",
-    "Notatki/Teoria systemów/Wykłady/Wykład 2",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230308181241_644.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230303141643_021.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230308174231_092.png",
