@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 3/Wykład 3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "8cc76f3b7ca2de1d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 3/Drawing 2023-03-21 13.13.49.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 3/Drawing 2023-03-21 13.13.49.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 3/Drawing 2023-03-21 13.13.49.excalidraw.md"
               }
             }
           }
@@ -131,8 +142,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b5f96065b3f17ed",
+  "active": "8cc76f3b7ca2de1d",
   "lastOpenFiles": [
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 3/Drawing 2023-03-21 13.13.49.excalidraw.md",
+    "README.md",
     "Notatki/Inne/Inne.md",
     "Notatki/Inne/WF-1/WF-1.md",
     "Notatki/Inne/BHP/BHP.md",
@@ -158,9 +172,6 @@
     "Notatki/Matematyka dyskretna/Wykłady/Wykłady.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykłady.md",
-    "Notatki/Filozofia/Wykłady/Wykłady.md",
-    "Notatki/Etyka inżynierska/Wykłady/Wykłady.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia.md",
     "Sylabus.pdf",
     "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/cw1zad2pkt1.svg",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 4/Cw_4_Pomiar_Rezystancji_i_Impedancji_2023.pdf",
