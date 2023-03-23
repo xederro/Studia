@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "01af0c50d8ccd3cc",
+        "id": "899377a9be56cbc9",
         "type": "tabs",
         "children": [
           {
-            "id": "4ae8e0dd8b17bda0",
+            "id": "d9b09dceae69360e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-22 18.59.20.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-22 18.59.20.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,9 +103,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-22 18.59.20.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -129,10 +124,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4ae8e0dd8b17bda0",
+  "active": "d9b09dceae69360e",
   "lastOpenFiles": [
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-22 18.59.20.excalidraw.md",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230322190304_616.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230322190248_611.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230322190226_619.png",
