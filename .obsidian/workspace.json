@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "95754aabdaee9d65",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 2/Drawing 2023-03-23 09.18.45.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5069465637207,
-    "collapsed": true
+    "width": 451.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -93,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 2/Drawing 2023-03-23 09.18.45.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 2/Drawing 2023-03-23 09.18.45.excalidraw.md"
+              }
             }
           }
         ],
@@ -124,8 +137,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d9b09dceae69360e",
+  "active": "95754aabdaee9d65",
   "lastOpenFiles": [
+    "Notatki/Matematyka dyskretna/Wykłady/Wykład 2/Drawing 2023-03-23 09.18.45.excalidraw.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-22 18.59.20.excalidraw.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230322190304_616.png",
