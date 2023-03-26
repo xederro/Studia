@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "071bcd16d54425a7",
+        "id": "3ce6061b77794250",
         "type": "tabs",
         "children": [
           {
-            "id": "4b43131352ca5bfd",
+            "id": "f77e9364c27537ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/Wykład 11.md",
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Kolokwium 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5069465637207,
-    "collapsed": true
+    "width": 356.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/Wykład 11.md",
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Kolokwium 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/Wykład 11.md"
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Kolokwium 1.md"
               }
             }
           }
@@ -132,23 +131,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4b43131352ca5bfd",
+  "active": "f77e9364c27537ae",
   "lastOpenFiles": [
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Drawing 2023-03-26 17.19.20.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-24 14.32.29.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Lista_4_MD.pdf",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Lista_3_MD.pdf",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Pasted Image 20230326184047_462.png",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Pasted Image 20230326183435_105.png",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Pasted Image 20230326182833_017.png",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Pasted Image 20230326181222_714.png",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303132652_957.png",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303135304_963.png",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303135653_931.png",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303134129_940.png",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Pasted image 20230326175627.png",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Kolokwium 1.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230324143259_242.png",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-03 13.17.51.excalidraw.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/Wykład 11.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 12/Wykład 12.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4_5 2022na23.pdf",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Pasted image 20221108092558.png",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Pasted image 20221025100324.png",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Niepewność złożona2022.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Niepewność złożona2021.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Drawing 2023-01-30 12.02.42.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Drawing 2023-01-30 10.56.53.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Drawing 2023-01-26 14.51.11.excalidraw.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-22 18.59.20.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-24 14.32.29.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230324143259_242.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Lista_4_MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-17 14.34.00.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Untitled.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-17 13.17.55.excalidraw.md",
@@ -163,23 +176,8 @@
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 4/Rachunek_Pr_W4.pdf",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 3/Drawing 2023-03-09 11.55.14.excalidraw.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 3/Drawing 2023-03-23 10.56.57.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 3/Wykład_3_Logika.pdf",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 2/Drawing 2023-03-23 09.18.45.excalidraw.md",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230322190304_616.png",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230322190248_611.png",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230322190226_619.png",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 3/Drawing 2023-03-14 13.16.23.excalidraw.md",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 4/build.gradle",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 4/html-removing-application/build/classes/java/main/org/example/Application.class",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 4/html-removing-application/src/main/java/org/example/Application.java",
-    "Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/cw1zad2pkt1.svg",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Pasted Image 20230317143415_407.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Pasted Image 20230317133714_094.png",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230316152822_528.png",
     "Untitled.canvas"
   ]
 }

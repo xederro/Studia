@@ -12,7 +12,7 @@ typ: 'W'
 4. [[Notatki/Podstawy programowania/Wykłady/Wykład 4/Wykład 4|Wykład 4]]
 5. [[Notatki/Podstawy programowania/Wykłady/Wykład 5/Wykład 5|Wykład 5]]
 6. [[Notatki/Podstawy programowania/Wykłady/Wykład 6/Wykład 6|Wykład 6]]
-7. [[Kolokwium 1|Kolokwium 1]]
+7. [[Notatki/Podstawy programowania/Wykłady/Kolokwium 1/Kolokwium 1|Kolokwium 1]]
 8. [[Notatki/Podstawy programowania/Wykłady/Wykład 7/Wykład 7|Wykład 7]]
 9. [[Notatki/Podstawy programowania/Wykłady/Wykład 8/Wykład 8|Wykład 8]]
 10. [[Notatki/Podstawy programowania/Wykłady/Wykład 9/Wykład 9|Wykład 9]]
