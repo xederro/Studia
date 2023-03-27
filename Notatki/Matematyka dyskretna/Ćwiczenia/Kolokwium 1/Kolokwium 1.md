@@ -5,3 +5,4 @@
 [[Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3]]
 
 ![[Drawing 2023-03-26 17.19.20.excalidraw]]
+![[Drawing 2023-03-27 17.01.20.excalidraw]]

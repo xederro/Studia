@@ -11,9 +11,12 @@
             "id": "f47434941b69f642",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-27 07.31.12.excalidraw.md"
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Kolokwium 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -94,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-27 07.31.12.excalidraw.md",
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Kolokwium 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-27 07.31.12.excalidraw.md"
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Kolokwium 1.md"
               }
             }
           }
@@ -131,6 +134,7 @@
   "active": "f47434941b69f642",
   "lastOpenFiles": [
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Drawing 2023-03-27 17.01.20.excalidraw.md",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-27 07.31.12.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Pasted Image 20230327180022_412.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Pasted Image 20230317143415_407.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Pasted Image 20230327173503_654.png",
@@ -144,7 +148,6 @@
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-03 14.16.14.excalidraw.md",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-27 07.31.12.excalidraw.md",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-13 07.29.13.excalidraw.md",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 3",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-17 13.17.55.excalidraw.md",
