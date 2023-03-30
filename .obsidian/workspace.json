@@ -4,19 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4c68d5515a476c86",
+        "id": "c0df2a4fb990d0fa",
         "type": "tabs",
         "children": [
           {
-            "id": "38dd6c3a44079381",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4972ab7e2dc9954a",
+            "id": "b137058c7cb2565c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -25,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +59,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5069465637207
+    "width": 313.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -137,9 +129,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4972ab7e2dc9954a",
+  "active": "b137058c7cb2565c",
   "lastOpenFiles": [
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Pasted Image 20230330123100_932.png",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Lista 1 MD.pdf",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-03 13.17.51.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303135653_931.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Drawing 2023-03-30 11.46.16.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Lista_3_MD.pdf",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Lista 2 MD.pdf",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Pasted Image 20230330121630_390.png",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Drawing 2023-03-26 17.19.20.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Drawing 2023-03-27 17.01.20.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 3/Drawing 2023-03-08 14.00.06.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-30 10.21.39.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 2/Drawing 2023-03-08 13.23.59.excalidraw.md",
@@ -161,30 +162,21 @@
     "Notatki/Teoria systemów/Wykłady/Wykład 3",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230315162256_647.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Drawing 2023-03-28 18.24.44.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Lista_3_MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Pasted Image 20230328182459_228.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Pasted Image 20230317133714_094.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Pasted Image 20230327170150_706.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Pasted Image 20230327173503_654.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Pasted Image 20230327180022_412.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Pasted image 20230326175627.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Drawing 2023-03-27 17.01.20.excalidraw.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 2/Wykład_2_Relacje.pdf",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 2/Drawing 2023-03-09 09.16.22.excalidraw.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 3/Drawing 2023-03-23 10.56.57.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Pasted Image 20230328164923_799.png",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 5/Drawing 2023-03-28 13.15.49.excalidraw.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 4/podrecznik_frascati_2015.pdf",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Drawing 2023-03-26 17.19.20.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-17 14.34.00.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Kolokwium 1.md",
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-27 07.31.12.excalidraw.md",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 3",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Lista_4_MD.pdf",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1",
     "Untitled.canvas"
   ]
 }
