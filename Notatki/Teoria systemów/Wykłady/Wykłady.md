@@ -8,6 +8,7 @@ typ: 'W'
 # Wykłady
 1. [[Notatki/Teoria systemów/Wykłady/Wykład 1/Wykład 1|Wykład 1]]
 2. [[Notatki/Teoria systemów/Wykłady/Wykład 2/Wykład 2|Wykład 2]]
+3. [[Notatki/Teoria systemów/Wykłady/Wykład 3/Wykład 3|Wykład 3]]
 
 ## Zaliczenie
 111-c3 - na stronie będą godziny

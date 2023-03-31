@@ -6,3 +6,7 @@
 
 ![[Drawing 2023-03-26 17.19.20.excalidraw]]
 ![[Drawing 2023-03-27 17.01.20.excalidraw]]
+![[Drawing 2023-03-28 16.49.08.excalidraw]]
+![[Drawing 2023-03-28 18.24.44.excalidraw]]
+
+![[Drawing 2023-03-30 11.46.16.excalidraw]]
