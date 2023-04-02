@@ -4,31 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "890c4e02554df047",
+        "id": "6b8f6bf1f214867a",
         "type": "tabs",
         "children": [
           {
-            "id": "678b29377dc02e74",
+            "id": "22ff2536f376e520",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-24 14.32.29.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "5e10edff507353d7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-31 14.05.09.excalidraw.md"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180952.jpg"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-31 14.05.09.excalidraw.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180952.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-31 14.05.09.excalidraw.md"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180952.jpg"
               }
             }
           }
@@ -139,8 +128,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5e10edff507353d7",
+  "active": "22ff2536f376e520",
   "lastOpenFiles": [
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180946.jpg",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180940.jpg",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180932.jpg",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180925.jpg",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180904.jpg",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-24 14.32.29.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-31 14.05.09.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Drawing 2023-04-01 22.59.50.excalidraw.md",
@@ -176,14 +170,9 @@
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Lista 1 MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-03 13.17.51.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 1/Pasted Image 20230303135653_931.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Pasted Image 20230330121630_390.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Drawing 2023-03-26 17.19.20.excalidraw.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 3/Pasted Image 20230330102209_921.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 3/AM2-zestaw_03.pdf",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 3/Pasted Image 20230330102150_671.png",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 3/AM2-Wyklad_03.pdf",
     "Notatki/Teoria systemów/Wykłady/Wykład 3",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Pasted Image 20230328182459_228.png",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 2/Wykład_2_Relacje.pdf",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 4/podrecznik_frascati_2015.pdf",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 3",

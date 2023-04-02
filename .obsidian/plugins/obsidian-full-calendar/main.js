@@ -41357,7 +41357,7 @@ var require_moment = __commonJS({
 __export(exports, {
   default: () => FullCalendarPlugin
 });
-var import_obsidian13 = __toModule(require("obsidian"));
+var import_obsidian12 = __toModule(require("obsidian"));
 
 // src/ui/view.ts
 var import_obsidian7 = __toModule(require("obsidian"));
@@ -58342,6 +58342,7 @@ function renderCalendar(containerEl, eventSources, settings) {
     initialView: ((_a = settings == null ? void 0 : settings.initialView) == null ? void 0 : _a[isNarrow ? "mobile" : "desktop"]) || (isNarrow ? "timeGrid3Days" : "timeGridWeek"),
     nowIndicator: true,
     scrollTimeReset: false,
+    dayMaxEvents: true,
     headerToolbar: !isNarrow ? {
       left: "prev,next today",
       center: "title",
@@ -62459,7 +62460,7 @@ function friendlyDateTime(dateTimeish) {
   }
 }
 
-// src/interop.ts
+// src/ui/interop.ts
 var parseTime = (time) => {
   let parsed = DateTime2.fromFormat(time, "h:mm a");
   if (parsed.invalidReason) {
@@ -63066,11 +63067,11 @@ var ReactModal = class extends import_obsidian2.Modal {
   }
 };
 
-// src/parsing/caldav/import.ts
+// src/calendars/parsing/caldav/import.ts
 var import_color = __toModule(require_color());
 var import_dav2 = __toModule(require_dav());
 
-// src/parsing/caldav/transport.ts
+// src/calendars/parsing/caldav/transport.ts
 var import_co = __toModule(require_co());
 var import_dav = __toModule(require_dav());
 var import_obsidian3 = __toModule(require("obsidian"));
@@ -63128,7 +63129,7 @@ var Basic = class extends import_dav.transport.Transport {
   }
 };
 
-// src/parsing/caldav/import.ts
+// src/calendars/parsing/caldav/import.ts
 function importCalendars(auth, url) {
   return __async(this, null, function* () {
     try {
@@ -63677,7 +63678,7 @@ function launchEditModal(plugin, eventId) {
   })).open();
 }
 
-// src/tasks/index.ts
+// src/ui/tasks/index.ts
 var isTask = (e3) => e3.type === "single" && e3.completed !== void 0 && e3.completed !== null;
 var unmakeTask = (event) => {
   if (event.type !== "single") {
@@ -63889,8 +63890,8 @@ var CalendarView = class extends import_obsidian7.ItemView {
         this.callback = null;
       }
       this.callback = this.plugin.cache.on("update", (payload) => {
-        var _a;
-        if (payload.resync) {
+        var _a, _b, _c, _d;
+        if (payload.type === "resync") {
           (_a = this.fullCalendarView) == null ? void 0 : _a.removeAllEventSources();
           const sources2 = this.translateSources();
           sources2.forEach((source) => {
@@ -63898,34 +63899,46 @@ var CalendarView = class extends import_obsidian7.ItemView {
             return (_a2 = this.fullCalendarView) == null ? void 0 : _a2.addEventSource(source);
           });
           return;
-        }
-        const { toRemove, toAdd } = payload;
-        console.debug("updating view from cache...", {
-          toRemove,
-          toAdd
-        });
-        toRemove.forEach((id) => {
-          var _a2;
-          const event = (_a2 = this.fullCalendarView) == null ? void 0 : _a2.getEventById(id);
-          if (event) {
-            console.debug("removing event", event.toPlainObject());
-            event.remove();
-          } else {
-            console.warn(`Event with id=${id} was slated to be removed but does not exist in the calendar.`);
-          }
-        });
-        toAdd.forEach(({ id, event, calendarId }) => {
-          var _a2;
-          const eventInput = toEventInput(id, event);
-          console.debug("adding event", {
-            id,
-            event,
-            eventInput,
-            calendarId
+        } else if (payload.type === "events") {
+          const { toRemove, toAdd } = payload;
+          console.debug("updating view from cache...", {
+            toRemove,
+            toAdd
           });
-          const addedEvent = (_a2 = this.fullCalendarView) == null ? void 0 : _a2.addEvent(eventInput, calendarId);
-          console.debug("event that was added", addedEvent);
-        });
+          toRemove.forEach((id) => {
+            var _a2;
+            const event = (_a2 = this.fullCalendarView) == null ? void 0 : _a2.getEventById(id);
+            if (event) {
+              console.debug("removing event", event.toPlainObject());
+              event.remove();
+            } else {
+              console.warn(`Event with id=${id} was slated to be removed but does not exist in the calendar.`);
+            }
+          });
+          toAdd.forEach(({ id, event, calendarId }) => {
+            var _a2;
+            const eventInput = toEventInput(id, event);
+            console.debug("adding event", {
+              id,
+              event,
+              eventInput,
+              calendarId
+            });
+            const addedEvent = (_a2 = this.fullCalendarView) == null ? void 0 : _a2.addEvent(eventInput, calendarId);
+            console.debug("event that was added", addedEvent);
+          });
+        } else if (payload.type == "calendar") {
+          const {
+            calendar: { id, events, editable, color }
+          } = payload;
+          console.debug("replacing calendar with id", payload.calendar);
+          (_c = (_b = this.fullCalendarView) == null ? void 0 : _b.getEventSourceById(id)) == null ? void 0 : _c.remove();
+          (_d = this.fullCalendarView) == null ? void 0 : _d.addEventSource(__spreadValues({
+            id,
+            events: events.flatMap(({ id: id2, event }) => toEventInput(id2, event) || []),
+            editable
+          }, getCalendarColors(color)));
+        }
       });
     });
   }
@@ -63949,7 +63962,7 @@ var CalendarView = class extends import_obsidian7.ItemView {
 };
 
 // src/core/EventCache.ts
-var import_obsidian10 = __toModule(require("obsidian"));
+var import_obsidian9 = __toModule(require("obsidian"));
 var import_deep_equal = __toModule(require_deep_equal());
 
 // src/core/EventStore.ts
@@ -64148,10 +64161,19 @@ var RemoteCalendar = class extends Calendar2 {
 };
 
 // src/calendars/FullNoteCalendar.ts
-var import_obsidian9 = __toModule(require("obsidian"));
-
-// src/serialization/frontmatter.ts
 var import_obsidian8 = __toModule(require("obsidian"));
+var basenameFromEvent = (event) => {
+  switch (event.type) {
+    case void 0:
+    case "single":
+      return `${event.date} ${event.title}`;
+    case "recurring":
+      return `(Every ${event.daysOfWeek.join(",")}) ${event.title}`;
+    case "rrule":
+      return `(${rrulestr(event.rrule).toText()}) ${event.title}`;
+  }
+};
+var filenameForEvent = (event) => `${basenameFromEvent(event)}.md`;
 var FRONTMATTER_SEPARATOR = "---";
 function hasFrontmatter(page) {
   return page.indexOf(FRONTMATTER_SEPARATOR) === 0 && page.slice(3).indexOf(FRONTMATTER_SEPARATOR) !== -1;
@@ -64222,20 +64244,6 @@ function modifyFrontmatterString(page, modifications) {
   }
   return replaceFrontmatter(page, newFrontmatter2.join("\n") + "\n");
 }
-
-// src/calendars/FullNoteCalendar.ts
-var basenameFromEvent = (event) => {
-  switch (event.type) {
-    case void 0:
-    case "single":
-      return `${event.date} ${event.title}`;
-    case "recurring":
-      return `(Every ${event.daysOfWeek.join(",")}) ${event.title}`;
-    case "rrule":
-      return `(${rrulestr(event.rrule).toText()}) ${event.title}`;
-  }
-};
-var filenameForEvent = (event) => `${basenameFromEvent(event)}.md`;
 var FullNoteCalendar = class extends EditableCalendar {
   constructor(app, color, directory) {
     super(color);
@@ -64270,9 +64278,9 @@ var FullNoteCalendar = class extends EditableCalendar {
   getEventsInFolderRecursive(folder) {
     return __async(this, null, function* () {
       const events = yield Promise.all(folder.children.map((file) => __async(this, null, function* () {
-        if (file instanceof import_obsidian9.TFile) {
+        if (file instanceof import_obsidian8.TFile) {
           return yield this.getEventsInFile(file);
-        } else if (file instanceof import_obsidian9.TFolder) {
+        } else if (file instanceof import_obsidian8.TFolder) {
           return yield this.getEventsInFolderRecursive(file);
         } else {
           return [];
@@ -64287,12 +64295,12 @@ var FullNoteCalendar = class extends EditableCalendar {
       if (!eventFolder) {
         throw new Error(`Cannot get folder ${this.directory}`);
       }
-      if (!(eventFolder instanceof import_obsidian9.TFolder)) {
+      if (!(eventFolder instanceof import_obsidian8.TFolder)) {
         throw new Error(`${eventFolder} is not a directory.`);
       }
       const events = [];
       for (const file of eventFolder.children) {
-        if (file instanceof import_obsidian9.TFile) {
+        if (file instanceof import_obsidian8.TFile) {
           const results = yield this.getEventsInFile(file);
           events.push(...results);
         }
@@ -64411,8 +64419,9 @@ var EventCache = class {
     this.initialized = false;
     this.calendarInfos = infos;
     this.pkCounter = 0;
-    this.updateViews(this.store.clear(), []);
     this.calendars.clear();
+    this.store.clear();
+    this.resync();
     this.init();
   }
   init() {
@@ -64441,7 +64450,7 @@ var EventCache = class {
   }
   resync() {
     for (const callback of this.updateViewCallbacks) {
-      callback({ resync: true });
+      callback({ type: "resync" });
     }
   }
   getAllEvents() {
@@ -64512,7 +64521,12 @@ var EventCache = class {
       toAdd
     };
     for (const callback of this.updateViewCallbacks) {
-      callback(__spreadValues({ resync: false }, payload));
+      callback(__spreadValues({ type: "events" }, payload));
+    }
+  }
+  updateCalendar(calendar) {
+    for (const callback of this.updateViewCallbacks) {
+      callback({ type: "calendar", calendar });
     }
   }
   addEvent(calendarId, event) {
@@ -64682,16 +64696,21 @@ var EventCache = class {
             event
           });
         });
-        this.updateViews(deletedEvents, newEvents);
+        this.updateCalendar({
+          id: calendar.id,
+          editable: false,
+          color: calendar.color,
+          events: newEvents
+        });
       });
     });
     Promise.allSettled(promises).then((results) => {
       this.revalidating = false;
       this.lastRevalidation = Date.now();
-      new import_obsidian10.Notice("All remote calendars have been fetched.");
+      new import_obsidian9.Notice("All remote calendars have been fetched.");
       const errors = results.flatMap((result) => result.status === "rejected" ? result.reason : []);
       if (errors.length > 0) {
-        new import_obsidian10.Notice("A remote calendar failed to load. Check the console for more details.");
+        new import_obsidian9.Notice("A remote calendar failed to load. Check the console for more details.");
         errors.forEach((reason) => {
           console.error(`Revalidation failed with reason: ${reason}`);
         });
@@ -64704,7 +64723,7 @@ var EventCache = class {
 };
 
 // src/ObsidianAdapter.ts
-var import_obsidian11 = __toModule(require("obsidian"));
+var import_obsidian10 = __toModule(require("obsidian"));
 var ObsidianIO = class {
   constructor(app, systemTrash = true) {
     this.vault = app.vault;
@@ -64745,7 +64764,7 @@ var ObsidianIO = class {
     if (!f3) {
       return null;
     }
-    if (!(f3 instanceof import_obsidian11.TFile)) {
+    if (!(f3 instanceof import_obsidian10.TFile)) {
       return null;
     }
     return f3;
@@ -64789,8 +64808,7 @@ var ObsidianIO = class {
 // src/calendars/DailyNoteCalendar.ts
 var import_moment = __toModule(require_moment());
 var import_obsidian_daily_notes_interface2 = __toModule(require_main());
-
-// src/serialization/inline.ts
+var DATE_FORMAT = "YYYY-MM-DD";
 var parseBool = (s4) => s4 === "true" ? true : s4 === "false" ? false : s4;
 var fieldRegex = /\[([^\]]+):: ?([^\]]+)\]/g;
 function getInlineAttributes(s4) {
@@ -64909,9 +64927,6 @@ var addToHeading = (page, { heading, item, headingText }) => {
     return { page: lines.join("\n"), lineNumber: lines.length - 1 };
   }
 };
-
-// src/calendars/DailyNoteCalendar.ts
-var DATE_FORMAT = "YYYY-MM-DD";
 var DailyNoteCalendar = class extends EditableCalendar {
   constructor(app, color, heading) {
     super(color);
@@ -65075,9 +65090,9 @@ var DailyNoteCalendar = class extends EditableCalendar {
 };
 
 // src/calendars/ICSCalendar.ts
-var import_obsidian12 = __toModule(require("obsidian"));
+var import_obsidian11 = __toModule(require("obsidian"));
 
-// src/parsing/ics.ts
+// src/calendars/parsing/ics.ts
 var import_ical = __toModule(require_ical());
 function getDate2(t3) {
   return DateTime2.fromSeconds(t3.toUnixTime(), { zone: "UTC" }).toISODate();
@@ -65107,7 +65122,7 @@ function icsToOFC(input) {
     return __spreadValues({
       type: "rrule",
       title: input.summary,
-      id: `ics::${input.uid}::${DateTime2.fromJSDate(rrule.options.dtstart).toISODate()}::recurring`,
+      id: `ics::${input.uid}::${getDate2(input.startDate)}::recurring`,
       rrule: rrule.toString(),
       skipDates: exdates,
       startDate: getDate2(input.startDate.convertToZone(import_ical.default.Timezone.utcTimezone))
@@ -65186,7 +65201,7 @@ var ICSCalendar = class extends RemoteCalendar {
   revalidate() {
     return __async(this, null, function* () {
       console.debug("revalidating ICS calendar " + this.name);
-      this.response = yield (0, import_obsidian12.request)({
+      this.response = yield (0, import_obsidian11.request)({
         url: this.url,
         method: "GET"
       });
@@ -65248,7 +65263,7 @@ var CalDAVCalendar = class extends RemoteCalendar {
 };
 
 // src/main.ts
-var FullCalendarPlugin = class extends import_obsidian13.Plugin {
+var FullCalendarPlugin = class extends import_obsidian12.Plugin {
   constructor() {
     super(...arguments);
     this.settings = DEFAULT_SETTINGS;
@@ -65290,13 +65305,13 @@ var FullCalendarPlugin = class extends import_obsidian13.Plugin {
         this.cache.fileUpdated(file);
       }));
       this.registerEvent(this.app.vault.on("rename", (file, oldPath) => {
-        if (file instanceof import_obsidian13.TFile) {
+        if (file instanceof import_obsidian12.TFile) {
           console.debug("FILE RENAMED", file.path);
           this.cache.deleteEventsAtPath(oldPath);
         }
       }));
       this.registerEvent(this.app.vault.on("delete", (file) => {
-        if (file instanceof import_obsidian13.TFile) {
+        if (file instanceof import_obsidian12.TFile) {
           console.debug("FILE DELETED", file.path);
           this.cache.deleteEventsAtPath(file.path);
         }
@@ -65322,7 +65337,7 @@ var FullCalendarPlugin = class extends import_obsidian13.Plugin {
           this.cache.reset(this.settings.calendarSources);
           this.app.workspace.detachLeavesOfType(FULL_CALENDAR_VIEW_TYPE);
           this.app.workspace.detachLeavesOfType(FULL_CALENDAR_SIDEBAR_VIEW_TYPE);
-          new import_obsidian13.Notice("Full Calendar has been reset.");
+          new import_obsidian12.Notice("Full Calendar has been reset.");
         }
       });
       this.addCommand({
@@ -65368,7 +65383,7 @@ var FullCalendarPlugin = class extends import_obsidian13.Plugin {
   }
   saveSettings() {
     return __async(this, null, function* () {
-      new import_obsidian13.Notice("Resetting the event cache with new settings...");
+      new import_obsidian12.Notice("Resetting the event cache with new settings...");
       yield this.saveData(this.settings);
       this.cache.reset(this.settings.calendarSources);
       yield this.cache.populate();
