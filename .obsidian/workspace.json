@@ -4,34 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f9e69e1d4d8f43f8",
+        "id": "a13a5ed108c601bc",
         "type": "tabs",
         "children": [
           {
-            "id": "6951a25186a9a055",
+            "id": "faa4c293e025b070",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 6/Wykład 6.md",
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 3/Wykład 3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "6b0d2a07a34f2213",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 6/Drawing 2023-04-04 13.11.47.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 6/Drawing 2023-04-04 13.11.47.excalidraw.md",
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 3/Wykład 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 6/Drawing 2023-04-04 13.11.47.excalidraw.md"
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 3/Wykład 3.md"
               }
             }
           }
@@ -142,12 +131,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b0d2a07a34f2213",
+  "active": "faa4c293e025b070",
   "lastOpenFiles": [
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 6/Wykład 6.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 6/Drawing 2023-04-04 13.11.47.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 4/Labolatoria 4.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 4/Cw_4_Pomiar_Rezystancji_i_Impedancji_2023.pdf",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 6/Drawing 2023-04-04 13.11.47.excalidraw.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 5/Drawing 2023-03-28 13.15.49.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 4/Cw_4.pdf",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 3/AM2-zestaw_03.pdf",
