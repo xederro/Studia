@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 4/Labolatoria 4.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5069465637207
+    "width": 313.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -97,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 4/Labolatoria 4.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 4/Labolatoria 4.md"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md"
               }
             }
           }
@@ -133,6 +134,9 @@
   },
   "active": "8859d1f9a7af3e97",
   "lastOpenFiles": [
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 6.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 5/Wykład 5.md",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 4/Labolatoria 4.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Drawing 2023-04-05 13.14.49.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 6/Drawing 2023-03-29 13.16.55.excalidraw.md",
@@ -172,9 +176,6 @@
     "Notatki/Teoria systemów/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 3/Drawing 2023-03-29 07.30.10.excalidraw.md",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Drawing 2023-03-28 16.49.08.excalidraw.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Lista 2 MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Pasted image 20230326175627.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Pasted Image 20230330200039_105.png",
