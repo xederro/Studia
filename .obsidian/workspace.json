@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "58c6b1337c0909a9",
+        "id": "a7d53a45d8f676c5",
         "type": "tabs",
         "children": [
           {
-            "id": "80164ca7f822f3b8",
+            "id": "8859d1f9a7af3e97",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Drawing 2023-04-05 13.14.49.excalidraw.md"
+                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 4/Labolatoria 4.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -94,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Drawing 2023-04-05 13.14.49.excalidraw.md",
+                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 4/Labolatoria 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Drawing 2023-04-05 13.14.49.excalidraw.md"
+                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 4/Labolatoria 4.md"
               }
             }
           }
@@ -128,10 +131,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "80164ca7f822f3b8",
+  "active": "8859d1f9a7af3e97",
   "lastOpenFiles": [
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Drawing 2023-04-05 13.14.49.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 6/Drawing 2023-03-29 13.16.55.excalidraw.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 8/DesignPatterns1.pdf",
