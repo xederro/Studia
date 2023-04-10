@@ -2,6 +2,7 @@ package org.example;
 
 
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 
 public class RootsCalculator {
@@ -14,7 +15,7 @@ public class RootsCalculator {
                     temp.add(Double.POSITIVE_INFINITY);
                 }
             } else {
-                temp.add(-b/c);
+                temp.add(-c/b);
             }
         } else {
             double delta = b*b-4*a*c;
@@ -25,7 +26,7 @@ public class RootsCalculator {
                 temp.add((-b-Math.sqrt(delta))/(2*a));
             }
         }
-
+        temp.sort(Comparator.naturalOrder());
         return temp;
     }
 }

@@ -11,8 +11,13 @@
             "id": "cd135a98f355b970",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Labolatoria 5.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -93,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Labolatoria 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Labolatoria 5.md"
+              }
             }
           }
         ],

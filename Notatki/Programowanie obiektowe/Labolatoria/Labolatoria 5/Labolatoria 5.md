@@ -97,6 +97,7 @@ package org.example;
   
   
 import java.util.ArrayList;  
+import java.util.Comparator;  
 import java.util.List;  
   
 public class RootsCalculator {  
@@ -109,7 +110,7 @@ public class RootsCalculator {
                     temp.add(Double.POSITIVE_INFINITY);  
                 }  
             } else {  
-                temp.add(-b/c);  
+                temp.add(-c/b);  
             }  
         } else {  
             double delta = b*b-4*a*c;  
@@ -120,7 +121,7 @@ public class RootsCalculator {
                 temp.add((-b-Math.sqrt(delta))/(2*a));  
             }  
         }  
-  
+        temp.sort(Comparator.naturalOrder());  
         return temp;  
     }  
 }
@@ -129,20 +130,27 @@ public class RootsCalculator {
 ```java
 package org.example;  
   
-import org.junit.jupiter.api.Test;  
-  
-import static org.junit.jupiter.api.Assertions.*;  
+import org.junit.jupiter.api.Test;   
+import org.junit.jupiter.api.Assertions;
   
 class RootsCalculatorTest {  
   
     @Test  
-    void calculate_roots() {  
-        assertEquals(2, RootsCalculator.calculate_roots(1, -5, -6).size());  
-        assertEquals(1, RootsCalculator.calculate_roots(1, -4, 4).size());  
-        assertEquals(0, RootsCalculator.calculate_roots(1, 1, 6).size());  
-        assertEquals(1, RootsCalculator.calculate_roots(0, 1, 6).size());  
-        assertEquals(0, RootsCalculator.calculate_roots(0, 0, 7).size());  
-        assertEquals(Double.POSITIVE_INFINITY, RootsCalculator.calculate_roots(0, 0, 0).get(0));  
+    void calculate_roots() {
+	    Double[][][] testCases = {  
+		        {{-1.0, 6.0},{1.0,-5.0,-6.0}},  
+		        {{2.0},{1.0,-4.0,4.0}},  
+		        {{},{1.0,1.0,6.0}},  
+		        {{-6.0},{0.0,1.0,6.0}},  
+		        {{},{0.0,0.0,7.0}},  
+		        {{Double.POSITIVE_INFINITY},{0.0,0.0,0.0}},  
+		};  
+		  
+		for (Double[][] test : testCases){  
+		    List<Double> returned = RootsCalculator.calculate_roots(test[1][0], test[1][1], test[1][2]);  
+		    Assertions.assertEquals(test[0].length, returned.size());  
+		    Assertions.assertArrayEquals(returned.toArray(), test[0]);  
+		}
     }  
 }
 ```
