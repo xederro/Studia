@@ -11,9 +11,12 @@
             "id": "cd135a98f355b970",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Lab5_lista.pdf"
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 6/Wykład 6.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -59,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5069465637207,
-    "collapsed": true
+    "width": 313.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -95,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Lab5_lista.pdf",
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 6/Wykład 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Lab5_lista.pdf"
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 6/Wykład 6.md"
               }
             }
           }
@@ -131,17 +133,22 @@
   },
   "active": "cd135a98f355b970",
   "lastOpenFiles": [
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Labolatoria 5.md",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/FeaturesCalculator.java",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Lab5_lista.pdf",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 6/Drawing 2023-04-04 13.11.47.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230331140756_440.png",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykłady.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 5/Wykład 5.md",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Labolatoria 5.md",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Lab5_lista.pdf",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/RootsCalculator.java",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/RootsCalculatorTest.java",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/FeaturesCalculator.java",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 5/Automatyka-Podzespoly-Aplikacje_01-2023.pdf",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 5/Automatyka-Podzespoly-Aplikacje_01-2023.pdf.crdownload",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 5/Inteligentne budynki-podstawowe pojęcia -2023.pdf",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 5/Inteligentne budynki-podstawowe pojęcia -2023.pdf.crdownload",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 5",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 5/Cw5_-_pomiary_AC_i_PWM_2023.pdf",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 4/Cw_4.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 5/Drawing 2023-04-06 12.18.29.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 6.md",
@@ -151,10 +158,8 @@
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 6/Drawing 2023-03-29 13.16.55.excalidraw.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 8/DesignPatterns1.pdf",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 6/Drawing 2023-04-04 13.11.47.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 4/Labolatoria 4.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 5/Drawing 2023-03-28 13.15.49.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-30 10.21.39.excalidraw.md",
@@ -169,11 +174,8 @@
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180925.jpg",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180904.jpg",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Drawing 2023-04-01 22.59.50.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230331140756_440.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-10 13.16.47.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-08 18.12.26.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-03 14.16.14.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Kolokwium 1.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Pasted image 20230326175627.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Pasted Image 20230330200039_105.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230315162256_647.png",
