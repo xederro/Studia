@@ -29,19 +29,9 @@
                 "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 5/Drawing 2023-04-13 09.17.04.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "cdc58f42878e85fb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 4/Drawing 2023-04-13 09.48.29.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 4/Drawing 2023-04-13 09.48.29.excalidraw.md",
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 5/Drawing 2023-04-13 09.17.04.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 4/Drawing 2023-04-13 09.48.29.excalidraw.md"
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 5/Drawing 2023-04-13 09.17.04.excalidraw.md"
               }
             }
           }
@@ -152,11 +142,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "49d30ce6368bee01",
+  "active": "91643383f54302ab",
   "lastOpenFiles": [
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 5/Drawing 2023-04-13 09.17.04.excalidraw.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 4/Drawing 2023-04-13 09.48.29.excalidraw.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 5/Wykład 5.md",
+    "Notatki/Matematyka dyskretna/Wykłady/Wykład 5/Drawing 2023-04-13 09.17.04.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 5/Drawing 2023-04-06 12.18.29.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykłady.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Wykład 7.md",
