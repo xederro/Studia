@@ -64674,9 +64674,9 @@ var EventCache = class {
       console.debug("Last revalidation was too soon.");
       return;
     }
-    this.revalidating = true;
-    console.warn("Revalidating remote calendars...");
     const remoteCalendars = [...this.calendars.values()].flatMap((c3) => c3 instanceof RemoteCalendar ? c3 : []);
+    console.warn("Revalidating remote calendars...");
+    this.revalidating = true;
     const promises = remoteCalendars.map((calendar) => {
       return calendar.revalidate().then(() => calendar.getEvents()).then((events) => {
         const deletedEvents = [
@@ -64707,7 +64707,7 @@ var EventCache = class {
     Promise.allSettled(promises).then((results) => {
       this.revalidating = false;
       this.lastRevalidation = Date.now();
-      new import_obsidian9.Notice("All remote calendars have been fetched.");
+      console.debug("All remote calendars have been fetched.");
       const errors = results.flatMap((result) => result.status === "rejected" ? result.reason : []);
       if (errors.length > 0) {
         new import_obsidian9.Notice("A remote calendar failed to load. Check the console for more details.");
