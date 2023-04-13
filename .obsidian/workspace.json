@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d0910007021da4aa",
+        "id": "f7b824d73e506d41",
         "type": "tabs",
         "children": [
           {
-            "id": "56b5166e9ff274e4",
+            "id": "cd0c69530509ed16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 8/Wykład 8.md",
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 5/Wykład 5.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,40 +21,27 @@
             }
           },
           {
-            "id": "177c27e17361920c",
+            "id": "91643383f54302ab",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 8/Drawing 2023-04-12 13.20.17.excalidraw.md"
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 5/Drawing 2023-04-13 09.17.04.excalidraw.md"
               }
             }
           },
           {
-            "id": "c8f3124fecf966c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Kolokwium.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ac2eb2bd1a74b27",
+            "id": "cdc58f42878e85fb",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-04-12 14.23.51.excalidraw.md"
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 4/Drawing 2023-04-13 09.48.29.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-04-12 14.23.51.excalidraw.md",
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 4/Drawing 2023-04-13 09.48.29.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-04-12 14.23.51.excalidraw.md"
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 4/Drawing 2023-04-13 09.48.29.excalidraw.md"
               }
             }
           }
@@ -165,15 +152,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ac2eb2bd1a74b27",
+  "active": "49d30ce6368bee01",
   "lastOpenFiles": [
+    "Notatki/Matematyka dyskretna/Wykłady/Wykład 5/Drawing 2023-04-13 09.17.04.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Wykłady/Wykład 4/Drawing 2023-04-13 09.48.29.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Wykłady/Wykład 5/Wykład 5.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 5/Drawing 2023-04-06 12.18.29.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykłady.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Wykład 7.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Drawing 2023-04-05 13.14.49.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Kolokwium.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Drawing 2023-04-12 13.20.17.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-04-12 14.23.51.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 8/Drawing 2023-04-12 13.20.17.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 8/Wyklad_8a.pdf",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Drawing 2023-04-05 13.14.49.excalidraw.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 3/Drawing 2023-03-29 07.30.10.excalidraw.md",
@@ -196,14 +189,8 @@
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 5/Automatyka-Podzespoly-Aplikacje_01-2023.pdf.crdownload",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 5/Inteligentne budynki-podstawowe pojęcia -2023.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 5/Drawing 2023-04-06 12.18.29.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 4/Labolatoria 4.md",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 6/Drawing 2023-03-29 13.16.55.excalidraw.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 4/Labolatoria 4.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180952.jpg",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180946.jpg",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180940.jpg",

@@ -14,6 +14,7 @@ typ: 'W'
 6. [[Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 6/Wykład 6|Wykład 6]]
 7. [[Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Wykład 7|Wykład 7]]
 8. [[Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 8/Wykład 8|Wykład 8]]
+9. [[Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Kolokwium|Kolokwium]]
 
 ## Zaliczenie
 
