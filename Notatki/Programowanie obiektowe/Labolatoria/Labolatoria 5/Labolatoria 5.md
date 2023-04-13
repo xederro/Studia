@@ -1,3 +1,4 @@
+
 ![[Lab5_lista.pdf]]
 ```java
 package org.example;  
@@ -157,3 +158,6 @@ class RootsCalculatorTest {
 ![[FeaturesCalculator.java]]
 ![[RootsCalculator.java]]
 ![[RootsCalculatorTest.java]]
+![[binary_mask_1.txt]]
+![[binary_mask_2.txt]]
+![[binary_mask_3.txt]]

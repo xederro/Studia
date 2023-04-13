@@ -26,26 +26,6 @@
                 "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-13 11.37.53.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "d359955a3192337f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 4/Drawing 2023-03-15 13.25.16.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "824f68b13b332126",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 5/Drawing 2023-03-22 13.14.55.excalidraw.md"
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -90,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5069465637207,
-    "collapsed": true
+    "width": 313.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -162,10 +141,18 @@
   },
   "active": "51ea1d7493da3f42",
   "lastOpenFiles": [
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Labolatoria 5.md",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 4/Lab4-assig-A.pdf",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 4/Labolatoria 4.md",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Lab5_lista.pdf",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/binary_mask_3.txt",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/binary_mask_2.txt",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/binary_mask_1.txt",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-13 11.37.53.excalidraw.md",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Untitled",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/AM2-zestaw_05.pdf",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 5/Drawing 2023-03-22 13.14.55.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 4/Drawing 2023-03-15 13.25.16.excalidraw.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-13 11.37.53.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Pasted Image 20230413113809_016.png",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 5/Wykład 5.md",
@@ -188,17 +175,9 @@
     "Notatki/Teoria systemów/Wykłady/Wykłady.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 4",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Labolatoria 5.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 6/Drawing 2023-04-04 13.11.47.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230331140756_440.png",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Lab5_lista.pdf",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/RootsCalculator.java",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/RootsCalculatorTest.java",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/FeaturesCalculator.java",
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 5/Automatyka-Podzespoly-Aplikacje_01-2023.pdf",
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 5/Automatyka-Podzespoly-Aplikacje_01-2023.pdf.crdownload",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180952.jpg",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180946.jpg",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180940.jpg",
