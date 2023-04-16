@@ -11,13 +11,8 @@
             "id": "cb27239fa54499b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -97,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -133,6 +125,8 @@
   },
   "active": "cb27239fa54499b5",
   "lastOpenFiles": [
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 5/Drawing 2023-04-06 12.18.29.excalidraw.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/TRANSFOMS_and_SERIES.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Podstawy_analizy_widmowej_Hewlett-Packard.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/Wykład 11.md",
@@ -163,13 +157,11 @@
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 4/Lab4-assig-A.pdf",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Lab5_lista.pdf",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/binary_mask_3.txt",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/binary_mask_2.txt",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 5/Drawing 2023-03-22 13.14.55.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 4/Drawing 2023-03-15 13.25.16.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Pasted Image 20230413113809_016.png",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 4/Drawing 2023-04-13 09.48.29.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230331140756_440.png",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180952.jpg",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180946.jpg",
