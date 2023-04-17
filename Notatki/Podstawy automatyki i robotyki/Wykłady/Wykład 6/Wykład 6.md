@@ -1,0 +1,1 @@
+![[Inteligentne budynki-integracja systemów & BMS - 2023.pdf]]

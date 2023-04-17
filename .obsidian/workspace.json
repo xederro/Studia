@@ -11,10 +11,8 @@
             "id": "cb27239fa54499b5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Cw6_R_-_seria_mostek_i_Rz_i_dzielniki_2023.pdf"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -95,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Cw6_R_-_seria_mostek_i_Rz_i_dzielniki_2023.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,9 +103,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Cw6_R_-_seria_mostek_i_Rz_i_dzielniki_2023.pdf"
-              }
+              "state": {}
             }
           }
         ],
@@ -131,6 +126,12 @@
   },
   "active": "cb27239fa54499b5",
   "lastOpenFiles": [
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 6/Wykład 6.md",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 6/Inteligentne budynki-integracja systemów & BMS - 2023.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 5/Labolatoria 5.md",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 6/Inteligentne budynki-integracja systemów & BMS - 2023.pdf.crdownload",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Cw6_R_-_seria_mostek_i_Rz_i_dzielniki_2023.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 5/lab_ 5.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 5/Drawing 2023-04-06 12.18.29.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 3/Drawing 2023-03-29 07.30.10.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 4/Drawing 2023-04-12 07.36.42.excalidraw.md",
@@ -149,24 +150,17 @@
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Drawing 2023-02-28 13.12.18.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-24 14.32.29.excalidraw.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykłady.md",
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 6",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-14 13.53.09.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Untitled.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-04-14 13.17.59.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Lista_4_MD.pdf",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Lista_5_MD.pdf",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 4/Labolatoria 4.md",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 3/AM2-zestaw_03.pdf",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-30 10.21.39.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 3/Drawing 2023-03-08 14.00.06.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-13 11.37.53.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 5/Labolatoria 5.md",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 5/Drawing 2023-03-22 13.14.55.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Pasted Image 20230413113809_016.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230331140756_440.png",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180952.jpg",
