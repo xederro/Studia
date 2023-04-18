@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fe95418338197ced",
+        "id": "cdd5c7c7548d3395",
         "type": "tabs",
         "children": [
           {
-            "id": "cb27239fa54499b5",
+            "id": "68c7d30180aa2733",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-31 14.05.09.excalidraw.md"
+              }
             }
           }
         ]
@@ -93,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-31 14.05.09.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-31 14.05.09.excalidraw.md"
+              }
             }
           }
         ],
@@ -124,8 +129,18 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "cb27239fa54499b5",
+  "active": "68c7d30180aa2733",
   "lastOpenFiles": [
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-24 14.32.29.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-04-14 13.17.59.excalidraw.md",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-27 07.31.12.excalidraw.md",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-13 07.29.13.excalidraw.md",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230417201001_756.png",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
+    "Notatki/Teoria systemów/Wykłady/Wykład 3/Drawing 2023-03-29 07.30.10.excalidraw.md",
+    "Notatki/Teoria systemów/Wykłady/Wykład 3/Pasted Image 20230417200757_670.png",
+    "Notatki/Teoria systemów/Wykłady/Wykład 2/Drawing 2023-03-15 07.30.40.excalidraw.md",
+    "Notatki/Teoria systemów/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 6/Inteligentne budynki-integracja systemów & BMS - 2023.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 5/Labolatoria 5.md",
@@ -133,7 +148,6 @@
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Cw6_R_-_seria_mostek_i_Rz_i_dzielniki_2023.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 5/lab_ 5.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 5/Drawing 2023-04-06 12.18.29.excalidraw.md",
-    "Notatki/Teoria systemów/Wykłady/Wykład 3/Drawing 2023-03-29 07.30.10.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 4/Drawing 2023-04-12 07.36.42.excalidraw.md",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 6/Labolatoria 6.md",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 6/Lab6_lista.pdf",
@@ -148,19 +162,13 @@
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 9/Wykład 9.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 12/Wykład 12.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Drawing 2023-02-28 13.12.18.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-24 14.32.29.excalidraw.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykłady.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-14 13.53.09.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Untitled.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-04-14 13.17.59.excalidraw.md",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 4/Labolatoria 4.md",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-30 10.21.39.excalidraw.md",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 3/Drawing 2023-03-08 14.00.06.excalidraw.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-13 11.37.53.excalidraw.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Pasted Image 20230413113809_016.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230331140756_440.png",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180952.jpg",
@@ -169,8 +177,6 @@
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180932.jpg",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180925.jpg",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180904.jpg",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Pasted image 20230326175627.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Pasted Image 20230330200039_105.png",
     "Untitled.canvas"
   ]
 }
