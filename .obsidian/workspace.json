@@ -4,39 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c333dbc23bf74a01",
+        "id": "34960288fba1c9be",
         "type": "tabs",
         "children": [
           {
-            "id": "5a4b1ad94d9a2b26",
+            "id": "35b1cb4e02666369",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "0c36986cd6935bd6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 8/Drawing 2023-04-19 13.24.34.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "98ae3fb515b29289",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Wykład 1/Drawing 2023-04-19 14.05.45.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Wykład 1/Drawing 2023-04-19 14.05.45.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Wykład 1/Drawing 2023-04-19 14.05.45.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,10 +123,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "98ae3fb515b29289",
+  "active": "35b1cb4e02666369",
   "lastOpenFiles": [
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 8/Drawing 2023-04-19 13.24.34.excalidraw.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 1/Drawing 2023-04-19 14.05.45.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-04-12 14.23.51.excalidraw.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 2/Wykład 2.md",
@@ -184,9 +163,6 @@
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/TRANSFOMS_and_SERIES.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Podstawy_analizy_widmowej_Hewlett-Packard.pdf",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/Wykład 11.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 10/Wykład 10.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 9/Wykład 9.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Pasted Image 20230413113809_016.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230331140756_440.png",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180952.jpg",
