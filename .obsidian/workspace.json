@@ -4,34 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "cdd5c7c7548d3395",
+        "id": "5642ae20405e5c85",
         "type": "tabs",
         "children": [
           {
-            "id": "68c7d30180aa2733",
+            "id": "38ff55160fd43124",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Wykład 7.md",
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 4/Wykład 4.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "60d127fd40f4c23c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Drawing 2023-04-18 13.15.28.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5069465637207
+    "width": 313.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -108,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Drawing 2023-04-18 13.15.28.excalidraw.md",
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 4/Wykład 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Drawing 2023-04-18 13.15.28.excalidraw.md"
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 4/Wykład 4.md"
               }
             }
           }
@@ -142,8 +132,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "60d127fd40f4c23c",
+  "active": "38ff55160fd43124",
   "lastOpenFiles": [
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Drawing 2023-04-18 13.15.28.excalidraw.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 6/Drawing 2023-04-04 13.11.47.excalidraw.md",
@@ -180,8 +172,6 @@
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 12/Wykład 12.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Drawing 2023-02-28 13.12.18.excalidraw.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykłady.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Pasted Image 20230413113809_016.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230331140756_440.png",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180952.jpg",
