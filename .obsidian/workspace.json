@@ -16,8 +16,22 @@
                 "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 3/ObjectDesign.pdf"
               }
             }
+          },
+          {
+            "id": "2d0c66a5eea49276",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 6/Wykład 6.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 3/ObjectDesign.pdf",
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 6/Wykład 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 3/ObjectDesign.pdf"
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 6/Wykład 6.md"
               }
             }
           }
@@ -128,8 +142,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35b1cb4e02666369",
+  "active": "2d0c66a5eea49276",
   "lastOpenFiles": [
+    "Notatki/Matematyka dyskretna/Wykłady/Wykład 6/Drawing 2023-04-20 09.20.58.excalidraw.md",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 3/ObjectDesign.pdf",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 8/Drawing 2023-04-19 13.24.34.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 1/Wykład 1.md",
@@ -160,14 +176,11 @@
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 5/lab_ 5.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 5/Drawing 2023-04-06 12.18.29.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 4/Drawing 2023-04-12 07.36.42.excalidraw.md",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 6/Labolatoria 6.md",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 6/Lab6_lista.pdf",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 6/Warzywa.java",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 6/Sklep.java",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 6/DataPrzydatnosci.java",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/TRANSFOMS_and_SERIES.pdf",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Podstawy_analizy_widmowej_Hewlett-Packard.pdf",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Pasted Image 20230413113809_016.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230331140756_440.png",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180952.jpg",
