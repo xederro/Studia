@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b175a9ec1dca9fdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 5/Wykład 5.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3fe314e8138dab85",
             "type": "leaf",
             "state": {
@@ -30,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,9 +130,9 @@
   },
   "active": "3fe314e8138dab85",
   "lastOpenFiles": [
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 5/Drawing 2023-04-20 10.44.40.excalidraw.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 4/Drawing 2023-03-23 11.28.49.excalidraw.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 5/Drawing 2023-04-20 10.44.40.excalidraw.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 3/ObjectDesign.pdf",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 6/Drawing 2023-04-20 09.20.58.excalidraw.md",
