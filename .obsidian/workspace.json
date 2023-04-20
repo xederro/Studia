@@ -11,8 +11,10 @@
             "id": "35b1cb4e02666369",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 3/ObjectDesign.pdf"
+              }
             }
           }
         ]
@@ -92,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 3/ObjectDesign.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 3/ObjectDesign.pdf"
+              }
             }
           }
         ],
