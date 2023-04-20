@@ -4,16 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "2f1a84a1ad7ae2a4",
+        "id": "14f8e35844c57b9a",
         "type": "tabs",
         "children": [
           {
-            "id": "3fe314e8138dab85",
+            "id": "735277ed9b76fc9d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 5/Drawing 2023-04-20 10.44.40.excalidraw.md"
+                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Drawing 2023-04-20 15.53.34.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "394685e53de56c5f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/3 Lista zadań drgania i fale 2022.pdf"
               }
             }
           }
@@ -94,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 5/Drawing 2023-04-20 10.44.40.excalidraw.md",
+                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Drawing 2023-04-20 15.53.34.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 5/Drawing 2023-04-20 10.44.40.excalidraw.md"
+                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Drawing 2023-04-20 15.53.34.excalidraw.md"
               }
             }
           }
@@ -128,10 +138,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3fe314e8138dab85",
+  "active": "735277ed9b76fc9d",
   "lastOpenFiles": [
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 4/Drawing 2023-03-23 11.28.49.excalidraw.md",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Pasted Image 20230420163350_238.png",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/3 Lista zadań drgania i fale 2022.pdf",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Drawing 2023-04-20 15.53.34.excalidraw.md",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Pasted Image 20230420161935_850.png",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Pasted Image 20230420155721_068.png",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 5/Drawing 2023-04-20 10.44.40.excalidraw.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 4/Drawing 2023-03-23 11.28.49.excalidraw.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 3/ObjectDesign.pdf",
@@ -156,9 +172,6 @@
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 3/Drawing 2023-03-29 07.30.10.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 3/Pasted Image 20230417200757_670.png",
-    "Notatki/Teoria systemów/Wykłady/Wykład 2/Drawing 2023-03-15 07.30.40.excalidraw.md",
-    "Notatki/Teoria systemów/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 6/Inteligentne budynki-integracja systemów & BMS - 2023.pdf",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 6/Inteligentne budynki-integracja systemów & BMS - 2023.pdf.crdownload",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Cw6_R_-_seria_mostek_i_Rz_i_dzielniki_2023.pdf",
@@ -167,15 +180,12 @@
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 6/Warzywa.java",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 6/Sklep.java",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 6/DataPrzydatnosci.java",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/TRANSFOMS_and_SERIES.pdf",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Pasted Image 20230413113809_016.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230331140756_440.png",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180952.jpg",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180946.jpg",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180940.jpg",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180932.jpg",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180925.jpg",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180904.jpg",
     "Untitled.canvas"
   ]
 }
