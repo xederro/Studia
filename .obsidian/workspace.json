@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3eae54ce9d6ff504",
+        "id": "eb1522f5e80d07dd",
         "type": "tabs",
         "children": [
           {
-            "id": "b6833ec995d6ce40",
+            "id": "e3881bea23395804",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-14 13.53.09.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "72d306e2e96fd49d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-21 13.17.59.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "380c660116300db2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-21 13.59.27.excalidraw.md"
+                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Drawing 2023-04-20 15.53.34.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +59,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5069465637207
+    "width": 313.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -115,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-21 13.59.27.excalidraw.md",
+                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Drawing 2023-04-20 15.53.34.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-21 13.59.27.excalidraw.md"
+                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Drawing 2023-04-20 15.53.34.excalidraw.md"
               }
             }
           }
@@ -149,11 +129,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "380c660116300db2",
+  "active": "e3881bea23395804",
   "lastOpenFiles": [
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-14 13.53.09.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-21 13.17.59.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-21 13.59.27.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-14 13.53.09.excalidraw.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Drawing 2023-04-20 15.53.34.excalidraw.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 3/Notatki do wykładu Drgania.pdf",
