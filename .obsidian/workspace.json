@@ -4,34 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "14f8e35844c57b9a",
+        "id": "3eae54ce9d6ff504",
         "type": "tabs",
         "children": [
           {
-            "id": "394685e53de56c5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 3/Wykład 3.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf94267bc3044097",
+            "id": "b6833ec995d6ce40",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Drawing 2023-04-20 15.53.34.excalidraw.md"
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-14 13.53.09.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "72d306e2e96fd49d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-21 13.17.59.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "380c660116300db2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-21 13.59.27.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Drawing 2023-04-20 15.53.34.excalidraw.md",
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-21 13.59.27.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Drawing 2023-04-20 15.53.34.excalidraw.md"
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-21 13.59.27.excalidraw.md"
               }
             }
           }
@@ -142,14 +149,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cf94267bc3044097",
+  "active": "380c660116300db2",
   "lastOpenFiles": [
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-21 13.17.59.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-21 13.59.27.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-14 13.53.09.excalidraw.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Drawing 2023-04-20 15.53.34.excalidraw.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 3/Notatki do wykładu Drgania.pdf",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 3/Drgania i fale - Wiktoria Plewińska.pdf",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 3/49.Drgania - Szymon Jastrzębski.pdf",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/3 Lista zadań drgania i fale 2022.pdf",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Drawing 2023-04-20 15.53.34.excalidraw.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-30 10.21.39.excalidraw.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Pasted Image 20230420163350_238.png",
@@ -175,10 +185,7 @@
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-31 14.05.09.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-24 14.32.29.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-04-14 13.17.59.excalidraw.md",
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-27 07.31.12.excalidraw.md",
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-13 07.29.13.excalidraw.md",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230417201001_756.png",
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 3/Pasted Image 20230417200757_670.png",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 6/Inteligentne budynki-integracja systemów & BMS - 2023.pdf",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 6/Inteligentne budynki-integracja systemów & BMS - 2023.pdf.crdownload",
