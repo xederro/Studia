@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "9a8f9bc3a2e803c7",
+        "id": "4b3dfde7176b9286",
         "type": "tabs",
         "children": [
           {
-            "id": "aceba6d1b0f62943",
+            "id": "c9d19eb0dc67e290",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -123,8 +123,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aceba6d1b0f62943",
+  "active": "49d30ce6368bee01",
   "lastOpenFiles": [
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-30 10.21.39.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-15 16.22.41.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-02 15.21.31.excalidraw.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 5/Drawing 2023-04-20 10.44.40.excalidraw.md",
@@ -143,7 +146,6 @@
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 3/Drgania i fale - Wiktoria Plewińska.pdf",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 3/49.Drgania - Szymon Jastrzębski.pdf",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/3 Lista zadań drgania i fale 2022.pdf",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-30 10.21.39.excalidraw.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Pasted Image 20230420163350_238.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Pasted Image 20230420161935_850.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Pasted Image 20230420155721_068.png",
@@ -159,8 +161,6 @@
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Drawing 2023-04-18 13.15.28.excalidraw.md",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230417201001_756.png",
     "Notatki/Teoria systemów/Wykłady/Wykład 3/Pasted Image 20230417200757_670.png",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 6/Inteligentne budynki-integracja systemów & BMS - 2023.pdf",
