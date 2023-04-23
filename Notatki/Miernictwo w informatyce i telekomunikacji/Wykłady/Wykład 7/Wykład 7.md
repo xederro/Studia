@@ -72,4 +72,4 @@ podstawowe parametry sygnałów opisujące przebiegi okresowa #kolokwium
 
 
 
-[[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 10/Wykład 10]][[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 11/Wykład 11]][[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 12/Wykład 12]]
+[[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 10/Wykład 10]][[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 11/Wykład 11]][[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 12/Wykład 12]] [[Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 8/Wykład 8]] 

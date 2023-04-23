@@ -1,1 +1,1 @@
-![[AM2-zestaw_06.pdf]]
+![[AM2-zestaw_06.pdf]][[Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 6/Wykład 6]]
