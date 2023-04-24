@@ -4,28 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "a6dfbae897e45a2d",
+        "id": "0740beb96192ee67",
         "type": "tabs",
         "children": [
           {
-            "id": "fd58b40972cd44c2",
+            "id": "e538fe55eb6cb6c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-27 07.31.12.excalidraw.md"
               }
             }
           },
           {
-            "id": "3524eb74a4532590",
+            "id": "3bc48b38f82c6ba1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Teoria systemów/Ćwiczenia/ćwiczenia 4/Drawing 2023-04-24 07.32.39.excalidraw.md"
+              }
             }
           }
         ],
@@ -43,7 +42,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49d30ce6368bee01",
+            "id": "ecd815a6ba5683a0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -107,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Teoria systemów/Ćwiczenia/ćwiczenia 4/Drawing 2023-04-24 07.32.39.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Teoria systemów/Ćwiczenia/ćwiczenia 4/Drawing 2023-04-24 07.32.39.excalidraw.md"
+              }
             }
           }
         ],
@@ -138,8 +140,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3524eb74a4532590",
+  "active": "3bc48b38f82c6ba1",
   "lastOpenFiles": [
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-27 07.31.12.excalidraw.md",
+    "Notatki/Teoria systemów/Ćwiczenia/ćwiczenia 4/Drawing 2023-04-24 07.32.39.excalidraw.md",
+    "Notatki/Teoria systemów/Ćwiczenia/ćwiczenia 4/Untitled Diagram.svg",
+    "Notatki/Teoria systemów/Ćwiczenia/ćwiczenia 4",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Kolokwium 1.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8.md",
@@ -165,8 +171,6 @@
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład_7_Grafy_2.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Lista_4_MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Lista_5_MD.pdf",
@@ -180,12 +184,10 @@
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 3/ObjectDesign.pdf",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230417201001_756.png",
     "Notatki/Teoria systemów/Wykłady/Wykład 3/Pasted Image 20230417200757_670.png",
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 6/Inteligentne budynki-integracja systemów & BMS - 2023.pdf",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Pasted Image 20230413113809_016.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230331140756_440.png",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180952.jpg",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180946.jpg",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180940.jpg",
     "Untitled.canvas"
   ]
 }
