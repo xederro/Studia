@@ -4,26 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "0740beb96192ee67",
+        "id": "4a4029872e876ddb",
         "type": "tabs",
         "children": [
           {
-            "id": "e538fe55eb6cb6c3",
+            "id": "ad436e2c173640f2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-27 07.31.12.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/AM2-zestaw_01.pdf"
               }
             }
           },
           {
-            "id": "3bc48b38f82c6ba1",
+            "id": "0b2e700b3fe0e774",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/ćwiczenia 4/Drawing 2023-04-24 07.32.39.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-24 11.52.23.excalidraw.md"
               }
             }
           }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5069465637207,
-    "collapsed": true
+    "width": 313.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/ćwiczenia 4/Drawing 2023-04-24 07.32.39.excalidraw.md",
+                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-24 11.52.23.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/ćwiczenia 4/Drawing 2023-04-24 07.32.39.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-24 11.52.23.excalidraw.md"
               }
             }
           }
@@ -140,14 +139,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3bc48b38f82c6ba1",
+  "active": "0b2e700b3fe0e774",
   "lastOpenFiles": [
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-27 07.31.12.excalidraw.md",
-    "Notatki/Teoria systemów/Ćwiczenia/ćwiczenia 4/Drawing 2023-04-24 07.32.39.excalidraw.md",
-    "Notatki/Teoria systemów/Ćwiczenia/ćwiczenia 4/Untitled Diagram.svg",
-    "Notatki/Teoria systemów/Ćwiczenia/ćwiczenia 4",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/AM2-zestaw_01.pdf",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-24 10.43.08.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-24 11.52.23.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424115253_116.png",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424104526_371.png",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-02 15.21.31.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Kolokwium 1.md",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-27 07.31.12.excalidraw.md",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 4/Drawing 2023-04-24 07.32.39.excalidraw.md",
+    "Notatki/Teoria systemów/Ćwiczenia/ćwiczenia 4/Untitled Diagram.svg",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 4",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 8/Wykład 8.md",
@@ -164,13 +172,6 @@
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład_7_Grafy_2.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Lista_4_MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Lista_5_MD.pdf",
@@ -181,13 +182,10 @@
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Pasted Image 20230420163350_238.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Pasted Image 20230420161935_850.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Pasted Image 20230420155721_068.png",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 3/ObjectDesign.pdf",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 2/Pasted Image 20230417201001_756.png",
     "Notatki/Teoria systemów/Wykłady/Wykład 3/Pasted Image 20230417200757_670.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Pasted Image 20230413113809_016.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230331140756_440.png",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180952.jpg",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/20230306_180946.jpg",
     "Untitled.canvas"
   ]
 }
