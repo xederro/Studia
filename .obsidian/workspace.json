@@ -4,18 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "e0ef031488ae4533",
+        "id": "c3a8e55c1c0879c1",
         "type": "tabs",
         "children": [
           {
-            "id": "4b6e1cb0cf006e5b",
+            "id": "c95bd9475a1a9908",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Drawing 2023-04-18 13.15.28.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "bbc05b644432a8ad",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Drawing 2023-04-25 13.15.11.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "dec7f8625e3035c6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Drawing 2023-04-25 13.15.19.excalidraw.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Drawing 2023-04-25 13.15.19.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Drawing 2023-04-25 13.15.19.excalidraw.md"
+              }
             }
           }
         ],
@@ -123,8 +149,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4b6e1cb0cf006e5b",
+  "active": "dec7f8625e3035c6",
   "lastOpenFiles": [
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Drawing 2023-04-25 13.15.11.excalidraw.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Drawing 2023-04-25 13.15.19.excalidraw.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Drawing 2023-04-18 13.15.28.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 2/Drawing 2023-03-08 13.23.59.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/AM2-zestaw_02.pdf",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-15 16.22.41.excalidraw.md",
@@ -157,8 +186,6 @@
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład_7_Grafy_2.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Lista_4_MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Lista_5_MD.pdf",
