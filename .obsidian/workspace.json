@@ -4,24 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "55f6dbc57a051c84",
+        "id": "e4a665deb7bc17d7",
         "type": "tabs",
         "children": [
           {
-            "id": "512ede0472484048",
+            "id": "43358c9ec4fc4de0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "51c6f271beed3d9d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 3/AM2-zestaw_03.pdf"
+                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Labolatoria 7.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -102,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Labolatoria 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Labolatoria 7.md"
+              }
             }
           }
         ],
@@ -133,8 +131,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "512ede0472484048",
+  "active": "ecd815a6ba5683a0",
   "lastOpenFiles": [
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Programista.java",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Pracownik.java",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Ksiegowy.java",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/It.java",
+    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Transport.java",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Kolokwium 1.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-26 16.48.23.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-24 10.43.08.excalidraw.md",
@@ -158,9 +161,7 @@
     "Notatki/Teoria systemów/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 5/Drawing 2023-04-26 07.31.17.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 5",
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 5",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 3/Drawing 2023-03-08 14.00.06.excalidraw.md",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 3/AM2-Wyklad_03.pdf",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230425200627_616.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-30 10.21.39.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230425180906_567.png",
@@ -175,8 +176,6 @@
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424115253_116.png",
     "Notatki/Teoria systemów/Ćwiczenia/ćwiczenia 4/Untitled Diagram.svg",
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 4",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Pasted Image 20230420163350_238.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Pasted Image 20230420161935_850.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Pasted Image 20230420155721_068.png",
