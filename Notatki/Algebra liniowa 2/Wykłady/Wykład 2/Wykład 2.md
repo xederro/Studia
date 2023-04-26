@@ -1,1 +1,1 @@
-![[AL2-Wyklad-2.pdf]]![[AL2-zestaw-2.pdf]]![[Notatki/Algebra liniowa 2/Wykłady/Wykład 2/Wyklad_2a.pdf]]
+![[AL2-Wyklad-2.pdf]]![[AL2-zestaw-2.pdf]]![[Notatki/Algebra liniowa 2/Wykłady/Wykład 2/Wyklad_2a.pdf]]![[Drawing 2023-04-26 13.23.30.excalidraw]]
