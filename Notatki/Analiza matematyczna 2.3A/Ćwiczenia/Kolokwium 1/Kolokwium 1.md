@@ -3,6 +3,6 @@
 ![[Drawing 2023-04-24 16.01.09.excalidraw]]
 ![[Drawing 2023-04-24 17.10.29.excalidraw]]
 ![[Drawing 2023-04-25 18.08.49.excalidraw]]
-
+![[Drawing 2023-04-26 16.48.23.excalidraw]]
 
 [[Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1]][[Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2]][[Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3]]
