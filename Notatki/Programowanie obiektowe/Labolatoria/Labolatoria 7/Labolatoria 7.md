@@ -4,3 +4,6 @@
 ![[Programista.java]]
 ![[Pracownik.java]]
 ![[Transport.java]]
+![[Transport.java]]
+![[AbstractTransport.java]]
+![[Samolot.java]]
