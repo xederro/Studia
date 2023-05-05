@@ -4,29 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2f3cd1a1bda971d3",
+        "id": "223105ca61ac7b10",
         "type": "tabs",
         "children": [
           {
-            "id": "8d34acf513116ecf",
+            "id": "e5a99850e0834aa9",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "e98aead2bdbeb5b9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,8 +131,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e98aead2bdbeb5b9",
+  "active": "ecd815a6ba5683a0",
   "lastOpenFiles": [
+    "Excalidraw/Pasted Image 20230504215338_988.png",
+    "Untitled.md",
+    "Excalidraw/Drawing 2023-05-04 21.53.23.excalidraw.md",
+    "Excalidraw",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/AM2-zestaw_01.pdf",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-02 15.21.31.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/Labolatoria 0.md",
@@ -156,7 +149,6 @@
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 7/Drawing 2023-04-28 14.11.21.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-28 13.17.09.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-13 11.37.53.excalidraw.md",
-    "Untitled.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-24 17.10.29.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-24 16.01.09.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-24 11.52.23.excalidraw.md",
@@ -173,14 +165,12 @@
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Pracownik.java",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Ksiegowy.java",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/It.java",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Transport.java",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-26 16.48.23.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424160124_377.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424104526_371.png",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 2/Drawing 2023-04-26 13.23.30.excalidraw.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230425200627_616.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230425180906_567.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424171044_228.png",
