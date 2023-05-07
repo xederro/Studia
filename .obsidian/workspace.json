@@ -11,8 +11,13 @@
             "id": "e5a99850e0834aa9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -100,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md"
+              }
             }
           }
         ],
@@ -131,8 +139,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ecd815a6ba5683a0",
+  "active": "e5a99850e0834aa9",
   "lastOpenFiles": [
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/Wykład 11.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 12/Wykład 12.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 5/Wykład 5.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 6.md",
     "Excalidraw/Pasted Image 20230504215338_988.png",
     "Untitled.md",
     "Excalidraw/Drawing 2023-05-04 21.53.23.excalidraw.md",
@@ -157,7 +171,6 @@
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 5/Drawing 2023-04-20 09.20.58.excalidraw.md",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Labolatoria 7.md",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Samolot.java",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Pociag.java",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/AbstractTransport.java",
@@ -165,12 +178,8 @@
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Pracownik.java",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Ksiegowy.java",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/It.java",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-26 16.48.23.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424160124_377.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424104526_371.png",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 2/Drawing 2023-04-26 13.23.30.excalidraw.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230425200627_616.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230425180906_567.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424171044_228.png",
@@ -178,7 +187,6 @@
     "Notatki/Teoria systemów/Ćwiczenia/ćwiczenia 4/Untitled Diagram.svg",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Pasted Image 20230420163350_238.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Pasted Image 20230420161935_850.png",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 3/Pasted Image 20230420155721_068.png",
     "Untitled.canvas"
   ]
 }
