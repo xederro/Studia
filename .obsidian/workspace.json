@@ -4,27 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3811ac3a2f23c228",
+        "id": "c20a7dd149d26fe7",
         "type": "tabs",
         "children": [
           {
-            "id": "a395293bc6ba1e71",
+            "id": "b4125fdef054cc6f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c30aab47e18e23e8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-08 07.32.16.excalidraw.md"
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-08 07.32.16.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-08 07.32.16.excalidraw.md"
+              }
             }
           }
         ],
@@ -140,8 +136,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c30aab47e18e23e8",
+  "active": "b4125fdef054cc6f",
   "lastOpenFiles": [
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-08 07.32.16.excalidraw.md",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6",
     "Excalidraw/Drawing 2023-05-07 21.54.39.excalidraw.md",
     "Excalidraw",
     "Excalidraw/Drawing 2023-05-07 21.27.11.excalidraw.md",
@@ -171,14 +169,12 @@
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-24 17.10.29.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-24 16.01.09.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-24 11.52.23.excalidraw.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-24 10.43.08.excalidraw.md",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Samolot.java",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Pociag.java",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/AbstractTransport.java",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Programista.java",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Pracownik.java",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Ksiegowy.java",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/It.java",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424160124_377.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424104526_371.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230425200627_616.png",
