@@ -18,6 +18,7 @@ typ: 'C'
 10. [[Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Ćwiczenia 10|Ćwiczenia 10]]
 11. [[Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 11/Ćwiczenia 11|Ćwiczenia 11]]
 12. [[Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Kolokwium 1|Kolokwium 1]]
+13. [[Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Kolokwium 2|Kolokwium 2]]
 
 ## Zaliczenie
 
@@ -38,3 +39,5 @@ aktywność 0.5 st.
 plusy
 quizy
 z materiałów dodatkowych są zadania z kolokwiów 
+
+![[Odp_MD.pdf]]

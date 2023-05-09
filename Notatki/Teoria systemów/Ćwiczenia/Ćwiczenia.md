@@ -10,6 +10,7 @@ typ: 'C'
 2. [[Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2|Ćwiczenia 2]]
 3. [[Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3|Ćwiczenia 3]]
 4. [[Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4|Ćwiczenia 4]]
+5. [[Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6|Ćwiczenia 6]]
 
 ## Zaliczenie
 
