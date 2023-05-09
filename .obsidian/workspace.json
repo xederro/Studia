@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c20a7dd149d26fe7",
+        "id": "dacb2062ebc19fd9",
         "type": "tabs",
         "children": [
           {
-            "id": "b4125fdef054cc6f",
+            "id": "1aeb3bd5711894dd",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-08 07.32.16.excalidraw.md"
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Drawing 2023-04-25 13.15.11.excalidraw.md"
               }
             }
           }
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5069465637207
+    "width": 313.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-08 07.32.16.excalidraw.md",
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Drawing 2023-04-25 13.15.11.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-08 07.32.16.excalidraw.md"
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Drawing 2023-04-25 13.15.11.excalidraw.md"
               }
             }
           }
@@ -136,7 +137,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b4125fdef054cc6f",
+  "active": "1aeb3bd5711894dd",
   "lastOpenFiles": [
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-08 07.32.16.excalidraw.md",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6",
