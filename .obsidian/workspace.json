@@ -4,36 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e50bf140e03e8de3",
+        "id": "fe0db3b7e29260fa",
         "type": "tabs",
         "children": [
           {
-            "id": "7c13b8a6c701a6db",
+            "id": "2cd6d9a0d5085b25",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Drawing 2023-05-09 20.43.30.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "ed81220e80ea5302",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-31 14.05.09.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "9a378ef044c44588",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Odp_MD.pdf"
+                "file": "Notatki/Teoria systemów/Wykłady/Wykład 6/Wykład 6.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -87,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5069465637207,
-    "collapsed": true
+    "width": 313.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -123,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Drawing 2023-05-09 20.43.30.excalidraw.md",
+                "file": "Notatki/Teoria systemów/Wykłady/Wykład 6/Wykład 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Drawing 2023-05-09 20.43.30.excalidraw.md"
+                "file": "Notatki/Teoria systemów/Wykłady/Wykład 6/Wykład 6.md"
               }
             }
           }
@@ -157,11 +139,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7c13b8a6c701a6db",
+  "active": "2cd6d9a0d5085b25",
   "lastOpenFiles": [
+    "Notatki/Teoria systemów/Wykłady/Wykład 6/Drawing 2023-05-10 07.32.49.excalidraw.md",
+    "Notatki/Teoria systemów/Wykłady/Wykład 6/Wykład 6.md",
+    "Notatki/Teoria systemów/Wykłady/Drawing 2023-05-10 07.32.03.excalidraw.md",
+    "Notatki/Teoria systemów/Wykłady/Wykład 6",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Drawing 2023-05-09 20.43.30.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-31 14.05.09.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Odp_MD.pdf",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Drawing 2023-05-09 20.43.30.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-04-14 13.17.59.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-24 14.32.29.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Lista_4_MD.pdf",
@@ -191,12 +177,9 @@
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/AM2-zestaw_01.pdf",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-02 15.21.31.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/Labolatoria 0.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Kolokwium 1.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-25 18.08.49.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Lista_6_MD.pdf",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Samolot.java",
     "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Pociag.java",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/AbstractTransport.java",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424160124_377.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424104526_371.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230425200627_616.png",
