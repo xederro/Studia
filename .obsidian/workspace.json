@@ -4,31 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "69b4e3a4a934159d",
+        "id": "e1bebde0c0ce4c71",
         "type": "tabs",
         "children": [
           {
-            "id": "0ce8bf895cac137b",
+            "id": "400b1d1f33dc575d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Drawing 2023-05-10 16.36.22.excalidraw.md"
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Lista_6_MD.pdf"
               }
             }
           },
           {
-            "id": "e356cf5fb66aaabe",
+            "id": "a17b1d76dc56a002",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-14 13.53.09.excalidraw.md"
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Drawing 2023-05-10 17.49.10.excalidraw.md"
               }
             }
           },
           {
-            "id": "89d1d0e81321f4a1",
+            "id": "3dfae79279e04987",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-21 13.59.27.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "05946c1aee0e7817",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-28 13.17.09.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "7c9ed44b84e8fc8b",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -38,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Odp_MD.pdf",
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Drawing 2023-05-10 17.49.10.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Odp_MD.pdf"
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Drawing 2023-05-10 17.49.10.excalidraw.md"
               }
             }
           }
@@ -157,40 +177,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "89d1d0e81321f4a1",
+  "active": "a17b1d76dc56a002",
   "lastOpenFiles": [
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-14 13.53.09.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Odp_MD.pdf",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-21 13.59.27.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Lista_6_MD.pdf",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-28 13.17.09.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Drawing 2023-05-10 17.49.10.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Drawing 2023-05-09 20.43.30.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Drawing 2023-05-10 16.36.22.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230510182053_521.png",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230510182038_716.png",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230510182028_818.png",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Odp_MD.pdf",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Lista_6_MD.pdf.crdownload",
+    "Notatki/Matematyka dyskretna/Wykłady/Wykład 5/Wykład_5_Kombinatoryka.pdf",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Kolokwium 2.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230510174949_508.png",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230510174931_605.png",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230510174922_812.png",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted image 20230509201009.png",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-14 13.53.09.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230510163637_417.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Lista_5_MD.pdf",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted image 20230509201009.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Kolokwium 2.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230509204338_172.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-21 13.17.59.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-21 13.17.59.excalidraw.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-14 13.53.09.excalidraw.png",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 3/Drawing 2023-05-10 13.17.28.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 3/Drawing 2023-05-10 13.17.28.excalidraw.png",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 4/Drawing 2023-05-10 14.29.41.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 6/Drawing 2023-05-10 07.32.49.excalidraw.md",
-    "Notatki/Teoria systemów/Wykłady/Wykład 6/Drawing 2023-05-10 07.32.49.excalidraw.png",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 5/Simulation1.pdf",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 4/ObjectProj1.pdf",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-21 13.59.27.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-28 13.17.09.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Lista_6_MD.pdf",
     "Notatki/Teoria systemów/Wykłady/Wykłady.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Teoria systemów/Wykłady/Drawing 2023-05-10 07.32.03.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 6",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Drawing 2023-05-09 20.43.30.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-31 14.05.09.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-04-14 13.17.59.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-24 14.32.29.excalidraw.md",
@@ -198,12 +224,6 @@
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6",
-    "Excalidraw",
-    "Excalidraw/Pasted Image 20230504215338_988.png",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424160124_377.png",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424104526_371.png",
     "Untitled.canvas"
   ]
 }
