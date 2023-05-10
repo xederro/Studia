@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fe0db3b7e29260fa",
+        "id": "a5c997b1fa2bfb1f",
         "type": "tabs",
         "children": [
           {
-            "id": "2cd6d9a0d5085b25",
+            "id": "fde58cd2b2c958c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Teoria systemów/Wykłady/Wykład 6/Wykład 6.md",
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 5/Wykład 5.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5069465637207
+    "width": 313.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Teoria systemów/Wykłady/Wykład 6/Wykład 6.md",
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 5/Wykład 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Teoria systemów/Wykłady/Wykład 6/Wykład 6.md"
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 5/Wykład 5.md"
               }
             }
           }
@@ -139,9 +140,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2cd6d9a0d5085b25",
+  "active": "fde58cd2b2c958c0",
   "lastOpenFiles": [
     "Notatki/Teoria systemów/Wykłady/Wykład 6/Drawing 2023-05-10 07.32.49.excalidraw.md",
+    "Notatki/Teoria systemów/Wykłady/Wykład 6/Drawing 2023-05-10 07.32.49.excalidraw.png",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 5/Wykład 5.md",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 5/Simulation1.pdf",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 4/ObjectProj1.pdf",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 6/Wykład 6.md",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 7/Wykład 7.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-21 13.59.27.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-28 13.17.09.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Lista_6_MD.pdf",
+    "Notatki/Teoria systemów/Wykłady/Wykłady.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Teoria systemów/Wykłady/Drawing 2023-05-10 07.32.03.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 6",
@@ -167,26 +179,14 @@
     "Excalidraw/Drawing 2023-05-07 21.27.11.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/Wykład 11.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 12/Wykład 12.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 6.md",
     "Excalidraw/Pasted Image 20230504215338_988.png",
-    "Untitled.md",
-    "Excalidraw/Drawing 2023-05-04 21.53.23.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/AM2-zestaw_01.pdf",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-02 15.21.31.excalidraw.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/Labolatoria 0.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Lista_6_MD.pdf",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Samolot.java",
-    "Notatki/Programowanie obiektowe/Labolatoria/Labolatoria 7/Pociag.java",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424160124_377.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424104526_371.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230425200627_616.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230425180906_567.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424171044_228.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230424115253_116.png",
-    "Notatki/Teoria systemów/Ćwiczenia/ćwiczenia 4/Untitled Diagram.svg",
     "Untitled.canvas"
   ]
 }
