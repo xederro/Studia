@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "309313594622e7eb",
+            "id": "d1c66fe20e8e8256",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-13 11.37.53.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "0694c5813a55dd58",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 5/Drawing 2023-03-22 13.14.55.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-05-11 15.23.56.excalidraw.md"
               }
             }
           }
@@ -77,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5069465637207,
-    "collapsed": true
+    "width": 313.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-13 11.37.53.excalidraw.md",
+                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-05-11 15.23.56.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-13 11.37.53.excalidraw.md"
+                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-05-11 15.23.56.excalidraw.md"
               }
             }
           }
@@ -147,9 +136,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "309313594622e7eb",
+  "active": "ecd815a6ba5683a0",
   "lastOpenFiles": [
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 5/Drawing 2023-03-22 13.14.55.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-05-11 15.23.56.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Pasted Image 20230511152411_833.png",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-11 15.23.48.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-13 11.37.53.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 6/Wykład 6.md",
@@ -181,17 +173,13 @@
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230510163637_417.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Lista_5_MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230509204338_172.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-21 13.17.59.excalidraw.png",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 3/Drawing 2023-05-10 13.17.28.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 4/Drawing 2023-05-10 14.29.41.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 5/Simulation1.pdf",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 4/ObjectProj1.pdf",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 6",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Lista_4_MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2",
