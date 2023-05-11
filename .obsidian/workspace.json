@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "79e6d7efa5aff9c7",
+        "id": "ba8eb6ae4fac3660",
         "type": "tabs",
         "children": [
           {
-            "id": "d1c66fe20e8e8256",
+            "id": "25a60d3bdbbc1050",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-05-11 15.23.56.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-05-11 15.23.56.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-05-11 15.23.56.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -138,8 +133,8 @@
   },
   "active": "ecd815a6ba5683a0",
   "lastOpenFiles": [
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 5/Drawing 2023-03-22 13.14.55.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-05-11 15.23.56.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 5/Drawing 2023-03-22 13.14.55.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Pasted Image 20230511152411_833.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-11 15.23.48.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-13 11.37.53.excalidraw.md",
