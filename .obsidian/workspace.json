@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c73848a3c5be62bf",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 7/Drawing 2023-05-12 14.07.00.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 7/Drawing 2023-05-12 14.07.00.excalidraw.md",
+                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/Wykład 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 7/Drawing 2023-05-12 14.07.00.excalidraw.md"
+                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/Wykład 8.md"
               }
             }
           }
@@ -150,10 +139,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c73848a3c5be62bf",
+  "active": "9afd2b5521ba4741",
   "lastOpenFiles": [
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 7/Drawing 2023-05-12 14.07.00.excalidraw.md",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykłady.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 7/Podstawy automatyzacji procesów technologicznych - wprowadzenie -2023 PAiR.pdf",
