@@ -11,8 +11,13 @@
             "id": "9afd2b5521ba4741",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/Wykład 8.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5069465637207
+    "width": 313.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -100,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/Wykład 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/Wykład 8.md"
+              }
             }
           }
         ],
@@ -133,6 +142,13 @@
   },
   "active": "9afd2b5521ba4741",
   "lastOpenFiles": [
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykłady.md",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 7/Wykład 7.md",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/Wykład 8.md",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 7/Podstawy automatyzacji procesów technologicznych - wprowadzenie -2023 PAiR.pdf",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 7/Podstawy automatyzacji procesów technologicznych - wprowadzenie -2023 PAiR.pdf.crdownload",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 7",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-11 15.23.48.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
@@ -162,7 +178,6 @@
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-21 13.59.27.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-28 13.17.09.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Lista_6_MD.pdf",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Drawing 2023-05-10 16.36.22.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230510182053_521.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230510182038_716.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230510182028_818.png",
@@ -172,13 +187,7 @@
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230510174931_605.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230510174922_812.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Lista_5_MD.pdf",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 3/Drawing 2023-05-10 13.17.28.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 4/Drawing 2023-05-10 14.29.41.excalidraw.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 5/Simulation1.pdf",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 4/ObjectProj1.pdf",
-    "Notatki/Teoria systemów/Wykłady/Wykład 6",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Lista_4_MD.pdf",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2",
     "Untitled.canvas"
   ]
 }
