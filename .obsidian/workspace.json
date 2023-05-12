@@ -4,23 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "de3a283950ff9501",
+        "id": "0afb85de9068f41f",
         "type": "tabs",
         "children": [
           {
-            "id": "9afd2b5521ba4741",
+            "id": "97aca28a0c14d04a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/Wykład 8.md",
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "23e96af9f4df53d8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-05-12 15.19.30.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/Wykład 8.md",
+                "file": "Excalidraw/Drawing 2023-05-12 15.19.30.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/Wykład 8.md"
+                "file": "Excalidraw/Drawing 2023-05-12 15.19.30.excalidraw.md"
               }
             }
           }
@@ -139,8 +150,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9afd2b5521ba4741",
+  "active": "23e96af9f4df53d8",
   "lastOpenFiles": [
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md",
+    "Excalidraw/Drawing 2023-05-12 15.19.30.excalidraw.md",
+    "Excalidraw",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 7/Drawing 2023-05-12 14.07.00.excalidraw.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykłady.md",
@@ -174,8 +188,6 @@
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-05-11 09.17.22.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-14 13.53.09.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-21 13.17.59.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-21 13.59.27.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Lista_6_MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230510182053_521.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230510182038_716.png",
@@ -186,7 +198,6 @@
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230510174931_605.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230510174922_812.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Lista_5_MD.pdf",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 5/Simulation1.pdf",
     "Untitled.canvas"
   ]
 }
