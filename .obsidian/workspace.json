@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "09a262eb5c00536b",
+        "id": "ff745fc4ae04a36b",
         "type": "tabs",
         "children": [
           {
-            "id": "200c89bfe7154d6f",
+            "id": "feee5fbae9b5800c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Drawing 2023-05-13 15.53.42.excalidraw.md"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Pasted Image 20230513100604_918.png"
               }
             }
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5069465637207,
-    "collapsed": true
+    "width": 313.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Drawing 2023-05-13 15.53.42.excalidraw.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Pasted Image 20230513100604_918.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Drawing 2023-05-13 15.53.42.excalidraw.md"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Pasted Image 20230513100604_918.png"
               }
             }
           }
@@ -137,12 +136,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "200c89bfe7154d6f",
+  "active": "feee5fbae9b5800c",
   "lastOpenFiles": [
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Pasted Image 20230513173300_065.png",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Pasted Image 20230513172143_824.png",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Pasted Image 20230513164724_958.png",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Drawing 2023-05-13 15.53.42.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Labolatoria 6.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Drawing 2023-05-13 15.53.42.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Drawing 2023-05-13 12.31.42.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Drawing 2023-05-13 10.05.19.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Pasted Image 20230513100649_941.png",
@@ -180,8 +180,6 @@
     "Notatki/Teoria systemów/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 6/Drawing 2023-05-10 07.32.49.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Lista_6_MD.pdf",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230510182053_521.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230510182038_716.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Lista_6_MD.pdf.crdownload",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 5/Wykład_5_Kombinatoryka.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Lista_5_MD.pdf",
