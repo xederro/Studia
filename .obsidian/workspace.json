@@ -11,8 +11,10 @@
             "id": "20217458827e9509",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Teoria systemów/Wykłady/Wykład 4/Drawing 2023-04-12 07.36.42.excalidraw.md"
+              }
             }
           }
         ]
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Teoria systemów/Wykłady/Wykład 4/Drawing 2023-04-12 07.36.42.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Teoria systemów/Wykłady/Wykład 4/Drawing 2023-04-12 07.36.42.excalidraw.md"
+              }
             }
           }
         ],
@@ -131,8 +136,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ecd815a6ba5683a0",
+  "active": "20217458827e9509",
   "lastOpenFiles": [
+    "Notatki/Teoria systemów/Wykłady/Wykład 5/Drawing 2023-04-26 07.31.17.excalidraw.md",
+    "Notatki/Teoria systemów/Wykłady/Wykład 4/Drawing 2023-04-12 07.36.42.excalidraw.md",
+    "Notatki/Teoria systemów/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 4/Drawing 2023-04-24 07.32.39.excalidraw.md",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
     "Excalidraw/Drawing 2023-05-14 19.06.10.excalidraw.md",
     "Excalidraw",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 5/Cw5_-_pomiary_AC_i_PWM_2023.pdf",
@@ -172,12 +182,7 @@
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 7",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-11 15.23.48.excalidraw.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Kolokwium 2.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Drawing 2023-05-11 18.07.44.excalidraw.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Drawing 2023-05-11 17.17.26.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Pasted Image 20230511152411_833.png",
     "Untitled.canvas"
   ]
