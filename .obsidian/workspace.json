@@ -4,18 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "e07ac167c40f9053",
+        "id": "cbe5bc61114cea9e",
         "type": "tabs",
         "children": [
           {
-            "id": "31837feced506425",
+            "id": "81f0e778348be077",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "630261adbfa34105",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/Drawing 2023-05-16 08.08.53.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/Drawing 2023-05-16 08.08.53.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/Drawing 2023-05-16 08.08.53.excalidraw.md"
+              }
             }
           }
         ],
@@ -131,8 +145,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "31837feced506425",
+  "active": "630261adbfa34105",
   "lastOpenFiles": [
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 3/AL2-zestaw-3.pdf",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/Drawing 2023-05-16 08.08.53.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 4/Drawing 2023-04-12 07.36.42.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 5/Drawing 2023-04-26 07.31.17.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 4/Wykład 4.md",
@@ -150,7 +166,6 @@
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-31 14.05.09.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-04-14 13.17.59.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 3/AL2-Wyklad-3.pdf",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 3/AL2-zestaw-3.pdf",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 3/Wyklad_3a.pdf",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 3/Drawing 2023-05-10 13.17.28.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Pasted Image 20230513100604_918.png",
@@ -171,12 +186,10 @@
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 7/Drawing 2023-05-12 14.07.00.excalidraw.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykłady.md",
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 7/Podstawy automatyzacji procesów technologicznych - wprowadzenie -2023 PAiR.pdf",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 7/Podstawy automatyzacji procesów technologicznych - wprowadzenie -2023 PAiR.pdf.crdownload",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 7",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Drawing 2023-05-11 18.07.44.excalidraw.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Pasted Image 20230511152411_833.png",
     "Untitled.canvas"
