@@ -4,24 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "cbe5bc61114cea9e",
+        "id": "2596929141ee7111",
         "type": "tabs",
         "children": [
           {
-            "id": "81f0e778348be077",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "630261adbfa34105",
+            "id": "142d12bf59b0f5cf",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/Drawing 2023-05-16 08.08.53.excalidraw.md"
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Drawing 2023-04-25 13.15.11.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "57fb63bc088f5084",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Drawing 2023-05-16 13.15.15.excalidraw.md"
               }
             }
           }
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/Drawing 2023-05-16 08.08.53.excalidraw.md",
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Drawing 2023-05-16 13.15.15.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/Drawing 2023-05-16 08.08.53.excalidraw.md"
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Drawing 2023-05-16 13.15.15.excalidraw.md"
               }
             }
           }
@@ -145,10 +147,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "630261adbfa34105",
+  "active": "57fb63bc088f5084",
   "lastOpenFiles": [
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 3/AL2-zestaw-3.pdf",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Drawing 2023-04-25 13.15.11.excalidraw.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Drawing 2023-05-16 13.15.15.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/Drawing 2023-05-16 08.08.53.excalidraw.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 3/AL2-zestaw-3.pdf",
     "Notatki/Teoria systemów/Wykłady/Wykład 4/Drawing 2023-04-12 07.36.42.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 5/Drawing 2023-04-26 07.31.17.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 4/Wykład 4.md",
@@ -185,7 +189,6 @@
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 7/Drawing 2023-05-12 14.07.00.excalidraw.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/Wykład 8.md",
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykłady.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 7/Podstawy automatyzacji procesów technologicznych - wprowadzenie -2023 PAiR.pdf",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 7/Podstawy automatyzacji procesów technologicznych - wprowadzenie -2023 PAiR.pdf.crdownload",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8",
