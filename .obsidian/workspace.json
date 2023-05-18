@@ -11,11 +11,24 @@
             "id": "a1df6be78fae0193",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 4/Cw_4_Pomiar_Rezystancji_i_Impedancji_2023.pdf"
+              }
+            }
+          },
+          {
+            "id": "50b2a7fb70f38279",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Drawing 2023-05-18 16.59.44.excalidraw.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5069465637207
+    "width": 313.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -100,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Drawing 2023-05-18 16.59.44.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Drawing 2023-05-18 16.59.44.excalidraw.md"
+              }
             }
           }
         ],
@@ -131,8 +148,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a1df6be78fae0193",
+  "active": "50b2a7fb70f38279",
   "lastOpenFiles": [
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230518181657_935.png",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 4/Cw_4_Pomiar_Rezystancji_i_Impedancji_2023.pdf",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Drawing 2023-05-18 16.59.44.excalidraw.md",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230518171756_670.png",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230518165959_816.png",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 6/Drawing 2023-05-18 11.06.37.excalidraw.md",
     "Excalidraw/Drawing 2023-05-18 11.03.13.excalidraw.md",
     "Excalidraw",
@@ -167,18 +189,13 @@
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Pasted Image 20230513172143_824.png",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Pasted Image 20230513164724_958.png",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Labolatoria 6.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Drawing 2023-05-13 15.53.42.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Pasted Image 20230513100649_941.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Drawing 2023-05-09 20.43.30.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230511180759_818.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230511171741_766.png",
     "Excalidraw/Drawing 2023-05-12 15.19.30.excalidraw.png",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 7/Podstawy automatyzacji procesów technologicznych - wprowadzenie -2023 PAiR.pdf",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 7/Podstawy automatyzacji procesów technologicznych - wprowadzenie -2023 PAiR.pdf.crdownload",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8",
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 7",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Drawing 2023-05-11 18.07.44.excalidraw.png",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Pasted Image 20230511152411_833.png",
     "Untitled.canvas"
   ]
 }
