@@ -4,29 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "80f6d11fb2c0fcb5",
+        "id": "87fbc5578f692524",
         "type": "tabs",
         "children": [
           {
-            "id": "0df246bb7cfd7997",
+            "id": "a1df6be78fae0193",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "c6ba26cef822683a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 6/Drawing 2023-05-18 11.06.37.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 6/Drawing 2023-05-18 11.06.37.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 6/Drawing 2023-05-18 11.06.37.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -145,10 +131,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6ba26cef822683a",
+  "active": "a1df6be78fae0193",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-05-18 11.03.13.excalidraw.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 6/Drawing 2023-05-18 11.06.37.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-18 11.03.13.excalidraw.md",
     "Excalidraw",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-05-11 09.17.22.excalidraw.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-05-18 09.15.24.excalidraw.md",
