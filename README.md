@@ -40,4 +40,3 @@ Zalecamy zapoznanie się z:
 >[!info]
 >[[Sylabus.pdf|Sylabus]]
 >[[symbols.pdf|Symbole]]
-
