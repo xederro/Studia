@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Drawing 2023-05-18 16.59.44.excalidraw.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 4/Cw_4_Pomiar_Rezystancji_i_Impedancji_2023.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Drawing 2023-05-18 16.59.44.excalidraw.md"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 4/Cw_4_Pomiar_Rezystancji_i_Impedancji_2023.pdf"
               }
             }
           }
@@ -148,13 +147,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "50b2a7fb70f38279",
+  "active": "a1df6be78fae0193",
   "lastOpenFiles": [
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Drawing 2023-05-18 16.59.44.excalidraw.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230518185347_965.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230518183216_312.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230518181657_935.png",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 4/Cw_4_Pomiar_Rezystancji_i_Impedancji_2023.pdf",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Drawing 2023-05-18 16.59.44.excalidraw.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230518171756_670.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230518165959_816.png",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 6/Drawing 2023-05-18 11.06.37.excalidraw.md",
@@ -192,7 +191,6 @@
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Pasted Image 20230513164724_958.png",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Labolatoria 6.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Pasted Image 20230513100649_941.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Pasted Image 20230511180759_818.png",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 7/Podstawy automatyzacji procesów technologicznych - wprowadzenie -2023 PAiR.pdf",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 7/Podstawy automatyzacji procesów technologicznych - wprowadzenie -2023 PAiR.pdf.crdownload",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8",
