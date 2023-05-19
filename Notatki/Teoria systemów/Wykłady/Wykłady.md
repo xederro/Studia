@@ -25,4 +25,4 @@ trzeba zaliczyć oba
 na ostatnich zajęciach jest poprawa - piszemy to samo ale 3 to 70%, tylko zalicza się na 3
 
 materiał będą zamieszczone przed sprawdzianem
-
+![[teoria systemów.pdf]]
