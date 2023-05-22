@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "936a56be40235c57",
+        "id": "a1c6d7aafcdb0d25",
         "type": "tabs",
         "children": [
           {
-            "id": "52a9522ba64c3892",
+            "id": "aff01b66dc80dd4a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-22 07.33.21.excalidraw.md"
+                "file": "Notatki/Teoria systemów/Wykłady/Kolokwium/Kolokwium.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -67,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5069465637207
+    "width": 313.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -102,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-22 07.33.21.excalidraw.md",
+                "file": "Notatki/Teoria systemów/Wykłady/Kolokwium/Kolokwium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-22 07.33.21.excalidraw.md"
+                "file": "Notatki/Teoria systemów/Wykłady/Kolokwium/Kolokwium.md"
               }
             }
           }
@@ -136,16 +140,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "52a9522ba64c3892",
+  "active": "aff01b66dc80dd4a",
   "lastOpenFiles": [
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-22 07.33.21.excalidraw.png",
+    "Notatki/Teoria systemów/Wykłady/Wykład 6/Drawing 2023-05-10 07.32.49.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Kolokwium/Kolokwium.md",
+    "Notatki/Teoria systemów/Wykłady/Wykład 5/Drawing 2023-04-26 07.31.17.excalidraw.md",
+    "Notatki/Teoria systemów/Wykłady/Wykład 4/Drawing 2023-04-12 07.36.42.excalidraw.md",
+    "Notatki/Teoria systemów/Wykłady/Wykład 3/Drawing 2023-03-29 07.30.10.excalidraw.md",
+    "Notatki/Teoria systemów/Wykłady/Wykład 2/Drawing 2023-03-15 07.30.40.excalidraw.md",
+    "Notatki/Teoria systemów/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Teoria systemów/Wykłady/Wykłady.md",
+    "Notatki/Teoria systemów/Wykłady/Wykład 6/Wykład 6.md",
+    "Notatki/Teoria systemów/Wykłady/teoria systemów.pdf",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-22 07.33.21.excalidraw.md",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-22 07.33.21.excalidraw.png",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Teoria systemów/Wykłady/Kolokwium",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 5/Drawing 2023-05-08 07.32.16.excalidraw.md",
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-22 07.33.21.excalidraw.md",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 7",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8.md",
@@ -165,25 +178,16 @@
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/18.05.2023 r. w2(1).png.crdownload",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Elektryczność - Konrad Pempera.pdf",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Elektrycznosc - rozwiązane zadania.pdf",
-    "Notatki/Teoria systemów/Wykłady/Wykłady.md",
-    "Notatki/Teoria systemów/Wykłady/teoria systemów.pdf",
     "Notatki/Teoria systemów/Wykłady/~$Teoria_systemów LATO 2023.pptx",
     "Notatki/Teoria systemów/Wykłady/Teoria_systemów LATO 2023.pptx",
     "Notatki/Teoria systemów/Wykłady/Teoria_systemów LATO 2023.pptx.crdownload",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 9/Wykład 9.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 6/Drawing 2023-05-18 11.06.37.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/Drawing 2023-05-17 13.23.01.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-05-18 09.15.24.excalidraw.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Wykład 8.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Drawing 2023-05-16 13.15.15.excalidraw.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/12.05.2023(1).png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230518183216_312.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230518181657_935.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230518171756_670.png",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230518165959_816.png",
     "Untitled.canvas"
   ]
 }
