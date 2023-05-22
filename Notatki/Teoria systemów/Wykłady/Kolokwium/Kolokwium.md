@@ -13,11 +13,6 @@ Zadanie analizy - Liczymy rozwiązanie dla zadanych wejściowe i zawsze mamy jed
 
 Metodę identyfikacji stosujemy, gdy mamy o modelu matematycznym wiedzę eksperymentalną, wiedzę eksperta i na ich podstawie chcemy odtworzyć model. W samej metodzie najmniejszych kwadratów chodzi o wyznaczenie parametrów w ten sposób, by suma kwadratów różnicy między wartością oczekiwaną a obserwowaną była jak najmniejsza.
 
-
-> Opisać metodę najmniejszych kwadratów (na przykładzie)
-
-Sposób identyfikacji systemu na bazie eksperymentów i wiedzy eksperckiej. Badamy kilka modeli, sumujemy kwadraty różnic oczekiwanej wartości i obliczonej z modelu wartości. Dążymy, by ten suma (Błąd kwadratowy) był jak najmniejszy.
-
 > Co to jest agregacja i na przykładzie przedstawić metodę graficzną
 
 Agregacja to wyznaczanie modelu zintegrowanego, równoważnego algebraicznie opisujący zespół połączonych ze sobą elementów. Stosuje się to do upraszczania modeli matematycznych i ułatwia pracę związaną z zadaniami analizy lub syntezy
@@ -26,16 +21,10 @@ Agregacja to wyznaczanie modelu zintegrowanego, równoważnego algebraicznie opi
 
 Z systemem statycznym mamy do czynienia, gdy po wprowadzeniu danych wejściowych, właściwie bez opóźnienia system reaguje i zmienia dane. W dynamicznym systemie to jest bardziej płynne, wywołane z opóźnieniem, nie przebiega nagle, tylko rozkłada się w różny sposób w czasie. W układach dynamicznych określa się, czy są stabilne, niestabilne lub na granicy stabilności i wprowadza się transmitancję.
 
-%%
-Kiedy stosujemy metody identyfikacji (np. metodę najmniejszych kwadratów)?
-
-Metodę identyfikacji stosujemy, gdy mamy o modelu matematycznym wiedzę eksperymentalną, wiedzę eksperta i na ich podstawie chcemy odtworzyć model. W samej metodzie najmniejszych kwadratów chodzi o wyznaczenie parametrów w ten sposób, by suma kwadratów różnicy między wartością oczekiwaną a obserwowaną była jak najmniejsza.
-
-Co to jest agregacja i po co ją stosujemy?
 
 
 
-Wyjaśnij różnicę pomiędzy systemem statycznym a dynamicznym.
+
 
 
 
@@ -268,4 +257,3 @@ Miary odległości:
 • bezpośrednia
 • równoległa
 • iteracyjna
-%%
