@@ -4,29 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "57cd508a93be3c6d",
+        "id": "eb43644a62dad8ed",
         "type": "tabs",
         "children": [
           {
-            "id": "4f5036c72a19c563",
+            "id": "5f17097f4d38f14c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ec556dd7cd4ea2a6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Drawing 2023-05-23 13.11.27.excalidraw.md"
+                "file": "Notatki/Teoria systemów/Wykłady/teoria systemów.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5069465637207
+    "width": 313.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -111,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Drawing 2023-05-23 13.11.27.excalidraw.md",
+                "file": "Notatki/Teoria systemów/Wykłady/teoria systemów.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Drawing 2023-05-23 13.11.27.excalidraw.md"
+                "file": "Notatki/Teoria systemów/Wykłady/teoria systemów.pdf"
               }
             }
           }
@@ -145,10 +137,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec556dd7cd4ea2a6",
+  "active": "5f17097f4d38f14c",
   "lastOpenFiles": [
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Drawing 2023-05-23 13.11.27.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Kolokwium/Kolokwium.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Wykład 8.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Drawing 2023-05-23 13.11.27.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 6/Drawing 2023-05-10 07.32.49.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 5/Drawing 2023-04-26 07.31.17.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 4/Drawing 2023-04-12 07.36.42.excalidraw.md",
@@ -188,7 +181,6 @@
     "Notatki/Teoria systemów/Wykłady/Teoria_systemów LATO 2023.pptx",
     "Notatki/Teoria systemów/Wykłady/Teoria_systemów LATO 2023.pptx.crdownload",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 9/Wykład 9.md",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/12.05.2023(1).png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230518183216_312.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230518181657_935.png",
