@@ -18,7 +18,7 @@ typ: 'W'
 10. [[Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 10/Wykład 10|Wykład 10]]
 11. [[Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/Wykład 11|Wykład 11]]
 12. [[Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 12/Wykład 12|Wykład 12]]
-13. [[Kolos|Kolos]]
+13. [[Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos|Kolos]]
 
 ## Zaliczenie
 C-5 803/807
