@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11c0676ab6c49ce8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "e8d432d54f94fa28",
             "type": "leaf",
             "state": {
@@ -25,6 +17,16 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "cf20bf5e66138bea",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.3"
               }
             }
           }
@@ -149,7 +151,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8d432d54f94fa28",
+  "active": "cf20bf5e66138bea",
   "lastOpenFiles": [
     "Notatki/Teoria systemów/Wykłady/teoria systemów.pdf",
     "Notatki/Teoria systemów/Wykłady/Kolokwium/Kolokwium.md",
