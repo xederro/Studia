@@ -8,7 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e8d432d54f94fa28",
+            "id": "a4d4bb5403ea5b0e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Teoria systemów/Wykłady/Wykład 7/Drawing 2023-05-24 07.31.09.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "da0ac4938460bb69",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,16 +27,6 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "cf20bf5e66138bea",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.3"
               }
             }
           }
@@ -151,18 +151,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cf20bf5e66138bea",
+  "active": "da0ac4938460bb69",
   "lastOpenFiles": [
-    "Notatki/Teoria systemów/Wykłady/teoria systemów.pdf",
+    "Notatki/Teoria systemów/Wykłady/Wykład 7/Drawing 2023-05-24 07.31.09.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Kolokwium/Kolokwium.md",
+    "Notatki/Teoria systemów/Wykłady/Wykład 3/Drawing 2023-03-29 07.30.10.excalidraw.md",
+    "Notatki/Teoria systemów/Wykłady/Wykład 2/Drawing 2023-03-15 07.30.40.excalidraw.md",
+    "Notatki/Teoria systemów/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Teoria systemów/Wykłady/Wykład 7/Wykład 7.md",
+    "Notatki/Teoria systemów/Wykłady/Wykład 7",
+    "Notatki/Teoria systemów/Wykłady/teoria systemów.pdf",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Drawing 2023-05-23 13.11.27.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 6/Drawing 2023-05-10 07.32.49.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 5/Drawing 2023-04-26 07.31.17.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 4/Drawing 2023-04-12 07.36.42.excalidraw.md",
-    "Notatki/Teoria systemów/Wykłady/Wykład 3/Drawing 2023-03-29 07.30.10.excalidraw.md",
-    "Notatki/Teoria systemów/Wykłady/Wykład 2/Drawing 2023-03-15 07.30.40.excalidraw.md",
-    "Notatki/Teoria systemów/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Teoria systemów/Wykłady/Wykłady.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-22 07.33.21.excalidraw.md",
@@ -186,14 +189,12 @@
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Drawing 2023-04-25 13.15.19.excalidraw.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/rezonans i imp zastepcza.pdf",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 6/Drawing 2023-04-04 13.11.47.excalidraw.md",
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/18.05.2023 r. w2(1).png",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/18.05.2023 r. w2(1).png.crdownload",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Elektryczność - Konrad Pempera.pdf",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Elektrycznosc - rozwiązane zadania.pdf",
     "Notatki/Teoria systemów/Wykłady/~$Teoria_systemów LATO 2023.pptx",
     "Notatki/Teoria systemów/Wykłady/Teoria_systemów LATO 2023.pptx",
-    "Notatki/Teoria systemów/Wykłady/Teoria_systemów LATO 2023.pptx.crdownload",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/12.05.2023(1).png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230518183216_312.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230518181657_935.png",
