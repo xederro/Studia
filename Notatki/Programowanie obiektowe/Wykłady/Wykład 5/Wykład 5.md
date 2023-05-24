@@ -9,3 +9,4 @@ diagram stanów określa stan osobnika i co może w tym stanie zrobić
 
 strzałeczka na diagramie zamalowana to kompozycja
 
+brzytwa okhmana - nie tworzyć obiektów ponad miarę

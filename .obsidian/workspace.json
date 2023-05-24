@@ -4,34 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f576402eeb341b82",
+        "id": "7c8d7a65a8281235",
         "type": "tabs",
         "children": [
           {
-            "id": "a4d4bb5403ea5b0e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Teoria systemów/Wykłady/Wykład 7/Drawing 2023-05-24 07.31.09.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "da0ac4938460bb69",
+            "id": "edd57ff530b57817",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Teoria systemów/Wykłady/Kolokwium/Kolokwium.md",
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 7/Wykład 7.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Teoria systemów/Wykłady/Kolokwium/Kolokwium.md",
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 7/Wykład 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Teoria systemów/Wykłady/Kolokwium/Kolokwium.md"
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 7/Wykład 7.md"
               }
             }
           }
@@ -151,10 +140,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "da0ac4938460bb69",
+  "active": "edd57ff530b57817",
   "lastOpenFiles": [
-    "Notatki/Teoria systemów/Wykłady/Wykład 7/Drawing 2023-05-24 07.31.09.excalidraw.md",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 7/ObjectProj3.pdf",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 6/ObjectProj2.pdf",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 7/Wykład 7.md",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 6/Wykład 6.md",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 5/Wykład 5.md",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 5/Simulation1.pdf",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Programowanie obiektowe/Programowanie obiektowe.md",
     "Notatki/Teoria systemów/Wykłady/Kolokwium/Kolokwium.md",
+    "Notatki/Teoria systemów/Wykłady/Wykład 7/Drawing 2023-05-24 07.31.09.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 3/Drawing 2023-03-29 07.30.10.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 2/Drawing 2023-03-15 07.30.40.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 1/Wykład 1.md",
@@ -178,23 +175,15 @@
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 7",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 8/Drawing 2023-05-19 13.23.06.excalidraw.md",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Drawing 2023-05-18 16.59.44.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 7/Drawing 2023-05-19 13.16.05.excalidraw.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230519123344_296.png",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230519122143_679.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230518185347_965.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230519123034_878.png",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Drawing 2023-04-25 13.15.19.excalidraw.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/rezonans i imp zastepcza.pdf",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 6/Drawing 2023-04-04 13.11.47.excalidraw.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/18.05.2023 r. w2(1).png",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/18.05.2023 r. w2(1).png.crdownload",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Elektryczność - Konrad Pempera.pdf",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Elektrycznosc - rozwiązane zadania.pdf",
-    "Notatki/Teoria systemów/Wykłady/~$Teoria_systemów LATO 2023.pptx",
-    "Notatki/Teoria systemów/Wykłady/Teoria_systemów LATO 2023.pptx",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/12.05.2023(1).png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230518183216_312.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230518181657_935.png",
