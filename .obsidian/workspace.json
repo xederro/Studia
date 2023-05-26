@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "874f9822ef2c472d",
+        "id": "9b821cf1c878e5cc",
         "type": "tabs",
         "children": [
           {
-            "id": "c563f1c82df23b24",
+            "id": "422cd85e49f501e0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Drawing 2023-05-24 13.33.14.excalidraw.md"
+                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 9/Wykład 9.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -67,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5069465637207
+    "width": 313.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -102,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Drawing 2023-05-24 13.33.14.excalidraw.md",
+                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 9/Wykład 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Drawing 2023-05-24 13.33.14.excalidraw.md"
+                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 9/Wykład 9.md"
               }
             }
           }
@@ -136,11 +140,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c563f1c82df23b24",
+  "active": "422cd85e49f501e0",
   "lastOpenFiles": [
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Drawing 2023-05-24 13.33.14.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Drawing 2023-05-24 13.33.14.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Untitled.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/Drawing 2023-05-24 13.21.00.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/AL2-wyklad-6.pdf",
