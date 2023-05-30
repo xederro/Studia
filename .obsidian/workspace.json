@@ -19,14 +19,24 @@
             "id": "c2779db08ab6b9e0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "pdf",
               "state": {
-                "currentVersion": "1.3.4"
+                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/2 Lista zadań energia i zderzenia 2022.pdf"
+              }
+            }
+          },
+          {
+            "id": "fd496dd625b3b17c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Drawing 2023-05-30 13.15.22.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 1/Labolatoria 1.md",
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Drawing 2023-05-30 13.15.22.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 1/Labolatoria 1.md"
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Drawing 2023-05-30 13.15.22.excalidraw.md"
               }
             }
           }
@@ -145,8 +155,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c2779db08ab6b9e0",
+  "active": "fd496dd625b3b17c",
   "lastOpenFiles": [
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/2 Lista zadań energia i zderzenia 2022.pdf",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Drawing 2023-05-30 13.15.22.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 1/Labolatoria 1.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 1/Untitled Diagram.svg",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 1/Cw1_oscyloskop_2023.pdf",
@@ -183,8 +195,6 @@
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Drawing 2023-05-23 13.11.27.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 6/Drawing 2023-05-10 07.32.49.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 5/Drawing 2023-04-26 07.31.17.excalidraw.md",
-    "Notatki/Teoria systemów/Wykłady/Wykład 4/Drawing 2023-04-12 07.36.42.excalidraw.md",
-    "Notatki/Teoria systemów/Wykłady/Wykłady.md",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-22 07.33.21.excalidraw.png",
     "Notatki/Teoria systemów/Wykłady/Kolokwium",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230519123344_296.png",
