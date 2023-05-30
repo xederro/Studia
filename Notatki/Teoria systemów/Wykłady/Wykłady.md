@@ -12,6 +12,8 @@ typ: 'W'
 4. [[Notatki/Teoria systemów/Wykłady/Wykład 4/Wykład 4|Wykład 4]]
 5. [[Notatki/Teoria systemów/Wykłady/Wykład 5/Wykład 5|Wykład 5]]
 6. [[Notatki/Teoria systemów/Wykłady/Wykład 6/Wykład 6|Wykład 6]]
+7. [[Notatki/Teoria systemów/Wykłady/Wykład 7/Wykład 7|Wykład 7]]
+8. [[Notatki/Teoria systemów/Wykłady/Kolokwium/Kolokwium|Kolokwium]]
 
 ## Zaliczenie
 111-c3 - na stronie będą godziny
