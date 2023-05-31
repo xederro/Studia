@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "404a8d4a73c8e53d",
+        "id": "f1ec3c4be60891f7",
         "type": "tabs",
         "children": [
           {
-            "id": "692047ed658667f9",
+            "id": "61427839d2c59b2f",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -131,7 +131,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "692047ed658667f9",
+  "active": "61427839d2c59b2f",
   "lastOpenFiles": [
     "Notatki/Teoria systemów/Wykłady/Wykłady.md",
     "Notatki/Teoria systemów/Teoria systemów.md",
