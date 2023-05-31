@@ -1,1 +1,1 @@
-![[AL2-wyklad-7.pdf]]![[AL2-zestaw-7.pdf]]![[Wyklad_7a_cz1.pdf]]![[Wyklad_7a_cz2.pdf]]
+![[AL2-wyklad-7.pdf]]![[AL2-zestaw-7.pdf]]![[Wyklad_7a_cz1.pdf]]![[Wyklad_7a_cz2.pdf]]![[Drawing 2023-05-31 13.19.54.excalidraw]]

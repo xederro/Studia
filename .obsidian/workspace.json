@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f1ec3c4be60891f7",
+        "id": "cb7321d54fdeb748",
         "type": "tabs",
         "children": [
           {
-            "id": "61427839d2c59b2f",
+            "id": "66704ddfb361e239",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Drawing 2023-05-24 13.33.14.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "652663427d8fc02a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/Drawing 2023-05-31 13.19.54.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/Drawing 2023-05-31 13.19.54.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/Drawing 2023-05-31 13.19.54.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -144,17 +128,43 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templates:Insert template": false
     }
   },
-  "active": "652663427d8fc02a",
+  "active": "ecd815a6ba5683a0",
   "lastOpenFiles": [
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Drawing 2023-05-24 13.33.14.excalidraw.md",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-05-31 17.13.20.excalidraw.md",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/soczewki grube.pdf",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/Pasted Image 20230531181958_221.png",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/Pasted Image 20230531181707_992.png",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/349861068_1214483875877163_9034990507743451592_n.jpg",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/346107332_5691883647578001_9064571516633811411_n.png",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/344493367_812979583734586_1267703812307675030_n.jpg",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/344470084_228958433089546_6637248559022621392_n.jpg",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/344283848_598971761981162_5535666758691712605_n.png",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/Pasted Image 20230531175125_833.png",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/344470084_228958433089546_6637248559022621392_n.jpg.crdownload",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/344493367_812979583734586_1267703812307675030_n.jpg.crdownload",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/344283848_598971761981162_5535666758691712605_n.png.crdownload",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/346107332_5691883647578001_9064571516633811411_n.png.crdownload",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/349861068_1214483875877163_9034990507743451592_n.jpg.crdownload",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/FizykaPozMin1.png",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/FizykaPoz3.png",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/FizykaPoz0.png.crdownload",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/FizykaPozMin1.png.crdownload",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/FizykaPoz3.png.crdownload",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/FizykaPoz2.png.crdownload",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Drawing 2023-05-18 16.59.44.excalidraw.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Wykład 9.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/Drawing 2023-05-31 13.19.54.excalidraw.md",
+    "Untitled.canvas",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Drawing 2023-05-24 13.33.14.excalidraw.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 9/Wykład 9.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 8/DesignPatterns1.pdf",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Teoria systemów/Wykłady/Wykłady.md",
     "Notatki/Teoria systemów/Teoria systemów.md",
@@ -164,37 +174,11 @@
     "Notatki/Algebra liniowa 2/Wykłady/Wykłady.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Ćwiczenia 9.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Pasted Image 20230526133509_927.png",
     "Notatki/Teoria systemów/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 8/Drawing 2023-05-26 13.15.53.excalidraw.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Wykład 8.md",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 2/2 Lista zadań energia i zderzenia 2022.pdf",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Drawing 2023-05-30 13.15.22.excalidraw.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 1/Labolatoria 1.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 1/Untitled Diagram.svg",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 1/Cw1_oscyloskop_2023.pdf",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Lista_9_MD.pdf",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Drawing 2023-05-26 14.25.19.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Drawing 2023-05-26 13.27.16.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Pasted Image 20230526134758_464.png",
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 9/Wykład 9.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Untitled.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/AL2-wyklad-6.pdf",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 7/ObjectProj3.pdf",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 6/ObjectProj2.pdf",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 5/Simulation1.pdf",
-    "Notatki/Teoria systemów/Wykłady/Wykład 7",
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-22 07.33.21.excalidraw.png",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230519123344_296.png",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230519122143_679.png",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230518185347_965.png",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230519123034_878.png",
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/18.05.2023 r. w2(1).png",
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 8/12.05.2023(1).png",
-    "Untitled.canvas"
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Drawing 2023-05-30 13.15.22.excalidraw.md"
   ]
 }
