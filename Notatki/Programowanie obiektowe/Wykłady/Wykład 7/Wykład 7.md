@@ -1,8 +1,9 @@
 ![[ObjectProj3.pdf]]
 
+serlializacja umożliwia zapisanie stanu obiektu w danym czasie - przydatna przy kopiowaniu klas
 
-serlializacja umożliwia zapisanie stanu obiektu w danym czasie
+serializacja płytka - obiekt nie kopiuje innych obiektów, elementy to referencje do obiektów
+serializacja głęboka - obiekt kopiowany razem z całą jego zawartością, elementy są kopiowane - przez serializable
 
-serializacja płytka - obiekt nie kopiuje innych obiektów
-serializacja głęboka - obiekt kopiowany razem z całą jego zawartością
+wraper - pozwala traktować jedną klasę jakby jej interface był inny
 

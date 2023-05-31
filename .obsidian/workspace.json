@@ -11,8 +11,13 @@
             "id": "61427839d2c59b2f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 9/Wykład 9.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5069465637207
+    "width": 313.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -100,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 9/Wykład 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 9/Wykład 9.md"
+              }
             }
           }
         ],
@@ -133,6 +142,10 @@
   },
   "active": "61427839d2c59b2f",
   "lastOpenFiles": [
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 8/Wykład 8.md",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 7/Wykład 7.md",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 8/DesignPatterns1.pdf",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Teoria systemów/Wykłady/Wykłady.md",
     "Notatki/Teoria systemów/Teoria systemów.md",
     "Notatki/Teoria systemów/Wykłady/Kolokwium/Kolokwium.md",
@@ -161,17 +174,13 @@
     "Notatki/Algebra liniowa 2/Wykłady/Kolos",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Untitled.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/AL2-wyklad-6.pdf",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 7/ObjectProj3.pdf",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 6/ObjectProj2.pdf",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 5/Simulation1.pdf",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Programowanie obiektowe/Programowanie obiektowe.md",
-    "Notatki/Teoria systemów/Wykłady/Wykład 7/Drawing 2023-05-24 07.31.09.excalidraw.md",
     "Notatki/Teoria systemów/Wykłady/Wykład 7",
-    "Notatki/Teoria systemów/Wykłady/teoria systemów.pdf",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-22 07.33.21.excalidraw.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230519123344_296.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Pasted Image 20230519122143_679.png",
