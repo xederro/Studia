@@ -11,7 +11,7 @@
             "id": "66704ddfb361e239",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -132,7 +132,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "ecd815a6ba5683a0",
+  "active": "66704ddfb361e239",
   "lastOpenFiles": [
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-05-31 17.13.20.excalidraw.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/soczewki grube.pdf",
