@@ -4,31 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "0fd2f9f7167dd043",
+        "id": "9059a82de382ffb7",
         "type": "tabs",
         "children": [
           {
-            "id": "21acd4a7169a1ecb",
+            "id": "b4993fd0079b2e7f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-01 09.16.34.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "851794373d6c99ba",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-01 10.19.08.excalidraw.md"
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład 7.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-01 10.19.08.excalidraw.md",
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-01 10.19.08.excalidraw.md"
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład 7.md"
               }
             }
           }
@@ -148,7 +140,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "851794373d6c99ba",
+  "active": "b4993fd0079b2e7f",
   "lastOpenFiles": [
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-01 09.16.34.excalidraw.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-01 10.19.08.excalidraw.md",
