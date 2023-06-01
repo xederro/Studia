@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9059a82de382ffb7",
+        "id": "0f8d2d7774db2c69",
         "type": "tabs",
         "children": [
           {
-            "id": "b4993fd0079b2e7f",
+            "id": "fa010d7a35fc62a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład 7.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-01 11.01.04.excalidraw.md"
               }
             }
           }
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład 7.md",
+                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-01 11.01.04.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład 7.md"
+                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-01 11.01.04.excalidraw.md"
               }
             }
           }
@@ -140,14 +137,19 @@
       "templates:Insert template": false
     }
   },
-  "active": "b4993fd0079b2e7f",
+  "active": "fa010d7a35fc62a6",
   "lastOpenFiles": [
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Kolokwium.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-01 11.01.04.excalidraw.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/rachunek_prawdopodobienstwa.pdf",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/statystyka_stosowana.pdf",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 7/W7_Korel_i_Reg (2).pdf",
+    "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-01 09.16.34.excalidraw.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-01 10.19.08.excalidraw.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-05-18 09.15.24.excalidraw.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-05-31 17.13.20.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/soczewki grube.pdf",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/Pasted Image 20230531181958_221.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/Pasted Image 20230531181707_992.png",
@@ -165,9 +167,6 @@
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/FizykaPozMin1.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/FizykaPoz3.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/FizykaPoz0.png.crdownload",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/FizykaPozMin1.png.crdownload",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/FizykaPoz3.png.crdownload",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/FizykaPoz2.png.crdownload",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Drawing 2023-05-18 16.59.44.excalidraw.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Wykład 9.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/Wykład 7.md",
@@ -186,8 +185,6 @@
     "Notatki/Algebra liniowa 2/Wykłady/Wykłady.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Ćwiczenia 9.md",
-    "Notatki/Teoria systemów/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8.md"
+    "Notatki/Teoria systemów/Wykłady/Wykład 7/Wykład 7.md"
   ]
 }
