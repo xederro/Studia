@@ -4,19 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "2778777b823fe7d5",
+        "id": "8e900beb0ded8247",
         "type": "tabs",
         "children": [
           {
-            "id": "647683aedc511fd1",
+            "id": "00502312843e130f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 10/Wykład 10.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Drawing 2023-06-02 13.37.20.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "367c3c581c7cc42f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Lista_10_MD.pdf"
               }
             }
           }
@@ -70,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5069465637207,
-    "collapsed": true
+    "width": 313.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -106,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 10/Wykład 10.md",
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Drawing 2023-06-02 13.37.20.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 10/Wykład 10.md"
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Drawing 2023-06-02 13.37.20.excalidraw.md"
               }
             }
           }
@@ -141,10 +147,15 @@
       "templates:Insert template": false
     }
   },
-  "active": "647683aedc511fd1",
+  "active": "00502312843e130f",
   "lastOpenFiles": [
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykłady.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Pasted Image 20230602133750_475.png",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Lista_10_MD.pdf",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Drawing 2023-06-02 13.37.20.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Drawing 2023-06-02 13.16.49.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Drawing 2023-05-26 14.25.19.excalidraw.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 10/Wykład 10.md",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykłady.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 9/Wykład 9.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 10",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md",
@@ -178,17 +189,12 @@
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/soczewki grube.pdf",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/Pasted Image 20230531181958_221.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/344470084_228958433089546_6637248559022621392_n.jpg.crdownload",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/344493367_812979583734586_1267703812307675030_n.jpg.crdownload",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 4/Drawing 2023-05-18 16.59.44.excalidraw.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Wykład 9.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/Drawing 2023-05-31 13.19.54.excalidraw.md",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Drawing 2023-05-24 13.33.14.excalidraw.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 9/Wykład 9.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 8/Wykład 8.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Teoria systemów/Wykłady/Wykłady.md"
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 9/Wykład 9.md"
   ]
 }
