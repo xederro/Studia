@@ -41968,12 +41968,12 @@ function instance9($$self, $$props, $$invalidate) {
           plugin.setState(0 /* idle */);
           return false;
         }
-        plugin.gitManager.commit(commitMessage).then(() => {
+        plugin.promiseQueue.addTask(() => plugin.gitManager.commit(commitMessage).then(() => {
           if (commitMessage !== plugin.settings.commitMessage) {
             $$invalidate(2, commitMessage = "");
           }
           plugin.setUpAutoBackup();
-        }).finally(triggerRefresh2);
+        }).finally(triggerRefresh2));
       }
     });
   }
@@ -41981,11 +41981,11 @@ function instance9($$self, $$props, $$invalidate) {
     return __awaiter(this, void 0, void 0, function* () {
       $$invalidate(5, loading = true);
       if (status2) {
-        plugin.createBackup(false, false, commitMessage).then(() => {
+        plugin.promiseQueue.addTask(() => plugin.createBackup(false, false, commitMessage).then(() => {
           if (commitMessage !== plugin.settings.commitMessage) {
             $$invalidate(2, commitMessage = "");
           }
-        }).finally(triggerRefresh2);
+        }).finally(triggerRefresh2));
       }
     });
   }
@@ -42039,26 +42039,26 @@ function instance9($$self, $$props, $$invalidate) {
   }
   function stageAll() {
     $$invalidate(5, loading = true);
-    plugin.gitManager.stageAll({ status: status2 }).finally(triggerRefresh2);
+    plugin.promiseQueue.addTask(() => plugin.gitManager.stageAll({ status: status2 }).finally(triggerRefresh2));
   }
   function unstageAll() {
     $$invalidate(5, loading = true);
-    plugin.gitManager.unstageAll({ status: status2 }).finally(triggerRefresh2);
+    plugin.promiseQueue.addTask(() => plugin.gitManager.unstageAll({ status: status2 }).finally(triggerRefresh2));
   }
   function push2() {
     $$invalidate(5, loading = true);
-    plugin.push().finally(triggerRefresh2);
+    plugin.promiseQueue.addTask(() => plugin.push().finally(triggerRefresh2));
   }
   function pull2() {
     $$invalidate(5, loading = true);
-    plugin.pullChangesFromRemote().finally(triggerRefresh2);
+    plugin.promiseQueue.addTask(() => plugin.pullChangesFromRemote().finally(triggerRefresh2));
   }
   function discard() {
     new DiscardModal(view.app, false, plugin.gitManager.getVaultPath("/")).myOpen().then((shouldDiscard) => {
       if (shouldDiscard === true) {
-        plugin.gitManager.discardAll({ status: plugin.cachedStatus }).finally(() => {
+        plugin.promiseQueue.addTask(() => plugin.gitManager.discardAll({ status: plugin.cachedStatus }).finally(() => {
           dispatchEvent(new CustomEvent("git-refresh"));
-        });
+        }));
       }
     });
   }
