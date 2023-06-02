@@ -7,3 +7,8 @@
 ![[FizykaPoz3.png]]![[FizykaPozMin1.png]]![[344283848_598971761981162_5535666758691712605_n.png]]
 ![[344470084_228958433089546_6637248559022621392_n.jpg]]![[344493367_812979583734586_1267703812307675030_n.jpg]]![[346107332_5691883647578001_9064571516633811411_n.png]]![[349861068_1214483875877163_9034990507743451592_n.jpg]]
 ![[Drawing 2023-05-31 17.13.20.excalidraw]]
+
+
+1. 2 sciany, ray tracing, widzą sięw paśmie optycznym, widzi siebie nawzajem, najlepiej 2, "plan sieci" 
+2. mikroskop, i konstrukcję obrazu na soczewkach grubych, odpowiednio ułożyć i odpowiedni ułożyć, (przed sobą w głębi, odwrócony)
+   
