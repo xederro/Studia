@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "f91556c9bed82bf1",
+        "id": "3d7c9c4aa053e32a",
         "type": "tabs",
         "children": [
           {
-            "id": "8b9186da18a80286",
+            "id": "1ee3217a23fcb143",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -128,11 +128,11 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templates:Insert template": false
+      "templates:Insert template": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8b9186da18a80286",
+  "active": "1ee3217a23fcb143",
   "lastOpenFiles": [
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Kolokwium.md",
