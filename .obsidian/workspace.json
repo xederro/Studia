@@ -11,8 +11,13 @@
             "id": "ad261afa6ab71a08",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -100,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md"
+              }
             }
           }
         ],
@@ -134,14 +142,14 @@
   },
   "active": "ad261afa6ab71a08",
   "lastOpenFiles": [
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/AL2-zestaw-5.pdf",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-03 15.21.31.excalidraw.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-06-02 15.27.06.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230603152231_933.png",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/AL2-zestaw-5.pdf",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230603152159_096.png",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230603152149_483.png",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230603152138_803.png",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Kolokwium.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Ćwiczenia 10.md",
