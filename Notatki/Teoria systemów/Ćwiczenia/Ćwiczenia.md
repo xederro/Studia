@@ -12,6 +12,7 @@ typ: 'C'
 4. [[Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4|Ćwiczenia 4]]
 5. [[Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5|Ćwiczenia 5]]
 6. [[Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6|Ćwiczenia 6]]
+7. [[Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Kolokwium|Kolokwium]]
 
 ## Zaliczenie
 

@@ -11,4 +11,4 @@
 
 1. 2 sciany, ray tracing, widzą sięw paśmie optycznym, widzi siebie nawzajem, najlepiej 2, "plan sieci" 
 2. mikroskop, i konstrukcję obrazu na soczewkach grubych, odpowiednio ułożyć i odpowiedni ułożyć, (przed sobą w głębi, odwrócony)
-   
+   ![[Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-06-02 15.27.06.excalidraw]]

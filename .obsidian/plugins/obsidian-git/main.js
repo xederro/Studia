@@ -32266,9 +32266,11 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
           plugin.saveSettings();
         })
       );
-      containerEl.createEl("br");
-      containerEl.createEl("h3", { text: "Line author information" });
-      this.addLineAuthorInfoSettings();
+      if (plugin.gitManager instanceof SimpleGit) {
+        containerEl.createEl("br");
+        containerEl.createEl("h3", { text: "Line author information" });
+        this.addLineAuthorInfoSettings();
+      }
     }
     containerEl.createEl("br");
     containerEl.createEl("h3", { text: "Miscellaneous" });
@@ -42815,7 +42817,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
     (_a2 = this.settingsTab) == null ? void 0 : _a2.beforeSaveSettings();
     await this.saveData(this.settings);
   }
-  async saveLastAuto(date, mode) {
+  saveLastAuto(date, mode) {
     if (mode === "backup") {
       this.localStorage.setLastAutoBackup(date.toString());
     } else if (mode === "pull") {
@@ -42824,7 +42826,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       this.localStorage.setLastAutoPush(date.toString());
     }
   }
-  async loadLastAuto() {
+  loadLastAuto() {
     var _a2, _b, _c;
     return {
       backup: new Date((_a2 = this.localStorage.getLastAutoBackup()) != null ? _a2 : ""),
@@ -43044,13 +43046,17 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
   }) {
     if (!await this.isAllInitialized())
       return false;
-    const hadConflict = this.localStorage.getConflict() === "true";
+    let hadConflict = this.localStorage.getConflict() === "true";
     let changedFiles;
     let status2;
     let unstagedFiles;
     if (this.gitManager instanceof SimpleGit) {
       this.mayDeleteConflictFile();
       status2 = await this.updateCachedStatus();
+      if (status2.conflicted.length == 0) {
+        this.localStorage.setConflict("false");
+        hadConflict = false;
+      }
       if (fromAutoBackup && status2.conflicted.length > 0) {
         this.displayError(
           `Did not commit, because you have conflicts in ${status2.conflicted.length} ${status2.conflicted.length == 1 ? "file" : "files"}. Please resolve them and commit per command.`
@@ -43115,6 +43121,11 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
           status: status2,
           unstagedFiles
         });
+      }
+      if (this.gitManager instanceof SimpleGit) {
+        if ((await this.updateCachedStatus()).conflicted.length == 0) {
+          this.localStorage.setConflict("false");
+        }
       }
       let roughly = false;
       if (committedFiles === void 0) {

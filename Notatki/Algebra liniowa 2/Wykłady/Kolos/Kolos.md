@@ -8,3 +8,4 @@ Odpuszczamy ale musimy umieć dzielić z resztą 4.5,8
 
 ![[Drawing 2023-06-01 18.12.25.excalidraw]]
 ![[Drawing 2023-06-01 18.46.57.excalidraw]]
+![[Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-02 22.13.10.excalidraw]]
