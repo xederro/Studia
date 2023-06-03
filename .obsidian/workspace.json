@@ -4,44 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b3f45e27ab852cc0",
+        "id": "4901d854cbb772b4",
         "type": "tabs",
         "children": [
           {
-            "id": "fab8a8b8cc02b130",
+            "id": "e97db2826697d1a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Kolokwium.md",
+                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "9a3209da82aec334",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Drawing 2023-06-03 09.54.21.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "d0e301e7c5e4176f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-22 07.33.21.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Drawing 2023-06-03 09.54.21.excalidraw.md",
+                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Drawing 2023-06-03 09.54.21.excalidraw.md"
+                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md"
               }
             }
           }
@@ -161,15 +140,16 @@
       "templates:Insert template": false
     }
   },
-  "active": "9a3209da82aec334",
+  "active": "e97db2826697d1a1",
   "lastOpenFiles": [
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-22 07.33.21.excalidraw.md",
     "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Drawing 2023-06-03 09.54.21.excalidraw.md",
+    "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Drawing 2023-06-03 09.54.21.excalidraw.png",
+    "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Kolokwium.md",
+    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-22 07.33.21.excalidraw.md",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-27 07.31.12.excalidraw.md",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
-    "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Kolokwium.md",
     "Notatki/Teoria systemów/Ćwiczenia/Kolokwium",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 4/AL2-zestaw-4.pdf",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-02 22.13.10.excalidraw.md",
@@ -197,7 +177,6 @@
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230601185345_354.png",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230601185326_631.png",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230601185315_337.png",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230601184727_202.png",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 2/AL2-zestaw-2.pdf",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 2/Drawing 2023-04-26 13.23.30.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-01 18.12.25.excalidraw.md",
@@ -208,7 +187,6 @@
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/statystyka_stosowana.pdf",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 7/W7_Korel_i_Reg (2).pdf",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-01 09.16.34.excalidraw.md",
     "Untitled.canvas"
   ]
 }

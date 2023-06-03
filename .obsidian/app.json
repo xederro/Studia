@@ -12,5 +12,6 @@
     "downscalePercent": 100
   },
   "tabSize": 4,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "newLinkFormat": "absolute"
 }
