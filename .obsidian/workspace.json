@@ -8,11 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ee3217a23fcb143",
+            "id": "c6140656fd1a3463",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-03 15.21.31.excalidraw.md"
+              }
             }
           }
         ]
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-03 15.21.31.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-03 15.21.31.excalidraw.md"
+              }
             }
           }
         ],
@@ -132,15 +137,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ee3217a23fcb143",
+  "active": "c6140656fd1a3463",
   "lastOpenFiles": [
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-06-02 15.27.06.excalidraw.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-03 15.21.31.excalidraw.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230603152231_933.png",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/AL2-zestaw-5.pdf",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230603152159_096.png",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230603152149_483.png",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230603152138_803.png",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Kolokwium.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Ćwiczenia 10.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Drawing 2023-06-02 13.37.20.excalidraw.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-06-02 15.27.06.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-02 22.13.10.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Ćwiczenia 9.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Lista_9_MD.pdf",
@@ -170,16 +181,9 @@
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 10",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 3/AL2-zestaw-3.pdf",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-01 18.46.57.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230601184742_203.png",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230601185345_354.png",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230601185326_631.png",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230601185315_337.png",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 2/AL2-zestaw-2.pdf",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 2/Drawing 2023-04-26 13.23.30.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-01 18.12.25.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 2/Wyklad_2a.pdf",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/rachunek_prawdopodobienstwa.pdf",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/statystyka_stosowana.pdf",
     "Untitled.canvas"
   ]
 }
