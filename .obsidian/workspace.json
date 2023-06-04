@@ -4,49 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "671e9706945cd39a",
+        "id": "116758f6ea14aa7c",
         "type": "tabs",
         "children": [
           {
-            "id": "a007d3f731598f94",
+            "id": "05cdf47b2f9c1926",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-04 18.48.13.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "358f665b208ab3cd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Drawing 2023-05-24 13.33.14.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "628554f9e623cfb3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/AL2-zestaw-6.pdf"
-              }
-            }
-          },
-          {
-            "id": "982fe651150a40b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Drawing 2023-06-03 09.54.21.excalidraw.md"
               }
             }
           }
@@ -135,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-04 18.48.13.excalidraw.md",
+                "file": "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Drawing 2023-06-03 09.54.21.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-04 18.48.13.excalidraw.md"
+                "file": "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Drawing 2023-06-03 09.54.21.excalidraw.md"
               }
             }
           }
@@ -170,14 +137,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a007d3f731598f94",
+  "active": "05cdf47b2f9c1926",
   "lastOpenFiles": [
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Drawing 2023-05-24 13.33.14.excalidraw.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/AL2-zestaw-6.pdf",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Drawing 2023-05-24 13.33.14.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-04 18.48.13.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230604191942_344.png",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230604191911_836.png",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230604191522_005.png",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230604185059_331.png",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-03 15.21.31.excalidraw.md",
