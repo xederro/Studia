@@ -13,22 +13,11 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Drawing 2023-06-03 09.54.21.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "23b0360319db35ee",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Drawing 2023-06-04 21.26.57.excalidraw.md"
+                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-01 18.46.57.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Drawing 2023-06-04 21.26.57.excalidraw.md",
+                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-01 18.46.57.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Drawing 2023-06-04 21.26.57.excalidraw.md"
+                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-01 18.46.57.excalidraw.md"
               }
             }
           }
@@ -148,8 +137,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23b0360319db35ee",
+  "active": "be4f16fc487574f4",
   "lastOpenFiles": [
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-02 22.13.10.excalidraw.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-03 15.21.31.excalidraw.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-01 18.12.25.excalidraw.md",
     "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Drawing 2023-06-03 09.54.21.excalidraw.md",
     "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Drawing 2023-06-04 21.26.57.excalidraw.md",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 5/Drawing 2023-05-08 07.32.16.excalidraw.md",
@@ -167,9 +159,7 @@
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230604191911_836.png",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230604191522_005.png",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230604185059_331.png",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-03 15.21.31.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-01 18.46.57.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-02 22.13.10.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/AL2-zestaw-5.pdf",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-06-02 15.27.06.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230603152231_933.png",
@@ -190,7 +180,6 @@
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
     "Notatki/Teoria systemów/Ćwiczenia/Kolokwium",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 4/AL2-zestaw-4.pdf",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 4/Drawing 2023-05-10 14.29.41.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Lista_10_MD.pdf",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 10",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 3/AL2-zestaw-3.pdf",
