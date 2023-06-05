@@ -4,27 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c25693a8cd7d965c",
+        "id": "d0161e4db02f2917",
         "type": "tabs",
         "children": [
           {
-            "id": "d53512a4726acf65",
+            "id": "84bc81cd8816e349",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-05 18.41.33.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "1a729f5a5f0307ae",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/Drawing 2023-05-31 13.19.54.excalidraw.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -112,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-05 18.41.33.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-05 18.41.33.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,17 +132,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d53512a4726acf65",
+  "active": "84bc81cd8816e349",
   "lastOpenFiles": [
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-04 18.48.13.excalidraw.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-05 12.54.49.excalidraw.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-05 20.50.16.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/Drawing 2023-05-31 13.19.54.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Drawing 2023-05-24 13.33.14.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-05 18.41.33.excalidraw.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Drawing 2023-05-24 13.33.14.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230605184645_939.png",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230605184428_941.png",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230603152231_933.png",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-05 12.54.49.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-04 18.48.13.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230605130026_482.png",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/AL2-zestaw-7.pdf",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230605130006_830.png",
