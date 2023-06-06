@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2868bf1dcc888aef",
+        "id": "9fe755229ff53ab0",
         "type": "tabs",
         "children": [
           {
-            "id": "2ab7ce2477c92667",
+            "id": "d4d724605610d55f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-06 18.12.13.excalidraw.md"
+                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -67,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5069465637207,
-    "collapsed": true
+    "width": 313.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-06 18.12.13.excalidraw.md",
+                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-06 18.12.13.excalidraw.md"
+                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md"
               }
             }
           }
@@ -138,12 +140,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ab7ce2477c92667",
+  "active": "d4d724605610d55f",
   "lastOpenFiles": [
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-06 17.39.42.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-05 20.50.16.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-06 18.12.13.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-06 18.12.13.excalidraw.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-05 20.50.16.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/Drawing 2023-05-31 13.19.54.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/Wyklad_7a_cz1.pdf",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230606181243_387.png",
