@@ -2,8 +2,8 @@
 
 Iterator - obiekt w którym kapsułkujemy przeglądanie kolekcji
 
- Wzorzec projektowy:
- rozwiązanie pewnego problemu projektu obiektowego
+Wzorzec projektowy:
+rozwiązanie pewnego problemu projektu obiektowego
 
 Kreacyjne:
  - Singleton - jedna instancja klasy
