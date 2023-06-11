@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "304b51e42746881c",
+        "id": "6976716c98ec127f",
         "type": "tabs",
         "children": [
           {
-            "id": "bd91b6cbefde8bed",
+            "id": "16522776af56e57f",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -16,8 +16,19 @@
                 "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Cw2_pomiar_UiI_DC_2023.pdf"
               }
             }
+          },
+          {
+            "id": "4a92f9a3d520d1a7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/VC8045.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,7 +42,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ecd815a6ba5683a0",
+            "id": "671d26171d29a68e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -67,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5069465637207,
+    "width": 541.5069465637207,
     "collapsed": true
   },
   "right": {
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Cw2_pomiar_UiI_DC_2023.pdf",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/VC8045.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Cw2_pomiar_UiI_DC_2023.pdf"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/VC8045.pdf"
               }
             }
           }
@@ -138,11 +149,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ecd815a6ba5683a0",
+  "active": "671d26171d29a68e",
   "lastOpenFiles": [
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Drawing 2023-06-11 09.10.36.excalidraw.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Pasted Image 20230611091052_443.png",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Cw2_pomiar_UiI_DC_2023.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Labolatoria 2.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Pasted Image 20230611091052_443.png",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Untitled Diagram.svg",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Cw6_R_-_seria_mostek_i_Rz_i_dzielniki_2023.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 5/Cw5_-_pomiary_AC_i_PWM_2023.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 5/lab_ 5.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 4/Cw_4_Pomiar_Rezystancji_i_Impedancji_2023.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Drawing 2023-06-11 09.10.36.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 1/Cw1_oscyloskop_2023.pdf",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-07 11.39.09.excalidraw.md",
@@ -171,21 +190,13 @@
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230605184645_939.png",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230605184428_941.png",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230603152231_933.png",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230605130026_482.png",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/AL2-zestaw-7.pdf",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-01 18.46.57.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-02 22.13.10.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-03 15.21.31.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-01 18.12.25.excalidraw.md",
     "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Drawing 2023-06-04 21.26.57.excalidraw.md",
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 5/Drawing 2023-05-08 07.32.16.excalidraw.md",
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-22 07.33.21.excalidraw.md",
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 4/Drawing 2023-04-24 07.32.39.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/AL2-zestaw-6.pdf",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/AL2-zestaw-5.pdf",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Lista_9_MD.pdf",
-    "Notatki/Teoria systemów/Ćwiczenia/Kolokwium",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 4/AL2-zestaw-4.pdf",
     "Untitled.canvas"
   ]
 }
