@@ -11,8 +11,10 @@
             "id": "bd91b6cbefde8bed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Cw2_pomiar_UiI_DC_2023.pdf"
+              }
             }
           }
         ]
@@ -65,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5069465637207
+    "width": 313.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -100,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Cw2_pomiar_UiI_DC_2023.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Cw2_pomiar_UiI_DC_2023.pdf"
+              }
             }
           }
         ],
@@ -132,8 +138,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd91b6cbefde8bed",
+  "active": "ecd815a6ba5683a0",
   "lastOpenFiles": [
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Drawing 2023-06-11 09.10.36.excalidraw.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Pasted Image 20230611091052_443.png",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Cw2_pomiar_UiI_DC_2023.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 1/Cw1_oscyloskop_2023.pdf",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-07 11.39.09.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230607113924_328.png",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 10/Wykład 10.md",
@@ -145,7 +156,6 @@
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-05 18.41.33.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-05 20.50.16.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-06 18.12.13.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-06 17.39.42.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/Wyklad_7a_cz1.pdf",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230606181243_387.png",
@@ -163,7 +173,6 @@
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230603152231_933.png",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230605130026_482.png",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/AL2-zestaw-7.pdf",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230605130006_830.png",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-01 18.46.57.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-02 22.13.10.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-03 15.21.31.excalidraw.md",
@@ -172,14 +181,11 @@
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 5/Drawing 2023-05-08 07.32.16.excalidraw.md",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-22 07.33.21.excalidraw.md",
     "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 4/Drawing 2023-04-24 07.32.39.excalidraw.md",
-    "Notatki/Teoria systemów/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-27 07.31.12.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/AL2-zestaw-6.pdf",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 5/AL2-zestaw-5.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Lista_9_MD.pdf",
     "Notatki/Teoria systemów/Ćwiczenia/Kolokwium",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 4/AL2-zestaw-4.pdf",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Lista_10_MD.pdf",
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 10",
     "Untitled.canvas"
   ]
 }

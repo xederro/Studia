@@ -16,3 +16,4 @@
 ![[Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-05 20.50.16.excalidraw]]
 ![[Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-06 17.39.42.excalidraw]]
 ![[Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-06 18.12.13.excalidraw]]
+![[Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-07 11.39.09.excalidraw]]
