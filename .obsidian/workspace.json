@@ -4,29 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3de388aa3bb07daa",
+        "id": "304b51e42746881c",
         "type": "tabs",
         "children": [
           {
-            "id": "361242b449ca068c",
+            "id": "bd91b6cbefde8bed",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "c9a4c5e59d4872ce",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-07 11.39.09.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-07 11.39.09.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-07 11.39.09.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,10 +132,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c9a4c5e59d4872ce",
+  "active": "bd91b6cbefde8bed",
   "lastOpenFiles": [
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230607113924_328.png",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-07 11.39.09.excalidraw.md",
+    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230607113924_328.png",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 10/Wykład 10.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 9/Wykład 9.md",
@@ -178,7 +164,6 @@
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230605130026_482.png",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/AL2-zestaw-7.pdf",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230605130006_830.png",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230605125952_760.png",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-01 18.46.57.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-02 22.13.10.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-03 15.21.31.excalidraw.md",
