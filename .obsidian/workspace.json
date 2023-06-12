@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6976716c98ec127f",
+        "id": "8d7120fa379c55b9",
         "type": "tabs",
         "children": [
           {
-            "id": "16522776af56e57f",
+            "id": "09b059e9eea0aa6e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Cw2_pomiar_UiI_DC_2023.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -67,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 541.5069465637207,
-    "collapsed": true
+    "width": 291.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Cw2_pomiar_UiI_DC_2023.pdf",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Cw2_pomiar_UiI_DC_2023.pdf"
+                "file": "README.md"
               }
             }
           }
@@ -138,13 +140,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "16522776af56e57f",
+  "active": "09b059e9eea0aa6e",
   "lastOpenFiles": [
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/VC8045.pdf",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Kolokwium.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Rachunek.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Untitled Diagram.svg",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Cw2_pomiar_UiI_DC_2023.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/VC8045.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Labolatoria 2.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Pasted Image 20230611091052_443.png",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Untitled Diagram.svg",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Cw6_R_-_seria_mostek_i_Rz_i_dzielniki_2023.pdf",
@@ -180,13 +184,11 @@
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230605184645_939.png",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230605184428_941.png",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230603152231_933.png",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/AL2-zestaw-7.pdf",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-01 18.46.57.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-02 22.13.10.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-03 15.21.31.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-01 18.12.25.excalidraw.md",
     "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Drawing 2023-06-04 21.26.57.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/AL2-zestaw-6.pdf",
     "Untitled.canvas"
   ]
 }
