@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dd01d9bbf859bc2e",
+        "id": "078f3567d0b575a0",
         "type": "tabs",
         "children": [
           {
-            "id": "d488b59408761bec",
+            "id": "bd6cec6152034bd4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-12 07.57.19.excalidraw.md"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 3/Cw3_pomiar_diod_i_ADC_DAC_2023.pdf"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-12 07.57.19.excalidraw.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 3/Cw3_pomiar_diod_i_ADC_DAC_2023.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-12 07.57.19.excalidraw.md"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 3/Cw3_pomiar_diod_i_ADC_DAC_2023.pdf"
               }
             }
           }
@@ -138,15 +138,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d488b59408761bec",
+  "active": "bd6cec6152034bd4",
   "lastOpenFiles": [
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-12 07.57.19.excalidraw.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Kolokwium.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230612075804_458.jpg",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/photo_2023-06-12_07-55-46 (2).jpg",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230612075819_483.jpg",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/photo_2023-06-12_07-55-46.jpg",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/statystyka_stosowana.pdf",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-12 07.57.19.excalidraw.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 3/Cw3_pomiar_diod_i_ADC_DAC_2023.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Cw2_pomiar_UiI_DC_2023.pdf",
     "README.md",
