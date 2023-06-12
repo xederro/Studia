@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8d7120fa379c55b9",
+        "id": "dd01d9bbf859bc2e",
         "type": "tabs",
         "children": [
           {
-            "id": "09b059e9eea0aa6e",
+            "id": "d488b59408761bec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-12 07.57.19.excalidraw.md"
               }
             }
           }
@@ -70,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5069465637207
+    "width": 291.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-12 07.57.19.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-12 07.57.19.excalidraw.md"
               }
             }
           }
@@ -140,12 +138,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "09b059e9eea0aa6e",
+  "active": "d488b59408761bec",
   "lastOpenFiles": [
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Kolokwium.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230612075804_458.jpg",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/photo_2023-06-12_07-55-46 (2).jpg",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230612075819_483.jpg",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/photo_2023-06-12_07-55-46.jpg",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/statystyka_stosowana.pdf",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-12 07.57.19.excalidraw.md",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 3/Cw3_pomiar_diod_i_ADC_DAC_2023.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Cw2_pomiar_UiI_DC_2023.pdf",
+    "README.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Rachunek.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Untitled Diagram.svg",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Cw2_pomiar_UiI_DC_2023.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/VC8045.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Labolatoria 2.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Pasted Image 20230611091052_443.png",
@@ -170,25 +176,16 @@
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-05 20.50.16.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-06 18.12.13.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-06 17.39.42.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/Wyklad_7a_cz1.pdf",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230606181243_387.png",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/Wyklad_7a_cz2.pdf",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230606175332_479.png",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230606174027_362.png",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230606174012_349.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Drawing 2023-06-06 13.11.21.excalidraw.md",
     "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Drawing 2023-06-03 09.54.21.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Drawing 2023-05-24 13.33.14.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230605184645_939.png",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230605184428_941.png",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230603152231_933.png",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-01 18.46.57.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-02 22.13.10.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-03 15.21.31.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-01 18.12.25.excalidraw.md",
-    "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Drawing 2023-06-04 21.26.57.excalidraw.md",
     "Untitled.canvas"
   ]
 }
