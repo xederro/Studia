@@ -17,6 +17,7 @@ typ: 'W'
 9. [[Notatki/Programowanie obiektowe/Wykłady/Wykład 9/Wykład 9|Wykład 9]]
 10. [[Notatki/Programowanie obiektowe/Wykłady/Wykład 10/Wykład 10|Wykład 10]]
 11. [[Notatki/Programowanie obiektowe/Wykłady/Wykład 11/Wykład 11|Wykład 11]]
+12. [[Notatki/Programowanie obiektowe/Wykłady/Kolos/Kolos|Kolos]]
 
 ## Zaliczenie
 

@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "078f3567d0b575a0",
+        "id": "e07c0afc1231e654",
         "type": "tabs",
         "children": [
           {
-            "id": "bd6cec6152034bd4",
+            "id": "259039d9bbf7fd70",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 6/Drawing 2023-05-18 11.06.37.excalidraw.md"
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykłady.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 6/Drawing 2023-05-18 11.06.37.excalidraw.md",
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykłady.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 6/Drawing 2023-05-18 11.06.37.excalidraw.md"
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykłady.md"
               }
             }
           }
@@ -137,8 +140,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd6cec6152034bd4",
+  "active": "259039d9bbf7fd70",
   "lastOpenFiles": [
+    "Notatki/Programowanie obiektowe/Wykłady/Kolos/Kolos.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 6/Drawing 2023-05-18 11.06.37.excalidraw.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 3/Cw3_pomiar_diod_i_ADC_DAC_2023.pdf",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-12 07.57.19.excalidraw.md",
@@ -184,8 +189,6 @@
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Drawing 2023-06-06 13.11.21.excalidraw.md",
     "Notatki/Teoria systemów/Ćwiczenia/Kolokwium/Drawing 2023-06-03 09.54.21.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Wykład 6/Drawing 2023-05-24 13.33.14.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-01 18.46.57.excalidraw.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-02 22.13.10.excalidraw.md",
     "Untitled.canvas"
   ]
 }
