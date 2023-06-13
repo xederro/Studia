@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "82ccc5116611d3de",
+        "id": "3510b082c830a17e",
         "type": "tabs",
         "children": [
           {
-            "id": "b720b6002d488813",
+            "id": "f78c4a5ed2f4e3e2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-13 19.22.13.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "9ecf815dc2b120f5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-13 17.05.53.excalidraw.md"
+                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 4/Rachunek_Pr_W4.pdf"
               }
             }
           }
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-13 19.22.13.excalidraw.md",
+                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 4/Rachunek_Pr_W4.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-13 19.22.13.excalidraw.md"
+                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 4/Rachunek_Pr_W4.pdf"
               }
             }
           }
@@ -147,12 +137,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b720b6002d488813",
+  "active": "f78c4a5ed2f4e3e2",
   "lastOpenFiles": [
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-13 17.05.53.excalidraw.md",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-13 19.22.13.excalidraw.md",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Kolokwium.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 3/Rachunek_Pr_W3.pdf",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 2/Rachunek_Pr_W2.pdf",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 1/Rachunek Pr_W1.pdf",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-12 07.57.19.excalidraw.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-13 19.22.13.excalidraw.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-13 17.05.53.excalidraw.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Kolokwium.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230612075804_458.jpg",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230613170657_353.jpg",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/received_820699909773295.jpeg",
@@ -186,15 +179,12 @@
     "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 6/Cw6_R_-_seria_mostek_i_Rz_i_dzielniki_2023.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 5/Cw5_-_pomiary_AC_i_PWM_2023.pdf",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 5/lab_ 5.pdf",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 4/Cw_4_Pomiar_Rezystancji_i_Impedancji_2023.pdf",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Drawing 2023-06-11 09.10.36.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-07 11.39.09.excalidraw.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 10/Wykład 10.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 9/Wykład 9.md",
-    "Notatki/Algebra liniowa 2/Wykłady/Wykład 7/Drawing 2023-05-31 13.19.54.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas",
     "Untitled.canvas"
   ]
