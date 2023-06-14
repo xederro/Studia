@@ -35838,9 +35838,12 @@ var DiffView = class extends import_obsidian17.ItemView {
     super(leaf);
     this.plugin = plugin;
     this.gettingDiff = false;
+    this.gitRefreshBind = this.refresh.bind(this);
+    this.gitViewRefreshBind = this.refresh.bind(this);
     this.parser = new DOMParser();
     this.navigation = true;
-    addEventListener("git-refresh", this.refresh.bind(this));
+    addEventListener("git-refresh", this.gitRefreshBind);
+    addEventListener("git-view-refresh", this.gitViewRefreshBind);
   }
   getViewType() {
     return DIFF_VIEW_CONFIG.type;
@@ -35867,7 +35870,8 @@ var DiffView = class extends import_obsidian17.ItemView {
     return this.state;
   }
   onClose() {
-    removeEventListener("git-refresh", this.refresh.bind(this));
+    removeEventListener("git-refresh", this.gitRefreshBind);
+    removeEventListener("git-view-refresh", this.gitViewRefreshBind);
     return super.onClose();
   }
   onOpen() {
@@ -35886,16 +35890,26 @@ var DiffView = class extends import_obsidian17.ItemView {
         );
         this.contentEl.empty();
         if (!diff2) {
-          const content = await this.app.vault.adapter.read(
-            this.plugin.gitManager.getVaultPath(this.state.file)
-          );
-          const header = `--- /dev/null
+          if (this.plugin.gitManager instanceof SimpleGit && await this.plugin.gitManager.isTracked(
+            this.state.file
+          )) {
+            diff2 = [
+              `--- ${this.state.file}`,
+              `+++ ${this.state.file}`,
+              ""
+            ].join("\n");
+          } else {
+            const content = await this.app.vault.adapter.read(
+              this.plugin.gitManager.getVaultPath(this.state.file)
+            );
+            const header = `--- /dev/null
 +++ ${this.state.file}
 @@ -0,0 +1,${content.split("\n").length} @@`;
-          diff2 = [
-            ...header.split("\n"),
-            ...content.split("\n").map((line) => `+${line}`)
-          ].join("\n");
+            diff2 = [
+              ...header.split("\n"),
+              ...content.split("\n").map((line) => `+${line}`)
+            ].join("\n");
+          }
         }
         const diffEl = this.parser.parseFromString(html(diff2), "text/html").querySelector(".d2h-file-diff");
         this.contentEl.append(diffEl);

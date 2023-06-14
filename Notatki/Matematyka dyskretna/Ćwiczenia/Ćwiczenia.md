@@ -19,6 +19,7 @@ typ: 'C'
 11. [[Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 11/Ćwiczenia 11|Ćwiczenia 11]]
 12. [[Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Kolokwium 1|Kolokwium 1]]
 13. [[Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 2/Kolokwium 2|Kolokwium 2]]
+14. [[Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Kolokwium 3|Kolokwium 3]]
 
 ## Zaliczenie
 
