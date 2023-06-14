@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3510b082c830a17e",
+        "id": "f3a8b191a48d9202",
         "type": "tabs",
         "children": [
           {
-            "id": "c2b09f4db7da88d4",
+            "id": "9cb6a5ad616e4acf",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-13 17.05.53.excalidraw.md"
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 11/Wykład 11.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -67,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5069465637207
+    "width": 291.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -102,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-13 17.05.53.excalidraw.md",
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 11/Wykład 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-13 17.05.53.excalidraw.md"
+                "file": "Notatki/Programowanie obiektowe/Wykłady/Wykład 11/Wykład 11.md"
               }
             }
           }
@@ -137,10 +141,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c2b09f4db7da88d4",
+  "active": "9cb6a5ad616e4acf",
   "lastOpenFiles": [
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-13 19.22.13.excalidraw.md",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 8/Wykład 8.md",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 11/Wykład 11.md",
+    "Notatki/Programowanie obiektowe/Wykłady/Wykład 10/Wykład 10.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-13 17.05.53.excalidraw.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-13 19.22.13.excalidraw.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 4/Rachunek_Pr_W4.pdf",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 3/Rachunek_Pr_W3.pdf",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 2/Rachunek_Pr_W2.pdf",
@@ -181,8 +188,6 @@
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Drawing 2023-06-11 09.10.36.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Kolos.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-07 11.39.09.excalidraw.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 10/Wykład 10.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 9/Wykład 9.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas",
     "Untitled.canvas"

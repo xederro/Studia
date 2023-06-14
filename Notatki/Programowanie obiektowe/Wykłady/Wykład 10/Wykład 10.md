@@ -12,7 +12,7 @@ strategia - template method ale wykorzystujemy kompozycje
 
 state - stan, w zależności od stanu robi się coś innego
 
-
+mediator - oprogramować ileś zależności między obiektami projektu
 
 
 
