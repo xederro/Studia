@@ -4,36 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "390ff51a14331e68",
+        "id": "0311ab3ccb92efae",
         "type": "tabs",
         "children": [
           {
-            "id": "34946f8c2ca0cc5c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 4/Rachunek_Pr_W4.pdf"
-              }
-            }
-          },
-          {
-            "id": "c997fcceba3f6729",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614215703_300.png"
-              }
-            }
-          },
-          {
-            "id": "57edf10d20109e6c",
+            "id": "20dd8eacda9b2881",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-14 19.17.58.excalidraw.md"
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-01 10.19.08.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "e22bcfe3fe7c8e21",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-15 09.19.37.excalidraw.md"
               }
             }
           }
@@ -123,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614215703_300.png",
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-15 09.19.37.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614215703_300.png"
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-15 09.19.37.excalidraw.md"
               }
             }
           }
@@ -158,18 +148,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c997fcceba3f6729",
+  "active": "e22bcfe3fe7c8e21",
   "lastOpenFiles": [
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614221918_806.png",
+    "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-01 10.19.08.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-15 09.19.37.excalidraw.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Kolokwium.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-14 19.17.58.excalidraw.md",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 4/Rachunek_Pr_W4.pdf",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykłady.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614215703_300.png",
+    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614221918_806.png",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614215637_124.png",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614215629_657.png",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614215621_552.png",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614215614_366.png",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-01 11.01.04.excalidraw.md",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 4/Rachunek_Pr_W4.pdf",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-14 19.17.58.excalidraw.md",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Kolokwium.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 6/Drawing 2023-05-18 11.06.37.excalidraw.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 5/Rachunek_Pr_W5.pdf",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 6/Rachunek_Pr_W6.pdf",
@@ -203,8 +196,6 @@
     "Notatki/Programowanie obiektowe/Wykłady/Wykłady.md",
     "Notatki/Programowanie obiektowe/Wykłady/Kolos/Kolos.md",
     "README.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 2/Labolatoria 2.md",
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas",
     "Untitled.canvas"
   ]
