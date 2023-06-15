@@ -13,6 +13,7 @@ typ: 'W'
 5. [[Notatki/Matematyka dyskretna/Wykłady/Wykład 5/Wykład 5|Wykład 5]]
 6. [[Notatki/Matematyka dyskretna/Wykłady/Wykład 6/Wykład 6|Wykład 6]]
 7. [[Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład 7|Wykład 7]]
+8. [[Notatki/Matematyka dyskretna/Wykłady/Kolos/Kolos|Kolos]]
 
 ## Zaliczenie
 

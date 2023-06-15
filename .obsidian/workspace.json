@@ -4,31 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "0311ab3ccb92efae",
+        "id": "9ffa5d5c909560e8",
         "type": "tabs",
         "children": [
           {
-            "id": "20dd8eacda9b2881",
+            "id": "1ffcdd550b52f2e9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-01 10.19.08.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "e22bcfe3fe7c8e21",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-15 09.19.37.excalidraw.md"
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład 7.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-15 09.19.37.excalidraw.md",
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-15 09.19.37.excalidraw.md"
+                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład 7.md"
               }
             }
           }
@@ -148,8 +140,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e22bcfe3fe7c8e21",
+  "active": "1ffcdd550b52f2e9",
   "lastOpenFiles": [
+    "Notatki/Matematyka dyskretna/Wykłady/Kolos/Kolos.md",
+    "Notatki/Matematyka dyskretna/Wykłady/Wykłady.md",
+    "Notatki/Matematyka dyskretna/Wykłady/Kolos",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-01 10.19.08.excalidraw.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-15 09.19.37.excalidraw.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Kolokwium.md",
@@ -186,7 +181,6 @@
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 10/Wykład 10.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 3/Rachunek_Pr_W3.pdf",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 2/Rachunek_Pr_W2.pdf",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 1/Rachunek Pr_W1.pdf",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-13 16.20.17.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-13 16.19.07.excalidraw.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Wykład 9.md",
@@ -194,8 +188,6 @@
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Drawing 2023-06-06 13.11.21.excalidraw.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Drawing 2023-06-13 13.18.27.excalidraw.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykłady.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Kolos/Kolos.md",
-    "README.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas",
     "Untitled.canvas"
   ]
