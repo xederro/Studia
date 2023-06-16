@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3ebc8382be9bc47a",
+        "id": "2877dc162b65d16e",
         "type": "tabs",
         "children": [
           {
-            "id": "ea319e4db84ec6dc",
+            "id": "ef73891cc02056e9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Drawing 2023-06-16 13.19.30.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Drawing 2023-06-16 13.19.30.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Drawing 2023-06-16 13.19.30.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -137,10 +132,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ea319e4db84ec6dc",
+  "active": "ef73891cc02056e9",
   "lastOpenFiles": [
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Lista_10_MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Drawing 2023-06-16 13.19.30.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Lista_10_MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Pasted Image 20230616132101_077.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Pasted Image 20230616132001_030.png",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 11/Wykład 11.md",
