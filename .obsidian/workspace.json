@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "240a3879c85d75cd",
+        "id": "0d6cd14a1b2a3f31",
         "type": "tabs",
         "children": [
           {
-            "id": "5a25c61f43d89a69",
+            "id": "93b70c0100dd8b81",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Drawing 2023-06-15 16.27.03.excalidraw.md"
+                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 11/Wykład 11.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -103,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Drawing 2023-06-15 16.27.03.excalidraw.md",
+                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 11/Wykład 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Drawing 2023-06-15 16.27.03.excalidraw.md"
+                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 11/Wykład 11.md"
               }
             }
           }
@@ -138,14 +141,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5a25c61f43d89a69",
+  "active": "93b70c0100dd8b81",
   "lastOpenFiles": [
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykłady.md",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 11/Wykład 11.md",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Drawing 2023-06-16 11.24.41.excalidraw.md",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 11",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 10/Wykład 10.md",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Drawing 2023-06-15 16.27.03.excalidraw.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Pasted Image 20230615164755_928.png",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Notatki do wykładów optyka falowa 2021.pdf",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Drawing 2023-06-15 16.27.03.excalidraw.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Wykład 9.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Pasted Image 20230615162948_452.png",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Pasted Image 20230615162919_972.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Pasted Image 20230615162748_945.png",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład 7.md",
@@ -169,7 +177,6 @@
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 5/Rachunek_Pr_W5.pdf",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 6/Rachunek_Pr_W6.pdf",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-13 19.22.13.excalidraw.md",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614205255_243.png",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 7/W7_Korel_i_Reg (2).pdf",
     "CODE_OF_CONDUCT.md",
@@ -182,10 +189,6 @@
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-13 17.05.53.excalidraw.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 11/Wykład 11.md",
     "Notatki/Programowanie obiektowe/Wykłady/Wykład 8/Wykład 8.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 10/Wykład 10.md",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 3/Rachunek_Pr_W3.pdf",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-13 16.20.17.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-13 16.19.07.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas",
     "Untitled.canvas"
   ]
