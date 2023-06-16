@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0d6cd14a1b2a3f31",
+        "id": "3ebc8382be9bc47a",
         "type": "tabs",
         "children": [
           {
-            "id": "93b70c0100dd8b81",
+            "id": "ea319e4db84ec6dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 11/Wykład 11.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Drawing 2023-06-16 13.19.30.excalidraw.md"
               }
             }
           }
@@ -70,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5069465637207,
-    "collapsed": true
+    "width": 291.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 11/Wykład 11.md",
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Drawing 2023-06-16 13.19.30.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 11/Wykład 11.md"
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Drawing 2023-06-16 13.19.30.excalidraw.md"
               }
             }
           }
@@ -141,10 +137,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "93b70c0100dd8b81",
+  "active": "ea319e4db84ec6dc",
   "lastOpenFiles": [
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykłady.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Lista_10_MD.pdf",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Drawing 2023-06-16 13.19.30.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Pasted Image 20230616132101_077.png",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Pasted Image 20230616132001_030.png",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 11/Wykład 11.md",
+    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykłady.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Drawing 2023-06-16 11.24.41.excalidraw.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 11",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 10/Wykład 10.md",
@@ -170,8 +170,6 @@
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614221918_806.png",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614215637_124.png",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614215629_657.png",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614215621_552.png",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614215614_366.png",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-01 11.01.04.excalidraw.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 6/Drawing 2023-05-18 11.06.37.excalidraw.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 5/Rachunek_Pr_W5.pdf",
@@ -182,13 +180,10 @@
     "CODE_OF_CONDUCT.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/statystyka_stosowana.pdf",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Rachunek.pdf",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/rachunek_prawdopodobienstwa.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Kolokwium 3.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-12 07.57.19.excalidraw.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-13 17.05.53.excalidraw.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 11/Wykład 11.md",
-    "Notatki/Programowanie obiektowe/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas",
     "Untitled.canvas"
   ]
