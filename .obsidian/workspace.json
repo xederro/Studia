@@ -16,8 +16,29 @@
                 "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 3/Cw3_pomiar_diod_i_ADC_DAC_2023.pdf"
               }
             }
+          },
+          {
+            "id": "0b3c9b88db1cd92b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/104691.INSTRUKCJA_PL..2015-04-22.2.pdf"
+              }
+            }
+          },
+          {
+            "id": "e7eca987554cbc78",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 3/Cw3_pomiar_diod_i_ADC_DAC_2023.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -67,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5069465637207,
+    "width": 421.5069465637207,
     "collapsed": true
   },
   "right": {
@@ -138,25 +159,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6e7a41521fd0d886",
+  "active": "e7eca987554cbc78",
   "lastOpenFiles": [
-    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 1/Cw1_oscyloskop_2023.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/104691.INSTRUKCJA_PL..2015-04-22.2.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/104016.INSTRUKCJA_PL..2007-01-01.1.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/D9205A_instrukcja obsługi.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/~$aproksymacja.xlsx",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/Dobre praktyki pomiarowe.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/DSO2000-Hantek-instrukcja-PL.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/DSO2000-Hantek-manual.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/Instrukcja_Generator.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/Instrukcja_Mierniki_analogowe 2019v1.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/Instrukcja_Oscyloskop.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/karta_katalogowa_9205c.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 0/Labolatoria 0.md",
     "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 1/Labolatoria 1.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Drawing 2023-06-15 16.27.03.excalidraw.md",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/6 Lista optyka falowa 2022.pdf",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Ćwiczenia 10.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Lista_10_MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Drawing 2023-06-16 13.19.30.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Pasted Image 20230616132101_077.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Pasted Image 20230616132001_030.png",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 11/Wykład 11.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykłady.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Drawing 2023-06-16 11.24.41.excalidraw.md",
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 11",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 10/Wykład 10.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Pasted Image 20230615164755_928.png",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Notatki do wykładów optyka falowa 2021.pdf",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Wykład 9.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Pasted Image 20230615162948_452.png",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Pasted Image 20230615162919_972.png",
@@ -164,12 +192,10 @@
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Matematyka dyskretna/Wykłady/Kolos/Kolos.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykłady.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Kolos",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-01 10.19.08.excalidraw.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-15 09.19.37.excalidraw.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Kolokwium.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-14 19.17.58.excalidraw.md",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 4/Rachunek_Pr_W4.pdf",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykłady.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614215703_300.png",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614221918_806.png",
@@ -177,15 +203,10 @@
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Pasted Image 20230614215629_657.png",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-01 11.01.04.excalidraw.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 6/Drawing 2023-05-18 11.06.37.excalidraw.md",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 5/Rachunek_Pr_W5.pdf",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 6/Rachunek_Pr_W6.pdf",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-13 19.22.13.excalidraw.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 7/W7_Korel_i_Reg (2).pdf",
     "CODE_OF_CONDUCT.md",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/statystyka_stosowana.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Kolokwium 3.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas",
     "Untitled.canvas"
   ]
