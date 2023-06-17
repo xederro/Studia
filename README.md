@@ -21,7 +21,7 @@ Zalecamy zapoznanie się z:
 ### Semestr 2
 1. [[Algebra liniowa 2]]
 2. [[Analiza matematyczna 2.3A]]
-3. [[Fizyka 1.1A]]
+3. [[Notatki/Fizyka 1.1A/Fizyka 1.1A]]
 4. [[Matematyka dyskretna]]
 5. [[Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria|Miernictwo w informatyce i telekomunikacji - Labolatoria]]
 6. [[Podstawy automatyki i robotyki]]

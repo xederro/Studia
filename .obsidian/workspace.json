@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2ae03f7cbf856a4b",
+        "id": "8610cdb0cb5c7f0c",
         "type": "tabs",
         "children": [
           {
-            "id": "4baafb922485777b",
+            "id": "6e7a41521fd0d886",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Drawing 2023-06-15 16.27.03.excalidraw.md"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 3/Cw3_pomiar_diod_i_ADC_DAC_2023.pdf"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Drawing 2023-06-15 16.27.03.excalidraw.md",
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 3/Cw3_pomiar_diod_i_ADC_DAC_2023.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Drawing 2023-06-15 16.27.03.excalidraw.md"
+                "file": "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 3/Cw3_pomiar_diod_i_ADC_DAC_2023.pdf"
               }
             }
           }
@@ -138,8 +138,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4baafb922485777b",
+  "active": "6e7a41521fd0d886",
   "lastOpenFiles": [
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 1/Cw1_oscyloskop_2023.pdf",
+    "Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 1/Labolatoria 1.md",
+    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Drawing 2023-06-15 16.27.03.excalidraw.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/6 Lista optyka falowa 2022.pdf",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Ćwiczenia 10.md",
@@ -152,7 +155,6 @@
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Drawing 2023-06-16 11.24.41.excalidraw.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 11",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 10/Wykład 10.md",
-    "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Drawing 2023-06-15 16.27.03.excalidraw.md",
     "Notatki/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Pasted Image 20230615164755_928.png",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Notatki do wykładów optyka falowa 2021.pdf",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Wykład 9.md",
@@ -182,10 +184,8 @@
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Wykład 7/W7_Korel_i_Reg (2).pdf",
     "CODE_OF_CONDUCT.md",
     "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/statystyka_stosowana.pdf",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Rachunek.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Kolokwium 3.md",
-    "Notatki/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Drawing 2023-06-12 07.57.19.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas",
     "Untitled.canvas"
   ]

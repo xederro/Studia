@@ -1,3 +1,3 @@
 H: Wyklad78
-![[Notatki Elektryczność2022.pdf]]![[Elektrycznosc - rozwiązane zadania.pdf]]![[Elektryczność - Konrad Pempera.pdf]]![[impedancja i moc2020.pdf]]![[rezonans i imp zastepcza.pdf]]![[skuteczna.png]]
-![[Drawing 2023-04-18 13.15.28.excalidraw]]![[Drawing 2023-04-25 13.15.19.excalidraw]]
+![[Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Notatki Elektryczność2022.pdf]]![[Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Elektrycznosc - rozwiązane zadania.pdf]]![[Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Elektryczność - Konrad Pempera.pdf]]![[Notatki/Fizyka 1.1A/Wykłady/Wykład 7/impedancja i moc2020.pdf]]![[Notatki/Fizyka 1.1A/Wykłady/Wykład 7/rezonans i imp zastepcza.pdf]]![[Notatki/Fizyka 1.1A/Wykłady/Wykład 7/skuteczna.png]]
+![[Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Drawing 2023-04-18 13.15.28.excalidraw]]![[Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Drawing 2023-04-25 13.15.19.excalidraw]]
