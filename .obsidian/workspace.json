@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5069465637207,
-    "collapsed": true
+    "width": 421.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -138,7 +137,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cbeb4a515c1ff49c",
+  "active": "671d26171d29a68e",
   "lastOpenFiles": [
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 7/Lista_7_MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-17 19.29.39.excalidraw.md",
