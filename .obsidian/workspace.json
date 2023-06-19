@@ -16,29 +16,8 @@
                 "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-17 19.29.39.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "91c609ea89dcde9f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Lista_10_MD.pdf"
-              }
-            }
-          },
-          {
-            "id": "abefb14730eeb55c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład_7_Grafy_2.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład_7_Grafy_2.pdf",
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-17 19.29.39.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład_7_Grafy_2.pdf"
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-17 19.29.39.excalidraw.md"
               }
             }
           }
@@ -159,10 +138,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "abefb14730eeb55c",
+  "active": "015c1b99cc2741be",
   "lastOpenFiles": [
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Lista_10_MD.pdf",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład_7_Grafy_2.pdf",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Lista_10_MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-17 19.29.39.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Pasted Image 20230619190415_537.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Kolokwium 3.md",
