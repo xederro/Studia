@@ -8,14 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0469619d64b833d8",
+            "id": "f3d4a46cdb88220d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-13 16.19.07.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "587bd3b614181727",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Drawing 2023-06-02 13.16.49.excalidraw.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5069465637207
+    "width": 366.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -100,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Drawing 2023-06-02 13.16.49.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Drawing 2023-06-02 13.16.49.excalidraw.md"
+              }
             }
           }
         ],
@@ -132,11 +149,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0469619d64b833d8",
+  "active": "587bd3b614181727",
   "lastOpenFiles": [
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-13 16.19.07.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Drawing 2023-06-02 13.16.49.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Drawing 2023-05-26 14.25.19.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Drawing 2023-05-26 13.27.16.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-17 19.29.39.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-19 11.22.21.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Drawing 2023-06-02 13.37.20.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Pasted Image 20230613161930_291.jpg",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Pasted Image 20230620173634_409.jpg",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-19 10.34.13.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Kolokwium 3.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-19 11.22.21.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-18 19.10.40.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Pasted Image 20230619162126_733.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Pasted Image 20230619112847_101.png",
@@ -144,21 +169,13 @@
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Pasted Image 20230619111830_195.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-20 17.36.06.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Pasted Image 20230619190415_537.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Pasted Image 20230620173634_409.jpg",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/352855047_570453935162089_9001956977457075806_n.jpg",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Pasted Image 20230613161930_291.jpg",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Pasted image 20230617194100.png",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Drawing 2023-06-02 13.16.49.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-13 16.19.07.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/352855047_570453935162089_9001956977457075806_n.jpg.crdownload",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Drawing 2023-06-02 13.37.20.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Drawing 2023-05-26 13.27.16.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Drawing 2023-05-26 14.25.19.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Drawing 2023-06-16 13.19.30.excalidraw.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Wykład 9.md",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Drawing 2023-06-20 13.10.09.excalidraw.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 11/Wykład 11.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-17 19.29.39.excalidraw.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład_7_Grafy_2.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Lista_10_MD.pdf",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład 7.md",
