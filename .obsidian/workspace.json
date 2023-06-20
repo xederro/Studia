@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8ea0e4379aa00ee3",
+        "id": "2e912b29765a3a5d",
         "type": "tabs",
         "children": [
           {
-            "id": "015c1b99cc2741be",
+            "id": "15950a1de2231955",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-17 19.29.39.excalidraw.md"
+                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 11/Wykład 11.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -67,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5069465637207,
-    "collapsed": true
+    "width": 366.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-17 19.29.39.excalidraw.md",
+                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 11/Wykład 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-17 19.29.39.excalidraw.md"
+                "file": "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 11/Wykład 11.md"
               }
             }
           }
@@ -138,11 +140,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "015c1b99cc2741be",
+  "active": "15950a1de2231955",
   "lastOpenFiles": [
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-17 19.29.39.excalidraw.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład_7_Grafy_2.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Lista_10_MD.pdf",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-17 19.29.39.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Pasted Image 20230619190415_537.png",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Kolokwium 3.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład 7.md",
