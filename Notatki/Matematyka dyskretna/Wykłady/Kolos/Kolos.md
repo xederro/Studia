@@ -23,3 +23,6 @@ kongruencja (rozwiązać kongruencje 2x=1mod5)
 może porządki
 drzewa, kolorowania, izomorfizm
 metody przeszukiwania dfs i bfs
+
+![[Notatki/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-24 10.08.48.excalidraw]]
+![[Notatki/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-24 13.07.46.excalidraw]]
