@@ -1,4 +1,5 @@
 ![[AM2-zestaw_05.pdf]]
 ![[Drawing 2023-04-13 11.37.53.excalidraw]]
 ![[Drawing 2023-05-11 15.23.56.excalidraw]]
+![[Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-06-21 08.35.10.excalidraw]]
 [[Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 5/Wykład 5]]

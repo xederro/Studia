@@ -4,3 +4,4 @@
 ![[Drawing 2023-06-01 09.16.34.excalidraw]]
 ![[Drawing 2023-06-01 10.19.08.excalidraw]]
 ![[Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-15 09.19.37.excalidraw]]
+![[Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-22 09.18.11.excalidraw]]

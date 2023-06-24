@@ -20,8 +20,6 @@ kombinacje podziały, permutacje
 rozwiązywanie równań rekurencyjnych
 kongruencja (rozwiązać kongruencje 2x=1mod5)
 
-nie wiadomo czy będzie coś z relacji, gdzieś się pojawią jak nie teraz to na poprawkowym, przypuszczalnie nie
-
 może porządki
 drzewa, kolorowania, izomorfizm
 metody przeszukiwania dfs i bfs
