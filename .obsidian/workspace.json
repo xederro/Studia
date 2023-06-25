@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8d798a24d126323d",
+        "id": "9080daf91f9e9694",
         "type": "tabs",
         "children": [
           {
-            "id": "ead511435f9080b8",
+            "id": "208b0ac1df61a145",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-21 13.59.27.excalidraw.md"
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 11/Drawing 2023-06-23 14.17.41.excalidraw.md"
               }
             }
           }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-21 13.59.27.excalidraw.md",
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 11/Drawing 2023-06-23 14.17.41.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-21 13.59.27.excalidraw.md"
+                "file": "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 11/Drawing 2023-06-23 14.17.41.excalidraw.md"
               }
             }
           }
@@ -137,8 +137,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ead511435f9080b8",
+  "active": "208b0ac1df61a145",
   "lastOpenFiles": [
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Drawing 2023-06-16 13.19.30.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 11/Drawing 2023-06-23 14.17.41.excalidraw.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-21 13.59.27.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-28 13.17.09.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Lista_6_MD.pdf",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Lista_5_MD.pdf",
@@ -181,10 +184,7 @@
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 11/Ćwiczenia 11.md",
     "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 12/Wykład 12.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 11/Drawing 2023-06-23 14.17.41.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-19 11.22.21.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-20 17.36.06.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Drawing 2023-06-02 13.37.20.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas",
     "Untitled.canvas"
   ]
