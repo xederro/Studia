@@ -11,8 +11,20 @@
             "id": "f5dd541621a6ea71",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-26 15.49.39.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "76391b9a406f58c8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/AM2-zestaw_06.pdf"
+              }
             }
           }
         ]
@@ -65,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5069465637207
+    "width": 366.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -100,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-26 15.49.39.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-26 15.49.39.excalidraw.md"
+              }
             }
           }
         ],
@@ -135,8 +151,8 @@
   "active": "f5dd541621a6ea71",
   "lastOpenFiles": [
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/AM2-zestaw_06.pdf",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 6/Drawing 2023-03-29 13.16.55.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-26 15.49.39.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 6/Drawing 2023-03-29 13.16.55.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Wyklad_7a.pdf",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 6/Wyklad_6a.pdf",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Pasted Image 20230626171435_106.png",
