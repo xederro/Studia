@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5f1abd5d20823e18",
+        "id": "0fed47454e78f5df",
         "type": "tabs",
         "children": [
           {
-            "id": "f5dd541621a6ea71",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-26 15.49.39.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "76391b9a406f58c8",
+            "id": "d2de1ac632004495",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/AM2-zestaw_06.pdf"
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Wykład 1 Pojęcia podstawowe i kinematyka2021.pdf"
               }
             }
           }
@@ -113,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-26 15.49.39.excalidraw.md",
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Wykład 1 Pojęcia podstawowe i kinematyka2021.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-26 15.49.39.excalidraw.md"
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Wykład 1 Pojęcia podstawowe i kinematyka2021.pdf"
               }
             }
           }
@@ -148,10 +138,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f5dd541621a6ea71",
+  "active": "671d26171d29a68e",
   "lastOpenFiles": [
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/AM2-zestaw_06.pdf",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Drawing 2023-02-28 13.12.18.excalidraw.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Wykład 1 Pojęcia podstawowe i kinematyka2021.pdf",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-26 15.49.39.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/AM2-zestaw_06.pdf",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 6/Drawing 2023-03-29 13.16.55.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Wyklad_7a.pdf",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 6/Wyklad_6a.pdf",
@@ -185,7 +179,6 @@
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Drawing 2023-06-16 13.19.30.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-21 13.59.27.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-28 13.17.09.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Lista_6_MD.pdf",
     "Notatki/Programowanie obiektowe/Wykłady/Kolos/Kolos.md",
     "Notatki/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-25 11.27.34.excalidraw.md",
     "Notatki/Programowanie obiektowe/Wykłady/Kolos/354397683_1944510535888928_198542055216881791_n.jpg",
@@ -193,8 +186,6 @@
     "Notatki/Programowanie obiektowe/Wykłady/Kolos/354375708_720114303207383_2664731286569391349_n.jpg",
     "Notatki/Matematyka dyskretna/Wykłady/Kolos/Kolos.md",
     "Notatki/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-24 10.08.48.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-24 13.07.46.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-24 13.37.56.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas",
     "Untitled.canvas"
   ]
