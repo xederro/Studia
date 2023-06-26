@@ -4,18 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "ce3defbe0f9b0991",
+        "id": "b7f01b7e91dd9ef7",
         "type": "tabs",
         "children": [
           {
-            "id": "2985e6372b746ea1",
+            "id": "2a68253e32bc3f82",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Kolokwium.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fd0e82ff0e8e7db",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-26 11.50.36.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "7399940f4dcfe9f9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/AM2-zestaw_01.pdf"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-26 11.50.36.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-26 11.50.36.excalidraw.md"
+              }
             }
           }
         ],
@@ -132,8 +161,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2985e6372b746ea1",
+  "active": "2fd0e82ff0e8e7db",
   "lastOpenFiles": [
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/AM2-zestaw_01.pdf",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-26 11.50.36.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Kolokwium.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Pasted Image 20230626115121_683.png",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Pasted Image 20230626115104_625.png",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-04-12 14.23.51.excalidraw.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Kolokwium/Kolokwium.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Kolokwium/fizyka-quizy-pełne.pdf",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykłady.md",
+    "Notatki/Fizyka 1.1A/Fizyka 1.1A.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Kolokwium/Drawing 2023-06-26 11.45.28.excalidraw.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Drawing 2023-06-20 13.10.09.excalidraw.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Kolokwium",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 11/Drawing 2023-06-23 14.17.41.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 10/Drawing 2023-06-16 13.19.30.excalidraw.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Drawing 2023-04-21 13.59.27.excalidraw.md",
@@ -155,11 +197,6 @@
     "Notatki/Programowanie obiektowe/Wykłady/Kolos/353895787_272511035440952_2985551984024069064_n.jpg",
     "Notatki/Programowanie obiektowe/Wykłady/Kolos/353812702_2202696170119245_4722045905217420106_n.jpg",
     "Notatki/Programowanie obiektowe/Wykłady/Kolos/353110188_783093616608177_5452834539319614348_n.jpg",
-    "Notatki/Programowanie obiektowe/Wykłady/Kolos/353087568_213802358200454_6212888245845257952_n.jpg",
-    "Notatki/Programowanie obiektowe/Wykłady/Kolos/353071062_204417525422144_122291582607347996_n.jpg",
-    "Notatki/Programowanie obiektowe/Wykłady/Kolos/baza pytań 2019.pdf",
-    "Notatki/Programowanie obiektowe/Wykłady/Kolos/PO-kolos-v5.pdf",
-    "Notatki/Programowanie obiektowe/Wykłady/Kolos/po.pdf",
     "Notatki/Matematyka dyskretna/Wykłady/Kolos/Kolos.md",
     "Notatki/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-24 10.08.48.excalidraw.md",
     "Notatki/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-24 13.07.46.excalidraw.md",
@@ -171,15 +208,6 @@
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 7/Drawing 2023-05-19 13.16.05.excalidraw.md",
     "Notatki/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-24 15.13.51.excalidraw.md",
     "Notatki/Matematyka dyskretna/Wykłady/Wykłady.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Drawing 2023-06-22 09.18.11.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-13 16.19.07.excalidraw.md",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Kolokwium.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 11/Ćwiczenia 11.md",
-    "Notatki/Podstawy automatyki i robotyki/Wykłady/Wykład 12/Wykład 12.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-19 11.22.21.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas",
     "Untitled.canvas"
   ]

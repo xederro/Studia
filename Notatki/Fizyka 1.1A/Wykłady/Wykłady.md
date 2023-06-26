@@ -15,6 +15,7 @@ typ: 'W'
 7. [[Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Wykład 7|Wykład 7]]
 8. [[Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Wykład 8|Wykład 8]]
 9. [[Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Wykład 9|Wykład 9]]
+10. [[Notatki/Fizyka 1.1A/Wykłady/Kolokwium/Kolokwium|Kolokwium]]
 
 ## Zaliczenie
 
