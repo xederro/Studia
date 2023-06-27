@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "945b6d9c3ae164c2",
+        "id": "c4e444fdb87219e6",
         "type": "tabs",
         "children": [
           {
-            "id": "6e566a62479d3173",
+            "id": "495bb1acc0cd42bc",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5069465637207,
-    "collapsed": true
+    "width": 366.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -138,10 +137,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6e566a62479d3173",
+  "active": "495bb1acc0cd42bc",
   "lastOpenFiles": [
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 21.16.23.excalidraw.png",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 23.02.51.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 23.02.51.excalidraw.png",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 16.21.46.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-25 18.08.49.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 21.16.23.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/AM2-zestaw_02.pdf",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-15 16.22.41.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-02 15.21.31.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 1/Drawing 2023-03-01 13.22.02.excalidraw.md",
+    "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Pasted Image 20230627230306_704.png",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 3/Drawing 2023-03-08 14.00.06.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 3/Wyklad_3a.pdf",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-30 10.21.39.excalidraw.md",
@@ -169,22 +177,14 @@
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 7/AM2-zestaw_07.pdf",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/AM2-zestaw_06.pdf",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230627162848_959.png",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230627162236_928.png",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230627162149_684.png",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-11 15.23.48.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 8/Drawing 2023-04-19 13.24.34.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-06-21 08.35.10.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-05-11 15.23.56.excalidraw.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Drawing 2023-04-13 11.37.53.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 7/AM2-Wyklad_07.pdf",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Wykład 1 Pojęcia podstawowe i kinematyka2021.pdf",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Drawing 2023-02-28 13.12.18.excalidraw.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 6/Drawing 2023-03-29 13.16.55.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 6/Wyklad_6a.pdf",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 6/AM2-Wyklad_06.pdf",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 3/AM2-zestaw_03.pdf",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas",
     "Untitled.canvas"
   ]
