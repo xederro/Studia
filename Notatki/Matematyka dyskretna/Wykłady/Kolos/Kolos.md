@@ -28,4 +28,4 @@ metody przeszukiwania dfs i bfs
 ![[Notatki/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-24 13.07.46.excalidraw]]
 ![[Notatki/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-24 13.37.56.excalidraw]]
 ![[Notatki/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-24 15.13.51.excalidraw]]
-![[Notatki/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-24 16.49.03.excalidraw]]
+![[Notatki/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-24 16.49.03.excalidraw]]![[Notatki/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-25 11.27.34.excalidraw]]
