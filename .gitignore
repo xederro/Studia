@@ -1,5 +1,6 @@
 .vscode
 Excalidraw
+Excalidraw/**
 .idea
 **/*.exe
 **/Recording*.webm

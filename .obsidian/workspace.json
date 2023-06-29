@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f453b5b8d9071baa",
+        "id": "43f944b5449d044c",
         "type": "tabs",
         "children": [
           {
-            "id": "1468b591d79bb4f2",
+            "id": "772187ba58b60e3e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Fizyka 1.1A/Wykłady/Kolokwium/Drawing 2023-06-26 11.45.28.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -67,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5069465637207,
-    "collapsed": true
+    "width": 366.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -103,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Fizyka 1.1A/Wykłady/Kolokwium/Drawing 2023-06-26 11.45.28.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Fizyka 1.1A/Wykłady/Kolokwium/Drawing 2023-06-26 11.45.28.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -138,9 +132,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1468b591d79bb4f2",
+  "active": "772187ba58b60e3e",
   "lastOpenFiles": [
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Wykład 2 Dynamika.pdf",
+    "Excalidraw/Drawing 2023-06-29 19.29.27.excalidraw.md",
+    "Excalidraw/Pasted Image 20230629193057_978.png",
+    "Excalidraw/Pasted Image 20230629192942_499.png",
+    "Excalidraw",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Równania ruchu.pdf",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Fizyka - Dynamika Adam Wroński.pdf",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Wykład 1 Pojęcia podstawowe i kinematyka2021.pdf",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Ćwiczenia 9.md",
     "Notatki/Fizyka 1.1A/Wykłady/Kolokwium/fizyka-quizy-pełne.pdf",
+    "Notatki/Fizyka 1.1A/Wykłady/Kolokwium/Drawing 2023-06-26 11.45.28.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Kolokwium.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Pasted Image 20230627230306_704.png",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-04-12 14.23.51.excalidraw.md",
@@ -168,24 +174,11 @@
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 2/Drawing 2023-03-08 13.23.59.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Pasted Image 20230627212718_940.png",
     "Notatki/Matematyka dyskretna/Wykłady/Kolos/Kolos.md",
-    "Notatki/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-25 11.27.34.excalidraw.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 11/Ćwiczenia 11.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 11/Lista_11_MD.pdf",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 11/Drawing 2023-06-27 13.17.34.excalidraw.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-06-27 16.21.46.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Pasted Image 20230627162149_684.png",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Pasted Image 20230627162236_928.png",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Pasted Image 20230627162848_959.png",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-06-27 16.21.46.excalidraw.svg",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Drawing 2023-04-12 13.20.17.excalidraw.md",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Pasted Image 20230626171435_106.png",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Wyklad_7a.pdf",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 7/AM2-zestaw_07.pdf",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/AM2-zestaw_06.pdf",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 7/AM2-Wyklad_07.pdf",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Wykład 1 Pojęcia podstawowe i kinematyka2021.pdf",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 6/Wyklad_6a.pdf",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 6/AM2-Wyklad_06.pdf",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas",
     "Untitled.canvas"
   ]
