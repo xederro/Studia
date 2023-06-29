@@ -9,3 +9,5 @@
 ![[Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-26 11.50.36.excalidraw]]
 ![[Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-26 15.49.39.excalidraw]]
 ![[Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 16.21.46.excalidraw]]
+![[Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 21.16.23.excalidraw]]
+![[Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 23.02.51.excalidraw]]
