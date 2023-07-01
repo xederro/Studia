@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "43f944b5449d044c",
+        "id": "63e1048ce954d902",
         "type": "tabs",
         "children": [
           {
-            "id": "772187ba58b60e3e",
+            "id": "dcfdfdfdfd77a683",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Notatki do wykładów optyka falowa 2021.pdf"
+              }
             }
           }
         ]
@@ -65,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5069465637207
+    "width": 366.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -100,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Notatki do wykładów optyka falowa 2021.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Notatki do wykładów optyka falowa 2021.pdf"
+              }
             }
           }
         ],
@@ -132,20 +138,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "772187ba58b60e3e",
+  "active": "dcfdfdfdfd77a683",
   "lastOpenFiles": [
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Wykład 2 Dynamika.pdf",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Wykład 9.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 9/Notatki do wykładów optyka falowa 2021.pdf",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Notatki do wykładów 10 i 11.pdf",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Wykład 8.md",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/soczewki grube.pdf",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 8/Elementy Optyczne - Konrad Kłoniecki.pdf",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/skuteczna.png",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/rezonans i imp zastepcza.pdf",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Notatki Elektryczność2022.pdf",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/impedancja i moc2020.pdf",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Elektryczność - Konrad Pempera.pdf",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 7/Elektrycznosc - rozwiązane zadania.pdf",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 4/Fale - Jan Worożański.pdf",
+    "Notatki/Fizyka 1.1A/Wykłady/Wykład 3/Wykład 3.md",
     "Excalidraw/Drawing 2023-06-29 19.29.27.excalidraw.md",
     "Excalidraw/Pasted Image 20230629193057_978.png",
     "Excalidraw/Pasted Image 20230629192942_499.png",
-    "Excalidraw",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Równania ruchu.pdf",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 2/Fizyka - Dynamika Adam Wroński.pdf",
-    "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Wykład 1 Pojęcia podstawowe i kinematyka2021.pdf",
     "Notatki/Fizyka 1.1A/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Ćwiczenia 9.md",
-    "Notatki/Fizyka 1.1A/Wykłady/Kolokwium/fizyka-quizy-pełne.pdf",
     "Notatki/Fizyka 1.1A/Wykłady/Kolokwium/Drawing 2023-06-26 11.45.28.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Kolokwium.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Pasted Image 20230627230306_704.png",
@@ -164,21 +178,13 @@
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 23.02.51.excalidraw.png",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 16.21.46.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-25 18.08.49.excalidraw.md",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/AM2-zestaw_02.pdf",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-15 16.22.41.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Drawing 2023-03-02 15.21.31.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 1/Drawing 2023-03-01 13.22.02.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 3/Drawing 2023-03-08 14.00.06.excalidraw.md",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 3/Wyklad_3a.pdf",
-    "Notatki/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-30 10.21.39.excalidraw.md",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 2/Drawing 2023-03-08 13.23.59.excalidraw.md",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Pasted Image 20230627212718_940.png",
-    "Notatki/Matematyka dyskretna/Wykłady/Kolos/Kolos.md",
-    "Notatki/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 11/Lista_11_MD.pdf",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Pasted Image 20230627162149_684.png",
     "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Pasted Image 20230627162236_928.png",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Pasted Image 20230627162848_959.png",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Wyklad_7a.pdf",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas",
     "Untitled.canvas"
   ]
