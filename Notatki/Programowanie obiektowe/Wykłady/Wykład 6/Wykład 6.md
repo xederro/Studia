@@ -1,2 +1,0 @@
-![[ObjectProj2.pdf]]
-

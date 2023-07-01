@@ -8,34 +8,34 @@ Zalecamy zapoznanie się z:
 
 # Studia
 ## Spis treści
-### Semestr 1  
-1. [[Algebra liniowa z geometrą analityczną]]  
-2. [[Analiza matematyczna 1.2A]]  
-3. [[Etyka inżynierka]]  
-4. [[Filozofia]]  
-5. [[Notatki/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady|Miernictwo w informatyce i telekomunikacji - Wykłady]]  
-6. [[Podstawy programowania]]  
-7. [[Technologie informacyjne]]  
-8. [[Własność intelektualna i prawo autorskie]]  
+### [[Notatki/Semestr 1/Semestr 1|Semestr 1]]
+### [[Notatki/Semestr 2/Semestr 2|Semestr 2]]
 
-### Semestr 2
-1. [[Algebra liniowa 2]]
-2. [[Analiza matematyczna 2.3A]]
-3. [[Notatki/Fizyka 1.1A/Fizyka 1.1A]]
-4. [[Matematyka dyskretna]]
-5. [[Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria|Miernictwo w informatyce i telekomunikacji - Labolatoria]]
-6. [[Podstawy automatyki i robotyki]]
-7. [[Programowanie obiektowe]]
-8. [[Rachunek prawdopodobieństwa]]
-9. [[Teoria systemów]]
+### [[Notatki/Inne/Inne|Inne]]
 
-[[Inne]]
+## Średnia
+```dataviewjs
+for (let group of dv.pages().where(p => p["typ"] == "GK").groupBy(p => p.semestr)) {
+	let sum = 0;
+	group.rows.forEach(x=>sum+=Number(x.ects)*Number(x.ocena))
+	dv.header(3, "Semestr " + group.key + ": " + (sum/30).toFixed(3));
+}
+```
+```dataviewjs
+let sum = 0;
+let semestrCount = 1;
+dv.pages()
+	.where(p => p["typ"] == "GK")
+	.forEach(x=>{
+		sum+=x.ects*x.ocena
+		if (x.semestr > semestrCount) semestrCount = x.semestr
+	})
+dv.header(3, "Studia: " + (sum/(30*semestrCount)).toFixed(3));
+```
 
 ## Przydatne
 >[!info]
 >![[Sylabus.pdf|Sylabus]]
-
-
 
 >[!info]
 >[[Sylabus.pdf|Sylabus]]

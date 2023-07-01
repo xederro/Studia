@@ -1,0 +1,2 @@
+![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 11/W11_Analiza_21_Cal_f_wym.pdf]]
+![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 11/Drawing 2022-12-16 12.40.59.excalidraw]][[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 11/Ćwiczenia 11]][[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 3/Wykład 3]]

@@ -1,0 +1,1 @@
+![[Notatki/Semestr 2/Teoria systemów/Ćwiczenia/Kolokwium/Drawing 2023-06-03 09.54.21.excalidraw]]

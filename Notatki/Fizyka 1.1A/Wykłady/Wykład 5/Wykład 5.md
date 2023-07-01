@@ -1,1 +1,0 @@
-![[Notatki/Fizyka 1.1A/Wykłady/Wykład 5/Drawing 2023-03-28 13.15.49.excalidraw]]

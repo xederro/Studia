@@ -1,0 +1,2 @@
+![[Notatki/Semestr 1/Etyka inżynierska/Wykłady/Wykład 2/Wybrane_koncepcje_etyczne_uzasadnienie_norm_Kant.pdf]]
+![[Notatki/Semestr 1/Etyka inżynierska/Wykłady/Wykład 2/Wybrane_koncepcje_etyczne_uzasadnienie_norm_utylitaryzm.pdf]]

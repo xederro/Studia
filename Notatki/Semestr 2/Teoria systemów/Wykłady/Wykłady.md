@@ -1,0 +1,30 @@
+---
+semestr: 2
+ocena: 4.5
+ects: 1
+typ: 'W'
+---
+
+# Wykłady
+1. [[Notatki/Semestr 2/Teoria systemów/Wykłady/Wykład 1/Wykład 1|Wykład 1]]
+2. [[Notatki/Semestr 2/Teoria systemów/Wykłady/Wykład 2/Wykład 2|Wykład 2]]
+3. [[Notatki/Semestr 2/Teoria systemów/Wykłady/Wykład 3/Wykład 3|Wykład 3]]
+4. [[Notatki/Semestr 2/Teoria systemów/Wykłady/Wykład 4/Wykład 4|Wykład 4]]
+5. [[Notatki/Semestr 2/Teoria systemów/Wykłady/Wykład 5/Wykład 5|Wykład 5]]
+6. [[Notatki/Semestr 2/Teoria systemów/Wykłady/Wykład 6/Wykład 6|Wykład 6]]
+7. [[Notatki/Semestr 2/Teoria systemów/Wykłady/Wykład 7/Wykład 7|Wykład 7]]
+8. [[Notatki/Semestr 2/Teoria systemów/Wykłady/Kolokwium/Kolokwium|Kolokwium]]
+
+## Zaliczenie
+111-c3 - na stronie będą godziny
+
+Będzie lista obecności
+4 obecności to ocena za wykład +.5, sama obecność nieobowiązkowa
+
+sprawdzian na przedostatnich zajęciach 24 Maja
+otwarte pytania z teorii 50% 3 potem po 2 punkty/kolejna ocena
+trzeba zaliczyć oba
+na ostatnich zajęciach jest poprawa - piszemy to samo ale 3 to 70%, tylko zalicza się na 3
+
+materiał będą zamieszczone przed sprawdzianem
+![[Notatki/Semestr 2/Teoria systemów/Wykłady/teoria systemów.pdf]]

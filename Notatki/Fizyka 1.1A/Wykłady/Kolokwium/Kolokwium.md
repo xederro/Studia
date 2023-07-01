@@ -1,1 +1,0 @@
-![[Notatki/Fizyka 1.1A/Wykłady/Kolokwium/Drawing 2023-06-26 11.45.28.excalidraw]]![[Notatki/Fizyka 1.1A/Wykłady/Kolokwium/fizyka-quizy-pełne.pdf]]

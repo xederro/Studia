@@ -1,2 +1,0 @@
-![[ALGA_zestaw_10.pdf]]
-![[Drawing 2023-01-12 17.36.20.excalidraw]][[Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 7/Wykład 7]][[Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 9/Wykład 9]]

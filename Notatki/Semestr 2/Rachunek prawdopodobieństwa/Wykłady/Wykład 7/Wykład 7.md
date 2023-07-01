@@ -1,0 +1,1 @@
+![[Notatki/Semestr 2/Rachunek prawdopodobieństwa/Wykłady/Wykład 7/W7_Korel_i_Reg (2).pdf]]

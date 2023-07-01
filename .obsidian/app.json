@@ -3,7 +3,7 @@
   "spellcheck": true,
   "spellcheckLanguages": null,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "",
   "showInlineTitle": false,
   "pdfExportSettings": {
     "pageSize": "A3",

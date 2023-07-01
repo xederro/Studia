@@ -8,129 +8,31 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Notatki/Algebra liniowa z geometrią analityczną\"",
+      "query": "path:\"Notatki/Semestr 1\"",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16711680
       }
     },
     {
-      "query": "path:\"Notatki/Analiza matematyczna 1.2A\"",
+      "query": "path:\"Notatki/Semestr 2\"",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 16755200
       }
     },
     {
-      "query": "path:\"Notatki/Etyka inżynierska\"",
+      "query": "path:Notatki/Inne",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 11206400
       }
     },
     {
-      "query": "path:\"Notatki/Podstawy programowania\"",
+      "query": "path:/",
       "color": {
         "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:\"Notatki/Technologie informacyjne\"",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "path:Notatki/Filozofia",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "path:\"Notatki/Miernictwo w informatyce i telekomunikacji\"",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "path:\"Notatki/Własność intelektualna i prawo autorskie\"",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
-      }
-    },
-    {
-      "query": "path:\"Notatki/Inne\"",
-      "color": {
-        "a": 1,
-        "rgb": 14701233
-      }
-    },
-    {
-      "query": "path:\"Notatki/Algebra liniowa 2\"",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:\"Notatki/Analiza matematyczna 2.3A\"",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:\"Notatki/Fizyka 1.1A\"",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:\"Notatki/Matematyka dyskretna\"",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:\"Notatki/Podstawy automatyki i robotyki\"",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "path:\"Notatki/Programowanie obiektowe\"",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "path:\"Notatki/Rachunek prawdopodobieństwa\"",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "path:\"Notatki/Teoria systemów\"",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "path:Excalidraw",
-      "color": {
-        "a": 1,
-        "rgb": 0
+        "rgb": 65280
       }
     }
   ],
@@ -144,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.0078125,
+  "scale": 0.030182895067324182,
   "close": true
 }

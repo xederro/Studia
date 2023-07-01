@@ -1,1 +1,0 @@
-![[Cw2_pomiar_UiI_DC_2023.pdf]]

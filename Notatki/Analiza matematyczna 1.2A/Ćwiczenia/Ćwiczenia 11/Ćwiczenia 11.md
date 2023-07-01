@@ -1,1 +1,0 @@
-![[Lista_11_AM1.pdf]]![[Drawing 2023-01-13 16.09.31.excalidraw]][[Notatki/Analiza matematyczna 1.2A/Wykłady/Wykład 11/Wykład 11]]

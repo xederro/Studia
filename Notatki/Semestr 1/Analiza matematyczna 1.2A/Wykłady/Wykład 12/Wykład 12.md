@@ -1,0 +1,2 @@
+![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 12/W12_Analiza__20_Cal_ozn.pdf]]
+![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 12/Drawing 2023-01-13 11.14.34.excalidraw]][[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 12/Ćwiczenia 12]]

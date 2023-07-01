@@ -1,0 +1,2 @@
+![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Quiz 1/Drawing 2022-11-17 18.24.54.excalidraw]]
+![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Quiz 1/Drawing 2022-11-18 11.15.33.excalidraw]]

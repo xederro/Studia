@@ -1,0 +1,3 @@
+![[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 5/AL2-wyklad-5.pdf]]![[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 5/AL2-zestaw-5.pdf]]![[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 5/Wyklad_5a_cz1.pdf]]![[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 5/Wyklad_5a_cz2.pdf]]![[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 5/Drawing 2023-05-16 08.08.53.excalidraw]]
+![[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 5/Drawing 2023-05-17 13.23.01.excalidraw]]
+![[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 5/Drawing 2023-05-24 13.21.00.excalidraw]]

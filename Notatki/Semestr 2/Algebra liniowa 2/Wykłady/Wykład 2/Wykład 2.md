@@ -1,0 +1,1 @@
+![[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 2/AL2-Wyklad-2.pdf]]![[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 2/AL2-zestaw-2.pdf]]![[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 2/Wyklad_2a.pdf]]![[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 2/Drawing 2023-04-26 13.23.30.excalidraw]]

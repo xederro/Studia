@@ -1,2 +1,0 @@
-![[W11_Analiza_21_Cal_f_wym.pdf]]
-![[Drawing 2022-12-16 12.40.59.excalidraw]][[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 11/Ćwiczenia 11]][[Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 3/Wykład 3]]

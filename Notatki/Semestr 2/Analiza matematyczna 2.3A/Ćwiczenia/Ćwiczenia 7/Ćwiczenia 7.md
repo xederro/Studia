@@ -1,0 +1,1 @@
+![[Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 7/AM2-zestaw_07.pdf]][[Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Wykład 7]]

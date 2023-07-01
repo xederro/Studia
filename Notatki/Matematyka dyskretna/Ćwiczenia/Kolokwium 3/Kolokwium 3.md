@@ -1,5 +1,0 @@
-![[Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Pasted image 20230617194100.png]]
-![[Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-17 19.29.39.excalidraw]]
-![[Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-13 16.19.07.excalidraw]]
-![[Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-20 17.36.06.excalidraw]]
-![[Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-19 11.18.15.excalidraw]]![[Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-18 19.10.40.excalidraw]]![[Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-19 11.22.21.excalidraw]]![[Notatki/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-19 10.34.13.excalidraw]]

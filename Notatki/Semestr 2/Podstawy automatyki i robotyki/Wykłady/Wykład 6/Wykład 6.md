@@ -1,0 +1,1 @@
+![[Notatki/Semestr 2/Podstawy automatyki i robotyki/Wykłady/Wykład 6/Inteligentne budynki-integracja systemów & BMS - 2023.pdf]]

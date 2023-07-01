@@ -1,1 +1,0 @@
-![[Drawing 2023-05-22 07.33.21.excalidraw]]

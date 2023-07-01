@@ -1,1 +1,0 @@
-![[W5_Analiza_21_Gran_Ciąg_f.pdf]][[Notatki/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5]]

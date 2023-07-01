@@ -1,1 +1,0 @@
-![[ALGA_zestaw_11.pdf]]![[Drawing 2023-01-31 13.18.57.excalidraw]][[Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 12/Wykład 12]][[Wykład 15]]

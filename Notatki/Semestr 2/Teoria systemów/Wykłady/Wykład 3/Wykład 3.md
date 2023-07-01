@@ -1,0 +1,1 @@
+![[Notatki/Semestr 2/Teoria systemów/Wykłady/Wykład 3/Drawing 2023-03-29 07.30.10.excalidraw]]

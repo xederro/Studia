@@ -1,1 +1,0 @@
-![[ALGA_zestaw_02.pdf]][[Notatki/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 1/Wykład 1]]

@@ -1,0 +1,1 @@
+![[Notatki/Semestr 2/Teoria systemów/Ćwiczenia/Ćwiczenia 5/Drawing 2023-05-08 07.32.16.excalidraw]]

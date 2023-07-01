@@ -1,0 +1,5 @@
+![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/ALGA-Wyklad_06.pdf]]
+![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Wyklad_6a.pdf]]
+![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Drawing 2022-11-22 13.13.17.excalidraw]]
+![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Drawing 2022-11-29 13.19.47.excalidraw]]
+[[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8]]

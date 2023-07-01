@@ -1,0 +1,1 @@
+![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 10/ALGA-Wyklad_11.pdf]]![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 10/Wyklad_11a.pdf]][[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 11/Ćwiczenia 11]]

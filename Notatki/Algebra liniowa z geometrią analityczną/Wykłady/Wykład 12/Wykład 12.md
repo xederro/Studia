@@ -1,1 +1,0 @@
-![[ALGA-Wyklad_13.pdf]]![[Wyklad_13a.pdf]][[Notatki/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 12/Ćwiczenia 12]]

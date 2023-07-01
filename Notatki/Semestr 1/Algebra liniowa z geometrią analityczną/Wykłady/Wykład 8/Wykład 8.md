@@ -1,0 +1,2 @@
+![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 8/ALGA-Wyklad_09.pdf]]
+![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 8/Wyklad_9a_cz1.pdf]][[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 9/Ćwiczenia 9]]

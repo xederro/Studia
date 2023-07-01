@@ -1,0 +1,2 @@
+![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 5/ALGA_zestaw_05.pdf]]
+![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 5/Drawing 2022-11-18 17.12.04.excalidraw]][[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 3/Wykład 3]]

@@ -1,0 +1,2 @@
+![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 10/W10_Analiza_21_Calki_nieozn.pdf]]
+![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 10/Drawing 2022-12-14 12.56.19.excalidraw]][[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Ćwiczenia 10]]

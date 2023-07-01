@@ -1,1 +1,0 @@
-![[AM2-zestaw_07.pdf]][[Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Wykład 7]]

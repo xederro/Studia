@@ -1,0 +1,2 @@
+![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 9/ALGA_zestaw_09.pdf]]
+![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 9/Drawing 2023-01-04 09.33.44.excalidraw]]![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 9/Drawing 2023-01-20 17.13.58.excalidraw]][[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 6/Wykład 6]][[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 8/Wykład 8]]

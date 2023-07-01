@@ -1,1 +1,0 @@
-![[AM2-zestaw_04.pdf]][[Notatki/Analiza matematyczna 2.3A/Wykłady/Wykład 4/Wykład 4]]

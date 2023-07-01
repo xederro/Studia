@@ -1,0 +1,1 @@
+![[Notatki/Semestr 2/Podstawy automatyki i robotyki/Wykłady/Wykład 7/Podstawy automatyzacji procesów technologicznych - wprowadzenie -2023 PAiR.pdf]]

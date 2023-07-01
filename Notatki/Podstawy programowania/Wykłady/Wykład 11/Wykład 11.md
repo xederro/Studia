@@ -1,1 +1,0 @@
-![[W11_wskazniki_na_tablice_wielowymiarowe_i_funkcje.pdf]][[Notatki/Podstawy programowania/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5]][[Notatki/Podstawy programowania/Labolatoria/Labolatoria 5/Labolatoria 5]]

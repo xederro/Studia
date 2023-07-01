@@ -1,0 +1,2 @@
+![[Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/AM2-zestaw_02.pdf]]
+![[Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Drawing 2023-03-15 16.22.41.excalidraw]][[Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 2/Wykład 2]]

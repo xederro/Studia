@@ -1,0 +1,1 @@
+![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 14/W14_Analiza_21_Calka_3_zm.pdf]]![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 14/Drawing 2023-01-27 11.20.49.excalidraw]][[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 14/Ćwiczenia 14]]
