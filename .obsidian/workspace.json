@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "196cbf5d6c968107",
+        "id": "68c0e3d52e5d5c73",
         "type": "tabs",
         "children": [
           {
-            "id": "1e987d7014c89478",
+            "id": "c43c54f2f39a9ded",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -105,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -140,11 +132,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e987d7014c89478",
+  "active": "c43c54f2f39a9ded",
   "lastOpenFiles": [
+    "README.md",
     "Notatki/Semestr 1/Semestr 1.md",
     "Notatki/Semestr 2/Semestr 2.md",
-    "README.md",
     "Notatki/Inne/Inne.md",
     "Notatki/Semestr 2",
     "Notatki/Semestr 1",
