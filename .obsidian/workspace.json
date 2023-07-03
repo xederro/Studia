@@ -4,23 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "68c0e3d52e5d5c73",
+        "id": "8131e0f1f69bc18d",
         "type": "tabs",
         "children": [
           {
-            "id": "c43c54f2f39a9ded",
+            "id": "a7fc7fd4251c1889",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b714cef81a99280f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -140,17 +141,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c43c54f2f39a9ded",
+  "active": "b714cef81a99280f",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-07-02 18.12.20.excalidraw.md",
+    "Excalidraw",
+    "Notatki/Semestr 2/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Kolokwium.md",
+    "Notatki/Semestr 2/Rachunek prawdopodobieństwa/Wykłady/Wykłady.md",
+    "Notatki/Semestr 2/Rachunek prawdopodobieństwa/Rachunek prawdopodobieństwa.md",
+    "Notatki/Semestr 2/Semestr 2.md",
     "README.md",
     "Notatki/Semestr 1/Semestr 1.md",
-    "Notatki/Semestr 2/Semestr 2.md",
     "Notatki/Inne/Inne.md",
     "Notatki/Semestr 2",
     "Notatki/Semestr 1",
     "Notatki/Semestr 2/WF-1/WF-1.md",
     "Notatki/Semestr 2/Teoria systemów/Teoria systemów.md",
-    "Notatki/Semestr 2/Rachunek prawdopodobieństwa/Rachunek prawdopodobieństwa.md",
     "Notatki/Semestr 2/Programowanie obiektowe/Programowanie obiektowe.md",
     "Notatki/Semestr 2/Podstawy automatyki i robotyki/Podstawy automatyki i robotyki.md",
     "Notatki/Semestr 2/Miernictwo w informatyce i telekomunikacji 2/Miernictwo w informatyce i telekomunikacji 2.md",
@@ -168,9 +173,6 @@
     "Notatki/Semestr 2/Miernictwo w informatyce i telekomunikacji 2",
     "Notatki/Semestr 1/Filozofia/Filozofia.md",
     "Notatki/Semestr 1/Etyka inżynierska/Etyka inżynierka.md",
-    "Notatki/Semestr 1/Analiza matematyczna 1.2A/Analiza matematyczna 1.2A.md",
-    "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Algebra liniowa z geometrą analityczną.md",
-    "Notatki/Semestr 1/Własność intelektualna i prawo autorskie/Wykłady/Wykłady.md",
     "Sylabus.pdf",
     "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 9/Notatki do wykładów optyka falowa 2021.pdf",
     "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 8/Notatki do wykładów 10 i 11.pdf",
@@ -178,7 +180,6 @@
     "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 8/Elementy Optyczne - Konrad Kłoniecki.pdf",
     "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 7/skuteczna.png",
     "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 7/rezonans i imp zastepcza.pdf",
-    "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 7/Notatki Elektryczność2022.pdf",
     "Excalidraw/Pasted Image 20230629193057_978.png",
     "Excalidraw/Pasted Image 20230629192942_499.png",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Pasted Image 20230627230306_704.png",
