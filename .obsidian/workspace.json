@@ -4,27 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "8131e0f1f69bc18d",
+        "id": "2d22d310f4a0ebda",
         "type": "tabs",
         "children": [
           {
-            "id": "a7fc7fd4251c1889",
+            "id": "90576599d969a557",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b714cef81a99280f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ],
@@ -141,54 +140,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b714cef81a99280f",
+  "active": "90576599d969a557",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-07-02 18.12.20.excalidraw.md",
-    "Excalidraw",
-    "Notatki/Semestr 2/Rachunek prawdopodobieństwa/Wykłady/Kolokwium/Kolokwium.md",
-    "Notatki/Semestr 2/Rachunek prawdopodobieństwa/Wykłady/Wykłady.md",
-    "Notatki/Semestr 2/Rachunek prawdopodobieństwa/Rachunek prawdopodobieństwa.md",
-    "Notatki/Semestr 2/Semestr 2.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "LICENSE.md",
     "README.md",
-    "Notatki/Semestr 1/Semestr 1.md",
     "Notatki/Inne/Inne.md",
-    "Notatki/Semestr 2",
-    "Notatki/Semestr 1",
+    "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykłady.md",
+    "Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
+    "Notatki/Semestr 1/Analiza matematyczna 1.2A/Analiza matematyczna 1.2A.md",
     "Notatki/Semestr 2/WF-1/WF-1.md",
-    "Notatki/Semestr 2/Teoria systemów/Teoria systemów.md",
-    "Notatki/Semestr 2/Programowanie obiektowe/Programowanie obiektowe.md",
-    "Notatki/Semestr 2/Podstawy automatyki i robotyki/Podstawy automatyki i robotyki.md",
-    "Notatki/Semestr 2/Miernictwo w informatyce i telekomunikacji 2/Miernictwo w informatyce i telekomunikacji 2.md",
-    "Notatki/Semestr 2/Matematyka dyskretna/Matematyka dyskretna.md",
-    "Notatki/Semestr 2/Fizyka 1.1A/Fizyka 1.1A.md",
-    "Notatki/Semestr 2/Algebra liniowa 2/Algebra liniowa 2.md",
-    "Notatki/Semestr 2/Analiza matematyczna 2.3A/Analiza matematyczna 2.3A.md",
+    "Notatki/Semestr 3/WF-2/WF-2.md",
     "Notatki/Semestr 1/BHP/BHP.md",
-    "Notatki/Semestr 1/Własność intelektualna i prawo autorskie/Własność intelektualna i prawo autorskie.md",
-    "Notatki/Semestr 1/Technologie informacyjne/Technologie informacyjne.md",
-    "Notatki/Semestr 1/Podstawy programowania/Podstawy programowania.md",
-    "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Miernictwo w informatyce i telekomunikacji.md",
-    "Notatki/Semestr 2/Miernictwo w informatyce i telekomunikacji 2/Labolatoria/Labolatoria.md",
+    "Notatki/Semestr 1/Etyka inżynierska/Wykłady/Wykłady.md",
+    "Notatki/Semestr 1/Filozofia/Wykłady/Wykłady.md",
     "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md",
-    "Notatki/Semestr 2/Miernictwo w informatyce i telekomunikacji 2",
-    "Notatki/Semestr 1/Filozofia/Filozofia.md",
-    "Notatki/Semestr 1/Etyka inżynierska/Etyka inżynierka.md",
-    "Sylabus.pdf",
-    "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 9/Notatki do wykładów optyka falowa 2021.pdf",
-    "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 8/Notatki do wykładów 10 i 11.pdf",
-    "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 8/soczewki grube.pdf",
-    "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 8/Elementy Optyczne - Konrad Kłoniecki.pdf",
+    "Notatki/Semestr 1/Podstawy programowania/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Semestr 1/Podstawy programowania/Labolatoria/Labolatoria.md",
+    "Notatki/Semestr 1/Podstawy programowania/Wykłady/Wykłady.md",
+    "Notatki/Semestr 1/Technologie informacyjne/Labolatoria/Labolatoria.md",
+    "Notatki/Semestr 1/Technologie informacyjne/Wykłady/Wykłady.md",
+    "Notatki/Semestr 1/Technologie informacyjne/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Semestr 1/Własność intelektualna i prawo autorskie/Wykłady/Wykłady.md",
+    "Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykłady.md",
+    "Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykłady.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Labolatoria",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Ćwiczenia",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Labolatoria",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Ćwiczenia",
+    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady",
+    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Labolatoria",
+    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Ćwiczenia",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady",
+    "Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230601185315_337.png",
+    "Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230601184742_203.png",
+    "Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230601184727_202.png",
+    "Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230601184717_140.png",
+    "Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230601181902_976.png",
+    "Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230601181241_073.png",
     "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 7/skuteczna.png",
-    "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 7/rezonans i imp zastepcza.pdf",
     "Excalidraw/Pasted Image 20230629193057_978.png",
     "Excalidraw/Pasted Image 20230629192942_499.png",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Pasted Image 20230627230306_704.png",
-    "Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Pasted Image 20230425200627_616.png",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 21.16.23.excalidraw.png",
-    "Notatki/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 23.02.51.excalidraw.png",
-    "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Pasted Image 20230627212718_940.png",
-    "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Pasted Image 20230627162149_684.png",
-    "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Pasted Image 20230627162236_928.png",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas",
     "Untitled.canvas"
   ]

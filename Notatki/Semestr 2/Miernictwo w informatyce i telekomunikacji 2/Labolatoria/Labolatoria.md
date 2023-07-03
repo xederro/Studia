@@ -1,7 +1,6 @@
 ---
 semestr: 2
 ocena: 5.5
-ects: 2
 typ: 'L'
 ---
 

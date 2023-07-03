@@ -1,7 +1,6 @@
 ---
 semestr: 2
 ocena: 4
-ects: 2
 typ: 'C'
 ---
 

@@ -10,6 +10,7 @@ Zalecamy zapoznanie się z:
 ## Spis treści
 ### [[Notatki/Semestr 1/Semestr 1|Semestr 1]]
 ### [[Notatki/Semestr 2/Semestr 2|Semestr 2]]
+### [[Notatki/Semestr 3/Semestr 3|Semestr 3]]
 
 ### [[Notatki/Inne/Inne|Inne]]
 
@@ -26,6 +27,7 @@ let sum = 0;
 let semestrCount = 1;
 dv.pages()
 	.where(p => p["typ"] == "GK")
+	.where(p => p["semestr"] !== 3)
 	.forEach(x=>{
 		sum+=x.ects*x.ocena
 		if (x.semestr > semestrCount) semestrCount = x.semestr

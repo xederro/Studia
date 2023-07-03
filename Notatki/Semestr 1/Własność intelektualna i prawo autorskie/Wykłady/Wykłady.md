@@ -1,7 +1,6 @@
 ---
 semestr: 1
 ocena: 5.5
-ects: 1
 typ: 'W'
 ---
 
