@@ -18,3 +18,5 @@ typ: 'L'
 gr.4
 ![[Notatki/Semestr 2/Miernictwo w informatyce i telekomunikacji 2/Labolatoria/20230306_180904.jpg]]
 ![[Notatki/Semestr 2/Miernictwo w informatyce i telekomunikacji 2/Labolatoria/20230306_180925.jpg]]![[Notatki/Semestr 2/Miernictwo w informatyce i telekomunikacji 2/Labolatoria/20230306_180932.jpg]]![[Notatki/Semestr 2/Miernictwo w informatyce i telekomunikacji 2/Labolatoria/20230306_180940.jpg]]![[Notatki/Semestr 2/Miernictwo w informatyce i telekomunikacji 2/Labolatoria/20230306_180946.jpg]]![[Notatki/Semestr 2/Miernictwo w informatyce i telekomunikacji 2/Labolatoria/20230306_180952.jpg]]
+
+[[Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady]]

@@ -17,3 +17,11 @@
 ![[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-06 17.39.42.excalidraw]]
 ![[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-06 18.12.13.excalidraw]]
 ![[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Kolos/Drawing 2023-06-07 11.39.09.excalidraw]]
+
+[[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 1/Wykład 1]]
+[[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 2/Wykład 2]]
+[[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 3/Wykład 3]]
+[[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 4/Wykład 4]]
+[[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 5/Wykład 5]]
+[[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 6/Wykład 6]]
+[[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 7/Wykład 7]]

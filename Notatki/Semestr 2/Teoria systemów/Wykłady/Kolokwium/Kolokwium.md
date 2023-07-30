@@ -43,3 +43,11 @@ Agregacja to wyznaczanie modelu zintegrowanego, równoważnego algebraicznie opi
 Z systemem statycznym mamy do czynienia, gdy po wprowadzeniu danych wejściowych, właściwie bez opóźnienia system reaguje i zmienia dane. W dynamicznym systemie to jest bardziej płynne, wywołane z opóźnieniem, nie przebiega nagle, tylko rozkłada się w różny sposób w czasie. W układach dynamicznych określa się, czy są stabilne, niestabilne lub na granicy stabilności i wprowadza się transmitancję.
 
 ---
+
+[[Notatki/Semestr 2/Teoria systemów/Wykłady/Wykład 1/Wykład 1]]
+[[Notatki/Semestr 2/Teoria systemów/Wykłady/Wykład 2/Wykład 2]]
+[[Notatki/Semestr 2/Teoria systemów/Wykłady/Wykład 3/Wykład 3]]
+[[Notatki/Semestr 2/Teoria systemów/Wykłady/Wykład 4/Wykład 4]]
+[[Notatki/Semestr 2/Teoria systemów/Wykłady/Wykład 5/Wykład 5]]
+[[Notatki/Semestr 2/Teoria systemów/Wykłady/Wykład 6/Wykład 6]]
+[[Notatki/Semestr 2/Teoria systemów/Wykłady/Wykład 7/Wykład 7]]

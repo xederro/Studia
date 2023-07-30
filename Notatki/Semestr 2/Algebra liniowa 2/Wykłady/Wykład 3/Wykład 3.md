@@ -1,1 +1,2 @@
-![[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 3/AL2-Wyklad-3.pdf]]![[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 3/Wyklad_3a.pdf]]![[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 3/AL2-zestaw-3.pdf]]![[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 3/Drawing 2023-05-10 13.17.28.excalidraw]]
+![[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 3/AL2-Wyklad-3.pdf]]![[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 3/Wyklad_3a.pdf]]![[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 3/AL2-zestaw-3.pdf]]![[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 3/Drawing 2023-05-10 13.17.28.excalidraw]][[Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4]]
+[[Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Wykład 2/Wykład 2]]

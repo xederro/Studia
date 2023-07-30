@@ -29,3 +29,6 @@ preferuje kontakt mailowy
 - dopytki ustne
 
 książki do miernictwa dowolna
+
+
+[[Notatki/Semestr 2/Miernictwo w informatyce i telekomunikacji 2/Labolatoria/Labolatoria]]

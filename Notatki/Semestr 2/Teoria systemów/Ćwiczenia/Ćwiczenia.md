@@ -29,3 +29,4 @@ zadania z list
 
 w czasie zajęć będzie aktywność 3 '+' to .5 wyżej ale do pozytywnej
 
+[[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Algebra liniowa z geometrą analityczną]]
