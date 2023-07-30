@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2d22d310f4a0ebda",
+        "id": "76377ff394fa89a7",
         "type": "tabs",
         "children": [
           {
-            "id": "90576599d969a557",
+            "id": "47bf3643a30ae1eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -140,10 +132,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90576599d969a557",
+  "active": "47bf3643a30ae1eb",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Sylabus.pdf",
     "README.md",
+    "Notatki/Semestr 3/Semestr 3.md",
+    "Untitled.canvas",
     "CODE_OF_CONDUCT.md",
     "CONTRIBUTING.md",
     "LICENSE.md",
@@ -167,7 +161,6 @@
     "Notatki/Semestr 1/Technologie informacyjne/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 1/Własność intelektualna i prawo autorskie/Wykłady/Wykłady.md",
     "Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykłady.md",
-    "Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Labolatoria",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Ćwiczenia",
