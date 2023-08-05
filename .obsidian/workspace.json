@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "20da5dee2a6e46be",
+        "id": "7c5613207123ee5c",
         "type": "tabs",
         "children": [
           {
-            "id": "57416f263604c53b",
+            "id": "84efc3594aa56b93",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5069465637207,
-    "collapsed": true
+    "width": 318.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -101,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ],
@@ -133,8 +140,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "57416f263604c53b",
+  "active": "84efc3594aa56b93",
   "lastOpenFiles": [
+    "CODE_OF_CONDUCT.md",
     "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md",
     "Notatki/Semestr 2/Miernictwo w informatyce i telekomunikacji 2/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 2/Teoria systemów/Ćwiczenia/Ćwiczenia.md",
@@ -160,7 +168,6 @@
     "Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Lista_4_MD.pdf",
     "Sylabus.pdf",
     "Untitled.canvas",
