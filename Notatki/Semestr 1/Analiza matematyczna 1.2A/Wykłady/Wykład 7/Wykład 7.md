@@ -1,4 +1,4 @@
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 7/W7_Analiza_21_Przebieg_funk.pdf]]
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 7/Drawing 2022-11-25 12.52.08.excalidraw]]
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 7/Drawing 2022-12-02 11.12.05.excalidraw]]
-[[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7]]
+![W7_Analiza_21_Przebieg_funk](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%207/W7_Analiza_21_Przebieg_funk.pdf)
+![Drawing 2022-11-25 12.52.08.excalidraw](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%207/Drawing%202022-11-25%2012.52.08.excalidraw.md)
+![Drawing 2022-12-02 11.12.05.excalidraw](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%207/Drawing%202022-12-02%2011.12.05.excalidraw.md)
+[Ćwiczenia 7](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%207/%C4%86wiczenia%207.md)

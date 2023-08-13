@@ -1,4 +1,4 @@
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 6/W6_Analiza_21pochodne.pdf]]
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 6/Drawing 2022-11-25 11.16.41.excalidraw]]
+![W6_Analiza_21pochodne](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%206/W6_Analiza_21pochodne.pdf)
+![Drawing 2022-11-25 11.16.41.excalidraw](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%206/Drawing%202022-11-25%2011.16.41.excalidraw.md)
 
-[[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6]]
+[Ćwiczenia 6](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%206/%C4%86wiczenia%206.md)

@@ -5,10 +5,10 @@ typ: 'W'
 ---
 
 # Wykłady
-1. [[Notatki/Semestr 1/Etyka inżynierska/Wykłady/Wykład 1/Wykład 1|Wykład 1]]
-2. [[Notatki/Semestr 1/Etyka inżynierska/Wykłady/Wykład 2/Wykład 2|Wykład 2]]
-3. [[Notatki/Semestr 1/Etyka inżynierska/Wykłady/Wykład 3/Wykład 3|Wykład 3]]
-4. [[Notatki/Semestr 1/Etyka inżynierska/Wykłady/Wykład 4/Wykład 4|Wykład 4]]
+1. [Wykład 1](Notatki/Semestr%201/Etyka%20in%C5%BCynierska/Wyk%C5%82ady/Wyk%C5%82ad%201/Wyk%C5%82ad%201.md)
+2. [Wykład 2](Notatki/Semestr%201/Etyka%20in%C5%BCynierska/Wyk%C5%82ady/Wyk%C5%82ad%202/Wyk%C5%82ad%202.md)
+3. [Wykład 3](Notatki/Semestr%201/Etyka%20in%C5%BCynierska/Wyk%C5%82ady/Wyk%C5%82ad%203/Wyk%C5%82ad%203.md)
+4. [Wykład 4](Notatki/Semestr%201/Etyka%20in%C5%BCynierska/Wyk%C5%82ady/Wyk%C5%82ad%204/Wyk%C5%82ad%204.md)
 
 ## Zaliczenie
-![[Notatki/Semestr 1/Etyka inżynierska/Wykłady/Etyka inżynierska - pytania.docx]]
+![Etyka inżynierska - pytania](Notatki/Semestr%201/Etyka%20in%C5%BCynierska/Wyk%C5%82ady/Etyka%20in%C5%BCynierska%20-%20pytania.docx)

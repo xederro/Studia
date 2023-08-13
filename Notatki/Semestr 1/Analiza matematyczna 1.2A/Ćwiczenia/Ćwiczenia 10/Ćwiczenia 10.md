@@ -1,3 +1,3 @@
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Lista_10_AM1.pdf]]
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Drawing 2022-12-14 16.24.37.excalidraw]]
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Drawing 2023-01-05 10.33.26.excalidraw]]![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 10/Drawing 2023-01-13 15.20.51.excalidraw]][[Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 10/Wykład 10]]
+![Lista_10_AM1](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%2010/Lista_10_AM1.pdf)
+![Drawing 2022-12-14 16.24.37.excalidraw](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%2010/Drawing%202022-12-14%2016.24.37.excalidraw.md)
+![Drawing 2023-01-05 10.33.26.excalidraw](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%2010/Drawing%202023-01-05%2010.33.26.excalidraw.md)![Drawing 2023-01-13 15.20.51.excalidraw](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%2010/Drawing%202023-01-13%2015.20.51.excalidraw.md)[Wykład 10](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%2010/Wyk%C5%82ad%2010.md)

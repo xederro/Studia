@@ -1,1 +1,1 @@
-![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 1/ALGA_zestaw_01.pdf]][[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 1/Wykład 1]]
+![ALGA_zestaw_01](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/%C4%86wiczenia%201/ALGA_zestaw_01.pdf)[Wykład 1](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%201/Wyk%C5%82ad%201.md)

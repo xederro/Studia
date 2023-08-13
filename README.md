@@ -2,17 +2,17 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A8GJFDV)
 
 Zalecamy zapoznanie się z:
-[[LICENSE]]
-[[CONTRIBUTING]]
-[[CODE_OF_CONDUCT]]
+[LICENSE](LICENSE.md)
+[CONTRIBUTING](CONTRIBUTING.md)
+[CODE_OF_CONDUCT](CODE_OF_CONDUCT.md)
 
 # Studia
 ## Spis treści
-### [[Notatki/Semestr 1/Semestr 1|Semestr 1]]
-### [[Notatki/Semestr 2/Semestr 2|Semestr 2]]
-### [[Notatki/Semestr 3/Semestr 3|Semestr 3]]
+### [Semestr 1](Notatki/Semestr%201/Semestr%201.md)
+### [Semestr 2](Notatki/Semestr%202/Semestr%202.md)
+### [Semestr 3](Notatki/Semestr%203/Semestr%203.md)
 
-### [[Notatki/Inne/Inne|Inne]]
+### [Inne](Notatki/Inne/Inne.md)
 
 ## Średnia
 ```dataviewjs
@@ -37,8 +37,8 @@ dv.header(3, "Studia: " + (sum/(30*semestrCount)).toFixed(3));
 
 ## Przydatne
 >[!info]
->![[Sylabus.pdf|Sylabus]]
+>![Sylabus](Sylabus.pdf)
 
 >[!info]
->[[Sylabus.pdf|Sylabus]]
->[[symbols.pdf|Symbole]]
+>[Sylabus](Sylabus.pdf)
+>[Symbole](symbols.pdf)

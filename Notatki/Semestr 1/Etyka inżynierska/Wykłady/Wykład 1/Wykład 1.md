@@ -1,3 +1,3 @@
-![[Notatki/Semestr 1/Etyka inżynierska/Wykłady/Wykład 1/Etyka_jako_dyscyplina_filozoficzna.pdf]]
-![[Notatki/Semestr 1/Etyka inżynierska/Wykłady/Wykład 1/Podstawowe_pojecia_etyczne_-_problem_uzasadnienia_norm_etycznych.pdf]]
-![[Notatki/Semestr 1/Etyka inżynierska/Wykłady/Wykład 1/Glowne_szkoly_metaetyczne.pdf]]
+![Etyka_jako_dyscyplina_filozoficzna](Notatki/Semestr%201/Etyka%20in%C5%BCynierska/Wyk%C5%82ady/Wyk%C5%82ad%201/Etyka_jako_dyscyplina_filozoficzna.pdf)
+![Podstawowe_pojecia_etyczne_-_problem_uzasadnienia_norm_etycznych](Notatki/Semestr%201/Etyka%20in%C5%BCynierska/Wyk%C5%82ady/Wyk%C5%82ad%201/Podstawowe_pojecia_etyczne_-_problem_uzasadnienia_norm_etycznych.pdf)
+![Glowne_szkoly_metaetyczne](Notatki/Semestr%201/Etyka%20in%C5%BCynierska/Wyk%C5%82ady/Wyk%C5%82ad%201/Glowne_szkoly_metaetyczne.pdf)

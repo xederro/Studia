@@ -13,5 +13,6 @@
   },
   "tabSize": 4,
   "showFrontmatter": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true
 }

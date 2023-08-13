@@ -1,4 +1,4 @@
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 3/Lista_3_AM1.pdf]]
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 3/CCF31102022_0002.pdf]]
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 3/CCF31102022_0003.pdf]]
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 3/Drawing 2022-11-17 08.31.36.excalidraw]][[Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 3/Wykład 3]]
+![Lista_3_AM1](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%203/Lista_3_AM1.pdf)
+![CCF31102022_0002](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%203/CCF31102022_0002.pdf)
+![CCF31102022_0003](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%203/CCF31102022_0003.pdf)
+![Drawing 2022-11-17 08.31.36.excalidraw](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%203/Drawing%202022-11-17%2008.31.36.excalidraw.md)[Wykład 3](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%203/Wyk%C5%82ad%203.md)

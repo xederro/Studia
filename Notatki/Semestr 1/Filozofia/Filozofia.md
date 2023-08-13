@@ -6,4 +6,4 @@ typ: 'GK'
 ---
 
 # Kurs:
-## [[Notatki/Semestr 1/Filozofia/Wykłady/Wykłady|Wykłady]]
+## [Wykłady](Notatki/Semestr%201/Filozofia/Wyk%C5%82ady/Wyk%C5%82ady.md)

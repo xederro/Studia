@@ -1,2 +1,2 @@
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 9/W9_Analiza_21_Poch_cz_Eks_Wielu_Zm.pdf]]
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 9/Drawing 2022-12-14 11.11.05.excalidraw]][[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 9/Ćwiczenia 9]]
+![W9_Analiza_21_Poch_cz_Eks_Wielu_Zm](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%209/W9_Analiza_21_Poch_cz_Eks_Wielu_Zm.pdf)
+![Drawing 2022-12-14 11.11.05.excalidraw](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%209/Drawing%202022-12-14%2011.11.05.excalidraw.md)[Ćwiczenia 9](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%209/%C4%86wiczenia%209.md)

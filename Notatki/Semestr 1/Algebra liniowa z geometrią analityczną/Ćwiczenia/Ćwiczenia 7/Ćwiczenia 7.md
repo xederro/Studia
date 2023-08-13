@@ -1,3 +1,3 @@
-![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 7/ALGA_zestaw_07.pdf]]
-![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 7/Drawing 2022-11-25 17.46.56.excalidraw]]![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 7/Drawing 2022-12-01 12.13.08.excalidraw]]
-[[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 4/Wykład 4]]
+![ALGA_zestaw_07](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/%C4%86wiczenia%207/ALGA_zestaw_07.pdf)
+![Drawing 2022-11-25 17.46.56.excalidraw](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/%C4%86wiczenia%207/Drawing%202022-11-25%2017.46.56.excalidraw.md)![Drawing 2022-12-01 12.13.08.excalidraw](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/%C4%86wiczenia%207/Drawing%202022-12-01%2012.13.08.excalidraw.md)
+[Wykład 4](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%204/Wyk%C5%82ad%204.md)

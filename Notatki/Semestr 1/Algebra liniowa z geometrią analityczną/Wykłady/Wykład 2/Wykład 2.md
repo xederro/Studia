@@ -1,5 +1,5 @@
-![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 2/ALGA-Wyklad_03.pdf]]
-![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 2/Wyklad_3a.pdf]]
+![ALGA-Wyklad_03](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%202/ALGA-Wyklad_03.pdf)
+![Wyklad_3a](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%202/Wyklad_3a.pdf)
 # Forma trygonometryczna
 
 ## Zapis w formie trygonometrycznej
@@ -27,4 +27,4 @@ $$\cos\varphi={\sqrt3\over2}, \qquad \sin\varphi={1\over2}$$
 $$\varphi={\pi\over6}$$
 
 cdn.
-[[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3]][[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4]]
+[Ćwiczenia 3](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/%C4%86wiczenia%203/%C4%86wiczenia%203.md)[Ćwiczenia 4](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/%C4%86wiczenia%204/%C4%86wiczenia%204.md)

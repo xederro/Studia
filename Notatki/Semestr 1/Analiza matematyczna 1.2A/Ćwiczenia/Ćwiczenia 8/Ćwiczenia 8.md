@@ -1,2 +1,2 @@
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 8/Lista_8_AM1.pdf]]
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 8/Drawing 2022-12-14 15.18.08.excalidraw]][[Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 8/Wykład 8]]
+![Lista_8_AM1](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%208/Lista_8_AM1.pdf)
+![Drawing 2022-12-14 15.18.08.excalidraw](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%208/Drawing%202022-12-14%2015.18.08.excalidraw.md)[Wykład 8](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%208/Wyk%C5%82ad%208.md)

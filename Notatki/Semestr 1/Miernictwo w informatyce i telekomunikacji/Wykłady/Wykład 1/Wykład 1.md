@@ -1,4 +1,4 @@
-![[Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 1/Wyklad1_konspekt_eportal.pdf]] hasło: PB_W1
+![Wyklad1_konspekt_eportal](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Wyk%C5%82ad%201/Wyklad1_konspekt_eportal.pdf) hasło: PB_W1
 # Wprowadzenie do miernictwa
 
 ## Proces poznania rzeczywistości

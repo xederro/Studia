@@ -1,9 +1,9 @@
 [oze](https://oze.pwr.edu.pl//kursy/fizykacw/content/start/K-08.html)
-![[Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Wykład 7_8-2021.pdf]]H: EF_W78_2021
-![[Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/oczka.pdf]]
-![[Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/polaczeniaR.pdf]]
-![[Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/zrodla.pdf]]
-![[Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Pasted image 20221122091152.png|Kartkówka]] #kolokwium 
+![Wykład 7_8-2021](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Wyk%C5%82ad%206/Wyk%C5%82ad%207_8-2021.pdf)H: EF_W78_2021
+![oczka](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Wyk%C5%82ad%206/oczka.pdf)
+![polaczeniaR](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Wyk%C5%82ad%206/polaczeniaR.pdf)
+![zrodla](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Wyk%C5%82ad%206/zrodla.pdf)
+![Kartkówka](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Wyk%C5%82ad%206/Pasted%20image%2020221122091152.png) #kolokwium 
 #kolokwium {
 # Prawo Ohma
 U = IR
@@ -57,7 +57,7 @@ Dowolną sieć elektryczną (a w szczególności zasilacz) z dwoma wybranymi zac
 Każdą sieć elektryczną (a w szczególności zasilacz) można zastąpić równoległym połączeniem źródła prądowego generującego prąd IN i rezystora RN. IN jest prądem zwarcia. IN = Izwarcia. Gdy spotkamy układy z napięciami i prądami zmiennymi będziemy posługiwać się uogólnieniem rezystancji jakim jest impedancja Z (czyli „oporność zależna od częstotliwości”). Z powyższego widać, że dla każdego układu
 
 
-![[Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 6/Pasted image 20221122095829.png]]//bardzo często na #kolokwium 
+![Pasted image 20221122095829](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Wyk%C5%82ad%206/Pasted%20image%2020221122095829.png)//bardzo często na #kolokwium 
 }
 
 # Wybrane metody analizy obwodów elektrycznych

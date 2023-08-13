@@ -1,1 +1,1 @@
-![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 15/ALGA-Wyklad_16.pdf]][[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 12/Ćwiczenia 12]]
+![ALGA-Wyklad_16](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%2015/ALGA-Wyklad_16.pdf)[Ćwiczenia 12](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/%C4%86wiczenia%2012/%C4%86wiczenia%2012.md)

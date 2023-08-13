@@ -1,4 +1,4 @@
-![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 4/ALGA-Wyklad_05.pdf]]
-![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 4/Wyklad_5a.pdf]]
-![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 4/Wyklad_4a_cz2.pdf]]
-![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 4/Drawing 2022-11-08 13.16.09.excalidraw]][[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6]][[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7]]
+![ALGA-Wyklad_05](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%204/ALGA-Wyklad_05.pdf)
+![Wyklad_5a](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%204/Wyklad_5a.pdf)
+![Wyklad_4a_cz2](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%204/Wyklad_4a_cz2.pdf)
+![Drawing 2022-11-08 13.16.09.excalidraw](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%204/Drawing%202022-11-08%2013.16.09.excalidraw.md)[Ćwiczenia 6](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/%C4%86wiczenia%206/%C4%86wiczenia%206.md)[Ćwiczenia 7](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/%C4%86wiczenia%207/%C4%86wiczenia%207.md)

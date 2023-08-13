@@ -1,6 +1,6 @@
-![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 1/Adobe Scan 6 Nov 2022.pdf]]
-![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 1/Adobe Scan 6 Nov 2022 (1).pdf]]
-![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 1/Adobe Scan 6 Nov 2022 (2).pdf]]
-![[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Ćwiczenia/Kolos 1/Adobe Scan 6 Nov 2022 (3).pdf]]
+![Adobe Scan 6 Nov 2022](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/Kolos%201/Adobe%20Scan%206%20Nov%202022.pdf)
+![Adobe Scan 6 Nov 2022 (1)](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/Kolos%201/Adobe%20Scan%206%20Nov%202022%20(1).pdf)
+![Adobe Scan 6 Nov 2022 (2)](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/Kolos%201/Adobe%20Scan%206%20Nov%202022%20(2).pdf)
+![Adobe Scan 6 Nov 2022 (3)](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/Kolos%201/Adobe%20Scan%206%20Nov%202022%20(3).pdf)
 
-[[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1]][[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2]][[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3]][[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4]]
+[Ćwiczenia 1](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/%C4%86wiczenia%201/%C4%86wiczenia%201.md)[Ćwiczenia 2](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/%C4%86wiczenia%202/%C4%86wiczenia%202.md)[Ćwiczenia 3](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/%C4%86wiczenia%203/%C4%86wiczenia%203.md)[Ćwiczenia 4](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/%C4%86wiczenia%204/%C4%86wiczenia%204.md)

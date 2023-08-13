@@ -1,4 +1,4 @@
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 1/W1_Analiza_21_Wstep.pdf]]
+![W1_Analiza_21_Wstep](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%201/W1_Analiza_21_Wstep.pdf)
 
 # Elementy Logiki Matematycznej
 
@@ -72,4 +72,4 @@ liczba elementów $N=Z=Q \not= NW$
 
 $\aleph_0$ - aleph 0 
 
-[[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1]][[Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Wykład 3/Wykład 3]]
+[Ćwiczenia 1](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%201/%C4%86wiczenia%201.md)[Wykład 3](Notatki/Semestr%202/Matematyka%20dyskretna/Wyk%C5%82ady/Wyk%C5%82ad%203/Wyk%C5%82ad%203.md)

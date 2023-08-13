@@ -1,4 +1,4 @@
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Lista_5_AM1.pdf]]
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Drawing 2022-11-18 16.05.14.excalidraw]]
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Drawing 2022-11-24 16.54.15.excalidraw]]
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Drawing 2022-12-02 15.17.24.excalidraw]][[Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 5/Wykład 5]]
+![Lista_5_AM1](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%205/Lista_5_AM1.pdf)
+![Drawing 2022-11-18 16.05.14.excalidraw](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%205/Drawing%202022-11-18%2016.05.14.excalidraw.md)
+![Drawing 2022-11-24 16.54.15.excalidraw](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%205/Drawing%202022-11-24%2016.54.15.excalidraw.md)
+![Drawing 2022-12-02 15.17.24.excalidraw](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%205/Drawing%202022-12-02%2015.17.24.excalidraw.md)[Wykład 5](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%205/Wyk%C5%82ad%205.md)

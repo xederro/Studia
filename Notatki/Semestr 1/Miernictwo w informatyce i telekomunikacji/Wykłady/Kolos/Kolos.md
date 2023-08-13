@@ -133,7 +133,7 @@ $X[dB] = 10log\frac{P1}{P2}$
 ## Napięciowy
 $X[dB] = 20log\frac{U1}{U2}$
 
-![[Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230122163620.png]]
+![Pasted image 20230122163620](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Kolos/Pasted%20image%2020230122163620.png)
 
 # Wykład 6
 
@@ -156,30 +156,30 @@ $P=IU=I^2R=\frac{U^2}{R}=U^2G=\frac{I^2}{G}$
 
 ## Źródło napięciowe
 idealne - takie samo napięcie niezależnie od obciązenia
-![[Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230122170950.png]]
+![Pasted image 20230122170950](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Kolos/Pasted%20image%2020230122170950.png)
 #bylo ^
 ## Źródło prądowe
 idealne - takie sam natężenie niezależnie od napięcia
-![[Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230122171038.png]]
+![Pasted image 20230122171038](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Kolos/Pasted%20image%2020230122171038.png)
 #bylo ^
 ## Twierdzenie Thevenina
 Każdą sieć elektryczną można zamienić na:
-![[Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230122171620.png]]
+![Pasted image 20230122171620](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Kolos/Pasted%20image%2020230122171620.png)
 $R_T = \frac{U_T}{I_{ZWARCIA}}$
 $U_T = U_{ROZWARCIA}$
 #bylo ^
 ## Twierdzenie Nortona
 Każdą sieć elektryczną można zamienić na:
-![[Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230122171802.png]]
+![Pasted image 20230122171802](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Kolos/Pasted%20image%2020230122171802.png)
 $R_N = \frac{U_{ROZWARCIA}}{I_N}$
 $I_N = I_{ZWARCIA}$
 #bylo  ^
 $$R_T = R_N = \frac{U_{ROZWARCIA}}{I_{ZWARCIA}}$$
 | ?mierz      | jak podłączyć | uwagi                  | Układ                                | Idealne do                   |
 | ----------- | ------------- | ---------------------- | ------------------------------------ | ---------------------------- |
-| Amperomierz | Szeregowo     | najlepiej $0\ohm$      | ![[Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230122172536.png]] | mierzenia małych rezystancji |
-| Voltomierz  | Równolegle    | najlepiej $\infty\ohm$ | ![[Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230122172514.png]] | mierzenia dużych rezystancji | 
-| Ohmomierz   |               | bez zasilania          | ![[Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230130143813.png]] |                              |
+| Amperomierz | Szeregowo     | najlepiej $0\ohm$      | ![Pasted image 20230122172536](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Kolos/Pasted%20image%2020230122172536.png) | mierzenia małych rezystancji |
+| Voltomierz  | Równolegle    | najlepiej $\infty\ohm$ | ![Pasted image 20230122172514](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Kolos/Pasted%20image%2020230122172514.png) | mierzenia dużych rezystancji | 
+| Ohmomierz   |               | bez zasilania          | ![Pasted image 20230130143813](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Kolos/Pasted%20image%2020230130143813.png) |                              |
 #bylo ^
 # Wykład 7
 
@@ -199,13 +199,13 @@ $$F_0 = \frac{1}{T} \int_{-T/2}^{T/2}f(t)dt$$
 ^ #bylo
 | Rodzaj sygnału                           | Postać sygnału                       | Wartość średnia bezwzględna | Wartość skuteczna | Współczynnik kształtu | Współczynnik szczytu |
 | ---------------------------------------- | ------------------------------------ | --------------------------- | ----------------- | --------------------- | -------------------- |
-| Sygnał stały DC                          | ![[Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230129215723.png]] | $1$                         | $1$               | $1$                   | $1$                  |
-| Prostokątny symetryczny                  | ![[Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230129215830.png]] | $1$                         | $1$               | $1$                   | $1$                  |
-| Sinusoidalny                             | ![[Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230129215919.png]] | $2\over\pi$                 | $1\over\sqrt{2}$  | $\pi\over2\sqrt{2}$   | $\sqrt2$             |
-| Sinusoidalny wyprostowany dwópołówkowo   | ![[Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230129215933.png]] | $2\over\pi$                 | $1\over\sqrt{2}$  | $\pi\over2\sqrt{2}$   | $\sqrt2$             |
-| Sinusoidalny wyprostowany jednopołówkowo | ![[Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230129215941.png]] | $1\over\pi$                 | $1\over2$         | $\pi\over2$           | $2$                  |
-| Trójkąt symetryczny                      | ![[Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230129222234.png]] | $1\over2$                   | $1\over\sqrt3$    | $2\over\sqrt3$        | $\sqrt3$               |
-| Piłokształtny                            | ![[Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Pasted image 20230129222243.png]] | $1\over2$                   | $1\over\sqrt3$    | $2\over\sqrt3$        | $\sqrt3$               |
+| Sygnał stały DC                          | ![Pasted image 20230129215723](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Kolos/Pasted%20image%2020230129215723.png) | $1$                         | $1$               | $1$                   | $1$                  |
+| Prostokątny symetryczny                  | ![Pasted image 20230129215830](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Kolos/Pasted%20image%2020230129215830.png) | $1$                         | $1$               | $1$                   | $1$                  |
+| Sinusoidalny                             | ![Pasted image 20230129215919](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Kolos/Pasted%20image%2020230129215919.png) | $2\over\pi$                 | $1\over\sqrt{2}$  | $\pi\over2\sqrt{2}$   | $\sqrt2$             |
+| Sinusoidalny wyprostowany dwópołówkowo   | ![Pasted image 20230129215933](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Kolos/Pasted%20image%2020230129215933.png) | $2\over\pi$                 | $1\over\sqrt{2}$  | $\pi\over2\sqrt{2}$   | $\sqrt2$             |
+| Sinusoidalny wyprostowany jednopołówkowo | ![Pasted image 20230129215941](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Kolos/Pasted%20image%2020230129215941.png) | $1\over\pi$                 | $1\over2$         | $\pi\over2$           | $2$                  |
+| Trójkąt symetryczny                      | ![Pasted image 20230129222234](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Kolos/Pasted%20image%2020230129222234.png) | $1\over2$                   | $1\over\sqrt3$    | $2\over\sqrt3$        | $\sqrt3$               |
+| Piłokształtny                            | ![Pasted image 20230129222243](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Kolos/Pasted%20image%2020230129222243.png) | $1\over2$                   | $1\over\sqrt3$    | $2\over\sqrt3$        | $\sqrt3$               |
 ^ #bylo
 wartość skuteczna to sens energetyczny sygnału
 czyli jaką energie wygeneruje na oporniku, 230v ac to jest 326v amplitudy by wygenerowało tyle co 230v dc
@@ -331,4 +331,4 @@ sygnał harmoniczny to sinusoida
 parzysty - cosinus
 nieparzysty - sinus
 
-![[Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Drawing 2023-01-26 14.51.11.excalidraw]]![[Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Drawing 2023-01-30 10.56.53.excalidraw]]![[Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Drawing 2023-01-30 12.02.42.excalidraw]]
+![Drawing 2023-01-26 14.51.11.excalidraw](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Kolos/Drawing%202023-01-26%2014.51.11.excalidraw.md)![Drawing 2023-01-30 10.56.53.excalidraw](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Kolos/Drawing%202023-01-30%2010.56.53.excalidraw.md)![Drawing 2023-01-30 12.02.42.excalidraw](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Kolos/Drawing%202023-01-30%2012.02.42.excalidraw.md)

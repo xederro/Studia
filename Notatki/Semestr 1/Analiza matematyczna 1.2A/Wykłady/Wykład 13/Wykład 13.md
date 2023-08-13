@@ -1,2 +1,2 @@
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 13/W13_Analiza_21_Calka_2_zm.pdf]]
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 13/Drawing 2023-01-20 11.18.06.excalidraw]][[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 13/Ćwiczenia 13]]
+![W13_Analiza_21_Calka_2_zm](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%2013/W13_Analiza_21_Calka_2_zm.pdf)
+![Drawing 2023-01-20 11.18.06.excalidraw](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%2013/Drawing%202023-01-20%2011.18.06.excalidraw.md)[Ćwiczenia 13](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%2013/%C4%86wiczenia%2013.md)

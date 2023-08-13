@@ -6,5 +6,5 @@ typ: 'GK'
 ---
 
 # Kurs:
-## [[Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykłady|Wykłady]]
-## [[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia|Ćwiczenia]]
+## [Wykłady](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ady.md)
+## [Ćwiczenia](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia.md)

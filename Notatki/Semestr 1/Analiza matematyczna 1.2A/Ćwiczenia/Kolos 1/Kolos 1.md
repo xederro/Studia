@@ -1,9 +1,9 @@
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/zagAM.pdf]]
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Pasted image 20221111121428.png]]
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 12.16.30.excalidraw]]
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Pasted image 20221111121448.png]]
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-11 16.02.38.excalidraw]]
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Pasted image 20221111121508.png]]
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-13 11.13.48.excalidraw]]
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Pasted image 20221111121520.png]]
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Kolos 1/Drawing 2022-11-13 12.01.04.excalidraw]][[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Quiz 1/Quiz 1]][[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1]][[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2]][[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3]][[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4]][[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5]]
+![zagAM](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/Kolos%201/zagAM.pdf)
+![Pasted image 20221111121428](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/Kolos%201/Pasted%20image%2020221111121428.png)
+![Drawing 2022-11-11 12.16.30.excalidraw](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/Kolos%201/Drawing%202022-11-11%2012.16.30.excalidraw.md)
+![Pasted image 20221111121448](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/Kolos%201/Pasted%20image%2020221111121448.png)
+![Drawing 2022-11-11 16.02.38.excalidraw](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/Kolos%201/Drawing%202022-11-11%2016.02.38.excalidraw.md)
+![Pasted image 20221111121508](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/Kolos%201/Pasted%20image%2020221111121508.png)
+![Drawing 2022-11-13 11.13.48.excalidraw](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/Kolos%201/Drawing%202022-11-13%2011.13.48.excalidraw.md)
+![Pasted image 20221111121520](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/Kolos%201/Pasted%20image%2020221111121520.png)
+![Drawing 2022-11-13 12.01.04.excalidraw](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/Kolos%201/Drawing%202022-11-13%2012.01.04.excalidraw.md)[Quiz 1](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/Quiz%201/Quiz%201.md)[Ćwiczenia 1](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%201/%C4%86wiczenia%201.md)[Ćwiczenia 2](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%202/%C4%86wiczenia%202.md)[Ćwiczenia 3](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%203/%C4%86wiczenia%203.md)[Ćwiczenia 4](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%204/%C4%86wiczenia%204.md)[Ćwiczenia 5](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%205/%C4%86wiczenia%205.md)

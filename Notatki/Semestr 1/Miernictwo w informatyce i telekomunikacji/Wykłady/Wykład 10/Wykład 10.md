@@ -1,4 +1,4 @@
-![[Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 10/scope_146.exe]]
+![scope_146](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Wyk%C5%82ad%2010/scope_146.exe)
 [symulator](https://www.zeitnitz.eu/scope_en)
 
 # Oscyloskop

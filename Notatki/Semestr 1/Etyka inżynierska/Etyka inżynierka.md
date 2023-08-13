@@ -6,5 +6,5 @@ typ: 'GK'
 ---
 
 # Kurs:
-## [[Notatki/Semestr 1/Etyka inżynierska/Wykłady/Wykłady|Wykłady]]
+## [Wykłady](Notatki/Semestr%201/Etyka%20in%C5%BCynierska/Wyk%C5%82ady/Wyk%C5%82ady.md)
 

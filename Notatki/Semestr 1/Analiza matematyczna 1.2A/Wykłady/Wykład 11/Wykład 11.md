@@ -1,2 +1,2 @@
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 11/W11_Analiza_21_Cal_f_wym.pdf]]
-![[Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 11/Drawing 2022-12-16 12.40.59.excalidraw]][[Notatki/Semestr 1/Analiza matematyczna 1.2A/Ćwiczenia/Ćwiczenia 11/Ćwiczenia 11]][[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 3/Wykład 3]]
+![W11_Analiza_21_Cal_f_wym](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%2011/W11_Analiza_21_Cal_f_wym.pdf)
+![Drawing 2022-12-16 12.40.59.excalidraw](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%2011/Drawing%202022-12-16%2012.40.59.excalidraw.md)[Ćwiczenia 11](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%2011/%C4%86wiczenia%2011.md)[Wykład 3](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%203/Wyk%C5%82ad%203.md)
