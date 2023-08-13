@@ -11,8 +11,10 @@
             "id": "a640dc3ee85bc4d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 9/Drawing 2023-06-06 13.11.21.excalidraw.md"
+              }
             }
           }
         ]
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 4/ALGA-Wyklad_05.pdf",
+                "file": "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 9/Drawing 2023-06-06 13.11.21.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 4/ALGA-Wyklad_05.pdf"
+                "file": "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 9/Drawing 2023-06-06 13.11.21.excalidraw.md"
               }
             }
           }
@@ -135,8 +137,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "671d26171d29a68e",
+  "active": "a640dc3ee85bc4d2",
   "lastOpenFiles": [
+    "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 9/Notatki do wykładów optyka falowa 2021.pdf",
+    "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 8/Elementy Optyczne - Konrad Kłoniecki.pdf",
+    "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 7/Drawing 2023-04-18 13.15.28.excalidraw.md",
     "Sylabus.pdf",
     "README.md",
     "CODE_OF_CONDUCT.md",
@@ -162,7 +167,6 @@
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Kolokwium.md",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-27 11.54.20.excalidraw.md",
     "Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Lista_4_MD.pdf",
     "Untitled.canvas",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady",
@@ -172,7 +176,6 @@
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Labolatoria",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Ćwiczenia",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady",
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Labolatoria",
     "Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230601185315_337.png",
     "Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230601184742_203.png",
     "Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Kolos/Pasted Image 20230601184727_202.png",
