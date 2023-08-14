@@ -1,10 +1,10 @@
-![[Notatki/Semestr 2/Programowanie obiektowe/Labolatoria/Labolatoria 7/Lab7_lista.pdf]]
-![[Notatki/Semestr 2/Programowanie obiektowe/Labolatoria/Labolatoria 7/It.java]]
-![[Notatki/Semestr 2/Programowanie obiektowe/Labolatoria/Labolatoria 7/Ksiegowy.java]]
-![[Notatki/Semestr 2/Programowanie obiektowe/Labolatoria/Labolatoria 7/Programista.java]]
-![[Notatki/Semestr 2/Programowanie obiektowe/Labolatoria/Labolatoria 7/Pracownik.java]]
-![[Notatki/Semestr 2/Programowanie obiektowe/Labolatoria/Labolatoria 7/Transport.java]]
-![[Notatki/Semestr 2/Programowanie obiektowe/Labolatoria/Labolatoria 7/Transport.java]]
-![[Notatki/Semestr 2/Programowanie obiektowe/Labolatoria/Labolatoria 7/AbstractTransport.java]]
-![[Notatki/Semestr 2/Programowanie obiektowe/Labolatoria/Labolatoria 7/Samolot.java]]
-![[Notatki/Semestr 2/Programowanie obiektowe/Labolatoria/Labolatoria 7/Pociag.java]]
+![Lab7_lista](Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%207/Lab7_lista.pdf)
+![It](Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%207/It.java)
+![Ksiegowy](Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%207/Ksiegowy.java)
+![Programista](Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%207/Programista.java)
+![Pracownik](Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%207/Pracownik.java)
+![Transport](Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%207/Transport.java)
+![Transport](Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%207/Transport.java)
+![AbstractTransport](Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%207/AbstractTransport.java)
+![Samolot](Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%207/Samolot.java)
+![Pociag](Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%207/Pociag.java)

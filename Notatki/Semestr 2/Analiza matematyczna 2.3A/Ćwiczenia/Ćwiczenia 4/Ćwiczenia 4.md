@@ -1,1 +1,1 @@
-![[Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 4/AM2-zestaw_04.pdf]][[Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 4/Wykład 4]]
+![AM2-zestaw_04](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/%C4%86wiczenia%204/AM2-zestaw_04.pdf)[Wykład 4](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/Wyk%C5%82ady/Wyk%C5%82ad%204/Wyk%C5%82ad%204.md)

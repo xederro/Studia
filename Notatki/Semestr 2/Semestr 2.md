@@ -1,11 +1,11 @@
 # Semestr 2
-1. [[Notatki/Semestr 2/Algebra liniowa 2/Algebra liniowa 2|Algebra liniowa 2]]
-2. [[Notatki/Semestr 2/Analiza matematyczna 2.3A/Analiza matematyczna 2.3A|Analiza matematyczna 2.3A]]
-3. [[Notatki/Semestr 2/Fizyka 1.1A/Fizyka 1.1A|Fizyka 1.1A]]
-4. [[Notatki/Semestr 2/Matematyka dyskretna/Matematyka dyskretna|Matematyka dyskretna]]
-5. [[Notatki/Semestr 2/Miernictwo w informatyce i telekomunikacji 2/Miernictwo w informatyce i telekomunikacji 2|Miernictwo w informatyce i telekomunikacji 2]]
-6. [[Notatki/Semestr 2/Podstawy automatyki i robotyki/Podstawy automatyki i robotyki|Podstawy automatyki i robotyki]]
-7. [[Notatki/Semestr 2/Programowanie obiektowe/Programowanie obiektowe|Programowanie obiektowe]]
-8. [[Notatki/Semestr 2/Rachunek prawdopodobieństwa/Rachunek prawdopodobieństwa|Rachunek prawdopodobieństwa]]
-9. [[Notatki/Semestr 2/Teoria systemów/Teoria systemów|Teoria systemów]]
-10. [[Notatki/Semestr 2/WF-1/WF-1|WF-1]]
+1. [Algebra liniowa 2](Notatki/Semestr%202/Algebra%20liniowa%202/Algebra%20liniowa%202.md)
+2. [Analiza matematyczna 2.3A](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/Analiza%20matematyczna%202.3A.md)
+3. [Fizyka 1.1A](Notatki/Semestr%202/Fizyka%201.1A/Fizyka%201.1A.md)
+4. [Matematyka dyskretna](Notatki/Semestr%202/Matematyka%20dyskretna/Matematyka%20dyskretna.md)
+5. [Miernictwo w informatyce i telekomunikacji 2](Notatki/Semestr%202/Miernictwo%20w%20informatyce%20i%20telekomunikacji%202/Miernictwo%20w%20informatyce%20i%20telekomunikacji%202.md)
+6. [Podstawy automatyki i robotyki](Notatki/Semestr%202/Podstawy%20automatyki%20i%20robotyki/Podstawy%20automatyki%20i%20robotyki.md)
+7. [Programowanie obiektowe](Notatki/Semestr%202/Programowanie%20obiektowe/Programowanie%20obiektowe.md)
+8. [Rachunek prawdopodobieństwa](Notatki/Semestr%202/Rachunek%20prawdopodobie%C5%84stwa/Rachunek%20prawdopodobie%C5%84stwa.md)
+9. [Teoria systemów](Notatki/Semestr%202/Teoria%20system%C3%B3w/Teoria%20system%C3%B3w.md)
+10. [WF-1](Notatki/Semestr%202/WF-1/WF-1.md)

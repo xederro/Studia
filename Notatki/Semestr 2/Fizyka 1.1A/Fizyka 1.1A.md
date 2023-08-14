@@ -6,5 +6,5 @@ typ: 'GK'
 ---
 
 # Kurs:
-## [[Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykłady|Wykłady]]
-## [[Notatki/Semestr 2/Fizyka 1.1A/Ćwiczenia/Ćwiczenia|Ćwiczenia]]
+## [Wykłady](Notatki/Semestr%202/Fizyka%201.1A/Wyk%C5%82ady/Wyk%C5%82ady.md)
+## [Ćwiczenia](Notatki/Semestr%202/Fizyka%201.1A/%C4%86wiczenia/%C4%86wiczenia.md)

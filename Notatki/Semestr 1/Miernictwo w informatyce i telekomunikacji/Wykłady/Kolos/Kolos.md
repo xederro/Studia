@@ -331,4 +331,4 @@ sygnał harmoniczny to sinusoida
 parzysty - cosinus
 nieparzysty - sinus
 
-![Drawing 2023-01-26 14.51.11.excalidraw](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Kolos/Drawing%202023-01-26%2014.51.11.excalidraw.md)![Drawing 2023-01-30 10.56.53.excalidraw](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Kolos/Drawing%202023-01-30%2010.56.53.excalidraw.md)![Drawing 2023-01-30 12.02.42.excalidraw](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Kolos/Drawing%202023-01-30%2012.02.42.excalidraw.md)
+![Drawing 2023-01-26 14.51.11.excalidraw.svg](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Kolos/Drawing%202023-01-26%2014.51.11.excalidraw.svg)![Drawing 2023-01-30 10.56.53.excalidraw.svg](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Kolos/Drawing%202023-01-30%2010.56.53.excalidraw.svg)![Drawing 2023-01-30 12.02.42.excalidraw.svg](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Kolos/Drawing%202023-01-30%2012.02.42.excalidraw.svg)

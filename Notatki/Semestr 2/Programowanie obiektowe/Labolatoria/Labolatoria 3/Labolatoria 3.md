@@ -1,4 +1,4 @@
-![[Notatki/Semestr 2/Programowanie obiektowe/Labolatoria/Labolatoria 3/Lab3_lista.pdf]]
+![Lab3_lista](Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%203/Lab3_lista.pdf)
 
 ```run-java
 public class Triangle {  
@@ -268,5 +268,5 @@ public class Tour {
 }
 ```
 
-![[Notatki/Semestr 2/Programowanie obiektowe/Labolatoria/Labolatoria 3/Tour.java]]
-![[Notatki/Semestr 2/Programowanie obiektowe/Labolatoria/Labolatoria 3/Triangle.java]]
+![Tour](Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%203/Tour.java)
+![Triangle](Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%203/Triangle.java)

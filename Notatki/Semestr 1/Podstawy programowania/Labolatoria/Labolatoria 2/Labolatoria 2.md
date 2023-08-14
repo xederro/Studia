@@ -1,5 +1,5 @@
-![[Notatki/Semestr 1/Podstawy programowania/Labolatoria/Labolatoria 2/Laboratorium 2_2021.pdf]]
-![[Notatki/Semestr 1/Podstawy programowania/Labolatoria/Labolatoria 2/labolatoria 2.cpp]]
+![Laboratorium 2_2021](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%202/Laboratorium%202_2021.pdf)
+![labolatoria 2](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%202/labolatoria%202.cpp)
 
-[[Notatki/Semestr 1/Podstawy programowania/Wykłady/Wykład 3/Wykład 3]]
-[[Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 11/Wykład 11]]
+[Wykład 3](Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ad%203/Wyk%C5%82ad%203.md)
+[Wykład 11](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%2011/Wyk%C5%82ad%2011.md)

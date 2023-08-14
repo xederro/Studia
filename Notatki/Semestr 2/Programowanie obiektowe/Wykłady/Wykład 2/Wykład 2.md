@@ -1,1 +1,1 @@
-![[Notatki/Semestr 2/Programowanie obiektowe/Wykłady/Wykład 2/JavaIntroduction.pdf]]
+![JavaIntroduction](Notatki/Semestr%202/Programowanie%20obiektowe/Wyk%C5%82ady/Wyk%C5%82ad%202/JavaIntroduction.pdf)

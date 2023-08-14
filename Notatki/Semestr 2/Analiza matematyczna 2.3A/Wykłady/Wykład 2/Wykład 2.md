@@ -1,3 +1,3 @@
-![[Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 2/AM2-Wyklad_02.pdf]]
-![[Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 2/Wyklad_2a.pdf]]
-![[Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 2/Drawing 2023-03-08 13.23.59.excalidraw]][[Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2]]
+![AM2-Wyklad_02](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/Wyk%C5%82ady/Wyk%C5%82ad%202/AM2-Wyklad_02.pdf)
+![Wyklad_2a](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/Wyk%C5%82ady/Wyk%C5%82ad%202/Wyklad_2a.pdf)
+![Drawing 2023-03-08 13.23.59.excalidraw](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/Wyk%C5%82ady/Wyk%C5%82ad%202/Drawing%202023-03-08%2013.23.59.excalidraw.svg)[Ćwiczenia 2](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/%C4%86wiczenia%202/%C4%86wiczenia%202.md)

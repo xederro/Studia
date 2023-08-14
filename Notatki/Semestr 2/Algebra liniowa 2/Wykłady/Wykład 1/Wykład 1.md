@@ -1,4 +1,4 @@
-![[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 1/AL2-Wyklad-1.pdf]]
-![[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 1/AL2-zestaw-1.pdf]]![[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 1/Wyklad_1a.pdf]]![[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykład 1/Drawing 2023-04-19 14.05.45.excalidraw]][[Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Wykład 1/Wykład 1]]
-[[Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3]]
-[[Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4]]
+![AL2-Wyklad-1](Notatki/Semestr%202/Algebra%20liniowa%202/Wyk%C5%82ady/Wyk%C5%82ad%201/AL2-Wyklad-1.pdf)
+![AL2-zestaw-1](Notatki/Semestr%202/Algebra%20liniowa%202/Wyk%C5%82ady/Wyk%C5%82ad%201/AL2-zestaw-1.pdf)![Wyklad_1a](Notatki/Semestr%202/Algebra%20liniowa%202/Wyk%C5%82ady/Wyk%C5%82ad%201/Wyklad_1a.pdf)![Drawing 2023-04-19 14.05.45.excalidraw](Notatki/Semestr%202/Algebra%20liniowa%202/Wyk%C5%82ady/Wyk%C5%82ad%201/Drawing%202023-04-19%2014.05.45.excalidraw.svg)[Wykład 1](Notatki/Semestr%202/Matematyka%20dyskretna/Wyk%C5%82ady/Wyk%C5%82ad%201/Wyk%C5%82ad%201.md)
+[Ćwiczenia 3](Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/%C4%86wiczenia%203/%C4%86wiczenia%203.md)
+[Ćwiczenia 4](Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/%C4%86wiczenia%204/%C4%86wiczenia%204.md)

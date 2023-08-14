@@ -6,5 +6,5 @@ typ: 'GK'
 ---
 
 # Kurs:
-## [[Notatki/Semestr 2/Podstawy automatyki i robotyki/Wykłady/Wykłady|Wykłady]]
+## [Wykłady](Notatki/Semestr%202/Podstawy%20automatyki%20i%20robotyki/Wyk%C5%82ady/Wyk%C5%82ady.md)
 

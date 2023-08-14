@@ -6,4 +6,4 @@ typ: 'GK'
 ---
 
 # Kurs:
-## [[Notatki/Semestr 2/Miernictwo w informatyce i telekomunikacji 2/Labolatoria/Labolatoria|Labolatoria]]
+## [Labolatoria](Notatki/Semestr%202/Miernictwo%20w%20informatyce%20i%20telekomunikacji%202/Labolatoria/Labolatoria.md)

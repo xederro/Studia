@@ -1,4 +1,4 @@
-![[Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Lista_4_MD.pdf]]
-![[Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-24 14.32.29.excalidraw]]
-![[Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-03-31 14.05.09.excalidraw]]
-![[Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Drawing 2023-04-14 13.17.59.excalidraw]]
+![Lista_4_MD](Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/%C4%86wiczenia%204/Lista_4_MD.pdf)
+![Drawing 2023-03-24 14.32.29.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/%C4%86wiczenia%204/Drawing%202023-03-24%2014.32.29.excalidraw.svg)
+![Drawing 2023-03-31 14.05.09.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/%C4%86wiczenia%204/Drawing%202023-03-31%2014.05.09.excalidraw.svg)
+![Drawing 2023-04-14 13.17.59.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/%C4%86wiczenia%204/Drawing%202023-04-14%2013.17.59.excalidraw.svg)

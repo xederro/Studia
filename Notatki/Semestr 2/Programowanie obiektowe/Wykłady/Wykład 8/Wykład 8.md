@@ -1,4 +1,4 @@
-![[Notatki/Semestr 2/Programowanie obiektowe/Wykłady/Wykład 8/DesignPatterns1.pdf]]
+![DesignPatterns1](Notatki/Semestr%202/Programowanie%20obiektowe/Wyk%C5%82ady/Wyk%C5%82ad%208/DesignPatterns1.pdf)
 
 Iterator - obiekt w którym kapsułkujemy przeglądanie kolekcji
 

@@ -1,4 +1,4 @@
-![[Notatki/Semestr 2/Programowanie obiektowe/Wykłady/Wykład 11/DesignPatterns4.pdf]]
+![DesignPatterns4](Notatki/Semestr%202/Programowanie%20obiektowe/Wyk%C5%82ady/Wyk%C5%82ad%2011/DesignPatterns4.pdf)
 
 Wzorce behawioralne
 

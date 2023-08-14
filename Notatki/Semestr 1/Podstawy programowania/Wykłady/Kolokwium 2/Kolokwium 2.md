@@ -144,7 +144,7 @@
     Następnie napisz funkcję wczytującą kolejne teksty z klawiatury  
     i umieszczającą je w tej dynamicznie utworzonej tablicy.
 
-[[Notatki/Semestr 1/Podstawy programowania/Wykłady/Wykład 8/Wykład 8]]
-[[Notatki/Semestr 1/Podstawy programowania/Wykłady/Wykład 9/Wykład 9]]
-[[Notatki/Semestr 1/Podstawy programowania/Wykłady/Wykład 10/Wykład 10]]
-[[Notatki/Semestr 1/Podstawy programowania/Wykłady/Wykład 11/Wykład 11]]
+[Wykład 8](Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ad%208/Wyk%C5%82ad%208.md)
+[Wykład 9](Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ad%209/Wyk%C5%82ad%209.md)
+[Wykład 10](Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ad%2010/Wyk%C5%82ad%2010.md)
+[Wykład 11](Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ad%2011/Wyk%C5%82ad%2011.md)

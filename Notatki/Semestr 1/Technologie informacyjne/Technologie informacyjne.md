@@ -6,5 +6,5 @@ typ: 'GK'
 ---
 
 # Kurs:
-## [[Notatki/Semestr 1/Technologie informacyjne/Labolatoria/Labolatoria|Labolatoria]]
-## [[Notatki/Semestr 1/Technologie informacyjne/Wykłady/Wykłady|Wykłady]]
+## [Labolatoria](Notatki/Semestr%201/Technologie%20informacyjne/Labolatoria/Labolatoria.md)
+## [Wykłady](Notatki/Semestr%201/Technologie%20informacyjne/Wyk%C5%82ady/Wyk%C5%82ady.md)

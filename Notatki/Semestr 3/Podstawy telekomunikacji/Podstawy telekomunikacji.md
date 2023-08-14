@@ -6,4 +6,4 @@ typ: 'GK'
 ---
 
 # Kurs:
-## [[Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady|Wykłady]]
+## [Wykłady](Notatki/Semestr%203/Podstawy%20telekomunikacji/Wyk%C5%82ady/Wyk%C5%82ady.md)

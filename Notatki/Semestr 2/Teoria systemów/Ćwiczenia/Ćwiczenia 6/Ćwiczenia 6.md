@@ -1,1 +1,1 @@
-![[Notatki/Semestr 2/Teoria systemów/Ćwiczenia/Ćwiczenia 6/Drawing 2023-05-22 07.33.21.excalidraw]]
+![Drawing 2023-05-22 07.33.21.excalidraw](Notatki/Semestr%202/Teoria%20system%C3%B3w/%C4%86wiczenia/%C4%86wiczenia%206/Drawing%202023-05-22%2007.33.21.excalidraw.svg)

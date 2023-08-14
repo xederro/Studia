@@ -6,5 +6,5 @@ typ: 'GK'
 ---
 
 # Kurs:
-## [[Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykłady|Wykłady]]
-## [[Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia|Ćwiczenia]]
+## [Wykłady](Notatki/Semestr%203/In%C5%BCynierskie%20zastosowania%20statystyki/Wyk%C5%82ady/Wyk%C5%82ady.md)
+## [Ćwiczenia](Notatki/Semestr%203/In%C5%BCynierskie%20zastosowania%20statystyki/%C4%86wiczenia/%C4%86wiczenia.md)

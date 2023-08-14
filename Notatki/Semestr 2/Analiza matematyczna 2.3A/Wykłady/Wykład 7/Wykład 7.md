@@ -1,4 +1,4 @@
-![[Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 7/AM2-Wyklad_07.pdf]]
-![[Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Drawing 2023-04-05 13.14.49.excalidraw]]
-![[Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Wyklad_7a.pdf]]
-![[Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 7/Drawing 2023-04-12 13.20.17.excalidraw]][[Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7]]
+![AM2-Wyklad_07](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/Wyk%C5%82ady/Wyk%C5%82ad%207/AM2-Wyklad_07.pdf)
+![Drawing 2023-04-05 13.14.49.excalidraw](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/Wyk%C5%82ady/Wyk%C5%82ad%207/Drawing%202023-04-05%2013.14.49.excalidraw.svg)
+![Wyklad_7a](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/Wyk%C5%82ady/Wyk%C5%82ad%207/Wyklad_7a.pdf)
+![Drawing 2023-04-12 13.20.17.excalidraw](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/Wyk%C5%82ady/Wyk%C5%82ad%207/Drawing%202023-04-12%2013.20.17.excalidraw.svg)[Ćwiczenia 7](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/%C4%86wiczenia%207/%C4%86wiczenia%207.md)

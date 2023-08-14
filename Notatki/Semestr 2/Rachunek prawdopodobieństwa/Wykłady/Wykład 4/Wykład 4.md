@@ -1,2 +1,2 @@
-![[Notatki/Semestr 2/Rachunek prawdopodobieństwa/Wykłady/Wykład 4/Rachunek_Pr_W4.pdf]]
-![[Notatki/Semestr 2/Rachunek prawdopodobieństwa/Wykłady/Wykład 4/Drawing 2023-03-23 11.28.49.excalidraw]]
+![Rachunek_Pr_W4](Notatki/Semestr%202/Rachunek%20prawdopodobie%C5%84stwa/Wyk%C5%82ady/Wyk%C5%82ad%204/Rachunek_Pr_W4.pdf)
+![Drawing 2023-03-23 11.28.49.excalidraw](Notatki/Semestr%202/Rachunek%20prawdopodobie%C5%84stwa/Wyk%C5%82ady/Wyk%C5%82ad%204/Drawing%202023-03-23%2011.28.49.excalidraw.svg)

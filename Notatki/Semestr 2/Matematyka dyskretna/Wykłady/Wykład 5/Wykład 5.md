@@ -1,3 +1,3 @@
-![[Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Wykład 5/Wykład_5_Kombinatoryka.pdf]]
-![[Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Wykład 5/Drawing 2023-04-13 09.17.04.excalidraw]]
-![[Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Wykład 5/Drawing 2023-04-20 09.20.58.excalidraw]]
+![Wykład_5_Kombinatoryka](Notatki/Semestr%202/Matematyka%20dyskretna/Wyk%C5%82ady/Wyk%C5%82ad%205/Wyk%C5%82ad_5_Kombinatoryka.pdf)
+![Drawing 2023-04-13 09.17.04.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/Wyk%C5%82ady/Wyk%C5%82ad%205/Drawing%202023-04-13%2009.17.04.excalidraw.svg)
+![Drawing 2023-04-20 09.20.58.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/Wyk%C5%82ady/Wyk%C5%82ad%205/Drawing%202023-04-20%2009.20.58.excalidraw.svg)

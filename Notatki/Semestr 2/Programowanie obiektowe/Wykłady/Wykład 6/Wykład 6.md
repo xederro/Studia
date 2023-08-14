@@ -1,2 +1,2 @@
-![[Notatki/Semestr 2/Programowanie obiektowe/Wykłady/Wykład 6/ObjectProj2.pdf]]
+![ObjectProj2](Notatki/Semestr%202/Programowanie%20obiektowe/Wyk%C5%82ady/Wyk%C5%82ad%206/ObjectProj2.pdf)
 

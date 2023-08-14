@@ -6,5 +6,5 @@ typ: 'GK'
 ---
 
 # Kurs:
-## [[Notatki/Semestr 3/Języki programowania/Wykłady/Wykłady|Wykłady]]
-## [[Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria|Labolatoria]]
+## [Wykłady](Notatki/Semestr%203/J%C4%99zyki%20programowania/Wyk%C5%82ady/Wyk%C5%82ady.md)
+## [Labolatoria](Notatki/Semestr%203/J%C4%99zyki%20programowania/Labolatoria/Labolatoria.md)

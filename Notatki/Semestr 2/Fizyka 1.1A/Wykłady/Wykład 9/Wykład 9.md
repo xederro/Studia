@@ -1,3 +1,3 @@
-![[Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 9/Notatki do wykładów optyka falowa 2021.pdf]]H: Wyklad12i13i14
+![Notatki do wykładów optyka falowa 2021](Notatki/Semestr%202/Fizyka%201.1A/Wyk%C5%82ady/Wyk%C5%82ad%209/Notatki%20do%20wyk%C5%82ad%C3%B3w%20optyka%20falowa%202021.pdf)H: Wyklad12i13i14
 
-![[Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 9/Drawing 2023-06-06 13.11.21.excalidraw]]![[Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 9/Drawing 2023-06-13 13.18.27.excalidraw]]![[Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 9/Drawing 2023-06-20 13.10.09.excalidraw]]
+![Drawing 2023-06-06 13.11.21.excalidraw](Notatki/Semestr%202/Fizyka%201.1A/Wyk%C5%82ady/Wyk%C5%82ad%209/Drawing%202023-06-06%2013.11.21.excalidraw.svg)![Drawing 2023-06-13 13.18.27.excalidraw](Notatki/Semestr%202/Fizyka%201.1A/Wyk%C5%82ady/Wyk%C5%82ad%209/Drawing%202023-06-13%2013.18.27.excalidraw.svg)![Drawing 2023-06-20 13.10.09.excalidraw](Notatki/Semestr%202/Fizyka%201.1A/Wyk%C5%82ady/Wyk%C5%82ad%209/Drawing%202023-06-20%2013.10.09.excalidraw.svg)

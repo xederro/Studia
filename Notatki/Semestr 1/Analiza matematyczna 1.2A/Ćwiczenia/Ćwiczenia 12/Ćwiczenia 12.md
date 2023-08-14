@@ -1,2 +1,2 @@
 ![Lista_12_AM1](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%2012/Lista_12_AM1.pdf)
-![Drawing 2023-01-13 16.29.32.excalidraw](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%2012/Drawing%202023-01-13%2016.29.32.excalidraw.md)[Wykład 12](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%2012/Wyk%C5%82ad%2012.md)
+![Drawing 2023-01-13 16.29.32.excalidraw.svg](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%2012/Drawing%202023-01-13%2016.29.32.excalidraw.svg)[Wykład 12](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%2012/Wyk%C5%82ad%2012.md)

@@ -1,5 +1,5 @@
-![[Notatki/Semestr 1/Technologie informacyjne/Labolatoria/Labolatoria 5/TI___lab5.pdf]]
-![[Notatki/Semestr 1/Technologie informacyjne/Labolatoria/Labolatoria 5/lab5.pdf]]
+![TI___lab5](Notatki/Semestr%201/Technologie%20informacyjne/Labolatoria/Labolatoria%205/TI___lab5.pdf)
+![lab5](Notatki/Semestr%201/Technologie%20informacyjne/Labolatoria/Labolatoria%205/lab5.pdf)
 ```tex
 \documentclass{beamer}
 \usepackage[utf8]{inputenc}

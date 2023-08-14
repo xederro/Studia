@@ -1,3 +1,3 @@
-![[Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Wykład 1/Wykład_1.pdf]]
-![[Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Wykład 1/Drawing 2023-03-02 09.23.12.excalidraw]]
-![[Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Wykład 1/Drawing 2023-03-16 09.21.17.excalidraw]]
+![Wykład_1](Notatki/Semestr%202/Matematyka%20dyskretna/Wyk%C5%82ady/Wyk%C5%82ad%201/Wyk%C5%82ad_1.pdf)
+![Drawing 2023-03-02 09.23.12.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/Wyk%C5%82ady/Wyk%C5%82ad%201/Drawing%202023-03-02%2009.23.12.excalidraw.svg)
+![Drawing 2023-03-16 09.21.17.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/Wyk%C5%82ady/Wyk%C5%82ad%201/Drawing%202023-03-16%2009.21.17.excalidraw.svg)

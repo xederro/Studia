@@ -1,1 +1,1 @@
-![[Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 6/Drawing 2023-04-04 13.11.47.excalidraw]]
+![Drawing 2023-04-04 13.11.47.excalidraw](Notatki/Semestr%202/Fizyka%201.1A/Wyk%C5%82ady/Wyk%C5%82ad%206/Drawing%202023-04-04%2013.11.47.excalidraw.svg)

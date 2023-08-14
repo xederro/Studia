@@ -1,4 +1,4 @@
-![[Notatki/Semestr 2/Programowanie obiektowe/Wykłady/Wykład 1/JavaIntroduction-Eclipse.pdf]]
+![JavaIntroduction-Eclipse](Notatki/Semestr%202/Programowanie%20obiektowe/Wyk%C5%82ady/Wyk%C5%82ad%201/JavaIntroduction-Eclipse.pdf)
 
 
 
@@ -8,7 +8,7 @@
 >```
 >%%
 >*%%PREFIX%%r manifest20 jar {21 manifest {%%HIGHLIGHT%% ==attributes('Main-Class': 'HelloWorld== %%POSTFIX%%') }22 } ŴŸ / ŵŹTworzymy plik JA*
->%%LINK%%[[#^xfpwgxy96t|show annotation]]
+>%%LINK%%[show annotation](#%5Exfpwgxy96t)
 >%%COMMENT%%
 >wskazujemy główną klasę programu
 >
@@ -23,7 +23,7 @@
 >```
 >%%
 >*%%PREFIX%%Testy jednostkowe1 $touch ./src/%%HIGHLIGHT%% ==test== %%POSTFIX%%/java/HelloWorld.java2 $subl ./s*
->%%LINK%%[[#^rn0j6qqhbq8|show annotation]]
+>%%LINK%%[show annotation](#%5Ern0j6qqhbq8)
 >%%COMMENT%%
 >standardowa ścieżka dla testów
 >

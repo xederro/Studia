@@ -1,5 +1,5 @@
 ![ALGA-Wyklad_08](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%207/ALGA-Wyklad_08.pdf)
 ![Wyklad_8a](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%207/Wyklad_8a.pdf)!
-[Drawing 2022-12-13 13.11.34.excalidraw](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%207/Drawing%202022-12-13%2013.11.34.excalidraw.md)
-![Drawing 2022-12-13 13.57.47.excalidraw](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%207/Drawing%202022-12-13%2013.57.47.excalidraw.md)
+[Drawing 2022-12-13 13.11.34.excalidraw.svg](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%207/Drawing%202022-12-13%2013.11.34.excalidraw.svg)
+![Drawing 2022-12-13 13.57.47.excalidraw.svg](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%207/Drawing%202022-12-13%2013.57.47.excalidraw.svg)
 [Ćwiczenia 10](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/%C4%86wiczenia%2010/%C4%86wiczenia%2010.md)

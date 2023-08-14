@@ -5,15 +5,15 @@ typ: 'C'
 ---
 
 # Ćwiczenia
-1. [[Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1|Ćwiczenia 1]]
-2. [[Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2|Ćwiczenia 2]]
-3. [[Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3|Ćwiczenia 3]]
-4. [[Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4|Ćwiczenia 4]]
-5. [[Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5|Ćwiczenia 5]]
-6. [[Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6|Ćwiczenia 6]]
-7. [[Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7|Ćwiczenia 7]]
-8. [[Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8|Ćwiczenia 8]]
-9. [[Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Kolokwium 1|Kolokwium 1]]
+1. [Ćwiczenia 1](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/%C4%86wiczenia%201/%C4%86wiczenia%201.md)
+2. [Ćwiczenia 2](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/%C4%86wiczenia%202/%C4%86wiczenia%202.md)
+3. [Ćwiczenia 3](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/%C4%86wiczenia%203/%C4%86wiczenia%203.md)
+4. [Ćwiczenia 4](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/%C4%86wiczenia%204/%C4%86wiczenia%204.md)
+5. [Ćwiczenia 5](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/%C4%86wiczenia%205/%C4%86wiczenia%205.md)
+6. [Ćwiczenia 6](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/%C4%86wiczenia%206/%C4%86wiczenia%206.md)
+7. [Ćwiczenia 7](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/%C4%86wiczenia%207/%C4%86wiczenia%207.md)
+8. [Ćwiczenia 8](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/%C4%86wiczenia%208/%C4%86wiczenia%208.md)
+9. [Kolokwium 1](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/Kolokwium%201/Kolokwium%201.md)
 
 ## Zaliczenie
 

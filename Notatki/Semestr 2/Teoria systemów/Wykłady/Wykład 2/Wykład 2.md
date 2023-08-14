@@ -1,1 +1,1 @@
-![[Notatki/Semestr 2/Teoria systemów/Wykłady/Wykład 2/Drawing 2023-03-15 07.30.40.excalidraw]]
+![Drawing 2023-03-15 07.30.40.excalidraw](Notatki/Semestr%202/Teoria%20system%C3%B3w/Wyk%C5%82ady/Wyk%C5%82ad%202/Drawing%202023-03-15%2007.30.40.excalidraw.svg)

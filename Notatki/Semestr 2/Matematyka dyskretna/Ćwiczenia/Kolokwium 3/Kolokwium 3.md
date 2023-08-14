@@ -1,5 +1,5 @@
-![[Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Pasted image 20230617194100.png]]
-![[Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-17 19.29.39.excalidraw]]
-![[Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-13 16.19.07.excalidraw]]
-![[Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-20 17.36.06.excalidraw]]
-![[Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-19 11.18.15.excalidraw]]![[Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-18 19.10.40.excalidraw]]![[Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-19 11.22.21.excalidraw]]![[Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Kolokwium 3/Drawing 2023-06-19 10.34.13.excalidraw]]
+![Pasted image 20230617194100](Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/Kolokwium%203/Pasted%20image%2020230617194100.png)
+![Drawing 2023-06-17 19.29.39.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/Kolokwium%203/Drawing%202023-06-17%2019.29.39.excalidraw.svg)
+![Drawing 2023-06-13 16.19.07.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/Kolokwium%203/Drawing%202023-06-13%2016.19.07.excalidraw.svg)
+![Drawing 2023-06-20 17.36.06.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/Kolokwium%203/Drawing%202023-06-20%2017.36.06.excalidraw.svg)
+![Drawing 2023-06-19 11.18.15.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/Kolokwium%203/Drawing%202023-06-19%2011.18.15.excalidraw.svg)![Drawing 2023-06-18 19.10.40.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/Kolokwium%203/Drawing%202023-06-18%2019.10.40.excalidraw.svg)![Drawing 2023-06-19 11.22.21.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/Kolokwium%203/Drawing%202023-06-19%2011.22.21.excalidraw.svg)![Drawing 2023-06-19 10.34.13.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/Kolokwium%203/Drawing%202023-06-19%2010.34.13.excalidraw.svg)

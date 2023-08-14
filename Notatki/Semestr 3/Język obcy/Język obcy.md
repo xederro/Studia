@@ -6,4 +6,4 @@ typ: 'GK'
 ---
 
 # Kurs:
-[[Notatki/Semestr 3/Język obcy/Ćwiczenia/Ćwiczenia|Ćwiczenia]]
+[Ćwiczenia](Notatki/Semestr%203/J%C4%99zyk%20obcy/%C4%86wiczenia/%C4%86wiczenia.md)

@@ -1,2 +1,2 @@
-![[Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Wykład 6/Wykład_6_Grafy_1.pdf]]
-![[Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Wykład 6/Drawing 2023-04-27 09.19.06.excalidraw]]
+![Wykład_6_Grafy_1](Notatki/Semestr%202/Matematyka%20dyskretna/Wyk%C5%82ady/Wyk%C5%82ad%206/Wyk%C5%82ad_6_Grafy_1.pdf)
+![Drawing 2023-04-27 09.19.06.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/Wyk%C5%82ady/Wyk%C5%82ad%206/Drawing%202023-04-27%2009.19.06.excalidraw.svg)

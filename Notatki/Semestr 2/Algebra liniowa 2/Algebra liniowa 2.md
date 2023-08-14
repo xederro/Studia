@@ -6,4 +6,4 @@ typ: 'GK'
 ---
 
 # Kurs:
-## [[Notatki/Semestr 2/Algebra liniowa 2/Wykłady/Wykłady|Wykłady]]
+## [Wykłady](Notatki/Semestr%202/Algebra%20liniowa%202/Wyk%C5%82ady/Wyk%C5%82ady.md)

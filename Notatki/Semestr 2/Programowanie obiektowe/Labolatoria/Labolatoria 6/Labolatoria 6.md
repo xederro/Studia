@@ -1,4 +1,4 @@
-![[Notatki/Semestr 2/Programowanie obiektowe/Labolatoria/Labolatoria 6/Lab6_lista.pdf]]
-![[Notatki/Semestr 2/Programowanie obiektowe/Labolatoria/Labolatoria 6/Sklep.java]]
-![[Notatki/Semestr 2/Programowanie obiektowe/Labolatoria/Labolatoria 6/Warzywa.java]]
-![[Notatki/Semestr 2/Programowanie obiektowe/Labolatoria/Labolatoria 6/DataPrzydatnosci.java]]
+![Lab6_lista](Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%206/Lab6_lista.pdf)
+![Sklep](Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%206/Sklep.java)
+![Warzywa](Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%206/Warzywa.java)
+![DataPrzydatnosci](Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%206/DataPrzydatnosci.java)

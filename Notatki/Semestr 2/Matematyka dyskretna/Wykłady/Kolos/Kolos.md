@@ -24,8 +24,8 @@ może porządki
 drzewa, kolorowania, izomorfizm
 metody przeszukiwania dfs i bfs
 
-![[Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-24 10.08.48.excalidraw]]
-![[Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-24 13.07.46.excalidraw]]
-![[Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-24 13.37.56.excalidraw]]
-![[Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-24 15.13.51.excalidraw]]
-![[Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-24 16.49.03.excalidraw]]![[Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-25 11.27.34.excalidraw]]
+![Drawing 2023-06-24 10.08.48.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/Wyk%C5%82ady/Kolos/Drawing%202023-06-24%2010.08.48.excalidraw.svg)
+![Drawing 2023-06-24 13.07.46.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/Wyk%C5%82ady/Kolos/Drawing%202023-06-24%2013.07.46.excalidraw.svg)
+![Drawing 2023-06-24 13.37.56.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/Wyk%C5%82ady/Kolos/Drawing%202023-06-24%2013.37.56.excalidraw.svg)
+![Drawing 2023-06-24 15.13.51.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/Wyk%C5%82ady/Kolos/Drawing%202023-06-24%2015.13.51.excalidraw.svg)
+![Drawing 2023-06-24 16.49.03.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/Wyk%C5%82ady/Kolos/Drawing%202023-06-24%2016.49.03.excalidraw.svg)![Drawing 2023-06-25 11.27.34.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/Wyk%C5%82ady/Kolos/Drawing%202023-06-25%2011.27.34.excalidraw.svg)

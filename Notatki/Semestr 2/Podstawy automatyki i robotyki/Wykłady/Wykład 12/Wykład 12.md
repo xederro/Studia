@@ -1,4 +1,4 @@
 # Deep learning
 
 Neuron McCullocha-Pittsa
-![[Notatki/Semestr 2/Podstawy automatyki i robotyki/Wykłady/Wykład 12/Drawing 2023-06-23 11.26.51.excalidraw]]
+![Drawing 2023-06-23 11.26.51.excalidraw](Notatki/Semestr%202/Podstawy%20automatyki%20i%20robotyki/Wyk%C5%82ady/Wyk%C5%82ad%2012/Drawing%202023-06-23%2011.26.51.excalidraw.svg)

@@ -1,9 +1,9 @@
-![[Notatki/Semestr 1/Podstawy programowania/Labolatoria/Labolatoria 5/Laboratorium 5_2021.pdf]]
-![[Notatki/Semestr 1/Podstawy programowania/Labolatoria/Labolatoria 5/TabliceLiczb.pdf]]
-![[Notatki/Semestr 1/Podstawy programowania/Labolatoria/Labolatoria 5/DynamicznaTablicaLiczb.cpp]]
-![[Notatki/Semestr 1/Podstawy programowania/Labolatoria/Labolatoria 5/DynamicznaTablicaWskaznikow.cpp]]
-![[Notatki/Semestr 1/Podstawy programowania/Labolatoria/Labolatoria 5/StatycznaTablicaLiczb.cpp]]
-![[Notatki/Semestr 1/Podstawy programowania/Labolatoria/Labolatoria 5/StatycznaTablicaWskaznikow.cpp]]
+![Laboratorium 5_2021](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%205/Laboratorium%205_2021.pdf)
+![TabliceLiczb](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%205/TabliceLiczb.pdf)
+![DynamicznaTablicaLiczb](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%205/DynamicznaTablicaLiczb.cpp)
+![DynamicznaTablicaWskaznikow](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%205/DynamicznaTablicaWskaznikow.cpp)
+![StatycznaTablicaLiczb](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%205/StatycznaTablicaLiczb.cpp)
+![StatycznaTablicaWskaznikow](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%205/StatycznaTablicaWskaznikow.cpp)
 
 
 zmienne są w stosie zapisywane w kolejności inicjalizacji
@@ -48,9 +48,9 @@ delete wf;//[]wf
 
 
 
-![[Notatki/Semestr 1/Podstawy programowania/Labolatoria/Labolatoria 5/Labolatoria 5.1.cpp]]
-![[Notatki/Semestr 1/Podstawy programowania/Labolatoria/Labolatoria 5/Labolatoria 5.2.cpp]]
+![Labolatoria 5.1](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%205/Labolatoria%205.1.cpp)
+![Labolatoria 5.2](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%205/Labolatoria%205.2.cpp)
 
 
-[[Notatki/Semestr 1/Podstawy programowania/Wykłady/Wykład 8/Wykład 8]]
-[[Notatki/Semestr 1/Podstawy programowania/Wykłady/Wykład 11/Wykład 11]]
+[Wykład 8](Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ad%208/Wyk%C5%82ad%208.md)
+[Wykład 11](Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ad%2011/Wyk%C5%82ad%2011.md)

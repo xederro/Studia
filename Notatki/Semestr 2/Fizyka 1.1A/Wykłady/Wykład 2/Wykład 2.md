@@ -1,3 +1,3 @@
-![[Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 2/Wykład 2 Dynamika.pdf]]h: Wyklad02
-![[Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 2/Równania ruchu.pdf]]![[Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 2/Fizyka - Dynamika Adam Wroński.pdf]]
-![[Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 2/Drawing 2023-03-07 13.10.22.excalidraw]]
+![Wykład 2 Dynamika](Notatki/Semestr%202/Fizyka%201.1A/Wyk%C5%82ady/Wyk%C5%82ad%202/Wyk%C5%82ad%202%20Dynamika.pdf)h: Wyklad02
+![Równania ruchu](Notatki/Semestr%202/Fizyka%201.1A/Wyk%C5%82ady/Wyk%C5%82ad%202/R%C3%B3wnania%20ruchu.pdf)![Fizyka - Dynamika Adam Wroński](Notatki/Semestr%202/Fizyka%201.1A/Wyk%C5%82ady/Wyk%C5%82ad%202/Fizyka%20-%20Dynamika%20Adam%20Wro%C5%84ski.pdf)
+![Drawing 2023-03-07 13.10.22.excalidraw](Notatki/Semestr%202/Fizyka%201.1A/Wyk%C5%82ady/Wyk%C5%82ad%202/Drawing%202023-03-07%2013.10.22.excalidraw.svg)

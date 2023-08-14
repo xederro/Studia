@@ -6,7 +6,7 @@ typ: 'GK'
 ---
 
 # Kurs:
-## [[Notatki/Semestr 1/Podstawy programowania/Labolatoria/Labolatoria|Labolatoria]]
-## [[Notatki/Semestr 1/Podstawy programowania/Ćwiczenia/Ćwiczenia|Ćwiczenia]]
-## [[Notatki/Semestr 1/Podstawy programowania/Wykłady/Wykłady|Wykłady]]
+## [Labolatoria](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria.md)
+## [Ćwiczenia](Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia.md)
+## [Wykłady](Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ady.md)
 

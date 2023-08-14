@@ -1,5 +1,5 @@
 
-![[Notatki/Semestr 2/Programowanie obiektowe/Labolatoria/Labolatoria 5/Lab5_lista.pdf]]
+![Lab5_lista](Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%205/Lab5_lista.pdf)
 ```java
 package org.example;  
   
@@ -155,9 +155,9 @@ class RootsCalculatorTest {
     }  
 }
 ```
-![[Notatki/Semestr 2/Programowanie obiektowe/Labolatoria/Labolatoria 5/FeaturesCalculator.java]]
-![[Notatki/Semestr 2/Programowanie obiektowe/Labolatoria/Labolatoria 5/RootsCalculator.java]]
-![[Notatki/Semestr 2/Programowanie obiektowe/Labolatoria/Labolatoria 5/RootsCalculatorTest.java]]
-![[Notatki/Semestr 2/Programowanie obiektowe/Labolatoria/Labolatoria 5/binary_mask_1.txt]]
-![[Notatki/Semestr 2/Programowanie obiektowe/Labolatoria/Labolatoria 5/binary_mask_2.txt]]
-![[Notatki/Semestr 2/Programowanie obiektowe/Labolatoria/Labolatoria 5/binary_mask_3.txt]]
+![FeaturesCalculator](Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%205/FeaturesCalculator.java)
+![RootsCalculator](Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%205/RootsCalculator.java)
+![RootsCalculatorTest](Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%205/RootsCalculatorTest.java)
+![binary_mask_1](Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%205/binary_mask_1.txt)
+![binary_mask_2](Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%205/binary_mask_2.txt)
+![binary_mask_3](Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%205/binary_mask_3.txt)

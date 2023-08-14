@@ -1,6 +1,6 @@
-![[Notatki/Semestr 1/Technologie informacyjne/Labolatoria/Labolatoria 4/TI___lab4.pdf]]
-![[Notatki/Semestr 1/Technologie informacyjne/Labolatoria/Labolatoria 4/lab4_a.pdf]]
-![[Notatki/Semestr 1/Technologie informacyjne/Labolatoria/Labolatoria 4/lab4b.pdf]]
+![TI___lab4](Notatki/Semestr%201/Technologie%20informacyjne/Labolatoria/Labolatoria%204/TI___lab4.pdf)
+![lab4_a](Notatki/Semestr%201/Technologie%20informacyjne/Labolatoria/Labolatoria%204/lab4_a.pdf)
+![lab4b](Notatki/Semestr%201/Technologie%20informacyjne/Labolatoria/Labolatoria%204/lab4b.pdf)
 ```tex
 \input{header}
 \begin{document}

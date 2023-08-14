@@ -1,4 +1,4 @@
-![[Notatki/Semestr 1/Podstawy programowania/Wykłady/Wykład 1/2021_W01_wstep_typy_operatory.pdf]]
+![2021_W01_wstep_typy_operatory](Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ad%201/2021_W01_wstep_typy_operatory.pdf)
 
 # Typy i operatory
 
@@ -16,4 +16,4 @@ The following are widely considered the main programming paradigms, as seen when
 
 `int argc, char* argv[ ]` - algorytm count, tablica wskaźnikowa wartości argumentów
 
-[[Notatki/Semestr 1/Podstawy programowania/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1]][[Notatki/Semestr 1/Podstawy programowania/Labolatoria/Labolatoria 0/Labolatoria 0]][[Notatki/Semestr 1/Podstawy programowania/Labolatoria/Labolatoria 1/Labolatoria 1]]
+[Ćwiczenia 1](Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%201/%C4%86wiczenia%201.md)[Labolatoria 0](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%200/Labolatoria%200.md)[Labolatoria 1](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%201/Labolatoria%201.md)

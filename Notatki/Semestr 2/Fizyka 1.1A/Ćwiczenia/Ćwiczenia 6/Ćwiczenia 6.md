@@ -1,2 +1,2 @@
-![[Notatki/Semestr 2/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/6 Lista optyka falowa 2022.pdf]]
-![[Notatki/Semestr 2/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 6/Drawing 2023-06-15 16.27.03.excalidraw]]
+![6 Lista optyka falowa 2022](Notatki/Semestr%202/Fizyka%201.1A/%C4%86wiczenia/%C4%86wiczenia%206/6%20Lista%20optyka%20falowa%202022.pdf)
+![Drawing 2023-06-15 16.27.03.excalidraw](Notatki/Semestr%202/Fizyka%201.1A/%C4%86wiczenia/%C4%86wiczenia%206/Drawing%202023-06-15%2016.27.03.excalidraw.svg)

@@ -1,5 +1,5 @@
-![[Notatki/Semestr 1/Podstawy programowania/Labolatoria/Labolatoria 1/Laboratorium_01_2021.pdf]]
-![[Notatki/Semestr 1/Podstawy programowania/Labolatoria/Labolatoria 1/labolatoria 1.cpp]]
+![Laboratorium_01_2021](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%201/Laboratorium_01_2021.pdf)
+![labolatoria 1](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%201/labolatoria%201.cpp)
 
 
 \#include dyrektywa "wkleja" bibliotekę z której możemy potem korzystać
@@ -24,6 +24,6 @@ double 15 cyfr znaczących
 
 & - operator adresowania
 1. 
-   ![[Notatki/Semestr 1/Podstawy programowania/Labolatoria/Labolatoria 1/zadanie1.png]]
+   ![zadanie1](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%201/zadanie1.png)
 
-[[Notatki/Semestr 1/Podstawy programowania/Wykłady/Wykład 1/Wykład 1]]
+[Wykład 1](Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ad%201/Wyk%C5%82ad%201.md)

@@ -1,1 +1,1 @@
-![[Notatki/Semestr 2/Miernictwo w informatyce i telekomunikacji 2/Labolatoria/Labolatoria 1/Cw1_oscyloskop_2023.pdf]]![[Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 1/Untitled Diagram.svg]]
+![Cw1_oscyloskop_2023](Notatki/Semestr%202/Miernictwo%20w%20informatyce%20i%20telekomunikacji%202/Labolatoria/Labolatoria%201/Cw1_oscyloskop_2023.pdf)![Notatki/Miernictwo w informatyce i telekomunikacji/Labolatoria/Labolatoria 1/Untitled Diagram.svg](Notatki/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Labolatoria/Labolatoria%201/Untitled%20Diagram.svg)

@@ -1,2 +1,2 @@
-![[Notatki/Semestr 2/Rachunek prawdopodobieństwa/Wykłady/Wykład 6/Rachunek_Pr_W6.pdf]]
-![[Notatki/Semestr 2/Rachunek prawdopodobieństwa/Wykłady/Wykład 6/Drawing 2023-05-18 11.06.37.excalidraw]]
+![Rachunek_Pr_W6](Notatki/Semestr%202/Rachunek%20prawdopodobie%C5%84stwa/Wyk%C5%82ady/Wyk%C5%82ad%206/Rachunek_Pr_W6.pdf)
+![Drawing 2023-05-18 11.06.37.excalidraw](Notatki/Semestr%202/Rachunek%20prawdopodobie%C5%84stwa/Wyk%C5%82ady/Wyk%C5%82ad%206/Drawing%202023-05-18%2011.06.37.excalidraw.svg)

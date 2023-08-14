@@ -1,3 +1,3 @@
-![[Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Lista_9_MD.pdf]]
-![[Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Drawing 2023-05-26 13.27.16.excalidraw]]
-![[Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Drawing 2023-05-26 14.25.19.excalidraw]]![[Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 9/Drawing 2023-06-02 13.16.49.excalidraw]]
+![Lista_9_MD](Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/%C4%86wiczenia%209/Lista_9_MD.pdf)
+![Drawing 2023-05-26 13.27.16.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/%C4%86wiczenia%209/Drawing%202023-05-26%2013.27.16.excalidraw.svg)
+![Drawing 2023-05-26 14.25.19.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/%C4%86wiczenia%209/Drawing%202023-05-26%2014.25.19.excalidraw.svg)![Drawing 2023-06-02 13.16.49.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/%C4%86wiczenia%209/Drawing%202023-06-02%2013.16.49.excalidraw.svg)

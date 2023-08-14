@@ -1,2 +1,2 @@
-![[Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 4/Fale - Jan Worożański.pdf]]
-![[Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 4/Drawing 2023-03-21 13.13.49.excalidraw]]
+![Fale - Jan Worożański](Notatki/Semestr%202/Fizyka%201.1A/Wyk%C5%82ady/Wyk%C5%82ad%204/Fale%20-%20Jan%20Woro%C5%BCa%C5%84ski.pdf)
+![Drawing 2023-03-21 13.13.49.excalidraw](Notatki/Semestr%202/Fizyka%201.1A/Wyk%C5%82ady/Wyk%C5%82ad%204/Drawing%202023-03-21%2013.13.49.excalidraw.svg)

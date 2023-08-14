@@ -1,7 +1,7 @@
-![[Notatki/Semestr 1/Podstawy programowania/Labolatoria/Labolatoria 4/Laboratorium 4_2021.pdf]]
-![[Notatki/Semestr 1/Podstawy programowania/Labolatoria/Labolatoria 4/row_kwa.cpp]]
+![Laboratorium 4_2021](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%204/Laboratorium%204_2021.pdf)
+![row_kwa](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%204/row_kwa.cpp)
 
-![[Notatki/Semestr 1/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatoria4.1a.cpp]]![[Notatki/Semestr 1/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatoria4.1b.cpp]]![[Notatki/Semestr 1/Podstawy programowania/Labolatoria/Labolatoria 4/Labolatorium 4.cpp]]
+![Labolatoria4.1a](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%204/Labolatoria4.1a.cpp)![Labolatoria4.1b](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%204/Labolatoria4.1b.cpp)![Labolatorium 4](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%204/Labolatorium%204.cpp)
 
 | Zmienna  | Koniec Adresu | Początek Adresu    |
 | -------- | ------------- | ------------------ |
@@ -66,7 +66,7 @@
 |          | B00           |                    |
 |          | $\vdots$      | $\vdots$           |
 
-[[Notatki/Semestr 1/Podstawy programowania/Labolatoria/Labolatoria 4/Tablica_Pamięci.png]]
+[Tablica_Pamięci](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%204/Tablica_Pami%C4%99ci.png)
 
-[[Notatki/Semestr 1/Podstawy programowania/Wykłady/Wykład 5/Wykład 5]][[Notatki/Semestr 1/Podstawy programowania/Wykłady/Wykład 6/Wykład 6]]
-[[Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 5/Wykład 5]]
+[Wykład 5](Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ad%205/Wyk%C5%82ad%205.md)[Wykład 6](Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ad%206/Wyk%C5%82ad%206.md)
+[Wykład 5](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%205/Wyk%C5%82ad%205.md)

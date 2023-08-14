@@ -1,3 +1,3 @@
 ![ALGA_zestaw_06](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/%C4%86wiczenia%206/ALGA_zestaw_06.pdf)
-![Drawing 2022-11-24 16.13.35.excalidraw](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/%C4%86wiczenia%206/Drawing%202022-11-24%2016.13.35.excalidraw.md)
+![Drawing 2022-11-24 16.13.35.excalidraw.svg](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/%C4%86wiczenia%206/Drawing%202022-11-24%2016.13.35.excalidraw.svg)
 [Wykład 4](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%204/Wyk%C5%82ad%204.md)

@@ -1,8 +1,8 @@
-![[Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-24 10.43.08.excalidraw]]
-![[Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-24 11.52.23.excalidraw]]
-![[Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-24 16.01.09.excalidraw]]
-![[Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-24 17.10.29.excalidraw]]
-![[Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-25 18.08.49.excalidraw]]
-![[Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-26 16.48.23.excalidraw]]
-![[Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Drawing 2023-04-27 11.54.20.excalidraw]]
-[[Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1]][[Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2]][[Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3]]
+![Drawing 2023-04-24 10.43.08.excalidraw](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/Kolokwium%201/Drawing%202023-04-24%2010.43.08.excalidraw.svg)
+![Drawing 2023-04-24 11.52.23.excalidraw](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/Kolokwium%201/Drawing%202023-04-24%2011.52.23.excalidraw.svg)
+![Drawing 2023-04-24 16.01.09.excalidraw](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/Kolokwium%201/Drawing%202023-04-24%2016.01.09.excalidraw.svg)
+![Drawing 2023-04-24 17.10.29.excalidraw](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/Kolokwium%201/Drawing%202023-04-24%2017.10.29.excalidraw.svg)
+![Drawing 2023-04-25 18.08.49.excalidraw](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/Kolokwium%201/Drawing%202023-04-25%2018.08.49.excalidraw.svg)
+![Drawing 2023-04-26 16.48.23.excalidraw](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/Kolokwium%201/Drawing%202023-04-26%2016.48.23.excalidraw.svg)
+![Drawing 2023-04-27 11.54.20.excalidraw](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/Kolokwium%201/Drawing%202023-04-27%2011.54.20.excalidraw.svg)
+[Ćwiczenia 1](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/%C4%86wiczenia%201/%C4%86wiczenia%201.md)[Ćwiczenia 2](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/%C4%86wiczenia%202/%C4%86wiczenia%202.md)[Ćwiczenia 3](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/%C4%86wiczenia%203/%C4%86wiczenia%203.md)

@@ -6,5 +6,5 @@ typ: 'GK'
 ---
 
 # Kurs:
-## [[Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady|Wykłady]]
-## [[Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Labolatoria/Labolatoria|Labolatoria]]
+## [Wykłady](Notatki/Semestr%203/Podstawy%20przetwarzania%20sygna%C5%82%C3%B3w/Wyk%C5%82ady/Wyk%C5%82ady.md)
+## [Labolatoria](Notatki/Semestr%203/Podstawy%20przetwarzania%20sygna%C5%82%C3%B3w/Labolatoria/Labolatoria.md)

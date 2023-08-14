@@ -1,2 +1,2 @@
-![[Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Wykład 4/Wykład_4_Rekurencja.pdf]]
-![[Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Wykład 4/Drawing 2023-04-13 09.48.29.excalidraw]]
+![Wykład_4_Rekurencja](Notatki/Semestr%202/Matematyka%20dyskretna/Wyk%C5%82ady/Wyk%C5%82ad%204/Wyk%C5%82ad_4_Rekurencja.pdf)
+![Drawing 2023-04-13 09.48.29.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/Wyk%C5%82ady/Wyk%C5%82ad%204/Drawing%202023-04-13%2009.48.29.excalidraw.svg)
