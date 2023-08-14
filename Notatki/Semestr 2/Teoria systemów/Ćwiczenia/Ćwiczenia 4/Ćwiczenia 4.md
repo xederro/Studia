@@ -1,1 +1,1 @@
-![Drawing 2023-04-24 07.32.39.excalidraw](Notatki/Semestr%202/Teoria%20system%C3%B3w/%C4%86wiczenia/%C4%86wiczenia%204/Drawing%202023-04-24%2007.32.39.excalidraw.svg)
+![Drawing 2023-04-24 07.32.39.excalidraw](/Notatki/Semestr%202/Teoria%20system%C3%B3w/%C4%86wiczenia/%C4%86wiczenia%204/Drawing%202023-04-24%2007.32.39.excalidraw.svg)

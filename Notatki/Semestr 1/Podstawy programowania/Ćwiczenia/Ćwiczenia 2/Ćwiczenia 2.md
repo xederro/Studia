@@ -1,9 +1,9 @@
-![Cwiczenia_2](Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%202/Cwiczenia_2.pdf)
+![Cwiczenia_2](/Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%202/Cwiczenia_2.pdf)
 
 
 1. 
    a.
-    ![cw2zad1a](Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%202/cw2zad1a.svg)
+    ![cw2zad1a](/Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%202/cw2zad1a.svg)
 b. 
 ```cpp
 int wiersz, kolumna;
@@ -111,17 +111,17 @@ int wiersz, kolumna;
 
 
 2. a. 
-   ![cw2zad2a](Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%202/cw2zad2a.cpp)
+   ![cw2zad2a](/Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%202/cw2zad2a.cpp)
 
 	b.
-	![cw2zad2b](Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%202/cw2zad2b.cpp)
+	![cw2zad2b](/Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%202/cw2zad2b.cpp)
 
 3. 
-   ![cw2zad3](Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%202/cw2zad3.cpp)
+   ![cw2zad3](/Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%202/cw2zad3.cpp)
 
 
 4. 
-   ![cw2zad4](Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%202/cw2zad4.cpp)
+   ![cw2zad4](/Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%202/cw2zad4.cpp)
 
 
 1. 
@@ -138,4 +138,4 @@ int wiersz, kolumna;
 	   R2 = 35
 
 
-[Wykład 3](Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ad%203/Wyk%C5%82ad%203.md)
+[Wykład 3](/Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ad%203/Wyk%C5%82ad%203.md)

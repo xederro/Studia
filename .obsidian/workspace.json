@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1 or Arytmetyka komputerów/Architektura komputerów 1 or Arytmetyka komputerów.md",
+                "file": "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Algebra liniowa z geometrą analityczną.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1 or Arytmetyka komputerów/Architektura komputerów 1 or Arytmetyka komputerów.md",
+                "file": "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Algebra liniowa z geometrą analityczną.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1 or Arytmetyka komputerów/Architektura komputerów 1 or Arytmetyka komputerów.md"
+                "file": "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Algebra liniowa z geometrą analityczną.md"
               }
             }
           }
@@ -142,12 +142,15 @@
   },
   "active": "58edd060404debf6",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Architektura komputerów 1 or Arytmetyka komputerów/Wykłady/Wykłady.md",
+    "Notatki/Semestr 1/Semestr 1.md",
+    "README.md",
+    "LICENSE.md",
+    "CODE_OF_CONDUCT.md",
     "Notatki/Semestr 3/Architektura komputerów 1 or Arytmetyka komputerów/Architektura komputerów 1 or Arytmetyka komputerów.md",
+    "Notatki/Semestr 3/Architektura komputerów 1 or Arytmetyka komputerów/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Semestr 3.md",
     "Notatki/Semestr 3/Architektura komputerów 1 or Arytmetyka komputerów/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 2/Semestr 2.md",
-    "Notatki/Semestr 1/Semestr 1.md",
     "Notatki/Semestr 1/Podstawy programowania/Wykłady/Kolokwium 1/Kolokwium 1.md",
     "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/Wykład 11.md",
@@ -172,11 +175,8 @@
     "Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 11/Drawing 2023-06-27 13.17.34.excalidraw.svg",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-26 15.49.39.excalidraw.md",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-26 15.49.39.excalidraw.svg",
-    "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-26 11.50.36.excalidraw.md",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-26 11.50.36.excalidraw.svg",
-    "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Kolokwium/Drawing 2023-06-26 11.45.28.excalidraw.md",
     "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Kolokwium/Drawing 2023-06-26 11.45.28.excalidraw.svg",
-    "Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-25 11.27.34.excalidraw.md",
     "Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-25 11.27.34.excalidraw.svg",
     "Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-24 16.49.03.excalidraw.svg",
     "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 9/Notatki do wykładów optyka falowa 2021.pdf",

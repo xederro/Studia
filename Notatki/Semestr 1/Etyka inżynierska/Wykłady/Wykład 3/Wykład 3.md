@@ -1,3 +1,3 @@
-![Wybrane_koncepcje_etyczne_uzasadnienie_norm_etyka_wartosci](Notatki/Semestr%201/Etyka%20in%C5%BCynierska/Wyk%C5%82ady/Wyk%C5%82ad%203/Wybrane_koncepcje_etyczne_uzasadnienie_norm_etyka_wartosci.pdf)
-![Wybrane_koncepcje_etyczne_uzasadnienie_norm_prawo_naturalne](Notatki/Semestr%201/Etyka%20in%C5%BCynierska/Wyk%C5%82ady/Wyk%C5%82ad%203/Wybrane_koncepcje_etyczne_uzasadnienie_norm_prawo_naturalne.pdf)
-![Wybrane_koncepcje_etyczne_uzasadnienie_norm_filozofia_dialogu](Notatki/Semestr%201/Etyka%20in%C5%BCynierska/Wyk%C5%82ady/Wyk%C5%82ad%203/Wybrane_koncepcje_etyczne_uzasadnienie_norm_filozofia_dialogu.pdf)
+![Wybrane_koncepcje_etyczne_uzasadnienie_norm_etyka_wartosci](/Notatki/Semestr%201/Etyka%20in%C5%BCynierska/Wyk%C5%82ady/Wyk%C5%82ad%203/Wybrane_koncepcje_etyczne_uzasadnienie_norm_etyka_wartosci.pdf)
+![Wybrane_koncepcje_etyczne_uzasadnienie_norm_prawo_naturalne](/Notatki/Semestr%201/Etyka%20in%C5%BCynierska/Wyk%C5%82ady/Wyk%C5%82ad%203/Wybrane_koncepcje_etyczne_uzasadnienie_norm_prawo_naturalne.pdf)
+![Wybrane_koncepcje_etyczne_uzasadnienie_norm_filozofia_dialogu](/Notatki/Semestr%201/Etyka%20in%C5%BCynierska/Wyk%C5%82ady/Wyk%C5%82ad%203/Wybrane_koncepcje_etyczne_uzasadnienie_norm_filozofia_dialogu.pdf)

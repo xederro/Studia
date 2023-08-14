@@ -1,4 +1,4 @@
-![w14_2023](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Wyk%C5%82ad%2011/w14_2023.pdf)
+![w14_2023](/Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Wyk%C5%82ad%2011/w14_2023.pdf)
 H: EF_W14_2023
 
 # Obwody prądu sinusoidalnego

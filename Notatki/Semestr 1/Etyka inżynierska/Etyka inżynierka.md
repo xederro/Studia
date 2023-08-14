@@ -6,5 +6,5 @@ typ: 'GK'
 ---
 
 # Kurs:
-## [Wykłady](Notatki/Semestr%201/Etyka%20in%C5%BCynierska/Wyk%C5%82ady/Wyk%C5%82ady.md)
+## [Wykłady](/Notatki/Semestr%201/Etyka%20in%C5%BCynierska/Wyk%C5%82ady/Wyk%C5%82ady.md)
 

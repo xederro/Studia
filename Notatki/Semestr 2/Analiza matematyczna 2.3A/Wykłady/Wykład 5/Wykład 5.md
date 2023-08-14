@@ -1,3 +1,3 @@
-![AM2-Wyklad_05](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/Wyk%C5%82ady/Wyk%C5%82ad%205/AM2-Wyklad_05.pdf)
-![Wyklad_5a](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/Wyk%C5%82ady/Wyk%C5%82ad%205/Wyklad_5a.pdf)
-![Drawing 2023-03-22 13.14.55.excalidraw](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/Wyk%C5%82ady/Wyk%C5%82ad%205/Drawing%202023-03-22%2013.14.55.excalidraw.svg)[Ćwiczenia 5](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/%C4%86wiczenia%205/%C4%86wiczenia%205.md)
+![AM2-Wyklad_05](/Notatki/Semestr%202/Analiza%20matematyczna%202.3A/Wyk%C5%82ady/Wyk%C5%82ad%205/AM2-Wyklad_05.pdf)
+![Wyklad_5a](/Notatki/Semestr%202/Analiza%20matematyczna%202.3A/Wyk%C5%82ady/Wyk%C5%82ad%205/Wyklad_5a.pdf)
+![Drawing 2023-03-22 13.14.55.excalidraw](/Notatki/Semestr%202/Analiza%20matematyczna%202.3A/Wyk%C5%82ady/Wyk%C5%82ad%205/Drawing%202023-03-22%2013.14.55.excalidraw.svg)[Ćwiczenia 5](/Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/%C4%86wiczenia%205/%C4%86wiczenia%205.md)

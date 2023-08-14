@@ -1,4 +1,4 @@
-![Lab2_lista](Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%202/Lab2_lista.pdf)
+![Lab2_lista](/Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%202/Lab2_lista.pdf)
 
 ```run-java
 import java.util.Scanner;  
@@ -86,5 +86,5 @@ public class Fib {
 }
 ```
 
-![Printer](Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%202/Printer.java)
-![Fib](Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%202/Fib.java)
+![Printer](/Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%202/Printer.java)
+![Fib](/Notatki/Semestr%202/Programowanie%20obiektowe/Labolatoria/Labolatoria%202/Fib.java)

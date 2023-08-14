@@ -1,2 +1,2 @@
-![Cw5_-_pomiary_AC_i_PWM_2023](Notatki/Semestr%202/Miernictwo%20w%20informatyce%20i%20telekomunikacji%202/Labolatoria/Labolatoria%205/Cw5_-_pomiary_AC_i_PWM_2023.pdf)
-![lab_ 5](Notatki/Semestr%202/Miernictwo%20w%20informatyce%20i%20telekomunikacji%202/Labolatoria/Labolatoria%205/lab_%205.pdf)
+![Cw5_-_pomiary_AC_i_PWM_2023](/Notatki/Semestr%202/Miernictwo%20w%20informatyce%20i%20telekomunikacji%202/Labolatoria/Labolatoria%205/Cw5_-_pomiary_AC_i_PWM_2023.pdf)
+![lab_ 5](/Notatki/Semestr%202/Miernictwo%20w%20informatyce%20i%20telekomunikacji%202/Labolatoria/Labolatoria%205/lab_%205.pdf)

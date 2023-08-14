@@ -1,7 +1,7 @@
-![lab2_b](Notatki/Semestr%201/Technologie%20informacyjne/Labolatoria/Labolatoria%202/lab2_b.pdf)
+![lab2_b](/Notatki/Semestr%201/Technologie%20informacyjne/Labolatoria/Labolatoria%202/lab2_b.pdf)
 
 
-![lab_2b](Notatki/Semestr%201/Technologie%20informacyjne/Labolatoria/Labolatoria%202/lab_2b.pdf)
+![lab_2b](/Notatki/Semestr%201/Technologie%20informacyjne/Labolatoria/Labolatoria%202/lab_2b.pdf)
 
 
 ```latex

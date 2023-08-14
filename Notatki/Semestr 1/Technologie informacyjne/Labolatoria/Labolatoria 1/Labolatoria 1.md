@@ -1,4 +1,4 @@
-![lab1_b_zadanie](Notatki/Semestr%201/Technologie%20informacyjne/Labolatoria/Labolatoria%201/lab1_b_zadanie.pdf)
+![lab1_b_zadanie](/Notatki/Semestr%201/Technologie%20informacyjne/Labolatoria/Labolatoria%201/lab1_b_zadanie.pdf)
 
 ![piemsek](https://tinyurl.com/y3dksfm3)
 
@@ -135,4 +135,4 @@ koniec
 
 ```
 
-![lab1_b](Notatki/Semestr%201/Technologie%20informacyjne/Labolatoria/Labolatoria%201/lab1_b.pdf)
+![lab1_b](/Notatki/Semestr%201/Technologie%20informacyjne/Labolatoria/Labolatoria%201/lab1_b.pdf)

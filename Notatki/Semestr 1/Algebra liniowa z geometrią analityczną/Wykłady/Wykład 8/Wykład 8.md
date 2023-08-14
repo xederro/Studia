@@ -1,2 +1,2 @@
-![ALGA-Wyklad_09](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%208/ALGA-Wyklad_09.pdf)
-![Wyklad_9a_cz1](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%208/Wyklad_9a_cz1.pdf)[Ćwiczenia 9](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/%C4%86wiczenia%209/%C4%86wiczenia%209.md)
+![ALGA-Wyklad_09](/Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%208/ALGA-Wyklad_09.pdf)
+![Wyklad_9a_cz1](/Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%208/Wyklad_9a_cz1.pdf)[Ćwiczenia 9](/Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/%C4%86wiczenia%209/%C4%86wiczenia%209.md)

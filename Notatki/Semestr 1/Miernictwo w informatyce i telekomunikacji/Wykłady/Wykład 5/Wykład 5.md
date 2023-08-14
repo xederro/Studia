@@ -1,8 +1,8 @@
-![Wykład decybele_konspekt_eportal](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Wyk%C5%82ad%205/Wyk%C5%82ad%20decybele_konspekt_eportal.pdf)H: PB_dB
+![Wykład decybele_konspekt_eportal](/Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Wyk%C5%82ad%205/Wyk%C5%82ad%20decybele_konspekt_eportal.pdf)H: PB_dB
 [kalkulator](https://www.rohde-schwarz.com/pt/applications/db-calculator-application-note_56280-15492.html)
 ![Materia_y_dodatkowe_z_dB_Piotr_Komur_Kalkulator_decybelowy_Elektronika_Praktyczna_ (1)](Materia_y_dodatkowe_z_dB_Piotr_Komur_Kalkulator_decybelowy_Elektronika_Praktyczna_%20(1).pdf)
-![Decybele](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Wyk%C5%82ad%205/Decybele.pdf)
-![Materia_y_dodatkowe_z_dB_Piotr_Komur_Kalkulator_decybelowy_Elektronika_Praktyczna_ (1)](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Wyk%C5%82ad%205/Materia_y_dodatkowe_z_dB_Piotr_Komur_Kalkulator_decybelowy_Elektronika_Praktyczna_%20(1).pdf)
+![Decybele](/Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Wyk%C5%82ad%205/Decybele.pdf)
+![Materia_y_dodatkowe_z_dB_Piotr_Komur_Kalkulator_decybelowy_Elektronika_Praktyczna_ (1)](/Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Wyk%C5%82ad%205/Materia_y_dodatkowe_z_dB_Piotr_Komur_Kalkulator_decybelowy_Elektronika_Praktyczna_%20(1).pdf)
 
 # Decybele
 

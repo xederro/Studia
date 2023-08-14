@@ -1,1 +1,1 @@
-![Podstawy automatyzacji procesów technologicznych - wprowadzenie -2023 PAiR](Notatki/Semestr%202/Podstawy%20automatyki%20i%20robotyki/Wyk%C5%82ady/Wyk%C5%82ad%207/Podstawy%20automatyzacji%20proces%C3%B3w%20technologicznych%20-%20wprowadzenie%20-2023%20PAiR.pdf)
+![Podstawy automatyzacji procesów technologicznych - wprowadzenie -2023 PAiR](/Notatki/Semestr%202/Podstawy%20automatyki%20i%20robotyki/Wyk%C5%82ady/Wyk%C5%82ad%207/Podstawy%20automatyzacji%20proces%C3%B3w%20technologicznych%20-%20wprowadzenie%20-2023%20PAiR.pdf)

@@ -1,2 +1,2 @@
-![Rachunek_Pr_W5](Notatki/Semestr%202/Rachunek%20prawdopodobie%C5%84stwa/Wyk%C5%82ady/Wyk%C5%82ad%205/Rachunek_Pr_W5.pdf)
-![Drawing 2023-04-20 10.44.40.excalidraw](Notatki/Semestr%202/Rachunek%20prawdopodobie%C5%84stwa/Wyk%C5%82ady/Wyk%C5%82ad%205/Drawing%202023-04-20%2010.44.40.excalidraw.svg)
+![Rachunek_Pr_W5](/Notatki/Semestr%202/Rachunek%20prawdopodobie%C5%84stwa/Wyk%C5%82ady/Wyk%C5%82ad%205/Rachunek_Pr_W5.pdf)
+![Drawing 2023-04-20 10.44.40.excalidraw](/Notatki/Semestr%202/Rachunek%20prawdopodobie%C5%84stwa/Wyk%C5%82ady/Wyk%C5%82ad%205/Drawing%202023-04-20%2010.44.40.excalidraw.svg)

@@ -1,2 +1,2 @@
-![W10_Analiza_21_Calki_nieozn](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%2010/W10_Analiza_21_Calki_nieozn.pdf)
-![Drawing 2022-12-14 12.56.19.excalidraw.svg](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%2010/Drawing%202022-12-14%2012.56.19.excalidraw.svg)[Ćwiczenia 10](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%2010/%C4%86wiczenia%2010.md)
+![W10_Analiza_21_Calki_nieozn](/Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%2010/W10_Analiza_21_Calki_nieozn.pdf)
+![Drawing 2022-12-14 12.56.19.excalidraw.svg](/Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%2010/Drawing%202022-12-14%2012.56.19.excalidraw.svg)[Ćwiczenia 10](/Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%2010/%C4%86wiczenia%2010.md)

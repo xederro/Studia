@@ -44,10 +44,10 @@ Z systemem statycznym mamy do czynienia, gdy po wprowadzeniu danych wejściowych
 
 ---
 
-[Wykład 1](Notatki/Semestr%202/Teoria%20system%C3%B3w/Wyk%C5%82ady/Wyk%C5%82ad%201/Wyk%C5%82ad%201.md)
-[Wykład 2](Notatki/Semestr%202/Teoria%20system%C3%B3w/Wyk%C5%82ady/Wyk%C5%82ad%202/Wyk%C5%82ad%202.md)
-[Wykład 3](Notatki/Semestr%202/Teoria%20system%C3%B3w/Wyk%C5%82ady/Wyk%C5%82ad%203/Wyk%C5%82ad%203.md)
-[Wykład 4](Notatki/Semestr%202/Teoria%20system%C3%B3w/Wyk%C5%82ady/Wyk%C5%82ad%204/Wyk%C5%82ad%204.md)
-[Wykład 5](Notatki/Semestr%202/Teoria%20system%C3%B3w/Wyk%C5%82ady/Wyk%C5%82ad%205/Wyk%C5%82ad%205.md)
-[Wykład 6](Notatki/Semestr%202/Teoria%20system%C3%B3w/Wyk%C5%82ady/Wyk%C5%82ad%206/Wyk%C5%82ad%206.md)
-[Wykład 7](Notatki/Semestr%202/Teoria%20system%C3%B3w/Wyk%C5%82ady/Wyk%C5%82ad%207/Wyk%C5%82ad%207.md)
+[Wykład 1](/Notatki/Semestr%202/Teoria%20system%C3%B3w/Wyk%C5%82ady/Wyk%C5%82ad%201/Wyk%C5%82ad%201.md)
+[Wykład 2](/Notatki/Semestr%202/Teoria%20system%C3%B3w/Wyk%C5%82ady/Wyk%C5%82ad%202/Wyk%C5%82ad%202.md)
+[Wykład 3](/Notatki/Semestr%202/Teoria%20system%C3%B3w/Wyk%C5%82ady/Wyk%C5%82ad%203/Wyk%C5%82ad%203.md)
+[Wykład 4](/Notatki/Semestr%202/Teoria%20system%C3%B3w/Wyk%C5%82ady/Wyk%C5%82ad%204/Wyk%C5%82ad%204.md)
+[Wykład 5](/Notatki/Semestr%202/Teoria%20system%C3%B3w/Wyk%C5%82ady/Wyk%C5%82ad%205/Wyk%C5%82ad%205.md)
+[Wykład 6](/Notatki/Semestr%202/Teoria%20system%C3%B3w/Wyk%C5%82ady/Wyk%C5%82ad%206/Wyk%C5%82ad%206.md)
+[Wykład 7](/Notatki/Semestr%202/Teoria%20system%C3%B3w/Wyk%C5%82ady/Wyk%C5%82ad%207/Wyk%C5%82ad%207.md)

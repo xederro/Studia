@@ -6,4 +6,4 @@ typ: 'GK'
 ---
 
 # Kurs:
-## [Wykłady](Notatki/Semestr%202/Algebra%20liniowa%202/Wyk%C5%82ady/Wyk%C5%82ady.md)
+## [Wykłady](/Notatki/Semestr%202/Algebra%20liniowa%202/Wyk%C5%82ady/Wyk%C5%82ady.md)

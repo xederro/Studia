@@ -1,2 +1,2 @@
-![Rachunek_Pr_W3](Notatki/Semestr%202/Rachunek%20prawdopodobie%C5%84stwa/Wyk%C5%82ady/Wyk%C5%82ad%203/Rachunek_Pr_W3.pdf)
-![Drawing 2023-03-09 11.55.14.excalidraw](Notatki/Semestr%202/Rachunek%20prawdopodobie%C5%84stwa/Wyk%C5%82ady/Wyk%C5%82ad%203/Drawing%202023-03-09%2011.55.14.excalidraw.svg)
+![Rachunek_Pr_W3](/Notatki/Semestr%202/Rachunek%20prawdopodobie%C5%84stwa/Wyk%C5%82ady/Wyk%C5%82ad%203/Rachunek_Pr_W3.pdf)
+![Drawing 2023-03-09 11.55.14.excalidraw](/Notatki/Semestr%202/Rachunek%20prawdopodobie%C5%84stwa/Wyk%C5%82ady/Wyk%C5%82ad%203/Drawing%202023-03-09%2011.55.14.excalidraw.svg)

@@ -1,2 +1,2 @@
-![Wybrane_koncepcje_etyczne_uzasadnienie_norm_Kant](Notatki/Semestr%201/Etyka%20in%C5%BCynierska/Wyk%C5%82ady/Wyk%C5%82ad%202/Wybrane_koncepcje_etyczne_uzasadnienie_norm_Kant.pdf)
-![Wybrane_koncepcje_etyczne_uzasadnienie_norm_utylitaryzm](Notatki/Semestr%201/Etyka%20in%C5%BCynierska/Wyk%C5%82ady/Wyk%C5%82ad%202/Wybrane_koncepcje_etyczne_uzasadnienie_norm_utylitaryzm.pdf)
+![Wybrane_koncepcje_etyczne_uzasadnienie_norm_Kant](/Notatki/Semestr%201/Etyka%20in%C5%BCynierska/Wyk%C5%82ady/Wyk%C5%82ad%202/Wybrane_koncepcje_etyczne_uzasadnienie_norm_Kant.pdf)
+![Wybrane_koncepcje_etyczne_uzasadnienie_norm_utylitaryzm](/Notatki/Semestr%201/Etyka%20in%C5%BCynierska/Wyk%C5%82ady/Wyk%C5%82ad%202/Wybrane_koncepcje_etyczne_uzasadnienie_norm_utylitaryzm.pdf)

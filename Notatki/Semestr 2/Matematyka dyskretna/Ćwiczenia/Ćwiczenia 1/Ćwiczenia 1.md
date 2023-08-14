@@ -1,2 +1,2 @@
-![Lista 1 MD](Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/%C4%86wiczenia%201/Lista%201%20MD.pdf)
-![Drawing 2023-03-03 13.17.51.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/%C4%86wiczenia%201/Drawing%202023-03-03%2013.17.51.excalidraw.svg)
+![Lista 1 MD](/Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/%C4%86wiczenia%201/Lista%201%20MD.pdf)
+![Drawing 2023-03-03 13.17.51.excalidraw](/Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/%C4%86wiczenia%201/Drawing%202023-03-03%2013.17.51.excalidraw.svg)

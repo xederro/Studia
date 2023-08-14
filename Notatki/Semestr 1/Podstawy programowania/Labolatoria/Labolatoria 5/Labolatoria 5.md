@@ -1,9 +1,9 @@
-![Laboratorium 5_2021](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%205/Laboratorium%205_2021.pdf)
-![TabliceLiczb](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%205/TabliceLiczb.pdf)
-![DynamicznaTablicaLiczb](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%205/DynamicznaTablicaLiczb.cpp)
-![DynamicznaTablicaWskaznikow](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%205/DynamicznaTablicaWskaznikow.cpp)
-![StatycznaTablicaLiczb](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%205/StatycznaTablicaLiczb.cpp)
-![StatycznaTablicaWskaznikow](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%205/StatycznaTablicaWskaznikow.cpp)
+![Laboratorium 5_2021](/Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%205/Laboratorium%205_2021.pdf)
+![TabliceLiczb](/Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%205/TabliceLiczb.pdf)
+![DynamicznaTablicaLiczb](/Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%205/DynamicznaTablicaLiczb.cpp)
+![DynamicznaTablicaWskaznikow](/Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%205/DynamicznaTablicaWskaznikow.cpp)
+![StatycznaTablicaLiczb](/Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%205/StatycznaTablicaLiczb.cpp)
+![StatycznaTablicaWskaznikow](/Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%205/StatycznaTablicaWskaznikow.cpp)
 
 
 zmienne są w stosie zapisywane w kolejności inicjalizacji
@@ -48,9 +48,9 @@ delete wf;//[]wf
 
 
 
-![Labolatoria 5.1](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%205/Labolatoria%205.1.cpp)
-![Labolatoria 5.2](Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%205/Labolatoria%205.2.cpp)
+![Labolatoria 5.1](/Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%205/Labolatoria%205.1.cpp)
+![Labolatoria 5.2](/Notatki/Semestr%201/Podstawy%20programowania/Labolatoria/Labolatoria%205/Labolatoria%205.2.cpp)
 
 
-[Wykład 8](Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ad%208/Wyk%C5%82ad%208.md)
-[Wykład 11](Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ad%2011/Wyk%C5%82ad%2011.md)
+[Wykład 8](/Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ad%208/Wyk%C5%82ad%208.md)
+[Wykład 11](/Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ad%2011/Wyk%C5%82ad%2011.md)

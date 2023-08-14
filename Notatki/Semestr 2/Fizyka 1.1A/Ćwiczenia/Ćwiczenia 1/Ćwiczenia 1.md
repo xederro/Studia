@@ -1,2 +1,2 @@
-![1 Lista zadań kinematyka i dynamika 2022](Notatki/Semestr%202/Fizyka%201.1A/%C4%86wiczenia/%C4%86wiczenia%201/1%20Lista%20zada%C5%84%20kinematyka%20i%20dynamika%202022.pdf)
-![Drawing 2023-03-08 17.01.13.excalidraw](Notatki/Semestr%202/Fizyka%201.1A/%C4%86wiczenia/%C4%86wiczenia%201/Drawing%202023-03-08%2017.01.13.excalidraw.svg)
+![1 Lista zadań kinematyka i dynamika 2022](/Notatki/Semestr%202/Fizyka%201.1A/%C4%86wiczenia/%C4%86wiczenia%201/1%20Lista%20zada%C5%84%20kinematyka%20i%20dynamika%202022.pdf)
+![Drawing 2023-03-08 17.01.13.excalidraw](/Notatki/Semestr%202/Fizyka%201.1A/%C4%86wiczenia/%C4%86wiczenia%201/Drawing%202023-03-08%2017.01.13.excalidraw.svg)

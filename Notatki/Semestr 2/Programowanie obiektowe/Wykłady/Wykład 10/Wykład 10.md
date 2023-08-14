@@ -1,4 +1,4 @@
-![DesignPatterns3](Notatki/Semestr%202/Programowanie%20obiektowe/Wyk%C5%82ady/Wyk%C5%82ad%2010/DesignPatterns3.pdf)
+![DesignPatterns3](/Notatki/Semestr%202/Programowanie%20obiektowe/Wyk%C5%82ady/Wyk%C5%82ad%2010/DesignPatterns3.pdf)
 
 Behawioralne
 

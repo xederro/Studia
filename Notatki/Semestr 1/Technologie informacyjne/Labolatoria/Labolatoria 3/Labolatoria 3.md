@@ -70,10 +70,10 @@ main.tex
 
 ```
 
-![DANE3](Notatki/Semestr%201/Technologie%20informacyjne/Labolatoria/Labolatoria%203/DANE3.csv)
+![DANE3](/Notatki/Semestr%201/Technologie%20informacyjne/Labolatoria/Labolatoria%203/DANE3.csv)
 
-![lab3_a](Notatki/Semestr%201/Technologie%20informacyjne/Labolatoria/Labolatoria%203/lab3_a.pdf)
-![lab3_b](Notatki/Semestr%201/Technologie%20informacyjne/Labolatoria/Labolatoria%203/lab3_b.pdf)
-![TI___lab3](Notatki/Semestr%201/Technologie%20informacyjne/Labolatoria/Labolatoria%203/TI___lab3.pdf)
+![lab3_a](/Notatki/Semestr%201/Technologie%20informacyjne/Labolatoria/Labolatoria%203/lab3_a.pdf)
+![lab3_b](/Notatki/Semestr%201/Technologie%20informacyjne/Labolatoria/Labolatoria%203/lab3_b.pdf)
+![TI___lab3](/Notatki/Semestr%201/Technologie%20informacyjne/Labolatoria/Labolatoria%203/TI___lab3.pdf)
 
 

@@ -1,4 +1,4 @@
-![Wykład 3 wzorce 2022na23](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Wyk%C5%82ad%203/Wyk%C5%82ad%203%20wzorce%202022na23.pdf)
+![Wykład 3 wzorce 2022na23](/Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Wyk%C5%82ad%203/Wyk%C5%82ad%203%20wzorce%202022na23.pdf)
 hasło: EF_W3_2022
 
 [OZE](oze.pwr.edu.pl) 

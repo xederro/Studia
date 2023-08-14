@@ -1,1 +1,1 @@
-![Drawing 2023-03-28 13.15.49.excalidraw](Notatki/Semestr%202/Fizyka%201.1A/Wyk%C5%82ady/Wyk%C5%82ad%205/Drawing%202023-03-28%2013.15.49.excalidraw.svg)
+![Drawing 2023-03-28 13.15.49.excalidraw](/Notatki/Semestr%202/Fizyka%201.1A/Wyk%C5%82ady/Wyk%C5%82ad%205/Drawing%202023-03-28%2013.15.49.excalidraw.svg)

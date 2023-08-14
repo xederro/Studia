@@ -1,5 +1,5 @@
-![Cwiczenia_4](Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%204/Cwiczenia_4.pdf)
-![Słowne nazwy typów](Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%204/S%C5%82owne%20nazwy%20typ%C3%B3w.pdf)
+![Cwiczenia_4](/Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%204/Cwiczenia_4.pdf)
+![Słowne nazwy typów](/Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%204/S%C5%82owne%20nazwy%20typ%C3%B3w.pdf)
 1. 
 | Deklaracja zmiennej | Nazwa (słowny opis typu danych)                                                                                                     | Wielkość zmiennej w pamięci (B) |
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
@@ -17,7 +17,7 @@
 | void (\*fun)();     | wskaźnik na bezparametrową funkcję zwracającą typ void                                                                              | 4                               |
 | float (\*fun)(int); | wskaźnik na funkcję przyjmującą parametr typu int zwracającą typ float                                                              | 4                               |
 2. 
-   ![lista4](Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%204/lista4.cpp)
+   ![lista4](/Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%204/lista4.cpp)
 3. 
    ```cpp
 	   printf("%d, %d\n", tab2[w][k], *(*(tab2 + w) + k));
@@ -132,4 +132,4 @@
 & - operator adresowania
 \* - operator wyłuskania
 
-[Wykład 5](Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ad%205/Wyk%C5%82ad%205.md)
+[Wykład 5](/Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ad%205/Wyk%C5%82ad%205.md)

@@ -1,7 +1,7 @@
-![ALGA-Wyklad_01](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%201/ALGA-Wyklad_01.pdf)
-![ALGA-Wyklad_02](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%201/ALGA-Wyklad_02.pdf)
-![Wyklad_1a](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%201/Wyklad_1a.pdf)
-![Wyklad_2a](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%201/Wyklad_2a.pdf)
+![ALGA-Wyklad_01](/Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%201/ALGA-Wyklad_01.pdf)
+![ALGA-Wyklad_02](/Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%201/ALGA-Wyklad_02.pdf)
+![Wyklad_1a](/Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%201/Wyklad_1a.pdf)
+![Wyklad_2a](/Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%201/Wyklad_2a.pdf)
 # Wprowadzenie
 ## Symbole
 $\forall_{x \in X}\Phi(x)$ dla każdego x nalerzącego do X zachodzi $\Phi(x)$
@@ -52,4 +52,4 @@ $i^{-1}=-i$
 $i^3=-i$
 $i^4=1$
 
-[Ćwiczenia 1](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/%C4%86wiczenia%201/%C4%86wiczenia%201.md)[Ćwiczenia 2](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/%C4%86wiczenia%202/%C4%86wiczenia%202.md)
+[Ćwiczenia 1](/Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/%C4%86wiczenia%201/%C4%86wiczenia%201.md)[Ćwiczenia 2](/Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/%C4%86wiczenia%202/%C4%86wiczenia%202.md)

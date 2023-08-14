@@ -1,2 +1,2 @@
-![Cw_4_Pomiar_Rezystancji_i_Impedancji_2023](Notatki/Semestr%202/Miernictwo%20w%20informatyce%20i%20telekomunikacji%202/Labolatoria/Labolatoria%204/Cw_4_Pomiar_Rezystancji_i_Impedancji_2023.pdf)
-![Cw_4](Notatki/Semestr%202/Miernictwo%20w%20informatyce%20i%20telekomunikacji%202/Labolatoria/Labolatoria%204/Cw_4.pdf)
+![Cw_4_Pomiar_Rezystancji_i_Impedancji_2023](/Notatki/Semestr%202/Miernictwo%20w%20informatyce%20i%20telekomunikacji%202/Labolatoria/Labolatoria%204/Cw_4_Pomiar_Rezystancji_i_Impedancji_2023.pdf)
+![Cw_4](/Notatki/Semestr%202/Miernictwo%20w%20informatyce%20i%20telekomunikacji%202/Labolatoria/Labolatoria%204/Cw_4.pdf)

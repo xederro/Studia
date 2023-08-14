@@ -1,2 +1,2 @@
-![Lista_7_AM1](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%207/Lista_7_AM1.pdf)
-![Drawing 2022-12-09 15.15.53.excalidraw.svg](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%207/Drawing%202022-12-09%2015.15.53.excalidraw.svg)[Wykład 7](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%207/Wyk%C5%82ad%207.md)
+![Lista_7_AM1](/Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%207/Lista_7_AM1.pdf)
+![Drawing 2022-12-09 15.15.53.excalidraw.svg](/Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%207/Drawing%202022-12-09%2015.15.53.excalidraw.svg)[Wykład 7](/Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%207/Wyk%C5%82ad%207.md)

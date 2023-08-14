@@ -1,2 +1,2 @@
-![AM2-zestaw_03](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/%C4%86wiczenia%203/AM2-zestaw_03.pdf)
-![Drawing 2023-03-30 10.21.39.excalidraw](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/%C4%86wiczenia%203/Drawing%202023-03-30%2010.21.39.excalidraw.svg)[Wykład 3](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/Wyk%C5%82ady/Wyk%C5%82ad%203/Wyk%C5%82ad%203.md)
+![AM2-zestaw_03](/Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/%C4%86wiczenia%203/AM2-zestaw_03.pdf)
+![Drawing 2023-03-30 10.21.39.excalidraw](/Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/%C4%86wiczenia%203/Drawing%202023-03-30%2010.21.39.excalidraw.svg)[Wykład 3](/Notatki/Semestr%202/Analiza%20matematyczna%202.3A/Wyk%C5%82ady/Wyk%C5%82ad%203/Wyk%C5%82ad%203.md)

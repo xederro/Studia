@@ -1,17 +1,17 @@
-![Cwiczenia_1](Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%201/Cwiczenia_1.pdf)
+![Cwiczenia_1](/Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%201/Cwiczenia_1.pdf)
 1. wypisze najmniejszą wartość z 3 liczb
    nadal zostanie wypisana najmniejsza wartość
 2.  
    - mediana
-     ![cw1zad2pkt1](Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%201/cw1zad2pkt1.svg)
+     ![cw1zad2pkt1](/Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%201/cw1zad2pkt1.svg)
    - sekwencja liczb uporządkowanych malejąco
-     ![cw1zad2pkt2](Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%201/cw1zad2pkt2.svg)
+     ![cw1zad2pkt2](/Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%201/cw1zad2pkt2.svg)
    - conajmniej 2 liczby są takie same
-     ![cw1zad2pkt3](Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%201/cw1zad2pkt3.svg)
+     ![cw1zad2pkt3](/Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%201/cw1zad2pkt3.svg)
 3. 
-   ![cw1zad3](Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%201/cw1zad3.svg)
+   ![cw1zad3](/Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%201/cw1zad3.svg)
 4. 
-   ![cw1zad4](Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%201/cw1zad4.svg)
+   ![cw1zad4](/Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%201/cw1zad4.svg)
 5. 
  | Wartość zmiennej                   | Typ                | Ile zajmuje bajtów | Kod formujący dla funkcji printf |
  | ---------------------------------- | ------------------ | ------------------ | -------------------------------- |
@@ -65,5 +65,5 @@
    b. x = 2/(3 * 2 - 4) = 1
 
 
-[Wykład 1](Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ad%201/Wyk%C5%82ad%201.md)
-[Wykład 2](Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ad%202/Wyk%C5%82ad%202.md)
+[Wykład 1](/Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ad%201/Wyk%C5%82ad%201.md)
+[Wykład 2](/Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ad%202/Wyk%C5%82ad%202.md)

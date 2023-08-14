@@ -1,4 +1,4 @@
-![Lista_7_MD](Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/%C4%86wiczenia%207/Lista_7_MD.pdf)
-![Drawing 2023-04-28 14.11.21.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/%C4%86wiczenia%207/Drawing%202023-04-28%2014.11.21.excalidraw.svg)
-![Drawing 2023-05-12 14.07.00.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/%C4%86wiczenia%207/Drawing%202023-05-12%2014.07.00.excalidraw.svg)
-![Drawing 2023-05-19 13.16.05.excalidraw](Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/%C4%86wiczenia%207/Drawing%202023-05-19%2013.16.05.excalidraw.svg)
+![Lista_7_MD](/Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/%C4%86wiczenia%207/Lista_7_MD.pdf)
+![Drawing 2023-04-28 14.11.21.excalidraw](/Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/%C4%86wiczenia%207/Drawing%202023-04-28%2014.11.21.excalidraw.svg)
+![Drawing 2023-05-12 14.07.00.excalidraw](/Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/%C4%86wiczenia%207/Drawing%202023-05-12%2014.07.00.excalidraw.svg)
+![Drawing 2023-05-19 13.16.05.excalidraw](/Notatki/Semestr%202/Matematyka%20dyskretna/%C4%86wiczenia/%C4%86wiczenia%207/Drawing%202023-05-19%2013.16.05.excalidraw.svg)

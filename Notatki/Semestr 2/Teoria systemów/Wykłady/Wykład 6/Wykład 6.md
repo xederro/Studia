@@ -1,1 +1,1 @@
-![Drawing 2023-05-10 07.32.49.excalidraw](Notatki/Semestr%202/Teoria%20system%C3%B3w/Wyk%C5%82ady/Wyk%C5%82ad%206/Drawing%202023-05-10%2007.32.49.excalidraw.svg)
+![Drawing 2023-05-10 07.32.49.excalidraw](/Notatki/Semestr%202/Teoria%20system%C3%B3w/Wyk%C5%82ady/Wyk%C5%82ad%206/Drawing%202023-05-10%2007.32.49.excalidraw.svg)

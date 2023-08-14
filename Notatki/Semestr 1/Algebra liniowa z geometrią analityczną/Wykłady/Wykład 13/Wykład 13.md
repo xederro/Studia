@@ -1,4 +1,4 @@
-![ALGA-Wyklad_14](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%2013/ALGA-Wyklad_14.pdf)
-![Wyklad_14a](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%2013/Wyklad_14a.pdf)
-![Drawing 2023-01-17 13.18.34.excalidraw.svg](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%2013/Drawing%202023-01-17%2013.18.34.excalidraw.svg)
-![Drawing 2023-01-19 19.08.04.excalidraw.svg](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%2014/Drawing%202023-01-19%2019.08.04.excalidraw.svg)[Ćwiczenia 11](Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/%C4%86wiczenia%2011/%C4%86wiczenia%2011.md)
+![ALGA-Wyklad_14](/Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%2013/ALGA-Wyklad_14.pdf)
+![Wyklad_14a](/Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%2013/Wyklad_14a.pdf)
+![Drawing 2023-01-17 13.18.34.excalidraw.svg](/Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%2013/Drawing%202023-01-17%2013.18.34.excalidraw.svg)
+![Drawing 2023-01-19 19.08.04.excalidraw.svg](/Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/Wyk%C5%82ady/Wyk%C5%82ad%2014/Drawing%202023-01-19%2019.08.04.excalidraw.svg)[Ćwiczenia 11](/Notatki/Semestr%201/Algebra%20liniowa%20z%20geometri%C4%85%20analityczn%C4%85/%C4%86wiczenia/%C4%86wiczenia%2011/%C4%86wiczenia%2011.md)

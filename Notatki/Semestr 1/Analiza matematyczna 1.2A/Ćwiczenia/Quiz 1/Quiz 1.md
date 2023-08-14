@@ -1,2 +1,2 @@
-![Drawing 2022-11-17 18.24.54.excalidraw.svg](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/Quiz%201/Drawing%202022-11-17%2018.24.54.excalidraw.svg)
-![Drawing 2022-11-18 11.15.33.excalidraw.svg](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/Quiz%201/Drawing%202022-11-18%2011.15.33.excalidraw.svg)
+![Drawing 2022-11-17 18.24.54.excalidraw.svg](/Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/Quiz%201/Drawing%202022-11-17%2018.24.54.excalidraw.svg)
+![Drawing 2022-11-18 11.15.33.excalidraw.svg](/Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/Quiz%201/Drawing%202022-11-18%2011.15.33.excalidraw.svg)

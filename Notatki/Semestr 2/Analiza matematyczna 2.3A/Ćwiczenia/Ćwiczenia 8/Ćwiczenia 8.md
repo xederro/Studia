@@ -1,1 +1,1 @@
-![AM2-zestaw_08](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/%C4%86wiczenia%208/AM2-zestaw_08.pdf)[Wykład 8](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/Wyk%C5%82ady/Wyk%C5%82ad%208/Wyk%C5%82ad%208.md)
+![AM2-zestaw_08](/Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/%C4%86wiczenia%208/AM2-zestaw_08.pdf)[Wykład 8](/Notatki/Semestr%202/Analiza%20matematyczna%202.3A/Wyk%C5%82ady/Wyk%C5%82ad%208/Wyk%C5%82ad%208.md)

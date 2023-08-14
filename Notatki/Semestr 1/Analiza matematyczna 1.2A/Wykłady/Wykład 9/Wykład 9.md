@@ -1,2 +1,2 @@
-![W9_Analiza_21_Poch_cz_Eks_Wielu_Zm](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%209/W9_Analiza_21_Poch_cz_Eks_Wielu_Zm.pdf)
-![Drawing 2022-12-14 11.11.05.excalidraw.svg](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%209/Drawing%202022-12-14%2011.11.05.excalidraw.svg)[Ćwiczenia 9](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%209/%C4%86wiczenia%209.md)
+![W9_Analiza_21_Poch_cz_Eks_Wielu_Zm](/Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%209/W9_Analiza_21_Poch_cz_Eks_Wielu_Zm.pdf)
+![Drawing 2022-12-14 11.11.05.excalidraw.svg](/Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%209/Drawing%202022-12-14%2011.11.05.excalidraw.svg)[Ćwiczenia 9](/Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%209/%C4%86wiczenia%209.md)

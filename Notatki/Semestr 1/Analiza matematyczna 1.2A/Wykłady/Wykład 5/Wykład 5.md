@@ -1,1 +1,1 @@
-![W5_Analiza_21_Gran_Ciąg_f](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%205/W5_Analiza_21_Gran_Ci%C4%85g_f.pdf)[Ćwiczenia 5](Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%205/%C4%86wiczenia%205.md)
+![W5_Analiza_21_Gran_Ciąg_f](/Notatki/Semestr%201/Analiza%20matematyczna%201.2A/Wyk%C5%82ady/Wyk%C5%82ad%205/W5_Analiza_21_Gran_Ci%C4%85g_f.pdf)[Ćwiczenia 5](/Notatki/Semestr%201/Analiza%20matematyczna%201.2A/%C4%86wiczenia/%C4%86wiczenia%205/%C4%86wiczenia%205.md)

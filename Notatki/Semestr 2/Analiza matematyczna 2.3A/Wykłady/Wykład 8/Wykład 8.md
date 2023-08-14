@@ -1,4 +1,4 @@
-![AM2-Wyklad_08](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/Wyk%C5%82ady/Wyk%C5%82ad%208/AM2-Wyklad_08.pdf)
-![Wyklad_8a](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/Wyk%C5%82ady/Wyk%C5%82ad%208/Wyklad_8a.pdf)
-![Drawing 2023-04-19 13.24.34.excalidraw](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/Wyk%C5%82ady/Wyk%C5%82ad%208/Drawing%202023-04-19%2013.24.34.excalidraw.svg)
-[Wykład 7](Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Wyk%C5%82ad%207/Wyk%C5%82ad%207.md)[Ćwiczenia 8](Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/%C4%86wiczenia%208/%C4%86wiczenia%208.md)
+![AM2-Wyklad_08](/Notatki/Semestr%202/Analiza%20matematyczna%202.3A/Wyk%C5%82ady/Wyk%C5%82ad%208/AM2-Wyklad_08.pdf)
+![Wyklad_8a](/Notatki/Semestr%202/Analiza%20matematyczna%202.3A/Wyk%C5%82ady/Wyk%C5%82ad%208/Wyklad_8a.pdf)
+![Drawing 2023-04-19 13.24.34.excalidraw](/Notatki/Semestr%202/Analiza%20matematyczna%202.3A/Wyk%C5%82ady/Wyk%C5%82ad%208/Drawing%202023-04-19%2013.24.34.excalidraw.svg)
+[Wykład 7](/Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wyk%C5%82ady/Wyk%C5%82ad%207/Wyk%C5%82ad%207.md)[Ćwiczenia 8](/Notatki/Semestr%202/Analiza%20matematyczna%202.3A/%C4%86wiczenia/%C4%86wiczenia%208/%C4%86wiczenia%208.md)

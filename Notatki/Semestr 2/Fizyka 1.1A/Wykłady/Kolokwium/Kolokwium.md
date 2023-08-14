@@ -1,1 +1,1 @@
-![Drawing 2023-06-26 11.45.28.excalidraw](Notatki/Semestr%202/Fizyka%201.1A/Wyk%C5%82ady/Kolokwium/Drawing%202023-06-26%2011.45.28.excalidraw.svg)![fizyka-quizy-pełne](Notatki/Semestr%202/Fizyka%201.1A/Wyk%C5%82ady/Kolokwium/fizyka-quizy-pe%C5%82ne.pdf)
+![Drawing 2023-06-26 11.45.28.excalidraw](/Notatki/Semestr%202/Fizyka%201.1A/Wyk%C5%82ady/Kolokwium/Drawing%202023-06-26%2011.45.28.excalidraw.svg)![fizyka-quizy-pełne](/Notatki/Semestr%202/Fizyka%201.1A/Wyk%C5%82ady/Kolokwium/fizyka-quizy-pe%C5%82ne.pdf)

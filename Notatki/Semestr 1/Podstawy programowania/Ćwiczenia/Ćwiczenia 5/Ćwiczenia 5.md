@@ -1,5 +1,5 @@
-![Cwiczenia_5](Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%205/Cwiczenia_5.pdf)
-![TabliceDwuwymiarowe](Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%205/TabliceDwuwymiarowe.pdf)
+![Cwiczenia_5](/Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%205/Cwiczenia_5.pdf)
+![TabliceDwuwymiarowe](/Notatki/Semestr%201/Podstawy%20programowania/%C4%86wiczenia/%C4%86wiczenia%205/TabliceDwuwymiarowe.pdf)
 
 1. 
    1
@@ -24,5 +24,5 @@
    \0
    
 
-[Wykład 8](Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ad%208/Wyk%C5%82ad%208.md)
-[Wykład 11](Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ad%2011/Wyk%C5%82ad%2011.md)
+[Wykład 8](/Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ad%208/Wyk%C5%82ad%208.md)
+[Wykład 11](/Notatki/Semestr%201/Podstawy%20programowania/Wyk%C5%82ady/Wyk%C5%82ad%2011/Wyk%C5%82ad%2011.md)

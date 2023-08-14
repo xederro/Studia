@@ -5,10 +5,10 @@ typ: 'W'
 ---
 
 # Wykłady
-1. [Wykład 1](Notatki/Semestr%201/W%C5%82asno%C5%9B%C4%87%20intelektualna%20i%20prawo%20autorskie/Wyk%C5%82ady/Wyk%C5%82ad%201/Wyk%C5%82ad%201.md)
-2. [Wykład 2](Notatki/Semestr%201/W%C5%82asno%C5%9B%C4%87%20intelektualna%20i%20prawo%20autorskie/Wyk%C5%82ady/Wyk%C5%82ad%202/Wyk%C5%82ad%202.md)
-3. [Wykład 3](Notatki/Semestr%201/W%C5%82asno%C5%9B%C4%87%20intelektualna%20i%20prawo%20autorskie/Wyk%C5%82ady/Wyk%C5%82ad%203/Wyk%C5%82ad%203.md)
-4. [Wykład 4](Notatki/Semestr%201/W%C5%82asno%C5%9B%C4%87%20intelektualna%20i%20prawo%20autorskie/Wyk%C5%82ady/Wyk%C5%82ad%204/Wyk%C5%82ad%204.md)
+1. [Wykład 1](/Notatki/Semestr%201/W%C5%82asno%C5%9B%C4%87%20intelektualna%20i%20prawo%20autorskie/Wyk%C5%82ady/Wyk%C5%82ad%201/Wyk%C5%82ad%201.md)
+2. [Wykład 2](/Notatki/Semestr%201/W%C5%82asno%C5%9B%C4%87%20intelektualna%20i%20prawo%20autorskie/Wyk%C5%82ady/Wyk%C5%82ad%202/Wyk%C5%82ad%202.md)
+3. [Wykład 3](/Notatki/Semestr%201/W%C5%82asno%C5%9B%C4%87%20intelektualna%20i%20prawo%20autorskie/Wyk%C5%82ady/Wyk%C5%82ad%203/Wyk%C5%82ad%203.md)
+4. [Wykład 4](/Notatki/Semestr%201/W%C5%82asno%C5%9B%C4%87%20intelektualna%20i%20prawo%20autorskie/Wyk%C5%82ady/Wyk%C5%82ad%204/Wyk%C5%82ad%204.md)
 
 ## Zaliczenie
 
