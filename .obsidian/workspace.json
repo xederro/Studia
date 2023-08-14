@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "263f92f74c8b86b3",
+        "id": "f8abd812aca34526",
         "type": "tabs",
         "children": [
           {
-            "id": "34366419ce9f5803",
+            "id": "89bc9957e0aa3892",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Kolokwium.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5069465637207
+    "width": 296.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -100,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Kolokwium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Kolokwium.md"
+              }
             }
           }
         ],
@@ -132,10 +140,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "34366419ce9f5803",
+  "active": "89bc9957e0aa3892",
   "lastOpenFiles": [
-    "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-02-02 21.51.27.excalidraw.md",
+    "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-01-24 14.02.21.excalidraw.md",
     "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Kolokwium.md",
+    "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-01-24 14.02.21.excalidraw.svg",
+    "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-02-02 21.51.27.excalidraw.md",
     "README.md",
     "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Algebra liniowa z geometrą analityczną.md",
     "LICENSE.md",
@@ -161,8 +171,6 @@
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
-    "Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
-    "Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
     "Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Lista_4_MD.pdf",
     "Untitled.canvas",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady",
@@ -180,7 +188,6 @@
     "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 7/skuteczna.png",
     "Excalidraw/Pasted Image 20230629193057_978.png",
     "Excalidraw/Pasted Image 20230629192942_499.png",
-    "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Pasted Image 20230627230306_704.png",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
 }
