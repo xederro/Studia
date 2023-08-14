@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "077acab717b019e7",
+        "id": "6ed324383e1b490f",
         "type": "tabs",
         "children": [
           {
-            "id": "de687b3f3e3b95d6",
+            "id": "58edd060404debf6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Semestr 3/Architektura komputerów 1 or Arytmetyka komputerów/Architektura komputerów 1 or Arytmetyka komputerów.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -100,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Semestr 3/Architektura komputerów 1 or Arytmetyka komputerów/Architektura komputerów 1 or Arytmetyka komputerów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 3/Architektura komputerów 1 or Arytmetyka komputerów/Architektura komputerów 1 or Arytmetyka komputerów.md"
+              }
             }
           }
         ],
@@ -132,11 +140,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "de687b3f3e3b95d6",
+  "active": "58edd060404debf6",
   "lastOpenFiles": [
-    "Notatki/Semestr 2/Semestr 2.md",
-    "Notatki/Semestr 3/Semestr 3.md",
+    "Notatki/Semestr 3/Architektura komputerów 1 or Arytmetyka komputerów/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Architektura komputerów 1 or Arytmetyka komputerów/Architektura komputerów 1 or Arytmetyka komputerów.md",
+    "Notatki/Semestr 3/Semestr 3.md",
+    "Notatki/Semestr 3/Architektura komputerów 1 or Arytmetyka komputerów/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Semestr 2/Semestr 2.md",
     "Notatki/Semestr 1/Semestr 1.md",
     "Notatki/Semestr 1/Podstawy programowania/Wykłady/Kolokwium 1/Kolokwium 1.md",
     "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Wykład 8.md",
@@ -168,9 +178,7 @@
     "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Kolokwium/Drawing 2023-06-26 11.45.28.excalidraw.svg",
     "Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-25 11.27.34.excalidraw.md",
     "Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-25 11.27.34.excalidraw.svg",
-    "Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-24 16.49.03.excalidraw.md",
     "Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-24 16.49.03.excalidraw.svg",
-    "Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-24 15.13.51.excalidraw.md",
     "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 9/Notatki do wykładów optyka falowa 2021.pdf",
     "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 8/Elementy Optyczne - Konrad Kłoniecki.pdf",
     "Sylabus.pdf",
