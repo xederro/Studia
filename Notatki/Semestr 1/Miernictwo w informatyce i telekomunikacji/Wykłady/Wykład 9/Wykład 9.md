@@ -1,7 +1,7 @@
-![[/Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 9/Wnr11.pdf]] h: nr11
-![[/Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 9/Analog-to-Digital_Analog_Devices.pdf]] h: Mierniki2
-![[/Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 9/Which ADC Architecture Is Right for Your Application.pdf]] h: Mierniki2
-![[/Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 9/Woltomierz_na_przetworniku_AC.pdf]] h: Mierniki2
+![](/Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wykłady/Wykład%209/Wnr11.pdf) h: nr11
+![](/Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wykłady/Wykład%209/Analog-to-Digital_Analog_Devices.pdf) h: Mierniki2
+![](/Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wykłady/Wykład%209/Which%20ADC%20Architecture%20Is%20Right%20for%20Your%20Application.pdf) h: Mierniki2
+![](/Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wykłady/Wykład%209/Woltomierz_na_przetworniku_AC.pdf) h: Mierniki2
 
 
 

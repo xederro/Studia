@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6ed324383e1b490f",
+        "id": "e2f9403b80004b24",
         "type": "tabs",
         "children": [
           {
-            "id": "58edd060404debf6",
+            "id": "4d4941294b7cccfa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Algebra liniowa z geometrą analityczną.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5069465637207
+    "width": 276.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -105,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Algebra liniowa z geometrą analityczną.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Algebra liniowa z geometrą analityczną.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -137,13 +129,23 @@
       "obsidian-full-calendar:Open Full Calendar": false,
       "templates:Insert template": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "janitor:Janitor: scan vault": false
     }
   },
-  "active": "58edd060404debf6",
+  "active": "4d4941294b7cccfa",
   "lastOpenFiles": [
-    "Notatki/Semestr 1/Semestr 1.md",
+    "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykłady.md",
+    "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 9/Wykład 9.md",
+    "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Wykład 8.md",
+    "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Prostokat_50.jpg",
     "README.md",
+    "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Kolos/Kolos.md",
+    "Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Kolokwium 1/Kolokwium 1.md",
+    "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Ćwiczenia/Ćwiczenia 4/Drawing 2022-11-03 13.45.39.excalidraw.md",
+    "Notatki/Semestr 2/Fizyka 1.1A/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
+    "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Algebra liniowa z geometrą analityczną.md",
+    "Notatki/Semestr 1/Semestr 1.md",
     "LICENSE.md",
     "CODE_OF_CONDUCT.md",
     "Notatki/Semestr 3/Architektura komputerów 1 or Arytmetyka komputerów/Architektura komputerów 1 or Arytmetyka komputerów.md",
@@ -152,33 +154,23 @@
     "Notatki/Semestr 3/Architektura komputerów 1 or Arytmetyka komputerów/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 2/Semestr 2.md",
     "Notatki/Semestr 1/Podstawy programowania/Wykłady/Kolokwium 1/Kolokwium 1.md",
-    "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/Wykład 11.md",
     "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/w14_2023.pdf",
     "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 12/Wykład 12.md",
     "Notatki/Semestr 1/Analiza matematyczna 1.2A/Analiza matematyczna 1.2A.md",
     "Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
     "Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 10/Wykład 10.md",
-    "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Algebra liniowa z geometrą analityczną.md",
     "Notatki/Semestr 1/Filozofia/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 1/Technologie informacyjne/Technologie informacyjne.md",
-    "Notatki/Semestr 2/Analiza matematyczna 2.3A/Ćwiczenia/Kolokwium 1/Kolokwium 1.md",
-    "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Kolokwium.md",
     "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-01-24 14.02.21.excalidraw.svg",
-    "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 23.02.51.excalidraw.md",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 23.02.51.excalidraw.svg",
-    "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 21.16.23.excalidraw.md",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 21.16.23.excalidraw.svg",
-    "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 16.21.46.excalidraw.md",
-    "Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 11/Drawing 2023-06-27 13.17.34.excalidraw.md",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 16.21.46.excalidraw.svg",
     "Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 11/Drawing 2023-06-27 13.17.34.excalidraw.svg",
-    "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-26 15.49.39.excalidraw.md",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-26 15.49.39.excalidraw.svg",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-26 11.50.36.excalidraw.svg",
     "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Kolokwium/Drawing 2023-06-26 11.45.28.excalidraw.svg",
     "Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-25 11.27.34.excalidraw.svg",
-    "Notatki/Semestr 2/Matematyka dyskretna/Wykłady/Kolos/Drawing 2023-06-24 16.49.03.excalidraw.svg",
     "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 9/Notatki do wykładów optyka falowa 2021.pdf",
     "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 8/Elementy Optyczne - Konrad Kłoniecki.pdf",
     "Sylabus.pdf",

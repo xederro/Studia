@@ -1,23 +1,23 @@
-![[/Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Wnr10.pdf]] h: nr10
+![](/Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wykłady/Wykład%208/Wnr10.pdf) h: nr10
 
-![[/Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/AD736_TRMS.pdf]] h: Mierniki2
+![](/Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wykłady/Wykład%208/AD736_TRMS.pdf) h: Mierniki2
 
-![[/Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/SectionI.pdf]]
-![[/Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/SectionII.pdf]]
+![](/Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wykłady/Wykład%208/SectionI.pdf)
+![](/Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wykłady/Wykład%208/SectionII.pdf)
+![](/Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wykłady/Wykład%208/SectionIII.pdf)
 
-![[/Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/SectionIII.pdf]]
+![](/Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wykłady/Wykład%208/Całkowanie_idealne%20-%20w_układzie_WO.pdf) h: Mierniki1
+![](/Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wykłady/Wykład%208/LTC1966_TRMS.pdf) h: Mierniki2
 
-![[/Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Całkowanie_idealne - w_układzie_WO.pdf]] h: Mierniki1
-![[/Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/LTC1966_TRMS.pdf]]h: Mierniki2
-![[/Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Prostokat_50%.jpg]]
-![[/Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Sinus.jpg]]
-![[/Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Trojkąt.jpg]]
-![[/Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Woltomierz_na_przetworniku_AC.pdf]]h: Mierniki2
-![[/Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Wzmacniacze_Operacyjne_dla_Wszystkich_TI.pdf]] h: Mierniki2
+![](/Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wykłady/Wykład%208/Prostokat_50.jpg)
+![](/Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wykłady/Wykład%208/Sinus.jpg)
+![](/Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wykłady/Wykład%208/Trojkąt.jpg)
+![](/Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wykłady/Wykład%208/Woltomierz_na_przetworniku_AC.pdf) h: Mierniki2
+![](/Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wykłady/Wykład%208/Wzmacniacze_Operacyjne_dla_Wszystkich_TI.pdf) h: Mierniki2
 
-![[/Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Diody.pdf]]
-![[/Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Op-Amps.pdf]]
-![[/Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Tranzyst_Materia.pdf]]
+![](/Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wykłady/Wykład%208/Diody.pdf)
+![](/Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wykłady/Wykład%208/Op-Amps.pdf)
+![](/Notatki/Semestr%201/Miernictwo%20w%20informatyce%20i%20telekomunikacji/Wykłady/Wykład%208/Tranzyst_Materia.pdf)
 
 # Tranzystory i jego zastosowanie
 

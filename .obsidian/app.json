@@ -3,7 +3,7 @@
   "spellcheck": true,
   "spellcheckLanguages": null,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "",
+  "attachmentFolderPath": "./",
   "showInlineTitle": false,
   "pdfExportSettings": {
     "pageSize": "A3",
@@ -14,5 +14,6 @@
   "tabSize": 4,
   "showFrontmatter": true,
   "newLinkFormat": "absolute",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "newFileLocation": "current"
 }
