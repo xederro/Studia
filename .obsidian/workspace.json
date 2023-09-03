@@ -14,19 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "20268a29d335c5df",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +133,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "20268a29d335c5df",
+  "active": "4d4941294b7cccfa",
   "lastOpenFiles": [
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 5/AM2-Wyklad_05.pdf",
