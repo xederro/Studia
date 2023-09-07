@@ -4,18 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "e2f9403b80004b24",
+        "id": "dce8b967a8abb6fe",
         "type": "tabs",
         "children": [
           {
-            "id": "4d4941294b7cccfa",
+            "id": "1c9b9a382e95af5d",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a40af995512f5260",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,8 +142,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d4941294b7cccfa",
+  "active": "a40af995512f5260",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/WF-2/WF-2.md",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 5/AM2-Wyklad_05.pdf",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 5/Drawing 2023-08-24 09.51.56.excalidraw.md",
@@ -164,7 +174,6 @@
     "Notatki/Semestr 1/Analiza matematyczna 1.2A/Analiza matematyczna 1.2A.md",
     "Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
     "Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 10/Wykład 10.md",
-    "Notatki/Semestr 1/Filozofia/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-01-24 14.02.21.excalidraw.svg",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 23.02.51.excalidraw.svg",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 21.16.23.excalidraw.svg",
