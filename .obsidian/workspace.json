@@ -16,11 +16,13 @@
             }
           },
           {
-            "id": "a40af995512f5260",
+            "id": "e35737b0cd19a7ee",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {}
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
             }
           }
         ],
@@ -121,6 +123,16 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "88e9f4483b5115cf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -142,7 +154,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a40af995512f5260",
+  "active": "e35737b0cd19a7ee",
   "lastOpenFiles": [
     "Notatki/Semestr 3/WF-2/WF-2.md",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 5/Wykład 5.md",
