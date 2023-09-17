@@ -4,29 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "dce8b967a8abb6fe",
+        "id": "d89a1a1d0e3da315",
         "type": "tabs",
         "children": [
           {
-            "id": "1c9b9a382e95af5d",
+            "id": "8db39108c749edd7",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "e35737b0cd19a7ee",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,8 +143,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e35737b0cd19a7ee",
+  "active": "8db39108c749edd7",
   "lastOpenFiles": [
+    "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykłady.md",
+    "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 3/WF-2/WF-2.md",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 5/AM2-Wyklad_05.pdf",
@@ -184,8 +175,6 @@
     "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/w14_2023.pdf",
     "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 12/Wykład 12.md",
     "Notatki/Semestr 1/Analiza matematyczna 1.2A/Analiza matematyczna 1.2A.md",
-    "Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykłady.md",
-    "Notatki/Semestr 1/Analiza matematyczna 1.2A/Wykłady/Wykład 10/Wykład 10.md",
     "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-01-24 14.02.21.excalidraw.svg",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 23.02.51.excalidraw.svg",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 21.16.23.excalidraw.svg",
