@@ -14,8 +14,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "f7a983d3c3015186",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +154,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8db39108c749edd7",
+  "active": "f7a983d3c3015186",
   "lastOpenFiles": [
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykłady.md",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 1/Wykład 1.md",
