@@ -10,7 +10,7 @@ typ: 'W'
 ## Zaliczenie
 daje plusy, każde 4 plusy to .5 do oceny
 zaliczyć labolatoria, 3.5+ oraz 2/3 wykładu to przepis
-kolokwium
+kolokwium poza przepisem (odpytka)
 
 
 
