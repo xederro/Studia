@@ -1,7 +1,7 @@
 ---
 semestr: 3
 ocena: 
-typ: 'C'
+typ: C
 ---
 
 # Ćwiczenia

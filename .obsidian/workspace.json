@@ -4,29 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d89a1a1d0e3da315",
+        "id": "34eeea59c86951ff",
         "type": "tabs",
         "children": [
           {
-            "id": "8db39108c749edd7",
+            "id": "2830d7a91db146fb",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "f7a983d3c3015186",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5069465637207
+    "width": 200.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -154,11 +143,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7a983d3c3015186",
+  "active": "671d26171d29a68e",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Semestr 2/WF-1/WF-1.md",
+    "Notatki/Semestr 2/Semestr 2.md",
+    "Notatki/Semestr 3/WF-2/WF-2.md",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykłady.md",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Semestr 3/WF-2/WF-2.md",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 5/AM2-Wyklad_05.pdf",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 5/Drawing 2023-08-24 09.51.56.excalidraw.md",
@@ -176,16 +168,13 @@
     "Notatki/Semestr 1/Semestr 1.md",
     "LICENSE.md",
     "CODE_OF_CONDUCT.md",
-    "Notatki/Semestr 3/Architektura komputerów 1 or Arytmetyka komputerów/Architektura komputerów 1 or Arytmetyka komputerów.md",
-    "Notatki/Semestr 3/Architektura komputerów 1 or Arytmetyka komputerów/Wykłady/Wykłady.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Architektura komputerów 1.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Semestr 3.md",
-    "Notatki/Semestr 3/Architektura komputerów 1 or Arytmetyka komputerów/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Semestr 2/Semestr 2.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 1/Podstawy programowania/Wykłady/Kolokwium 1/Kolokwium 1.md",
     "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/Wykład 11.md",
     "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/w14_2023.pdf",
-    "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 12/Wykład 12.md",
-    "Notatki/Semestr 1/Analiza matematyczna 1.2A/Analiza matematyczna 1.2A.md",
     "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-01-24 14.02.21.excalidraw.svg",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 23.02.51.excalidraw.svg",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 21.16.23.excalidraw.svg",
