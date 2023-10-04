@@ -10,4 +10,7 @@ typ: 'W'
 ## Zaliczenie
 przedostatni wykład - kolokwium
 na eportalu ale nie zdalnie
+wielokrotny wybór ale z jedną poprawną odpowiedzią
+13 pytań po 1 z wykładu
+trwa 20 minut max
 hasło: ETEW00004

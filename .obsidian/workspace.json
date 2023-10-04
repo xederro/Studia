@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eab389f1647b7e24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cfb9dfc30274a698",
             "type": "leaf",
             "state": {
@@ -119,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
+                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 1/Wykład 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md"
+                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 1/Wykład 1.md"
               }
             }
           },
@@ -165,10 +152,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eab389f1647b7e24",
+  "active": "cfb9dfc30274a698",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Podstawy telekomunikacji.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 1",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykłady.md",
