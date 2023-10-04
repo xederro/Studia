@@ -1,5 +1,5 @@
 # Telekomunikacja
-komunikacja na odległość
+komunikacja na odległość, jest dziedziną regulowaną (dla kompatybilności, )
 
 - sygnały dźwiękowe
 - sygnał dymne
@@ -13,6 +13,8 @@ komunikacja na odległość
 - telegram do 2002r.
 - 1ees pierwsza elektroniczna centrala telefoniczna - bell system
 - definicja iso/osi
+
+
 
 
 
