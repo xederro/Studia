@@ -12,3 +12,4 @@ http://tomasz.kubik.staff.iiar.pwr.edu.pl/
 Kolokwium
 
 JDK 17 (Oracle)
+javac ... -d ...
