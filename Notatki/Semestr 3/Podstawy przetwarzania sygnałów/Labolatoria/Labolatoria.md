@@ -6,4 +6,7 @@ typ: 'L'
 
 # Labolatoria
 
+
 ## Zaliczenie
+Python
+1 nieobecność
