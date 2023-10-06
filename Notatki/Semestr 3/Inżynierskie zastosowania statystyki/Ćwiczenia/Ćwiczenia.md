@@ -17,5 +17,5 @@ Kolokwia:
 
 Brak obecności (w teorii 1)
 
-Potencjalnie zdalnie
+**Potencjalnie zdalnie**
 
