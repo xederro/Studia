@@ -5,24 +5,24 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"Notatki/Semestr 1\"",
+      "query": "tag:#excalidraw  ",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 0
       }
     },
     {
-      "query": "path:\"Notatki/Semestr 2\"",
+      "query": "path:\"Notatki/Semestr 1\"",
       "color": {
         "a": 1,
         "rgb": 16755200
       }
     },
     {
-      "query": "path:Notatki/Inne",
+      "query": "path:\"Notatki/Semestr 2\"",
       "color": {
         "a": 1,
         "rgb": 11206400
@@ -36,10 +36,17 @@
       }
     },
     {
-      "query": "path:/",
+      "query": "path:Notatki/Inne",
       "color": {
         "a": 1,
         "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:/",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
       }
     }
   ],
@@ -53,6 +60,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.05972632061070629,
-  "close": true
+  "scale": 0.11660891579457311,
+  "close": false
 }
