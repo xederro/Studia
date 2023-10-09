@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5e40edfd303227b4",
+        "id": "63f8a439a36489b0",
         "type": "tabs",
         "children": [
           {
-            "id": "6e53008ad10225f3",
+            "id": "834bed563e268726",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykłady.md",
+                "file": "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykłady.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykłady.md",
+                "file": "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykłady.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykłady.md"
+                "file": "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykłady.md"
               }
             }
           },
@@ -151,10 +151,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6e53008ad10225f3",
+  "active": "834bed563e268726",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 1/NIDUC_w1.pdf",
+    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykłady.md",
+    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 1/NIDUC_w1.pdf.crdownload",
+    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 1",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykłady.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Architektura komputerów 1.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia.md",
@@ -185,13 +190,8 @@
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 1",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Podstawy przetwarzania sygnałów.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Semestr 2/WF-1/WF-1.md",
-    "Notatki/Semestr 2/Semestr 2.md",
-    "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 5/AM2-Wyklad_05.pdf",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 5/Drawing 2023-08-24 09.51.56.excalidraw.svg",
     "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Prostokat_50.jpg",
-    "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 11/w14_2023.pdf",
     "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-01-24 14.02.21.excalidraw.svg",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 23.02.51.excalidraw.svg",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 21.16.23.excalidraw.svg",
@@ -199,7 +199,6 @@
     "Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 11/Drawing 2023-06-27 13.17.34.excalidraw.svg",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-26 15.49.39.excalidraw.svg",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-26 11.50.36.excalidraw.svg",
-    "Notatki/Semestr 2/Fizyka 1.1A/Wykłady/Wykład 9/Notatki do wykładów optyka falowa 2021.pdf",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
 }
