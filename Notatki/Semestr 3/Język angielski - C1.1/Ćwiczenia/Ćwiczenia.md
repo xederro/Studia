@@ -7,3 +7,5 @@ typ: C
 # Ćwiczenia
 
 ## Zaliczenie
+**Tuesday** 1-3 pm H-4 105
+**Thursday** 10-12 am MS Teams
