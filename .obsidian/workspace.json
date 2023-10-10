@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5069465637207
+    "width": 276.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -153,8 +154,9 @@
   },
   "active": "2fcf2e22c7afbba3",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Skillful_Reading_amp_Writing_4_Advanced.pdf",
+    "symbols.pdf",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Skillful_Reading_amp_Writing_4_Advanced.pdf",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 2",
