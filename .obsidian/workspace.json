@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4bded62c1c210cb8",
+        "id": "ab069f70ed8134e9",
         "type": "tabs",
         "children": [
           {
-            "id": "5db7843101d86c4a",
+            "id": "2fcf2e22c7afbba3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
+                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 2/Wykład 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
+                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 2/Wykład 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md"
+                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 2/Wykład 2.md"
               }
             }
           },
@@ -151,15 +151,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5db7843101d86c4a",
+  "active": "2fcf2e22c7afbba3",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Skillful_Reading_amp_Writing_4_Advanced.pdf",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 2",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Labolatoria/Labolatoria.md",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Podstawy przetwarzania sygnałów.md",
+    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Pasted image 20231010141410.png",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Pasted image 20231010141355.png",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Skillful_Reading_amp_Writing_4_Advanced.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 1",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 1/Labolatoria 1.md",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykłady.md",
@@ -173,7 +179,6 @@
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Architektura komputerów 1.md",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 1",
@@ -186,12 +191,7 @@
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 1/Drawing 2023-10-05 15.25.12.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 1/Drawing 2023-10-05 15.25.12.excalidraw.svg",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 1",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 3/Fizyka 3.1/Fizyka 3.1.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 5/Drawing 2023-08-24 09.51.56.excalidraw.svg",
     "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Prostokat_50.jpg",
     "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-01-24 14.02.21.excalidraw.svg",
@@ -199,7 +199,6 @@
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 21.16.23.excalidraw.svg",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-27 16.21.46.excalidraw.svg",
     "Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 11/Drawing 2023-06-27 13.17.34.excalidraw.svg",
-    "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Kolokwium/Drawing 2023-06-26 15.49.39.excalidraw.svg",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
 }
