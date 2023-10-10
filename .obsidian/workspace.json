@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a2743e97811f8985",
+        "id": "60088de173b864ec",
         "type": "tabs",
         "children": [
           {
-            "id": "5687db641eda0087",
+            "id": "27afbb6b3b211b80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
+                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5069465637207
+    "width": 276.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
+                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md"
+                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia.md"
               }
             }
           },
@@ -151,8 +152,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5687db641eda0087",
+  "active": "27afbb6b3b211b80",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 1",
+    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Skillful_Reading_amp_Writing_4_Advanced.pdf",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 1/Labolatoria 1.md",
@@ -188,9 +192,6 @@
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Podstawy telekomunikacji.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 1",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 1",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 5/Drawing 2023-08-24 09.51.56.excalidraw.svg",
     "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Prostokat_50.jpg",
     "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-01-24 14.02.21.excalidraw.svg",
