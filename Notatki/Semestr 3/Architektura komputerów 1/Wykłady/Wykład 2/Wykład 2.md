@@ -1,0 +1,1 @@
+![](Notatki/Semestr%203/Architektura%20komputerów%201/Wykłady/Wykład%202/AK1-2-18-Algorytmy%20i%20konwersje.pdf)

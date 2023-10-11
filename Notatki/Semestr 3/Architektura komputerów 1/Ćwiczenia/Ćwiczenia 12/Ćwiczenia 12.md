@@ -1,0 +1,1 @@
+![](Notatki/Semestr%203/Architektura%20komputerów%201/Ćwiczenia/Ćwiczenia%2012/lista12.pdf)

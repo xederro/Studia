@@ -1,0 +1,1 @@
+![](Notatki/Semestr%203/Architektura%20komputerów%201/Wykłady/Wykład%206/AK1-6-18-FP-2%20+%20NUM.pdf)

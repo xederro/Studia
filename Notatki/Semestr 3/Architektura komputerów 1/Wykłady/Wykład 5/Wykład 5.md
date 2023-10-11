@@ -1,0 +1,1 @@
+![](Notatki/Semestr%203/Architektura%20komputerów%201/Wykłady/Wykład%205/AK1-5-18-Systemy%20resztowe.pdf)

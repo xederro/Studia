@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e4b7c4b5258d1a6f",
+        "id": "cadf0bb068ccc362",
         "type": "tabs",
         "children": [
           {
-            "id": "c814feb860ebb344",
+            "id": "d1bbf569bedc8b31",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 2/Wykład 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5069465637207,
-    "collapsed": true
+    "width": 276.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -106,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 2/Wykład 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 2/Wykład 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,47 +143,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c814feb860ebb344",
+  "active": "d1bbf569bedc8b31",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykłady.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 2",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 1/AK1-1-18-Arytmetyka.pdf",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 0/Wykład 0.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 12/Ćwiczenia 12.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 11/Ćwiczenia 11.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 10/Ćwiczenia 10.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 9/Ćwiczenia 9.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 1/AK1-2-18-Algorytmy i konwersje.pdf",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 0/ak1-cw+wyklad-1.pdf",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 1/AK1-0-19-ARYTMETYKA.pdf",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 0",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 12/lista12.pdf",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 11/lista11.pdf",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 10/lista10.pdf",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 9/lista9.pdf",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 8/lista8.pdf",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/lista7.pdf",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 6/lista6.pdf",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 5/lista5.pdf",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 4/lista4.pdf",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 3/lista3.pdf",
+    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Architektura komputerów 1.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Język angielski - C1.1.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Skillful_Reading_amp_Writing_4_Advanced.pdf",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/SKILLFUL_4_Read&Writing_Sb_Prem_Pk_2nd_Mike_Boyle;_Lindsay_Warwick;.pdf",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 2/Wykład 2.md",
-    "symbols.pdf",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 2",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Podstawy przetwarzania sygnałów.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 5/Wykład 5.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 6/Wykład 6.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 7/Wykład 7.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 8/Wykład 8.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Pasted image 20231010141410.png",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Pasted image 20231010141355.png",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 1/Labolatoria 1.md",
-    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykłady.md",
-    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykłady.md",
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
     "Untitled.canvas",
-    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 1/Drawing 2023-10-05 15.25.12.excalidraw.svg",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 5/Drawing 2023-08-24 09.51.56.excalidraw.svg",
     "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Prostokat_50.jpg",
