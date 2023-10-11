@@ -1,0 +1,1 @@
+![](Notatki/Semestr%203/Architektura%20komputerów%201/Wykłady/Wykład%200/ak1-cw+wyklad-1.pdf)

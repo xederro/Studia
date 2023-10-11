@@ -1,0 +1,1 @@
+![](Notatki/Semestr%203/Architektura%20komputerów%201/Wykłady/Wykład%201/AK1-1-18-Arytmetyka.pdf)
