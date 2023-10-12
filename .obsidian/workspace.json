@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5d97285ef91ab830",
+        "id": "a728fe6cfcec0a2a",
         "type": "tabs",
         "children": [
           {
-            "id": "b4d5252f8c62bb4c",
+            "id": "5b93c606a019ab2f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/Drawing 2023-10-12 17.04.46.excalidraw.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -67,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5069465637207,
-    "collapsed": true
+    "width": 402.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -103,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/Drawing 2023-10-12 17.04.46.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/Drawing 2023-10-12 17.04.46.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -149,7 +143,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b4d5252f8c62bb4c",
+  "active": "5b93c606a019ab2f",
   "lastOpenFiles": [
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/Drawing 2023-10-12 17.04.46.excalidraw.md",
