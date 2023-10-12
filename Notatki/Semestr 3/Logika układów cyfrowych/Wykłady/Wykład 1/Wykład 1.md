@@ -1,0 +1,1 @@
+![](Notatki/Semestr%203/Logika%20układów%20cyfrowych/Wykłady/Wykład%201/Drawing%202023-10-12%2017.04.46.excalidraw.svg)
