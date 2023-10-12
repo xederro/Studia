@@ -1,0 +1,1 @@
+![](Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%201/Drawing%202023-10-12%2013.20.01.excalidraw.svg)

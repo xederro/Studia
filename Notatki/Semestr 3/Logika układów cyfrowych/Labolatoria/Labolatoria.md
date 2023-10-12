@@ -5,6 +5,7 @@ typ: 'L'
 ---
 
 # Labolatoria
+1. [Labolatoria 1](Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%201/Labolatoria%201.md)
 
 ## Zaliczenie
 [Http://staff.iiar.pwr.wisc.pl/dariusz.banasiak](http://staff.iiar.pwr.wisc.pl/dariusz.banasiak)  
