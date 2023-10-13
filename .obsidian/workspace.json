@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "259e3cfff62960c4",
+        "id": "c46f73864ec5b6dc",
         "type": "tabs",
         "children": [
           {
-            "id": "4c6a4926a7320dba",
+            "id": "c899442a43574499",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 1/Drawing 2023-10-12 15.31.03.excalidraw.md"
+                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/SKILLFUL_4_Read&Writing_Sb_Prem_Pk_2nd_Mike_Boyle;_Lindsay_Warwick;.pdf"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 1/Drawing 2023-10-12 15.31.03.excalidraw.md",
+                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/SKILLFUL_4_Read&Writing_Sb_Prem_Pk_2nd_Mike_Boyle;_Lindsay_Warwick;.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 1/Drawing 2023-10-12 15.31.03.excalidraw.md"
+                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/SKILLFUL_4_Read&Writing_Sb_Prem_Pk_2nd_Mike_Boyle;_Lindsay_Warwick;.pdf"
               }
             }
           },
@@ -149,13 +149,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4c6a4926a7320dba",
+  "active": "c899442a43574499",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 1/Drawing 2023-10-12 15.31.03.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 1/Pasted Image 20231013094734_822.png",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 0/Wykład 0.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 0/Drawing 2023-10-13 09.32.10.excalidraw.svg",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 0/Drawing 2023-10-13 09.32.10.excalidraw.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 1/Drawing 2023-10-12 15.31.03.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-12 13.20.01.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/Drawing 2023-10-12 17.04.46.excalidraw.md",
@@ -197,7 +197,6 @@
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 1/Drawing 2023-10-05 15.25.12.excalidraw.svg",
     "Notatki/Semestr 2/Analiza matematyczna 2.3A/Wykłady/Wykład 5/Drawing 2023-08-24 09.51.56.excalidraw.svg",
     "Notatki/Semestr 1/Miernictwo w informatyce i telekomunikacji/Wykłady/Wykład 8/Prostokat_50.jpg",
-    "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Kolokwium/Drawing 2023-01-24 14.02.21.excalidraw.svg",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
 }
