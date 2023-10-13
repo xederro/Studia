@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a728fe6cfcec0a2a",
+        "id": "bf55c66f5a8509f9",
         "type": "tabs",
         "children": [
           {
-            "id": "5b93c606a019ab2f",
+            "id": "fd5d953d1f2c147c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-12 13.20.01.excalidraw.md"
+              }
             }
           }
         ]
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-12 13.20.01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-12 13.20.01.excalidraw.md"
+              }
             }
           },
           {
@@ -143,7 +148,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5b93c606a019ab2f",
+  "active": "fd5d953d1f2c147c",
   "lastOpenFiles": [
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/Drawing 2023-10-12 17.04.46.excalidraw.md",
