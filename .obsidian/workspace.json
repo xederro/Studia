@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "04e29de6e9e5b41e",
+        "id": "4ebc47f2291a9f22",
         "type": "tabs",
         "children": [
           {
-            "id": "f9cd629c28f26d45",
+            "id": "90fe232e6093f9dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 1/Drawing 2023-10-16 10.07.55.excalidraw.md"
+                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -67,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5069465637207
+    "width": 305.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -102,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 1/Drawing 2023-10-16 10.07.55.excalidraw.md",
+                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 1/Drawing 2023-10-16 10.07.55.excalidraw.md"
+                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md"
               }
             }
           },
@@ -148,12 +152,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f9cd629c28f26d45",
+  "active": "90fe232e6093f9dc",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
+    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia 1",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 1/Drawing 2023-10-16 10.07.55.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 1/lista1.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 1/Drawing 2023-10-16 10.07.55.excalidraw.svg",
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 1/Drawing 2023-10-16 10.07.55.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/rysunki.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/rozwiazania.pdf",
     "README.md",
@@ -191,7 +197,6 @@
     "Notatki/Semestr 2/Miernictwo w informatyce i telekomunikacji 2/Labolatoria/Labolatoria 0/Labolatoria 0.md",
     "Notatki/Semestr 2/Miernictwo w informatyce i telekomunikacji 2/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 12/lista12.pdf",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Pasted image 20231010141410.png",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Pasted image 20231010141355.png",
     "Untitled.canvas",
