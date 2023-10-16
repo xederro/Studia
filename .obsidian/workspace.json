@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4ebc47f2291a9f22",
+        "id": "1f42299a83375de6",
         "type": "tabs",
         "children": [
           {
-            "id": "90fe232e6093f9dc",
+            "id": "8d94eb980dc24809",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 1/Drawing 2023-10-16 10.07.55.excalidraw.md"
               }
             }
           }
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
+                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 1/Drawing 2023-10-16 10.07.55.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md"
+                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 1/Drawing 2023-10-16 10.07.55.excalidraw.md"
               }
             }
           },
@@ -152,7 +149,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90fe232e6093f9dc",
+  "active": "8d94eb980dc24809",
   "lastOpenFiles": [
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia 1",
