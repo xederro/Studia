@@ -11,9 +11,12 @@
             "id": "b78d5ccbf83c3b36",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Pasted image 20231010141355.png"
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Labolatoria 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Pasted image 20231010141355.png",
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Labolatoria 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Pasted image 20231010141355.png"
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Labolatoria 1.md"
               }
             }
           },
@@ -148,10 +151,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "671d26171d29a68e",
+  "active": "b78d5ccbf83c3b36",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/The Elder Scrolls.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-13 19.56.37.excalidraw.svg",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-13 19.56.37.excalidraw.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Labolatoria 1.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Pasted image 20231010141355.png",
+    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/The Elder Scrolls.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Pasted image 20231010141410.png",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/AI reads text from ancient Herculaneum scroll for the first time.pdf",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
@@ -169,7 +175,6 @@
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 1/Pasted Image 20231013094734_822.png",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Labolatoria 1.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-16 21.36.31.excalidraw.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md",
@@ -184,8 +189,6 @@
     "CONTRIBUTING.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-12 13.20.01.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-12 13.20.01.excalidraw.svg",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-13 19.56.37.excalidraw.svg",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-13 19.56.37.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Untitled.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 1/Drawing 2023-10-12 15.31.03.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 0/Wykład 0.md",
