@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "470ef3327adba607",
+        "id": "b039b11350f27e83",
         "type": "tabs",
         "children": [
           {
-            "id": "b78d5ccbf83c3b36",
+            "id": "206c0d8e05c23453",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 1/AK1-1-18-Arytmetyka.pdf"
+              }
             }
           }
         ]
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 1/AK1-1-18-Arytmetyka.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 1/AK1-1-18-Arytmetyka.pdf"
+              }
             }
           },
           {
@@ -143,8 +148,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b78d5ccbf83c3b36",
+  "active": "671d26171d29a68e",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 1/Drawing 2023-10-18 15.17.15.excalidraw.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 1/Drawing 2023-10-18 15.17.15.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Labolatoria 1.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-13 19.56.37.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-13 19.56.37.excalidraw.md",
@@ -187,9 +194,7 @@
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 0/Drawing 2023-10-13 09.32.10.excalidraw.svg",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 0/Drawing 2023-10-13 09.32.10.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/Drawing 2023-10-12 17.04.46.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/Drawing 2023-10-12 17.04.46.excalidraw.svg",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 1/Drawing 2023-10-12 15.31.03.excalidraw.svg",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
