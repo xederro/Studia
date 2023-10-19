@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7dbec032e1b06f97",
+        "id": "21e5197a66d9cd5f",
         "type": "tabs",
         "children": [
           {
-            "id": "3f7739709f2cc371",
+            "id": "c20cfb8d8bb4a48d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 2/Drawing 2023-10-19 15.18.22.excalidraw.md"
+                "file": "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 1/Wykład 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -103,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 2/Drawing 2023-10-19 15.18.22.excalidraw.md",
+                "file": "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 1/Wykład 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 2/Drawing 2023-10-19 15.18.22.excalidraw.md"
+                "file": "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 1/Wykład 1.md"
               }
             }
           },
@@ -149,13 +152,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "671d26171d29a68e",
+  "active": "c20cfb8d8bb4a48d",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 1/Wyk01-jdk-ide-TK.pdf",
+    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 1/Wyk01-jdk-ide-TK.pdf.crdownload",
+    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykłady.md",
+    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 2/Wyk02-jvm-klasy-modyfikatory-TK.pdf",
+    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 2/Wyk02-jvm-klasy-modyfikatory-TK.pdf.crdownload",
+    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 2",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 2/Drawing 2023-10-19 15.18.22.excalidraw.svg",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 2/Drawing 2023-10-19 15.18.22.excalidraw.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykłady.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 1/Drawing 2023-10-05 15.25.12.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 1/Drawing 2023-10-05 15.25.12.excalidraw.svg",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 2/Drawing 2023-10-19 15.18.22.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 2",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Labolatoria 1.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-13 19.56.37.excalidraw.svg",
@@ -179,10 +190,6 @@
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/From damage to discovery via virtual unwrapping.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/From damage to discovery via virtual unwrapping.pdf",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/C1.1 Portfolio_Instruction.pdf",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/AI/sciadv.1601247.pdf.crdownload",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/Nowy folder",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/C1.1 Portfolio_rubrics.pdf",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 1/Pasted Image 20231013094734_822.png",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-16 21.36.31.excalidraw.md",
@@ -192,9 +199,6 @@
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 1/Drawing 2023-10-16 10.07.55.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 1/Drawing 2023-10-16 10.07.55.excalidraw.svg",
-    "README.md",
-    "CODE_OF_CONDUCT.md",
-    "LICENSE.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-12 13.20.01.excalidraw.svg",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
