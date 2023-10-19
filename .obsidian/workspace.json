@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "87eeaa0c95ce89bf",
+        "id": "f63032979ea3e25c",
         "type": "tabs",
         "children": [
           {
-            "id": "908f0f525f01b60d",
+            "id": "355bc2947eea5d6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 3/Wykład 3.md",
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Labolatoria 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5069465637207,
-    "collapsed": true
+    "width": 305.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 3/Wykład 3.md",
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Labolatoria 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 3/Wykład 3.md"
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Labolatoria 1.md"
               }
             }
           },
@@ -152,10 +151,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "908f0f525f01b60d",
+  "active": "355bc2947eea5d6a",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-13 19.56.37.excalidraw.svg",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-13 19.56.37.excalidraw.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 3",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 3/Wykład 3.md",
@@ -164,8 +165,6 @@
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 1/AK1-1-18-Arytmetyka.pdf",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Labolatoria 1.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-13 19.56.37.excalidraw.svg",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-13 19.56.37.excalidraw.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Pasted image 20231010141355.png",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/The Elder Scrolls.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Pasted image 20231010141410.png",
@@ -197,7 +196,6 @@
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-12 13.20.01.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-12 13.20.01.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Untitled.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 1/Drawing 2023-10-12 15.31.03.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 0/Drawing 2023-10-13 09.32.10.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/Drawing 2023-10-12 17.04.46.excalidraw.svg",
     "Untitled.canvas",
