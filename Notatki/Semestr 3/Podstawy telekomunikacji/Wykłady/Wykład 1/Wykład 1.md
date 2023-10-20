@@ -1,3 +1,4 @@
+![](Notatki/Semestr%203/Podstawy%20telekomunikacji/Wykłady/Wykład%201/intro.pdf)
 # Telekomunikacja
 komunikacja na odległość, jest dziedziną regulowaną (dla kompatybilności, )
 

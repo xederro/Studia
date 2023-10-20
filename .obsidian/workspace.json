@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "21e5197a66d9cd5f",
+        "id": "4ec2f014822d5e48",
         "type": "tabs",
         "children": [
           {
-            "id": "c20cfb8d8bb4a48d",
+            "id": "dfd5e6c4dcb94a93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 1/Wykład 1.md",
+                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Labolatoria/Labolatoria 1/Labolatoria 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5069465637207,
-    "collapsed": true
+    "width": 305.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 1/Wykład 1.md",
+                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Labolatoria/Labolatoria 1/Labolatoria 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 1/Wykład 1.md"
+                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Labolatoria/Labolatoria 1/Labolatoria 1.md"
               }
             }
           },
@@ -152,8 +151,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c20cfb8d8bb4a48d",
+  "active": "dfd5e6c4dcb94a93",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Labolatoria/Labolatoria.md",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Labolatoria/Labolatoria 1/Labolatoria 1.md",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 1/Wyk01-jdk-ide-TK.pdf",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 1/Wyk01-jdk-ide-TK.pdf.crdownload",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 2/Wykład 2.md",
@@ -175,7 +179,6 @@
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 3",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 1/Drawing 2023-10-18 15.17.15.excalidraw.svg",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 1/Drawing 2023-10-18 15.17.15.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 1/Wykład 1.md",
@@ -189,15 +192,11 @@
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/Portfolio.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/From damage to discovery via virtual unwrapping.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/From damage to discovery via virtual unwrapping.pdf",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/C1.1 Portfolio_Instruction.pdf",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 1/Pasted Image 20231013094734_822.png",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-16 21.36.31.excalidraw.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-16 21.36.31.excalidraw.svg",
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 1/Drawing 2023-10-16 10.07.55.excalidraw.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 1/Drawing 2023-10-16 10.07.55.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-12 13.20.01.excalidraw.svg",
     "Untitled.canvas",
