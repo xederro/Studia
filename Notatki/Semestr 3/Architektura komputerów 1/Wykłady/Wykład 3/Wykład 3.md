@@ -1,1 +1,1 @@
-![](Notatki/Semestr%203/Architektura%20komputerów%201/Wykłady/Wykład%203/AK1-3-18-Dodawanie%20i%20mnozenie.pdf)
+![](/Notatki/Semestr%203/Architektura%20komputerów%201/Wykłady/Wykład%203/AK1-3-18-Dodawanie%20i%20mnozenie.pdf)

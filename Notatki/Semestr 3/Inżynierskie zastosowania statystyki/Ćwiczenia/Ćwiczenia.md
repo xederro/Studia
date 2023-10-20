@@ -5,7 +5,7 @@ typ: 'C'
 ---
 
 # Ćwiczenia
-1. [Ćwiczenia 1](Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Ćwiczenia/Ćwiczenia%201/Ćwiczenia%201.md)
+1. [Ćwiczenia 1](/Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Ćwiczenia/Ćwiczenia%201/Ćwiczenia%201.md)
 
 ## Zaliczenie
 Pokój: P1.8 c-16

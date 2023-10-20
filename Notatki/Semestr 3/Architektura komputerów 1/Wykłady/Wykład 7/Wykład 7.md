@@ -1,1 +1,1 @@
-![](Notatki/Semestr%203/Architektura%20komputerów%201/Wykłady/Wykład%207/AK1-7-18%20Szybkie%20sumatory.pdf)
+![](/Notatki/Semestr%203/Architektura%20komputerów%201/Wykłady/Wykład%207/AK1-7-18%20Szybkie%20sumatory.pdf)

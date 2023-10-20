@@ -1,1 +1,1 @@
-![](Notatki/Semestr%203/Architektura%20komputerów%201/Wykłady/Wykład%208/AK1-8-18-Sumatory%20CSA%20i%20multyplikatory.pdf)
+![](/Notatki/Semestr%203/Architektura%20komputerów%201/Wykłady/Wykład%208/AK1-8-18-Sumatory%20CSA%20i%20multyplikatory.pdf)

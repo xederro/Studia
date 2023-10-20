@@ -1,1 +1,1 @@
-![](Notatki/Semestr%203/Architektura%20komputerów%201/Ćwiczenia/Ćwiczenia%202/lista2.pdf)
+![](/Notatki/Semestr%203/Architektura%20komputerów%201/Ćwiczenia/Ćwiczenia%202/lista2.pdf)
