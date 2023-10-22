@@ -4,34 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "75d21e04f162fc78",
+        "id": "c9a2c9a33a58a762",
         "type": "tabs",
         "children": [
           {
-            "id": "e0fd8a639894bd4c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-13 19.56.37.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "b895e29b2beafe87",
+            "id": "84ae7fe18467dd67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria.md",
+                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5069465637207,
-    "collapsed": true
+    "width": 305.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -117,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria.md",
+                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria.md"
+                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md"
               }
             }
           },
@@ -163,8 +151,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b895e29b2beafe87",
+  "active": "84ae7fe18467dd67",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 2/lista2.pdf",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/rozwiazania.pdf",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 2/Drawing 2023-10-22 12.34.36.excalidraw.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 2/Drawing 2023-10-22 12.34.36.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-13 19.56.37.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykłady.md",
@@ -189,8 +181,6 @@
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 11/Ćwiczenia 11.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 12/Ćwiczenia 12.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 0/Wykład 0.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 1/Wyk01-jdk-ide-TK.pdf",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 1/Wyk01-jdk-ide-TK.pdf.crdownload",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 2/Wyk02-jvm-klasy-modyfikatory-TK.pdf",
@@ -205,12 +195,9 @@
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 1/AK1-1-18-Arytmetyka.pdf",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Pasted image 20231010141355.png",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Pasted image 20231010141410.png",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/AI reads text from ancient Herculaneum scroll for the first time.pdf",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/From damage to discovery via virtual unwrapping.pdf",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 1/Pasted Image 20231013094734_822.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-16 21.36.31.excalidraw.svg",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 1/Drawing 2023-10-16 10.07.55.excalidraw.svg",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-12 13.20.01.excalidraw.svg",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
