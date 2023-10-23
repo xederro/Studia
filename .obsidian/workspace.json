@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c07466d35eba2f44",
+        "id": "4602ac154d6734b1",
         "type": "tabs",
         "children": [
           {
-            "id": "1f2ad0d3f02a719d",
+            "id": "0bf30464ea919cff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 3/Wykład 3.md",
+                "file": "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 2/Labolatoria 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 3/Wykład 3.md",
+                "file": "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 2/Labolatoria 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 3/Wykład 3.md"
+                "file": "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 2/Labolatoria 2.md"
               }
             }
           },
@@ -152,10 +152,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f2ad0d3f02a719d",
+  "active": "0bf30464ea919cff",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykłady.md",
+    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 2/Labolatoria 2.md",
+    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 2",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 3",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 1/Wykład 1.md",
@@ -185,12 +187,10 @@
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 9/Ćwiczenia 9.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 10/Ćwiczenia 10.md",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 1/Wyk01-jdk-ide-TK.pdf",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 1/Wyk01-jdk-ide-TK.pdf.crdownload",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 2/Wyk02-jvm-klasy-modyfikatory-TK.pdf",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 2/Wyk02-jvm-klasy-modyfikatory-TK.pdf.crdownload",
-    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 2",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 2/Drawing 2023-10-19 15.18.22.excalidraw.svg",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 1/Drawing 2023-10-05 15.25.12.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 1/Drawing 2023-10-13 19.56.37.excalidraw.svg",
