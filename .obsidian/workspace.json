@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md",
+                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5069465637207
+    "width": 305.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md",
+                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md"
+                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md"
               }
             }
           },
@@ -153,11 +154,11 @@
   },
   "active": "8ce13a1897181937",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wyklad - Cyfrowe Przetwarzanie Sygnalow.pdf",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wyklad - Cyfrowe Przetwarzanie Sygnalow.pdf.crdownload",
     "Notatki/Semestr 1/Filozofia/Wykłady/Wykład 6/Wykład 6.md",
