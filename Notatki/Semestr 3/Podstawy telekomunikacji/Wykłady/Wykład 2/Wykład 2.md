@@ -1,3 +1,5 @@
+![](/Notatki/Semestr%203/Podstawy%20telekomunikacji/Wykłady/Wykład%202/PT%20-%20wykład%20nr%202%20(SK).pdf)
+hasło: ETEW00004
 # Systemy telekomunikacji
 
 Źródło wiadomości -> Nadajnik -> Medium transmisyjne -> Odbiornik -> Odbiorca wiadomości

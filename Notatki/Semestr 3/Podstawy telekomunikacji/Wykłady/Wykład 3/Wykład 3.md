@@ -1,3 +1,5 @@
+![](/Notatki/Semestr%203/Podstawy%20telekomunikacji/Wykłady/Wykład%203/PT%20-%20wykład%20nr%203%20(SK).pdf)
+hasło: ETEW00004
 ## Sygnał
 
 **informacja** - jakaś treść
