@@ -21,3 +21,10 @@ można przynosić notatki
 będzie karta wzorów
 \>50%
 40% z wykładu 60% z ćwiczeń z czego obie pozytywne
+
+
+
+![](/Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Wykłady/rozklad%20FSnedecora%20v1v2.pdf)
+![](/Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Wykłady/rozklad%20tstudenta.pdf)
+![](/Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Wykłady/rozkład%20chi^2.pdf)
+![](/Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Wykłady/rozkład%20normalny.pdf)
