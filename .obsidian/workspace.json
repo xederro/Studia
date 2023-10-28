@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d6105cddfec6e7f6",
+        "id": "59275ebda44ff13a",
         "type": "tabs",
         "children": [
           {
-            "id": "bf43bdb0db288b06",
+            "id": "dca3b5dd8c626061",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -105,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,8 +143,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bf43bdb0db288b06",
+  "active": "dca3b5dd8c626061",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Drawing 2023-10-27 09.01.32.excalidraw.md",
