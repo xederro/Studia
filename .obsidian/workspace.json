@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b0bc7411f1d8226c",
+        "id": "0feb9e3543a4f3d8",
         "type": "tabs",
         "children": [
           {
-            "id": "4985d20ccbe5a4b1",
+            "id": "6636d9793f3cde7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
+                "file": "bin/bin.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
+                "file": "bin/bin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md"
+                "file": "bin/bin.md"
               }
             }
           },
@@ -151,54 +151,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4985d20ccbe5a4b1",
+  "active": "6636d9793f3cde7f",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Architektura komputerów 1.md",
-    "Notatki/Semestr 3/Semestr 3.md",
-    "Notatki/Semestr 1/Semestr 1.md",
-    "bin/AbsolutePathReplacer.exe",
-    "bin/main.exe",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Drawing 2023-10-27 09.01.32.excalidraw.md",
+    "bin/bin.md",
+    "bin/Semestr 4.csv",
+    "bin/SSC.exe",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 9/Labolatorium 9.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 8/Labolatorium 8.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 7/Labolatorium 7.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 6/Labolatorium 6.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 5/Labolatorium 5.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 2/Labolatorium 2.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 4/Labolatorium 4.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 3/Labolatorium 3.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 14/Labolatorium 14.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 13/Labolatorium 13.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 15/Labolatorium 15.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 12/Labolatorium 12.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 10/Labolatorium 10.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 1/Labolatorium 1.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 11/Labolatorium 11.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 6/Wykład 6.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 7/Wykład 7.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 5/Wykład 5.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 9",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 8",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 7",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 6",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 5",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 4",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 2",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 3",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatoria.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykłady.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Urządzenia peryferyjne.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027101054_943.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027100252_966.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027100152_975.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027100152_953.png",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Drawing 2023-10-26 13.19.15.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027094837_067.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027094837_038.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027094135_999.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027093635_981.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027093133_946.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027092205_937.png",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 1/Labolatoria 1.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 1/lab01_pop.jar",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 2/lab01_pop.jar",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/lab01_pop.jar",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 2/Labolatoria 2.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/LUC w2.pdf",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykłady.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/rozklad tstudenta.pdf",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Labolatoria 2.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykłady.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 2/Drawing 2023-10-26 17.08.02.excalidraw.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 2",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 3/Drawing 2023-10-26 15.14.50.excalidraw.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Inżynierskie zastosowania statystyki.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 3",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
