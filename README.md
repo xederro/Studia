@@ -36,6 +36,10 @@ dv.header(3, "Studia: " + (sum/(30*semestrCount)).toFixed(3));
 ```
 
 ## Przydatne
+
+>[!Utils]
+>[bin](bin/bin.md)
+
 >[!info]
 >![Sylabus](Sylabus.pdf)
 

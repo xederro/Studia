@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0feb9e3543a4f3d8",
+        "id": "63e3182dd0c55a47",
         "type": "tabs",
         "children": [
           {
-            "id": "6636d9793f3cde7f",
+            "id": "a0d626603a658845",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bin/bin.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bin/bin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "bin/bin.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,44 +143,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6636d9793f3cde7f",
+  "active": "a0d626603a658845",
   "lastOpenFiles": [
     "bin/bin.md",
-    "bin/Semestr 4.csv",
-    "bin/SSC.exe",
+    "README.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 7/Wykład 7.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 6/Wykład 6.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 5/Wykład 5.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 9/Labolatorium 9.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 8/Labolatorium 8.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 7/Labolatorium 7.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 6/Labolatorium 6.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 5/Labolatorium 5.md",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 2/Labolatorium 2.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 4/Labolatorium 4.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 3/Labolatorium 3.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 2/Labolatorium 2.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 15/Labolatorium 15.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 14/Labolatorium 14.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 13/Labolatorium 13.md",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 15/Labolatorium 15.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 12/Labolatorium 12.md",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 10/Labolatorium 10.md",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 1/Labolatorium 1.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 11/Labolatorium 11.md",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 10/Labolatorium 10.md",
+    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 9/Wykład 9.md",
+    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 8/Wykład 8.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 1/Labolatorium 1.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 7",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 6",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 5",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 4",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 3",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 2",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 1",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 9",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 8",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 7",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 6",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 5",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 4",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 2",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 3",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykłady.md",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Urządzenia peryferyjne.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027101054_943.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027100252_966.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027100152_975.png",
