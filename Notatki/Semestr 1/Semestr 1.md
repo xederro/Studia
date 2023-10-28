@@ -7,5 +7,5 @@
 6. [Podstawy programowania](/Notatki/Semestr%201/Podstawy%20programowania/Podstawy%20programowania.md) 
 7. [Technologie informacyjne](/Notatki/Semestr%201/Technologie%20informacyjne/Technologie%20informacyjne.md) 
 8. [Własność intelektualna i prawo autorskie](/Notatki/Semestr%201/W%C5%82asno%C5%9B%C4%87%20intelektualna%20i%20prawo%20autorskie/W%C5%82asno%C5%9B%C4%87%20intelektualna%20i%20prawo%20autorskie.md)  
-9. [BHP](/Notatki/Semestr%201/BHP/BHP.md)
+9. [BHP](Notatki/Semestr%201/BHP/BHP.md)
 

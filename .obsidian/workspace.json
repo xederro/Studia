@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "59275ebda44ff13a",
+        "id": "b0bc7411f1d8226c",
         "type": "tabs",
         "children": [
           {
-            "id": "dca3b5dd8c626061",
+            "id": "4985d20ccbe5a4b1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Semestr 1/Semestr 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -100,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Semestr 1/Semestr 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 1/Semestr 1.md"
+              }
             }
           },
           {
@@ -143,8 +151,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dca3b5dd8c626061",
+  "active": "4985d20ccbe5a4b1",
   "lastOpenFiles": [
+    "bin/AbsolutePathReplacer.exe",
+    "bin/main.exe",
+    "Notatki/Semestr 1/Semestr 1.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Ćwiczenia 2.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia.md",
@@ -188,9 +199,6 @@
     "Notatki/Semestr 3/Semestr 3.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 4/Drawing 2023-10-25 17.54.25.excalidraw.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 4/Drawing 2023-10-25 17.17.44.excalidraw.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 4/PT - wykład nr 4b (PS).pdf.crdownload",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 4/Drawing 2023-10-25 17.11.52.excalidraw.md",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
