@@ -13,6 +13,9 @@ Fix broken absolute paths (runs on before commit):
 ---
 Create study structure:
 
+CSV file structure:
+Nazwa;godz.Wykładów;godz.Ćwiczeń;godz.Labolatoriów;godz.Projektu;godz.Seminarium;ECTS
+
 -in
 	path to csv file
 -out
