@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Architektura komputerów 1.md",
+                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Architektura komputerów 1.md",
+                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Architektura komputerów 1.md"
+                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md"
               }
             }
           },
@@ -153,8 +153,9 @@
   },
   "active": "4985d20ccbe5a4b1",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Semestr 3.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Architektura komputerów 1.md",
+    "Notatki/Semestr 3/Semestr 3.md",
     "Notatki/Semestr 1/Semestr 1.md",
     "bin/AbsolutePathReplacer.exe",
     "bin/main.exe",
@@ -198,7 +199,6 @@
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 3/Drawing 2023-10-26 15.14.50.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Inżynierskie zastosowania statystyki.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 3",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 4/Drawing 2023-10-25 17.54.25.excalidraw.md",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
