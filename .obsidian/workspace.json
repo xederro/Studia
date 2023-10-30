@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "52d5a59e765b5842",
+        "id": "ea0ed11e690fedc3",
         "type": "tabs",
         "children": [
           {
-            "id": "0c0c3a8ee98f7d85",
+            "id": "f2364d198f8ff137",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 2/Wykład 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5069465637207
+    "width": 403.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -105,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 2/Wykład 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 2/Wykład 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,10 +143,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0c0c3a8ee98f7d85",
+  "active": "f2364d198f8ff137",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027094135_999.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Drawing 2023-10-27 09.01.32.excalidraw.md",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 2/Pasted image 20231030075748.png",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 1/Wykład 1.md",
     "bin/bin.md",
@@ -178,7 +172,6 @@
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 14/Labolatorium 14.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 13/Labolatorium 13.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 12/Labolatorium 12.md",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 11/Labolatorium 11.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 7",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 6",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 5",
@@ -195,7 +188,6 @@
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027100152_953.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027094837_067.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027094837_038.png",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027094135_999.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027093635_981.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027093133_946.png",
     "Untitled.canvas",
