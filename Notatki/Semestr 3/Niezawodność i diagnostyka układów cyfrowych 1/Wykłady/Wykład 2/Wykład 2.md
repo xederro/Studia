@@ -20,7 +20,7 @@ f(t) - gęstość rozkłądu
 		   $\lambda(t)=e^{-\int_0^t\lambda(u)du}$
 		   dla $\lambda(t)=\lambda$ - nie zależy od t, funkcja niezawodności dla rozkładu wykładniczego rozkładu wykładniczego -> rozkład bez pamięci, taki element się nie starzeje,
 		   W praktyce często rozkład ma intensywność uszkodzeń w kształcie bathtub curve
-		   ![](Notatki/Semestr%203/Niezawodność%20i%20diagnostyka%20układów%20cyfrowych%201/Wykłady/Wykład%202/Pasted%20image%2020231030075748.png)
+		   ![](/Notatki/Semestr%203/Niezawodność%20i%20diagnostyka%20układów%20cyfrowych%201/Wykłady/Wykład%202/Pasted%20image%2020231030075748.png)
 		3. Średni czas życia
 		   $T_{FF} = E(T) = \int_0^\infty tf(t)dt = \int_0^\infty R(t)dt$ 
 		   Dla rozkładu wykładniczego $T_{FF} = \frac{1}{\lambda}$ 
