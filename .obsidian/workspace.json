@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "930aba207b2ac44e",
+        "id": "60ec74335b89d6b8",
         "type": "tabs",
         "children": [
           {
-            "id": "7b63eb312be9a1c5",
+            "id": "30f9bb1eca6ff811",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 2/Drawing 2023-10-22 12.34.36.excalidraw.md"
+                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -103,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 2/Drawing 2023-10-22 12.34.36.excalidraw.md",
+                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 2/Drawing 2023-10-22 12.34.36.excalidraw.md"
+                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md"
               }
             }
           },
@@ -149,8 +152,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b63eb312be9a1c5",
+  "active": "30f9bb1eca6ff811",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 2/Drawing 2023-10-22 12.34.36.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 3/Drawing 2023-10-30 13.12.27.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/AK1-2-18-Algorytmy i konwersje.pdf",
