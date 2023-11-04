@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cde4805475661d47",
+        "id": "1f729ddd0a03b913",
         "type": "tabs",
         "children": [
           {
-            "id": "acfc2f1eb80b49fe",
+            "id": "833e643c2e29ce18",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Drawing 2023-10-26 13.19.15.excalidraw.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Drawing 2023-10-26 13.19.15.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Drawing 2023-10-26 13.19.15.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,16 +143,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "acfc2f1eb80b49fe",
+  "active": "833e643c2e29ce18",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Labolatoria 2.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Drawing 2023-11-02 18.28.39.excalidraw.svg",
+    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 2/Labolatoria 2.md",
+    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 2/lab02_pop.jar",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/lab02.circ",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Drawing 2023-10-26 13.19.15.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Drawing 2023-10-26 13.19.15.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Drawing 2023-11-01 18.21.55.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Drawing 2023-11-02 18.28.39.excalidraw.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Drawing 2023-11-02 18.28.39.excalidraw.svg",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 2/Labolatoria 2.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Labolatoria 2.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Drawing 2023-11-01 18.21.55.excalidraw.svg",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Drawing 2023-10-26 13.19.15.excalidraw.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 2/Drawing 2023-10-22 12.34.36.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 3/Drawing 2023-10-30 13.12.27.excalidraw.md",
@@ -189,13 +186,10 @@
     "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 5",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 4",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 3",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 2",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 1",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027101054_943.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027100252_966.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027100152_975.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027100152_953.png",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027094837_067.png",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]

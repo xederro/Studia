@@ -1,2 +1,3 @@
+[lab02](Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%202/lab02.circ)
 ![](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%202/Drawing%202023-10-26%2013.19.15.excalidraw.svg)
-![](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%202/Drawing%202023-11-01%2018.21.55.excalidraw.svg)
+![](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%202/Drawing%202023-11-01%2018.21.55.excalidraw.svg)[Drawing 2023-11-02 18.28.39.excalidraw](Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%202/Drawing%202023-11-02%2018.28.39.excalidraw.svg)

@@ -1,3 +1,4 @@
+[lab02_pop](Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%202/lab02_pop.jar)
 Brute force można, heurystyczna, monte carlo,
 kombinacje i permutacje, kombinacje różnych ustawień
 
