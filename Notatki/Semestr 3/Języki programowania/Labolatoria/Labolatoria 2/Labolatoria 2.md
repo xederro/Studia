@@ -1,4 +1,4 @@
-[lab02_pop](Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%202/lab02_pop.jar)
+[lab02_pop](/Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%202/lab02_pop.jar)
 Brute force można, heurystyczna, monte carlo,
 kombinacje i permutacje, kombinacje różnych ustawień
 
@@ -36,7 +36,6 @@ Ponieważ uczestnicy wyjazdu nie zabierają ze sobą własnego sprzętu, wystąp
 - różnicę między długościami nart zadeklarowanych w preferencjach a długościami nart przydzielonych,
 - różnicę między rodzajem nart zadeklarowanych w preferencjach a rodzajem nart przydzielonych,
 - liczbę osób, którym nart nie przydzielono,
-- sumaryczny koszt wypożyczenia.
 
 Przedstawiony problem należy do problemów kombinatorycznych. Takie problemy można rozwiązywać dokonując przeglądu zupełnego przestrzeni rozwiązań (generując wszystkie możliwe scenariusze przydzielenia nart, a następnie sprawdzając, który z nich daje najlepszy wynik względem zdefiniowanego kryterium) bądź też stosując metody heurystyczne (bazujące na jakiejś wiedzy i sensownych założeniach). Zwykle kryteria formułowane są z uwzględnieniem jakiejś nagrody badź kary (odpowiednio do zbliżania się do lub oddalania się od celu optymalizacyjnego). Proszę zastanowić się, jak zdefiniować kryterium optymalizacji, a następnie, jak zaimplementować algorytm je wykorzystujący. Program, który powstanie, powinien pozwalać na wskazanie pliku danych do załadowania (z listą uczestników, ich preferencjmi oraz zniżkami). Powinien też być napisany w sposób obiektowy (z rozdzieleniem interfejsu użytkownika od części obliczeniowej). Pozostałe szczegóły mają być zgodne z ustaleniami poczynionymi na początku zajęć.
 
