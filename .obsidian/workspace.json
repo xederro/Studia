@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1f729ddd0a03b913",
+        "id": "12ffb8123c10fdef",
         "type": "tabs",
         "children": [
           {
-            "id": "833e643c2e29ce18",
+            "id": "8e6cf46379611589",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 2/Labolatoria 2.md",
+                "file": "bin/bin.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 2/Labolatoria 2.md",
+                "file": "bin/bin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 2/Labolatoria 2.md"
+                "file": "bin/bin.md"
               }
             }
           },
@@ -151,12 +151,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "671d26171d29a68e",
+  "active": "8e6cf46379611589",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 2/Labolatoria 2.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 2/lab02_pop.jar",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Labolatoria 2.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Drawing 2023-11-02 18.28.39.excalidraw.svg",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 2/Labolatoria 2.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 2/lab02_pop.jar",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/lab02.circ",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Drawing 2023-10-26 13.19.15.excalidraw.md",
@@ -194,7 +194,6 @@
     "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 6",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 5",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 4",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 3",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027101054_943.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027100252_966.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/Pasted Image 20231027100152_975.png",
