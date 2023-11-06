@@ -324,7 +324,7 @@
     <comp lib="5" loc="(150,310)" name="Button">
       <a name="label" val="C"/>
     </comp>
-    <comp lib="8" loc="(814,236)" name="Text">
+    <comp lib="8" loc="(810,235)" name="Text">
       <a name="text" val="nand na zajęciach"/>
     </comp>
     <wire from="(150,310)" to="(160,310)"/>
