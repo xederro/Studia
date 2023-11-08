@@ -16,5 +16,5 @@
   "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
   "newFileLocation": "current",
-  "vimMode": true
+  "vimMode": false
 }
