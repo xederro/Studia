@@ -8,11 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3a97f534e441b654",
+            "id": "c7f52e20059deef5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 5/Drawing 2023-11-08 17.08.33.excalidraw.md"
+              }
             }
           }
         ]
@@ -65,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5069465637207
+    "width": 255.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -100,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 5/Drawing 2023-11-08 17.08.33.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/Drawing 2023-11-08 16.13.08.excalidraw.md"
+                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 5/Drawing 2023-11-08 17.08.33.excalidraw.md"
               }
             }
           },
@@ -145,8 +149,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "671d26171d29a68e",
+  "active": "c7f52e20059deef5",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 5/Drawing 2023-11-08 17.08.33.excalidraw.svg",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 5/Wykład 5.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 5/Drawing 2023-11-08 17.08.33.excalidraw.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 5",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/Drawing 2023-11-08 16.13.08.excalidraw.svg",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/AK1-2-18-Algorytmy i konwersje.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/Drawing 2023-11-08 16.13.08.excalidraw.md",
@@ -182,7 +190,6 @@
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 1/Drawing 2023-10-12 15.31.03.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 1/Pasted Image 20231013094734_822.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 1/Ćwiczenia 1.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/IZS ćw3pdf.pdf.crdownload",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 3/Drawing 2023-10-30 13.12.27.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Drawing 2023-11-02 18.28.39.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria.md",
@@ -190,9 +197,6 @@
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/Drawing 2023-10-12 17.04.46.excalidraw.md",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 3/Wykład 3.md",
     "bin/bin.md",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 2/Labolatoria 2.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Labolatoria 2.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Drawing 2023-11-02 18.28.39.excalidraw.svg",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
