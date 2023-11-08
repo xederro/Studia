@@ -15,5 +15,6 @@
   "showFrontmatter": true,
   "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "vimMode": true
 }

@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3a44e853b6babe3e",
+        "id": "18c22911adde642d",
         "type": "tabs",
         "children": [
           {
-            "id": "e7185cbd24a3d0cc",
+            "id": "1008399f17e43090",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 4/Labolatoria 4.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5069465637207,
-    "collapsed": true
+    "width": 255.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -106,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 4/Labolatoria 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 4/Labolatoria 4.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,10 +143,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7185cbd24a3d0cc",
+  "active": "1008399f17e43090",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 4/Labolatoria 4.md",
+    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 4",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/The Elder Scrolls.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/From damage to discovery via virtual unwrapping.pdf",
