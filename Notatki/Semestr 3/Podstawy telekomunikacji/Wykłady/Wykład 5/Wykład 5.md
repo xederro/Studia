@@ -1,0 +1,1 @@
+![](/Notatki/Semestr%203/Podstawy%20telekomunikacji/Wykłady/Wykład%205/Drawing%202023-11-08%2017.08.33.excalidraw.svg)
