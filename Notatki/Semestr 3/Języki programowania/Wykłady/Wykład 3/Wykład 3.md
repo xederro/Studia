@@ -1,0 +1,1 @@
+![](Notatki/Semestr%203/Języki%20programowania/Wykłady/Wykład%203/Wyk03-jvm-dziedziczenie-interfejsy-TK.pdf)

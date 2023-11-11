@@ -25,3 +25,4 @@ obecność obowiązkowa
 
 ![](/Notatki/Semestr%203/Architektura%20komputerów%201/Ćwiczenia/rozwiazania.pdf)
 ![](/Notatki/Semestr%203/Architektura%20komputerów%201/Ćwiczenia/rysunki.pdf)
+![](Notatki/Semestr%203/Architektura%20komputerów%201/Ćwiczenia/AK1_LISTY_2_8.pdf)
