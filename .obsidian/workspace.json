@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "99a1b5b065de523f",
+        "id": "d9eea59c49f1ff6f",
         "type": "tabs",
         "children": [
           {
-            "id": "e9dd1164463b08ab",
+            "id": "fe16491e8a74a883",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 3/Drawing 2023-11-09 17.22.41.excalidraw.md"
+                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/IZS ćw3pdf.pdf"
               }
             }
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5069465637207,
-    "collapsed": true
+    "width": 255.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 3/Drawing 2023-11-09 17.22.41.excalidraw.md",
+                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/IZS ćw3pdf.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 3/Drawing 2023-11-09 17.22.41.excalidraw.md"
+                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/IZS ćw3pdf.pdf"
               }
             }
           },
@@ -149,22 +148,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e9dd1164463b08ab",
+  "active": "fe16491e8a74a883",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 3/Drawing 2023-11-09 17.22.41.excalidraw.svg",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 1/IZSćw_2.1.pdf",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 1/Drawing 2023-11-08 10.15.59.excalidraw.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 1/Drawing 2023-11-08 09.36.04.excalidraw.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 1/Drawing 2023-11-08 10.15.59.excalidraw.svg",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 1/Drawing 2023-11-08 09.36.04.excalidraw.svg",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykłady.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 5/Wykład 5.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 3/Drawing 2023-11-09 17.22.41.excalidraw.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 3/Drawing 2023-11-09 17.22.41.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 3",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 5/Drawing 2023-11-09 16.24.53.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/rozklad tstudenta.pdf",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/rozkład chi^2.pdf",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/rozkład normalny.pdf",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 5/Drawing 2023-11-09 16.24.53.excalidraw.svg",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 4/Drawing 2023-11-09 15.23.10.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 5",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 2/IZS ćw3pdf.pdf",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 4/Drawing 2023-11-09 15.23.10.excalidraw.svg",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 4",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Labolatoria 2.md",
@@ -172,7 +179,6 @@
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Drawing 2023-11-02 18.28.39.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Drawing 2023-10-26 13.19.15.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Drawing 2023-10-26 13.19.15.excalidraw.svg",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 1/Pasted Image 20231108101957_896.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 1/Kolokwium.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/Wykład 2.md",
@@ -189,14 +195,7 @@
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 5/Drawing 2023-11-08 17.08.33.excalidraw.svg",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/Drawing 2023-11-08 16.13.08.excalidraw.svg",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/Drawing 2023-11-08 16.13.08.excalidraw.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 1/Drawing 2023-10-18 15.17.15.excalidraw.svg",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 3/Drawing 2023-11-08 15.16.58.excalidraw.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 2/Drawing 2023-10-22 12.34.36.excalidraw.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 3/Drawing 2023-11-08 15.16.58.excalidraw.svg",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 1/Drawing 2023-11-08 10.15.59.excalidraw.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 1/Drawing 2023-11-08 10.15.59.excalidraw.svg",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 1/Drawing 2023-11-08 09.36.04.excalidraw.md",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 4/Labolatoria 4.md",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
