@@ -1,1 +1,1 @@
-![](Notatki/Semestr%203/Logika%20układów%20cyfrowych/Wykłady/Wykład%204/LUC%20w6.pdf)
+![](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Wykłady/Wykład%204/LUC%20w6.pdf)
