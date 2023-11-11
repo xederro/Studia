@@ -3,7 +3,6 @@ korzystamy z wspólnych danych
 Wzorzec dao
 dao dto vo
 można client - server
-(sqlite, grpc, queueProxy)
 
 
 
