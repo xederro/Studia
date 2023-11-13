@@ -1,0 +1,2 @@
+![](Notatki/Semestr%203/Niezawodność%20i%20diagnostyka%20układów%20cyfrowych%201/Wykłady/Wykład%208/NIDUC_w11-12.pdf)
+![](Notatki/Semestr%203/Niezawodność%20i%20diagnostyka%20układów%20cyfrowych%201/Wykłady/Wykład%208/NIDUC_w11-12-appendix.pdf)

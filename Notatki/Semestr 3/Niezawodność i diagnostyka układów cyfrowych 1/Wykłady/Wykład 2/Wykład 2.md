@@ -1,3 +1,5 @@
+![](Notatki/Semestr%203/Niezawodność%20i%20diagnostyka%20układów%20cyfrowych%201/Wykłady/Wykład%202/NIDUC_w3.pdf)
+
 # Element nienaprawialny, podstawy matematyczne, miary niezawodności, rozkłady
 
 F(t) - dystrybuanta
