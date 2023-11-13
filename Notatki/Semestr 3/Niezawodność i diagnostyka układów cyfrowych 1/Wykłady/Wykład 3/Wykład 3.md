@@ -1,4 +1,4 @@
-![](Notatki/Semestr%203/Niezawodność%20i%20diagnostyka%20układów%20cyfrowych%201/Wykłady/Wykład%203/NIDUC_w4.pdf)
+![](/Notatki/Semestr%203/Niezawodność%20i%20diagnostyka%20układów%20cyfrowych%201/Wykłady/Wykład%203/NIDUC_w4.pdf)
 
 # Badania niezawodności i analiza statystyczna wyników
 
