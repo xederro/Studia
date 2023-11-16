@@ -5,3 +5,4 @@
 2. zaprojektować automat na wejściu którego podajemy ciąg 0 i 1 automat akceptuje ciągi w których wystąpiła parzysta liczba zer lub nieparzysta liczba jedynek
    ![](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%203/zad2moore.xml)
    ![](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%203/Drawing%202023-11-12%2016.14.04.excalidraw.svg)
+3. 
