@@ -6,4 +6,4 @@
    ![](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%203/zad2moore.xml)
    ![](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%203/Drawing%202023-11-12%2016.14.04.excalidraw.svg)
 3. wykrywanie daty w formacie dd-mm-rrrr
-   ![](Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%203/zad3moore.xml)
+   ![](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%203/zad3moore.xml)
