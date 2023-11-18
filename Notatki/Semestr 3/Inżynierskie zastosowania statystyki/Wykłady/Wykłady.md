@@ -10,6 +10,7 @@ typ: 'W'
 3. [Wykład 3](/Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Wykłady/Wykład%203/Wykład%203.md)
 4. [Wykład 4](/Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Wykłady/Wykład%204/Wykład%204.md)
 5. [Wykład 5](/Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Wykłady/Wykład%205/Wykład%205.md)
+6. [Wykład 6](Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Wykłady/Wykład%206/Wykład%206.md)
 
 ## Zaliczenie
 t.kozlowski@pwr.edu.pl
