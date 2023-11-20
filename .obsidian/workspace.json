@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e12838152055fcff",
+        "id": "b762da40bf6b3859",
         "type": "tabs",
         "children": [
           {
-            "id": "2f90924fe2fb459c",
+            "id": "890f61b3b1d205ff",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Drawing 2023-11-19 15.25.07.excalidraw.md"
+                "file": "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 5/Wykład 5.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -67,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5069465637207,
-    "collapsed": true
+    "width": 255.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Drawing 2023-11-19 15.25.07.excalidraw.md",
+                "file": "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 5/Wykład 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Drawing 2023-11-19 15.25.07.excalidraw.md"
+                "file": "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 5/Wykład 5.md"
               }
             }
           },
@@ -149,10 +151,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f90924fe2fb459c",
+  "active": "671d26171d29a68e",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Labolatoria 4.md",
+    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 4/NIDUC_w5.pdf",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Drawing 2023-11-19 15.25.07.excalidraw.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Labolatoria 4.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Drawing 2023-11-19 15.25.07.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 3/Drawing 2023-11-12 15.38.34.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 3/Drawing 2023-11-12 15.38.34.excalidraw.svg",
