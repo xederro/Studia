@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "887f7f43bd2edf25",
+        "id": "1f387c7db75ec6cb",
         "type": "tabs",
         "children": [
           {
-            "id": "d58bdb02cb8e8fe6",
+            "id": "18f85c514dc7be26",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -100,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md"
+              }
             }
           },
           {
@@ -143,8 +151,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d58bdb02cb8e8fe6",
+  "active": "18f85c514dc7be26",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 4/lista4.pdf",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 4/Drawing 2023-11-20 19.07.55.excalidraw.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/AK1_LISTY_2_8.pdf",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 4/Untitled.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 4/Drawing 2023-11-20 19.07.55.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Labolatoria 4.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Drawing 2023-11-19 15.25.07.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/autoamt.xml",
@@ -176,20 +189,15 @@
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Labolatoria/Labolatoria 2/sin.py",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Labolatoria/Labolatoria 2/palindrom.py",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Labolatoria/Labolatoria 1/Labolatoria 1.md",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Labolatoria/Labolatoria 2",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 3/ISM-TK-lect04.pdf",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 4/Labolatoria 4.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 6/Drawing 2023-11-16 15.13.18.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 5/Drawing 2023-11-09 16.24.53.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 5/Drawing 2023-11-09 16.24.53.excalidraw.svg",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 6/Drawing 2023-11-16 15.13.18.excalidraw.svg",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Język angielski - C1.1.md",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 2/Pasted image 20231030075748.png",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 1/Drawing 2023-11-08 10.15.59.excalidraw.svg",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
