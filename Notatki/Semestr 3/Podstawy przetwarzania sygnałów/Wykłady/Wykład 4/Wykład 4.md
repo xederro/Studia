@@ -1,3 +1,4 @@
+![](/Notatki/Semestr%203/Podstawy%20przetwarzania%20sygnałów/Wykłady/Wyklad%20-%20Cyfrowe%20Przetwarzanie%20Sygnalow.pdf)
 Podstawowe właściwości DTFT
 Jeżeli $DTFT[x(n)]=X(e^{j\Omega})$ 
 1. Widmo sygnału modulowanego $x(n)e^{jn\Omega_0}$ ma postać $X(e^{e^j(\Omega-\Omega_0)})$ - przesunięcie skali pulsacji
