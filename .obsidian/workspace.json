@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "23213fc2b108761f",
+        "id": "18afc67dd56db2ae",
         "type": "tabs",
         "children": [
           {
-            "id": "6c8118c7b0f9fb61",
+            "id": "f76c2504263a5cf4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/AK1-2-18-Algorytmy i konwersje.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/AK1-2-18-Algorytmy i konwersje.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/AK1-2-18-Algorytmy i konwersje.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -148,8 +143,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c8118c7b0f9fb61",
+  "active": "f76c2504263a5cf4",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 6/Drawing 2023-11-22 17.10.40.excalidraw.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 6/Wykład 6.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 6/Drawing 2023-11-22 17.10.40.excalidraw.svg",
+    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 6/PT - wykład nr 6b (BS).pdf",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 6/PT - wykład nr 6b (BS).pdf.crdownload",
+    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/AK1-2-18-Algorytmy i konwersje.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/Drawing 2023-11-08 15.23.03.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 1/Drawing 2023-10-18 15.17.15.excalidraw.svg",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/Drawing 2023-11-22 15.15.32.excalidraw.md",
@@ -176,9 +179,6 @@
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 4/Untitled.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 4/Drawing 2023-11-20 19.07.55.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Labolatoria 4.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/autoamt.xml",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/automat.bak",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/automat.circ",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 5/Labolatoria 5.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 5/Wykład 5.md",
@@ -187,14 +187,9 @@
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 3/Drawing 2023-11-12 15.38.34.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 3/Labolatoria 3.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 3/Drawing 2023-11-12 16.14.04.excalidraw.svg",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Drawing 2023-10-26 13.19.15.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Drawing 2023-10-26 13.19.15.excalidraw.svg",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 3/Labolatoria 3.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 3/Drawing 2023-11-12 16.14.04.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 3/Pasted Image 20231113221156_138.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 3/Drawing 2023-11-13 22.11.45.excalidraw.svg",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 5/Drawing 2023-11-09 16.24.53.excalidraw.svg",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
