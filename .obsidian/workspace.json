@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "18afc67dd56db2ae",
+        "id": "a9e1368869869862",
         "type": "tabs",
         "children": [
           {
-            "id": "f76c2504263a5cf4",
+            "id": "f0871c5a6a31d9f7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -143,8 +143,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f76c2504263a5cf4",
+  "active": "f0871c5a6a31d9f7",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Drawing 2023-11-19 15.25.07.excalidraw.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 6/Drawing 2023-11-22 17.10.40.excalidraw.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 6/Drawing 2023-11-22 17.10.40.excalidraw.svg",
@@ -171,7 +172,6 @@
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 7",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 6",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 5",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Drawing 2023-11-19 15.25.07.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 4/lista4.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 4/Drawing 2023-11-20 19.07.55.excalidraw.md",
