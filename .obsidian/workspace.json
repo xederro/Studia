@@ -11,12 +11,9 @@
             "id": "8ec58dcdcd6ed65c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykłady.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 3/LUC w4_5.pdf"
               }
             }
           }
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykłady.md",
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 3/LUC w4_5.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykłady.md"
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 3/LUC w4_5.pdf"
               }
             }
           },
@@ -153,6 +150,10 @@
   },
   "active": "8ec58dcdcd6ed65c",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/LUC w6.pdf",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 3/Drawing 2023-11-09 17.22.41.excalidraw.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 3/LUC w4_5.pdf",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 7/Drawing 2023-11-23 15.15.35.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 6/Drawing 2023-11-16 15.13.18.excalidraw.md",
@@ -189,11 +190,7 @@
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 6",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 5",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 4/lista4.pdf",
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 4/Drawing 2023-11-20 19.07.55.excalidraw.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 4/Untitled.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 4/Drawing 2023-11-20 19.07.55.excalidraw.svg",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 5/Labolatoria 5.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Drawing 2023-11-19 15.25.07.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 3/Drawing 2023-11-12 15.38.34.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 3/Drawing 2023-11-12 16.14.04.excalidraw.svg",
