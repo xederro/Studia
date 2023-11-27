@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b386c331a517add3",
+        "id": "1b72c605aee3c2f8",
         "type": "tabs",
         "children": [
           {
-            "id": "ba51b1efba20d44b",
+            "id": "28dd449ff2b03a47",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/AK1_LISTY_2_8.pdf"
-              }
-            }
-          },
-          {
-            "id": "773739f8e0cf1f3a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 5/Drawing 2023-11-27 12.10.55.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5069465637207,
-    "collapsed": true
+    "width": 255.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -160,7 +146,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "773739f8e0cf1f3a",
+  "active": "28dd449ff2b03a47",
   "lastOpenFiles": [
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/AK1_LISTY_2_8.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 5/Drawing 2023-11-27 12.10.55.excalidraw.md",
