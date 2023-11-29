@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1b72c605aee3c2f8",
+        "id": "dd3b8072dc96202c",
         "type": "tabs",
         "children": [
           {
-            "id": "28dd449ff2b03a47",
+            "id": "f9b9fa7e3b53e103",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 8/Wykład 8.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 8/Wykład 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 8/Wykład 8.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,11 +143,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "28dd449ff2b03a47",
+  "active": "f9b9fa7e3b53e103",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-29 09.33.36.excalidraw.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-29 09.33.36.excalidraw.svg",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Labolatoria 5.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Pasted Image 20231129102928_091.png",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Pasted Image 20231129102728_076.png",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 8/Ind_Imag_Lec_5_pop.pdf",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 8/Ind_Imag_Lec_4_pop.pdf",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 8/Ind_Imag_Lec_3_pop.pdf",
@@ -179,7 +177,6 @@
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 3/Drawing 2023-11-12 16.14.04.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 3/Labolatoria 3.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 3/Drawing 2023-11-12 15.38.34.excalidraw.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/autoamt2.xml",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/From damage to discovery via virtual unwrapping.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/AI reads text from ancient Herculaneum scroll for the first time.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/The Elder Scrolls.md",
@@ -189,15 +186,10 @@
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Drawing 2023-11-24 09.29.49.excalidraw.svg",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Pasted Image 20231124101955_940.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Pasted Image 20231124101654_887.png",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Pasted Image 20231124100610_949.png",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Pasted Image 20231124095807_712.png",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Pasted Image 20231124094754_937.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Inżynierskie zastosowania statystyki.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Drawing 2023-11-24 09.19.37.excalidraw.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 3/Drawing 2023-11-09 17.22.41.excalidraw.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykłady.md",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
