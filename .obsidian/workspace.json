@@ -11,8 +11,13 @@
             "id": "28dd449ff2b03a47",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 8/Wykład 8.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -100,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 8/Wykład 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 8/Wykład 8.md"
+              }
             }
           },
           {
@@ -145,6 +153,13 @@
   },
   "active": "28dd449ff2b03a47",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 8/Ind_Imag_Lec_5_pop.pdf",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 8/Wykład 8.md",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 8/Ind_Imag_Lec_4_pop.pdf",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 7/Wykład 7.md",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 8/Ind_Imag_Lec_3_pop.pdf",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 8",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/d.usf",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 5/Drawing 2023-11-27 12.10.55.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/AK1_LISTY_2_8.pdf",
@@ -169,8 +184,6 @@
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/AI reads text from ancient Herculaneum scroll for the first time.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/The Elder Scrolls.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/Portfolio.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/From damage to discovery via virtual unwrapping.pdf",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/AI reads text from ancient Herculaneum scroll for the first time.pdf",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Drawing 2023-11-24 09.29.49.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Drawing 2023-11-24 09.29.49.excalidraw.svg",
@@ -180,17 +193,11 @@
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Pasted Image 20231124095807_712.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Pasted Image 20231124094754_937.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/IZSćw_ 4 odp.pdf",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/IZSćw_ 4 odp.pdf.crdownload",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Inżynierskie zastosowania statystyki.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Drawing 2023-11-24 09.19.37.excalidraw.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 3/Drawing 2023-11-09 17.22.41.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykłady.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 7/Drawing 2023-11-23 15.15.35.excalidraw.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 6/Drawing 2023-11-16 15.13.18.excalidraw.md",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
