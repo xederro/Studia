@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f56e71045e20540e",
+        "id": "a01617be94652b3c",
         "type": "tabs",
         "children": [
           {
-            "id": "f7424ff0d1394bd1",
+            "id": "7a3629a4be1316f9",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Drawing 2023-11-29 17.53.02.excalidraw.md"
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-29 11.12.51.excalidraw.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Drawing 2023-11-29 17.53.02.excalidraw.md",
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-29 11.12.51.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Drawing 2023-11-29 17.53.02.excalidraw.md"
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-29 11.12.51.excalidraw.md"
               }
             }
           },
@@ -149,12 +149,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7424ff0d1394bd1",
+  "active": "7a3629a4be1316f9",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-29 11.12.51.excalidraw.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-30 13.18.02.excalidraw.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-29 11.12.51.excalidraw.svg",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-30 13.18.02.excalidraw.svg",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Drawing 2023-11-29 17.53.02.excalidraw.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Drawing 2023-11-29 17.53.02.excalidraw.svg",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Drawing 2023-11-29 17.11.10.excalidraw.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Drawing 2023-11-29 17.53.02.excalidraw.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Drawing 2023-11-29 17.11.10.excalidraw.svg",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/AK1-2-18-Algorytmy i konwersje.pdf",
@@ -164,7 +168,6 @@
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/Drawing 2023-11-08 15.23.03.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 5/Drawing 2023-11-27 12.10.55.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-29 09.33.36.excalidraw.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-29 11.12.51.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Drawing 2023-11-19 15.25.07.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/czarna skrzynka.usf",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 3/Labolatoria 3.md",
@@ -191,12 +194,8 @@
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Drawing 2023-11-26 16.29.11.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Drawing 2023-11-19 15.25.07.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 3/Drawing 2023-11-12 16.14.04.excalidraw.svg",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/From damage to discovery via virtual unwrapping.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/AI reads text from ancient Herculaneum scroll for the first time.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/The Elder Scrolls.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Drawing 2023-11-24 09.29.49.excalidraw.svg",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Pasted Image 20231124101955_940.png",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
