@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e4b8511ac618ec10",
+        "id": "f56e71045e20540e",
         "type": "tabs",
         "children": [
           {
-            "id": "3cef9dd4053f8121",
+            "id": "f7424ff0d1394bd1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/AK1-2-18-Algorytmy i konwersje.pdf"
+                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Drawing 2023-11-29 17.53.02.excalidraw.md"
               }
             }
           }
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5069465637207
+    "width": 255.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/AK1-2-18-Algorytmy i konwersje.pdf",
+                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Drawing 2023-11-29 17.53.02.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/AK1-2-18-Algorytmy i konwersje.pdf"
+                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Drawing 2023-11-29 17.53.02.excalidraw.md"
               }
             }
           },
@@ -148,10 +149,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3cef9dd4053f8121",
+  "active": "f7424ff0d1394bd1",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 1/AK1-1-18-Arytmetyka.pdf",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Drawing 2023-11-29 17.53.02.excalidraw.svg",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Drawing 2023-11-29 17.11.10.excalidraw.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Drawing 2023-11-29 17.53.02.excalidraw.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Drawing 2023-11-29 17.11.10.excalidraw.svg",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/AK1-2-18-Algorytmy i konwersje.pdf",
+    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 1/AK1-1-18-Arytmetyka.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 3/AK1-3-18-Dodawanie i mnozenie.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 3/Drawing 2023-11-29 15.39.15.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 2/Drawing 2023-11-08 15.23.03.excalidraw.md",
@@ -176,8 +183,6 @@
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 8/Ind_Imag_Lec_3_pop.pdf",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 8",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/d.usf",
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/AK1_LISTY_2_8.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 5/Drawing 2023-11-27 12.10.55.excalidraw.svg",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
@@ -190,12 +195,8 @@
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/From damage to discovery via virtual unwrapping.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/AI reads text from ancient Herculaneum scroll for the first time.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/The Elder Scrolls.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/Portfolio.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Drawing 2023-11-24 09.29.49.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Drawing 2023-11-24 09.29.49.excalidraw.svg",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Pasted Image 20231124101955_940.png",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Pasted Image 20231124101654_887.png",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
