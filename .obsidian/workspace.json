@@ -4,16 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "a01617be94652b3c",
+        "id": "56140dae587e8114",
         "type": "tabs",
         "children": [
           {
-            "id": "7a3629a4be1316f9",
+            "id": "6b89ac06ddcf856e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-29 11.12.51.excalidraw.md"
+                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 8/Drawing 2023-11-30 15.16.35.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "d8b4157980a9651e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/rozkład chi^2.pdf"
+              }
+            }
+          },
+          {
+            "id": "4b265e5c56c1d8cf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/rozkład normalny.pdf"
               }
             }
           }
@@ -103,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-29 11.12.51.excalidraw.md",
+                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 8/Drawing 2023-11-30 15.16.35.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-29 11.12.51.excalidraw.md"
+                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 8/Drawing 2023-11-30 15.16.35.excalidraw.md"
               }
             }
           },
@@ -149,8 +169,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7a3629a4be1316f9",
+  "active": "6b89ac06ddcf856e",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/rozkład chi^2.pdf",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 8/Drawing 2023-11-30 15.16.35.excalidraw.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/rozkład normalny.pdf",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 8/Drawing 2023-11-30 15.16.35.excalidraw.svg",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 8/Wykład 8.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 7/Drawing 2023-11-23 15.15.35.excalidraw.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 8",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-29 11.12.51.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-30 13.18.02.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-29 11.12.51.excalidraw.svg",
@@ -182,20 +209,13 @@
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 8/Ind_Imag_Lec_5_pop.pdf",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 8/Ind_Imag_Lec_4_pop.pdf",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 8/Ind_Imag_Lec_3_pop.pdf",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 8",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 5/Drawing 2023-11-27 12.10.55.excalidraw.svg",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Drawing 2023-11-26 16.29.11.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Drawing 2023-11-26 16.29.11.excalidraw.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Drawing 2023-11-19 15.25.07.excalidraw.svg",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/From damage to discovery via virtual unwrapping.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/AI reads text from ancient Herculaneum scroll for the first time.md",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
