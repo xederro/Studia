@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "56140dae587e8114",
+        "id": "3f0db9a101116c1f",
         "type": "tabs",
         "children": [
           {
-            "id": "6b89ac06ddcf856e",
+            "id": "34048e42d8649c6c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 8/Drawing 2023-11-30 15.16.35.excalidraw.md"
+                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -67,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5069465637207,
-    "collapsed": true
+    "width": 255.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 8/Drawing 2023-11-30 15.16.35.excalidraw.md",
+                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 8/Drawing 2023-11-30 15.16.35.excalidraw.md"
+                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md"
               }
             }
           },
@@ -149,10 +151,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b89ac06ddcf856e",
+  "active": "34048e42d8649c6c",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 8/Untitled.md",
+    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/Portfolio.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 8/Drawing 2023-11-30 15.16.35.excalidraw.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 8/Untitled.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/rozkład chi^2.pdf",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/rozkład normalny.pdf",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 8/Drawing 2023-11-30 15.16.35.excalidraw.svg",
@@ -196,7 +199,6 @@
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Drawing 2023-11-26 16.29.11.excalidraw.svg",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Drawing 2023-11-26 16.29.11.excalidraw.md",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
