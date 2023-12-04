@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e31a36bd6c670511",
+        "id": "acf9960736d64a8f",
         "type": "tabs",
         "children": [
           {
-            "id": "fc8aa8c76ec4ae1f",
+            "id": "e3ffd2695b15cc09",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-29 11.12.51.excalidraw.md"
+                "file": "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 6/NIDUC_w7_8updated.pdf"
               }
             }
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5069465637207,
-    "collapsed": true
+    "width": 255.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-29 11.12.51.excalidraw.md",
+                "file": "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 6/NIDUC_w7_8updated.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-29 11.12.51.excalidraw.md"
+                "file": "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 6/NIDUC_w7_8updated.pdf"
               }
             }
           },
@@ -149,11 +148,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc8aa8c76ec4ae1f",
+  "active": "e3ffd2695b15cc09",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 5/Wykład 5.md",
+    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 4/NIDUC_w5.pdf",
+    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 5/NIDUC_w6.pdf",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-29 11.12.51.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-30 13.18.02.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Labolatoria 5.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-29 11.12.51.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-29 09.33.36.excalidraw.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/Portfolio.md",
@@ -188,14 +190,11 @@
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-29 09.33.36.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Pasted Image 20231129102928_091.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Pasted Image 20231129102728_076.png",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 8/Ind_Imag_Lec_5_pop.pdf",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 5/Drawing 2023-11-27 12.10.55.excalidraw.svg",
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Drawing 2023-11-26 16.29.11.excalidraw.svg",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
