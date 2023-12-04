@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "192216e81afdbca2",
+        "id": "efaa8aa81b3e3034",
         "type": "tabs",
         "children": [
           {
-            "id": "e2e2001b1b43e2a5",
+            "id": "558fe72c45e6efb2",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484.5069465637207
+    "width": 277.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -143,7 +143,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e2e2001b1b43e2a5",
+  "active": "558fe72c45e6efb2",
   "lastOpenFiles": [
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Labolatoria/Labolatoria 3/Labolatoria 3.md",
