@@ -1,1 +1,1 @@
-![](/Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%201/lab01_pop.jar)
+[Project](Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%201/Project/Project.md)

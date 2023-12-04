@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: pl.edu.pwr.student.djablonski.kontroler.Main
+Class-Path: database.jar
+

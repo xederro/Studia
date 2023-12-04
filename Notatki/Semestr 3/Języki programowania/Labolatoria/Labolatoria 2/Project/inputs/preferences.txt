@@ -1,0 +1,8 @@
+id,group,skis
+1,J,slalom:0;giantslalom:0
+2,A,race:0;allmountain:0
+3,C,carving:0
+4,C,backcountry:0;powder:0
+5,A,telemark:0;crosscountry:0
+6,J,slalom:0;freestyle:0
+7,A,race:0;alpine:0

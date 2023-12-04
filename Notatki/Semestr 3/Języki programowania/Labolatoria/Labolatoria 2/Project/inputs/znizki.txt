@@ -1,0 +1,4 @@
+group,discount
+C,50
+J,20
+A,0

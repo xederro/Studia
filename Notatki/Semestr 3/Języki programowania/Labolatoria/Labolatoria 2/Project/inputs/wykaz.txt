@@ -1,0 +1,5 @@
+quantity,ski
+3,slalom:130
+1,carving:130
+2,race:170
+4,allmountain:150

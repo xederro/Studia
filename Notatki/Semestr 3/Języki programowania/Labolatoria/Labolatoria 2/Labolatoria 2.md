@@ -1,13 +1,4 @@
-[lab02_pop](/Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%202/lab02_pop.jar)
-Brute force można, heurystyczna, monte carlo,
-kombinacje i permutacje, kombinacje różnych ustawień
-
-
-
-
-
-
-
+[Project](Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%202/Project/Project.md)
 Podczas laboratorium należy rozwiązać problem optymalizacyjny zdefiniowany poniżej. Załóżmy, że jakaś firma organizuje wyjazd na narty. W wyjeździe tym biorą udział uczestnicy w różnym wieku i o różnych preferencjach co do wykorzystywanego sprzętu. Preferencje dotyczące nart (inny sprzęt pomijamy) zapisano w pliku preferences.txt o zawartości:
 
 id,group,skis (wygenerować sobie 50)

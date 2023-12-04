@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: pl.edu.pwr.student.djablonski.database.Main
+Class-Path: slf4j-api-2.0.9.jar sqlite-jdbc-3.43.2.2.jar slf4j-simple-2.
+ 0.9.jar
+

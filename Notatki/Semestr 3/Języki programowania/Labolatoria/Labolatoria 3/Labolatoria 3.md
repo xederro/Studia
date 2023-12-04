@@ -1,11 +1,4 @@
-przez odświerzenie
-korzystamy z wspólnych danych
-Wzorzec dao
-dao dto vo
-można client - server
-
-
-
+[Project](Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%203/Project/Project.md)
 Podczas laboratorium należy zbudować "mały system", pozwalający na interakcje z użytkownikami (z poziomu konsoli w wersji minimum, z poziomu okienek w wersji maksimum), umożliwiający wykonywanie operacji CRUD (od ang. create, read, update and delete; pol. utwórz, odczytaj, aktualizuj i usuń) na przetwarzanych danych. Dane powinny być w jakiś sposób utrwalane. Mogą być zapisywne w plikach lub bazie danych zapisywanej do pliku (h2 czy sqlite).  
 Wymagane jest, by logika biznesowa systemu była oddzielona od interfejsu użytkownika. Ponadto należy obsłużyć własne wyjątki (oprócz wyjątków generowanych przez Java API).  
 Budowany system wspierać ma proces obsługi zgłoszeń zamiaru wycięcia drzewa bądź drzew. Oczywiście system ten będzie jedynie "przybliżeniem" rzeczywistości. Aby dało się go zaimplementować przyjmujemy znaczące uproszczenia.  

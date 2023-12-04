@@ -6,4 +6,4 @@
 analiza automatów
 instrukcja 209
 wczytujemy plik z automatem i testujemy
-![](Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%204/autoamt2.xml)
+![](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%204/autoamt2.xml)
