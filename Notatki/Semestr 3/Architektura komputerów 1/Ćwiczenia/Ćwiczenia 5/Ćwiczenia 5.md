@@ -1,2 +1,2 @@
-![](/Notatki/Semestr%203/Architektura%20komputerów%201/Ćwiczenia/Ćwiczenia%205/lista5.pdf)
+ ![](/Notatki/Semestr%203/Architektura%20komputerów%201/Ćwiczenia/Ćwiczenia%205/lista5.pdf)
 ![](/Notatki/Semestr%203/Architektura%20komputerów%201/Ćwiczenia/Ćwiczenia%205/Drawing%202023-11-27%2012.10.55.excalidraw.svg)
