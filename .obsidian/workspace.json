@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c8283f658cbe7916",
+        "id": "c9f135e79f6a2d4c",
         "type": "tabs",
         "children": [
           {
-            "id": "0c805f7ecfc02baa",
+            "id": "dd6fa098ec284fea",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 9/Ind_Imag_Lec_7_pop.pdf"
+                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 9/Wykład 9.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -67,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5069465637207
+    "width": 299.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 9/Ind_Imag_Lec_7_pop.pdf",
+                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 9/Wykład 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 9/Ind_Imag_Lec_7_pop.pdf"
+                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 9/Wykład 9.md"
               }
             }
           },
@@ -148,14 +151,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "671d26171d29a68e",
+  "active": "dd6fa098ec284fea",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 9/Ind_Imag_Lec_8_pop.pdf",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 6/Drawing 2023-12-05 12.14.48.excalidraw.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 9/Wykład 9.md",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 9/Ind_Imag_Lec_6_pop.pdf",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 9/Ind_Imag_Lec_7_pop.pdf",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria.md",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 9/Ind_Imag_Lec_6_pop.pdf",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 6/Labolatoria 6.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 6/Drawing 2023-12-05 12.14.48.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 6/Untitled.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wyklad - Cyfrowe Przetwarzanie Sygnalow.pdf",
@@ -175,7 +179,6 @@
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 1/Project/Project.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 2/Labolatoria 2.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 1/Project/lab001.iml",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 1/Project/src/ui/Ramka.java",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 2/Project/Project.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 3/Labolatoria 3.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 3/Project/Project.md",
