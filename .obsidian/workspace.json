@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "316608660ebfe096",
+        "id": "90644e00d179a090",
         "type": "tabs",
         "children": [
           {
-            "id": "c068859f56d403f6",
+            "id": "0b10ac56d2c9857d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/LUC w6.pdf"
-              }
-            }
-          },
-          {
-            "id": "c68009d885e8004b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 3/LUC w4_5.pdf"
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 6/Drawing 2023-12-05 12.14.48.excalidraw.png"
               }
             }
           }
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/LUC w6.pdf",
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 6/Drawing 2023-12-05 12.14.48.excalidraw.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/LUC w6.pdf"
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 6/Drawing 2023-12-05 12.14.48.excalidraw.png"
               }
             }
           },
@@ -158,8 +148,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c068859f56d403f6",
+  "active": "0b10ac56d2c9857d",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 6/Drawing 2023-12-05 12.14.48.excalidraw.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 6/Drawing 2023-12-05 12.14.48.excalidraw.png",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 6/Drawing 2023-12-05 12.14.48.excalidraw.svg",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 6/Labolatoria 6.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 6/Pasted Image 20231205121454_617.png",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 6/Pasted Image 20231205123729_437.png",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 6",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 3/LUC w4_5.pdf",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/LUC w6.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
@@ -175,9 +172,7 @@
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 1/Project/src/META-INF/MANIFEST.MF",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 1/Project/src/module-info.java",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 1/Project/src/META-INF",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 1/Project/src",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 2/Project/Project.md",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 2/Project/lab02.iml",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 3/Labolatoria 3.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 3/Project/Project.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 3/Project/ObywatelApp/obywatel.md",
@@ -195,17 +190,11 @@
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Labolatoria 4.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 8/Drawing 2023-11-30 15.16.35.excalidraw.svg",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Drawing 2023-11-29 17.53.02.excalidraw.svg",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Drawing 2023-11-29 17.11.10.excalidraw.svg",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Drawing 2023-11-29 17.53.02.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Pasted Image 20231129102728_076.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Pasted Image 20231129102928_091.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-29 11.12.51.excalidraw.svg",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-30 13.18.02.excalidraw.svg",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-29 09.33.36.excalidraw.svg",
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 5/Drawing 2023-11-27 12.10.55.excalidraw.svg",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Drawing 2023-11-26 16.29.11.excalidraw.svg",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
