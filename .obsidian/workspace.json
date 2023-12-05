@@ -11,12 +11,19 @@
             "id": "c068859f56d403f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/LUC w6.pdf"
+              }
+            }
+          },
+          {
+            "id": "c68009d885e8004b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 3/LUC w4_5.pdf"
               }
             }
           }
@@ -105,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/LUC w6.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md"
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/LUC w6.pdf"
               }
             }
           },
@@ -153,6 +160,9 @@
   },
   "active": "c068859f56d403f6",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 3/LUC w4_5.pdf",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/LUC w6.pdf",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Labolatoria/Labolatoria 3/Labolatoria 3.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 1/Labolatoria 1.md",
@@ -168,7 +178,6 @@
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 1/Project/src",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 2/Project/Project.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 2/Project/lab02.iml",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 2/Project/src/pl/edu/pwr/student/lab02/UI/CLI/CLI.java",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 3/Labolatoria 3.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 3/Project/Project.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 3/Project/ObywatelApp/obywatel.md",
@@ -190,11 +199,9 @@
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Drawing 2023-11-29 17.53.02.excalidraw.svg",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Drawing 2023-11-29 17.11.10.excalidraw.svg",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Drawing 2023-11-29 17.53.02.excalidraw.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Drawing 2023-11-29 17.11.10.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Pasted Image 20231129102728_076.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Pasted Image 20231129102928_091.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-29 11.12.51.excalidraw.svg",
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-30 13.18.02.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-29 09.33.36.excalidraw.svg",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 5/Drawing 2023-11-27 12.10.55.excalidraw.svg",
