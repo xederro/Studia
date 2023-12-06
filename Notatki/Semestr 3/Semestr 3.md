@@ -6,6 +6,6 @@
 5. [Języki programowania](/Notatki/Semestr%203/J%C4%99zyki%20programowania/J%C4%99zyki%20programowania.md)
 6. [Logika układów cyfrowych](/Notatki/Semestr%203/Logika%20uk%C5%82ad%C3%B3w%20cyfrowych/Logika%20uk%C5%82ad%C3%B3w%20cyfrowych.md)
 7. [Niezawodność i diagnostyka układów cyfrowych 1](/Notatki/Semestr%203/Niezawodno%C5%9B%C4%87%20i%20diagnostyka%20uk%C5%82ad%C3%B3w%20cyfrowych%201/Niezawodno%C5%9B%C4%87%20i%20diagnostyka%20uk%C5%82ad%C3%B3w%20cyfrowych%201.md)
-8. [Podstawy przetwarzania sygnałów](/Notatki/Semestr%203/Podstawy%20przetwarzania%20sygna%C5%82%C3%B3w/Podstawy%20przetwarzania%20sygna%C5%82%C3%B3w.md)
+8. [Podstawy przetwarzania sygnałów](Notatki/Semestr%203/Podstawy%20przetwarzania%20sygnałów/Podstawy%20przetwarzania%20sygnałów.md)
 9. [Podstawy telekomunikacji](/Notatki/Semestr%203/Podstawy%20telekomunikacji/Podstawy%20telekomunikacji.md)
 10. [WF-2](/Notatki/Semestr%203/WF-2/WF-2.md)
