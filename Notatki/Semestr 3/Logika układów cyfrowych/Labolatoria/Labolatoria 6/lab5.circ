@@ -66,10 +66,9 @@
     <comp lib="0" loc="(530,410)" name="Power">
       <a name="facing" val="west"/>
     </comp>
-    <comp lib="0" loc="(880,190)" name="Pin">
+    <comp lib="0" loc="(990,290)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="y"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="1" loc="(250,140)" name="NOT Gate">
@@ -92,10 +91,10 @@
     <comp lib="1" loc="(730,380)" name="NOR Gate">
       <a name="size" val="30"/>
     </comp>
-    <comp lib="1" loc="(880,190)" name="NOR Gate">
+    <comp lib="1" loc="(960,290)" name="NAND Gate">
       <a name="inputs" val="3"/>
-      <a name="size" val="30"/>
     </comp>
+    <comp lib="1" loc="(990,290)" name="NOT Gate"/>
     <comp lib="4" loc="(440,380)" name="J-K Flip-Flop">
       <a name="appearance" val="logisim_evolution"/>
     </comp>
@@ -111,7 +110,16 @@
     <comp lib="5" loc="(270,470)" name="Button">
       <a name="label" val="r"/>
     </comp>
-    <comp lib="8" loc="(562,73)" name="Text">
+    <comp lib="8" loc="(212,173)" name="Text">
+      <a name="text" val="3"/>
+    </comp>
+    <comp lib="8" loc="(213,189)" name="Text">
+      <a name="text" val="2"/>
+    </comp>
+    <comp lib="8" loc="(213,201)" name="Text">
+      <a name="text" val="1"/>
+    </comp>
+    <comp lib="8" loc="(560,70)" name="Text">
       <a name="text" val="z2(z1z2+z2z1)*z1"/>
     </comp>
     <wire from="(240,180)" to="(340,180)"/>
@@ -148,7 +156,7 @@
     <wire from="(490,200)" to="(680,200)"/>
     <wire from="(490,430)" to="(500,430)"/>
     <wire from="(500,260)" to="(500,430)"/>
-    <wire from="(500,260)" to="(920,260)"/>
+    <wire from="(500,260)" to="(810,260)"/>
     <wire from="(530,180)" to="(530,390)"/>
     <wire from="(530,180)" to="(790,180)"/>
     <wire from="(530,430)" to="(530,450)"/>
@@ -159,15 +167,15 @@
     <wire from="(590,190)" to="(630,190)"/>
     <wire from="(590,430)" to="(600,430)"/>
     <wire from="(600,250)" to="(600,430)"/>
-    <wire from="(600,250)" to="(840,250)"/>
+    <wire from="(600,250)" to="(810,250)"/>
     <wire from="(620,120)" to="(620,420)"/>
     <wire from="(620,120)" to="(810,120)"/>
     <wire from="(620,420)" to="(640,420)"/>
     <wire from="(630,190)" to="(630,400)"/>
-    <wire from="(630,190)" to="(810,190)"/>
+    <wire from="(630,190)" to="(830,190)"/>
     <wire from="(630,400)" to="(640,400)"/>
     <wire from="(680,200)" to="(680,390)"/>
-    <wire from="(680,200)" to="(830,200)"/>
+    <wire from="(680,200)" to="(810,200)"/>
     <wire from="(680,390)" to="(690,390)"/>
     <wire from="(690,140)" to="(690,370)"/>
     <wire from="(690,140)" to="(810,140)"/>
@@ -176,12 +184,15 @@
     <wire from="(730,430)" to="(730,450)"/>
     <wire from="(760,440)" to="(760,470)"/>
     <wire from="(790,180)" to="(790,390)"/>
-    <wire from="(790,180)" to="(840,180)"/>
+    <wire from="(790,180)" to="(810,180)"/>
     <wire from="(790,430)" to="(800,430)"/>
     <wire from="(800,240)" to="(800,430)"/>
-    <wire from="(800,240)" to="(810,240)"/>
-    <wire from="(830,190)" to="(830,200)"/>
-    <wire from="(830,190)" to="(840,190)"/>
-    <wire from="(840,200)" to="(840,250)"/>
+    <wire from="(800,240)" to="(820,240)"/>
+    <wire from="(810,260)" to="(810,310)"/>
+    <wire from="(810,310)" to="(900,310)"/>
+    <wire from="(820,240)" to="(820,290)"/>
+    <wire from="(820,290)" to="(900,290)"/>
+    <wire from="(830,190)" to="(830,270)"/>
+    <wire from="(830,270)" to="(900,270)"/>
   </circuit>
 </project>
