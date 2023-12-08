@@ -1,0 +1,1 @@
+![](Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Ćwiczenia/Ćwiczenia%204/Drawing%202023-12-08%2009.20.10.excalidraw.svg)

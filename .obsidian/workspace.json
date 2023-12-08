@@ -4,29 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e5be0a99aa1ffbe6",
+        "id": "ce5189a455ae2558",
         "type": "tabs",
         "children": [
           {
-            "id": "ca3db48d6858c695",
+            "id": "df76d88f96fe711b",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "eb6ff7b2a1a2702f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/Drawing 2023-12-07 17.17.25.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5069465637207,
-    "collapsed": true
+    "width": 299.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -112,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/Drawing 2023-12-07 17.17.25.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/Drawing 2023-12-07 17.17.25.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,21 +143,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eb6ff7b2a1a2702f",
+  "active": "df76d88f96fe711b",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 5/LUC w7.pdf",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/Drawing 2023-12-07 17.17.25.excalidraw.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 4/Drawing 2023-12-08 09.20.10.excalidraw.svg",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 4/Drawing 2023-12-08 09.20.10.excalidraw.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 4/Pasted Image 20231208100302_799.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 4/Pasted Image 20231208100101_774.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 4/Pasted Image 20231208095401_754.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 4/Pasted Image 20231208095001_744.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 4/Pasted Image 20231208094901_732.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 4/Pasted Image 20231208093753_657.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 4/Pasted Image 20231208093119_999.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/IZSćw_ 4 odp.pdf",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Drawing 2023-11-24 09.29.49.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 4",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/LUC w6.pdf",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/Drawing 2023-12-07 17.17.25.excalidraw.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/Drawing 2023-12-07 17.17.25.excalidraw.svg",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 5/LUC w7.pdf",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 9/Wykład 9.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 9/Drawing 2023-12-07 15.22.35.excalidraw.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/LUC w6.pdf",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 9/Drawing 2023-12-07 15.22.35.excalidraw.svg",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 9",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 6/Labolatoria 6.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 6/Drawing 2023-12-05 12.14.48.excalidraw.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 7/Wykład 7.md",
@@ -180,7 +179,6 @@
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 8/Drawing 2023-12-06 17.16.51.excalidraw.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 8/Wykład 8.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 8/Drawing 2023-12-06 17.16.51.excalidraw.svg",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 8",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Untitled.md",
@@ -188,24 +186,10 @@
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 6/lab5.bak",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Drawing 2023-11-19 15.25.07.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 6/lab5.circ",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 6/Drawing 2023-12-05 12.14.48.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Drawing 2023-11-29 09.33.36.excalidraw.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 6/Pasted Image 20231205123729_437.png",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Język angielski - C1.1.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/SKILLFUL_4_Read&Writing_Sb_Prem_Pk_2nd_Mike_Boyle;_Lindsay_Warwick;.pdf",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Pasted image 20231010141410.png",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Pasted image 20231010141355.png",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 9/Wykład 9.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 9/Ind_Imag_Lec_8_pop.pdf",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 9/Ind_Imag_Lec_7_pop.pdf",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 9/Ind_Imag_Lec_6_pop.pdf",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wyklad - Cyfrowe Przetwarzanie Sygnalow.pdf",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 6/Drawing 2023-12-05 12.14.48.excalidraw.png",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 6/Pasted Image 20231205121454_617.png",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 8/Drawing 2023-11-30 15.16.35.excalidraw.svg",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Drawing 2023-11-29 17.53.02.excalidraw.svg",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
