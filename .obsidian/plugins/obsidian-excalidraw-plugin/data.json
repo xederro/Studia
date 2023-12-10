@@ -85,7 +85,7 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": false,
-  "previousRelease": "2.0.7",
+  "previousRelease": "2.0.9",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
@@ -435,6 +435,7 @@
   "openAIAPIToken": "",
   "openAIDefaultTextModel": "gpt-3.5-turbo-1106",
   "openAIDefaultVisionModel": "gpt-4-vision-preview",
+  "openAIURL": "https://api.openai.com/v1/chat/completions",
   "modifierKeyConfig": {
     "Mac": {
       "LocalFileDragAction": {
