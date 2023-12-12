@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a5249bb47c34c36b",
+        "id": "ae8196dfb2ec950a",
         "type": "tabs",
         "children": [
           {
-            "id": "4ed81d22cf5f5ee8",
+            "id": "90512e6db87830a2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 9/Drawing 2023-12-12 17.12.10.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -67,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5069465637207,
-    "collapsed": true
+    "width": 299.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -103,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 9/Drawing 2023-12-12 17.12.10.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 9/Drawing 2023-12-12 17.12.10.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -149,7 +143,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4ed81d22cf5f5ee8",
+  "active": "90512e6db87830a2",
   "lastOpenFiles": [
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 9/Wykład 9.md",

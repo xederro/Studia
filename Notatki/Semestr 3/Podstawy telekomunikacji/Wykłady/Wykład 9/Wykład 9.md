@@ -1,1 +1,1 @@
-![](Notatki/Semestr%203/Podstawy%20telekomunikacji/Wykłady/Wykład%209/Drawing%202023-12-12%2017.12.10.excalidraw.svg)
+![](/Notatki/Semestr%203/Podstawy%20telekomunikacji/Wykłady/Wykład%209/Drawing%202023-12-12%2017.12.10.excalidraw.svg)
