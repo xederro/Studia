@@ -8,30 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "57334876c064a9a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 1/Labolatoria 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "228fc50e7691056a",
+            "id": "2d484e77e378848e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 1/Drawing 2023-12-12 13.21.29.excalidraw.md"
+                "file": "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 4/Drawing 2023-12-12 15.16.42.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 1/Drawing 2023-12-12 13.21.29.excalidraw.md",
+                "file": "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 4/Drawing 2023-12-12 15.16.42.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 1/Drawing 2023-12-12 13.21.29.excalidraw.md"
+                "file": "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 4/Drawing 2023-12-12 15.16.42.excalidraw.md"
               }
             }
           },
@@ -163,8 +149,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "228fc50e7691056a",
+  "active": "2d484e77e378848e",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 4/Drawing 2023-12-12 15.16.42.excalidraw.svg",
+    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 3/Drawing 2023-11-29 15.39.15.excalidraw.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 4/Drawing 2023-12-12 15.16.42.excalidraw.md",
+    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 1/Labolatoria 1.md",
     "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 1/Drawing 2023-12-12 13.21.29.excalidraw.md",
     "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 1/Drawing 2023-12-12 13.21.29.excalidraw.svg",
@@ -176,7 +166,6 @@
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 5/Drawing 2023-11-27 12.10.55.excalidraw.svg",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/rozwiazania.pdf",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 3/Drawing 2023-11-29 15.39.15.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 5/Labolatoria 5.md",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 9/NIDUC_w13.pdf",
@@ -208,8 +197,6 @@
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 9/Drawing 2023-12-07 15.22.35.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykłady.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 6/Drawing 2023-12-05 12.14.48.excalidraw.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 5/Wykład 5.md",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
