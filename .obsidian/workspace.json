@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2331d5b21c2cf0f6",
+        "id": "c9417b18ecbfbbdc",
         "type": "tabs",
         "children": [
           {
-            "id": "192d6556d5969eb8",
+            "id": "d326982ae22fd7e1",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 10/Drawing 2023-12-13 17.10.12.excalidraw.md"
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 7/Drawing 2023-12-10 15.04.53.excalidraw.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 10/Drawing 2023-12-13 17.10.12.excalidraw.md",
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 7/Drawing 2023-12-10 15.04.53.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 10/Drawing 2023-12-13 17.10.12.excalidraw.md"
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 7/Drawing 2023-12-10 15.04.53.excalidraw.md"
               }
             }
           },
@@ -149,10 +149,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "671d26171d29a68e",
+  "active": "d326982ae22fd7e1",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 10/Untitled.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 10/Drawing 2023-12-13 17.10.12.excalidraw.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 10/Untitled.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 10/Wykład 10.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 10/Drawing 2023-12-13 17.10.12.excalidraw.svg",
