@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ed60e41f46a4e733",
+        "id": "2331d5b21c2cf0f6",
         "type": "tabs",
         "children": [
           {
-            "id": "1c2ae31386d31076",
+            "id": "192d6556d5969eb8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 3/AK1-3-18-Dodawanie i mnozenie.pdf"
+                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 10/Drawing 2023-12-13 17.10.12.excalidraw.md"
               }
             }
           }
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5069465637207
+    "width": 299.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 3/AK1-3-18-Dodawanie i mnozenie.pdf",
+                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 10/Drawing 2023-12-13 17.10.12.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 3/AK1-3-18-Dodawanie i mnozenie.pdf"
+                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 10/Drawing 2023-12-13 17.10.12.excalidraw.md"
               }
             }
           },
@@ -150,13 +151,19 @@
   },
   "active": "671d26171d29a68e",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 10/Untitled.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 10/Drawing 2023-12-13 17.10.12.excalidraw.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 10/Wykład 10.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 10/Drawing 2023-12-13 17.10.12.excalidraw.svg",
+    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 3/AK1-3-18-Dodawanie i mnozenie.pdf",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 10",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 4/Drawing 2023-12-12 15.16.42.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 4/Untitled.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 7/Drawing 2023-12-10 15.04.53.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 7/Drawing 2023-12-10 15.04.53.excalidraw.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 6/Drawing 2023-12-05 12.14.48.excalidraw.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 9/Drawing 2023-12-12 17.12.10.excalidraw.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 9/Wykład 9.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 4/Drawing 2023-12-12 15.16.42.excalidraw.svg",
@@ -184,18 +191,12 @@
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 7/lab7.circ",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 7/Drawing 2023-12-10 15.04.53.excalidraw.svg",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 7",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 4/Drawing 2023-12-08 09.20.10.excalidraw.svg",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 4/Drawing 2023-12-08 09.20.10.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 4/Pasted Image 20231208100302_799.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 4/Pasted Image 20231208100101_774.png",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 4/Pasted Image 20231208095401_754.png",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/IZSćw_ 4 odp.pdf",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Drawing 2023-11-24 09.29.49.excalidraw.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/Wykład 4.md",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
