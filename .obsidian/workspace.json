@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ebb6d52ffbcd86ab",
+        "id": "ed60e41f46a4e733",
         "type": "tabs",
         "children": [
           {
-            "id": "511701d31e4c7f69",
+            "id": "1c2ae31386d31076",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 7/Drawing 2023-12-10 15.04.53.excalidraw.md"
+                "file": "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 3/AK1-3-18-Dodawanie i mnozenie.pdf"
               }
             }
           }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 7/Drawing 2023-12-10 15.04.53.excalidraw.md",
+                "file": "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 3/AK1-3-18-Dodawanie i mnozenie.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 7/Drawing 2023-12-10 15.04.53.excalidraw.md"
+                "file": "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 3/AK1-3-18-Dodawanie i mnozenie.pdf"
               }
             }
           },
@@ -148,16 +148,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "511701d31e4c7f69",
+  "active": "671d26171d29a68e",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 7/Drawing 2023-12-10 15.04.53.excalidraw.png",
+    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 4/Drawing 2023-12-12 15.16.42.excalidraw.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 4/Untitled.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 7/Drawing 2023-12-10 15.04.53.excalidraw.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 7/Drawing 2023-12-10 15.04.53.excalidraw.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 6/Drawing 2023-12-05 12.14.48.excalidraw.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 9/Drawing 2023-12-12 17.12.10.excalidraw.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 9/Wykład 9.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 4/Drawing 2023-12-12 15.16.42.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 4/Drawing 2023-12-12 15.16.42.excalidraw.svg",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 9/Drawing 2023-12-12 17.12.10.excalidraw.svg",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 9",
