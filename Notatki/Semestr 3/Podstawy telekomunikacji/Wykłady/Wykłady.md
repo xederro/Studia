@@ -14,7 +14,7 @@ typ: 'W'
 7. [Wykład 7](/Notatki/Semestr%203/Podstawy%20telekomunikacji/Wykłady/Wykład%207/Wykład%207.md)
 8. [Wykład 8](/Notatki/Semestr%203/Podstawy%20telekomunikacji/Wykłady/Wykład%208/Wykład%208.md)
 9. [Wykład 9](/Notatki/Semestr%203/Podstawy%20telekomunikacji/Wykłady/Wykład%209/Wykład%209.md)
-10. [Wykład 10](Notatki/Semestr%203/Podstawy%20telekomunikacji/Wykłady/Wykład%2010/Wykład%2010.md)
+10. [Wykład 10](/Notatki/Semestr%203/Podstawy%20telekomunikacji/Wykłady/Wykład%2010/Wykład%2010.md)
 
 ## Zaliczenie
 przedostatni wykład - kolokwium
