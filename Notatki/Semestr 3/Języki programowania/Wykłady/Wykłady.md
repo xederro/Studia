@@ -18,3 +18,5 @@ Kolokwium
 
 JDK 17 (Oracle)
 javac ... -d ...
+
+1 lutego 2024 kolokwium

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fe2517f2a5d64823",
+        "id": "2e299716a03e73b6",
         "type": "tabs",
         "children": [
           {
-            "id": "4c768d7d82d85dc7",
+            "id": "63099f1a406d3f37",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 10/Drawing 2023-12-14 15.18.01.excalidraw.md"
+                "file": "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 5/Wyk05-jvm-wlasciwosci_watki_wyjatki-TK.pdf"
               }
             }
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5069465637207,
-    "collapsed": true
+    "width": 299.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 10/Drawing 2023-12-14 15.18.01.excalidraw.md",
+                "file": "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 5/Wyk05-jvm-wlasciwosci_watki_wyjatki-TK.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 10/Drawing 2023-12-14 15.18.01.excalidraw.md"
+                "file": "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 5/Wyk05-jvm-wlasciwosci_watki_wyjatki-TK.pdf"
               }
             }
           },
@@ -149,11 +148,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4c768d7d82d85dc7",
+  "active": "63099f1a406d3f37",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 10/Wykład 10.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykłady.md",
+    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 6/Wyk06-jdk-io-nio-komunikacja_sieciowa.pdf",
+    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 6/Wykład 6.md",
+    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 10/Drawing 2023-12-14 15.18.01.excalidraw.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykłady.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/rozklad tstudenta.pdf",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 10/Wykład 10.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 10/Drawing 2023-12-14 15.18.01.excalidraw.svg",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 10",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 7/Labolatoria 7.md",
@@ -189,11 +192,6 @@
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/rozwiazania.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 5/Labolatoria 5.md",
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 9/NIDUC_w13.pdf",
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 8/NIDUC_w11-12.pdf",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 6/Labolatoria 6.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 7/Drawing 2023-12-10 15.04.53.excalidraw.svg",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 4/Drawing 2023-12-08 09.20.10.excalidraw.svg",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 4/Pasted Image 20231208100302_799.png",
