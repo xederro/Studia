@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6184e4d6cb55d76e",
+        "id": "be6b2c4f60a0b1b7",
         "type": "tabs",
         "children": [
           {
-            "id": "0b11bff770e1af3d",
+            "id": "047cd71f4ca82c92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/From damage to discovery via virtual unwrapping.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5069465637207,
-    "collapsed": true
+    "width": 299.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -106,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/From damage to discovery via virtual unwrapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/From damage to discovery via virtual unwrapping.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,11 +143,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b11bff770e1af3d",
+  "active": "047cd71f4ca82c92",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 0/Labolatoria 0.md",
+    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria.md",
+    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 1/Labolatoria 1.md",
+    "Notatki/Semestr 3/Fizyka 3.1/Fizyka 3.1.md",
+    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 6/Labolatoria 6.md",
+    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 5/Labolatoria 5.md",
+    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 4/Labolatoria 4.md",
+    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 3/Labolatoria 3.md",
+    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 2/Labolatoria 2.md",
+    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 0/Przykładowe sprawozdanie (1).pdf",
+    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 0/Przykładowe sprawozdanie (1).pdf.crdownload",
+    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 0/Przykładowe sprawozdanie.pdf",
+    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 0/Przykładowe sprawozdanie.pdf.crdownload",
+    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 0",
+    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 6/084.pdf",
+    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 6/084.pdf.crdownload",
+    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 5/057c.pdf",
+    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 5/057c.pdf.crdownload",
+    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 4/029.pdf",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 7/Labolatoria 7.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 7/Drawing 2023-12-10 15.04.53.excalidraw.md",
+    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/From damage to discovery via virtual unwrapping.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/AI reads text from ancient Herculaneum scroll for the first time.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/implementation.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/From damage to discovery via virtual unwrapping.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/TIFF.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/voxel.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/queries.md",
@@ -168,30 +180,9 @@
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/machine learning.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/training an artificial neural network.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/machine-learning algorithm.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/The Elder Scrolls.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/Portfolio.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 3/Wyk03-jvm-dziedziczenie-interfejsy-TK.pdf",
-    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 3/ISM-TK-lect04.pdf",
-    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 4/Wyk04-jvm-lambda_kolekcje_wzorce_gui-TK.pdf",
-    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 5/Wyk05-jvm-wlasciwosci_watki_wyjatki-TK.pdf",
-    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykłady.md",
-    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 6/Wyk06-jdk-io-nio-komunikacja_sieciowa.pdf",
-    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 10/Drawing 2023-12-14 15.18.01.excalidraw.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykłady.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/rozklad tstudenta.pdf",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 10/Wykład 10.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 10/Drawing 2023-12-14 15.18.01.excalidraw.svg",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 10",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 7/Labolatoria 7.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 10/Drawing 2023-12-13 17.10.12.excalidraw.svg",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 3/AK1-3-18-Dodawanie i mnozenie.pdf",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 10",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 7/Drawing 2023-12-10 15.04.53.excalidraw.png",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 4/Drawing 2023-12-12 15.16.42.excalidraw.svg",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 9/Drawing 2023-12-12 17.12.10.excalidraw.svg",

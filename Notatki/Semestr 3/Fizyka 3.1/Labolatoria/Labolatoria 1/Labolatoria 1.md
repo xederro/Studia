@@ -1,1 +1,1 @@
-![](/Notatki/Semestr%203/Fizyka%203.1/Labolatoria/Labolatoria%201/Drawing%202023-12-12%2013.21.29.excalidraw.svg)
+![](/Notatki/Semestr%203/Fizyka%203.1/Labolatoria/Labolatoria%201/Drawing%202023-12-12%2013.21.29.excalidraw.svg)![](Notatki/Semestr%203/Fizyka%203.1/Labolatoria/Labolatoria%201/100a.pdf)![](Notatki/Semestr%203/Fizyka%203.1/Labolatoria/Labolatoria%201/100b.pdf)
