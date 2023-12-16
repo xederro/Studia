@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 0/Przykładowe sprawozdanie (1).pdf"
+                "file": "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 0/Przykładowe sprawozdanie.pdf"
               }
             }
           },
@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 1/100a.pdf",
+                "file": "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 0/Przykładowe sprawozdanie.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 1/100a.pdf"
+                "file": "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 0/Przykładowe sprawozdanie.pdf"
               }
             }
           },
@@ -159,11 +158,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d6916254c39721dc",
+  "active": "047cd71f4ca82c92",
   "lastOpenFiles": [
     "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 0/Przykładowe sprawozdanie (1).pdf",
-    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 0/Przykładowe sprawozdanie.pdf",
     "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 1/100a.pdf",
+    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 0/Przykładowe sprawozdanie.pdf",
     "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 1/Drawing 2023-12-12 13.21.29.excalidraw.md",
     "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 1/Drawing 2023-12-12 13.21.29.excalidraw.svg",
     "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 1/Labolatoria 1.md",
