@@ -8,46 +8,16 @@
 |                        |                                         |                                                                                     |
 
 Words:
-<table>
-<tbody>
-<tr>
-<td>Cethegory</td>
-<td>Sub-Cathegory</td>
-<td>Word</td>
-</tr>
-<tr>
-<td rowspan=10>Computer-Science</td>
-<td rowspan="4">AI</td>
-<td>machine-learning algorithm</td>
-</tr>
-<tr>
-<td>training an artificial neural network</td>
-</tr>
-<tr>
-<td>artificial intelligence</td>
-</tr>
-<tr>
-<td>machine learning</td>
-</tr>
-<tr>
-<td rowspan=6>General</td>
-<td>visualize</td>
-</tr>
-<tr>
-<td>resolution</td>
-</tr>
-<tr>
-<td>code</td>
-</tr>
-<tr>
-<td>algorithm</td>
-</tr>
-<tr>
-<td>queries</td>
-</tr>
-<tr>
-<td>voxel</td>
-</tr>
-</tbody>
-</table>
 
+| Cethegory        | Sub-Cathegory                   | Word                                |
+| ---------------- | ------------------------------- | ----------------------------------- |
+| Computer-Science | AI                              | [machine-learning algorithm](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/machine-learning%20algorithm.md)          |
+| Computer-Science | AI                              | [training an artificial neural network](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/training%20an%20artificial%20neural%20network.md) |
+| Computer-Science | AI                              | [artificial intelligence](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/artificial%20intelligence.md)             |
+| Computer-Science | AI                              | [machine learning](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/machine%20learning.md)                    |
+| Computer-Science | General                         | [visualize](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/visualize.md)                           |
+| Computer-Science | General                         | [resolution](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/resolution.md)                          |
+| Computer-Science | General                         | [code](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/code.md)                                |
+| Computer-Science | General                         | [algorithm](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/algorithm.md)                           |
+| Computer-Science | General                         | [queries](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/queries.md)                             |
+| Computer-Science | General                         | [voxel](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/voxel.md)                               |
