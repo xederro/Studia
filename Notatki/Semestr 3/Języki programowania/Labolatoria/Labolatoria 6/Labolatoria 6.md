@@ -39,6 +39,6 @@ Podczas laboratorium należy zbudować aplikację działającą w środowisku ro
 
 Na rysunku poniżej przedstawiono architekturę systemu.  
 
-![](Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%206/Pasted%20image%2020231218112023.png)
+![](/Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%206/Pasted%20image%2020231218112023.png)
 
 Pozostałe szczegóły mają być zgodne z ustaleniami poczynionymi na początku zajęć.
