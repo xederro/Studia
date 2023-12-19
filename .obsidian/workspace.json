@@ -11,8 +11,10 @@
             "id": "ed7c8bc993016b19",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 10/Ind_Imag_Lec_11_12_pop.pdf"
+              }
             }
           }
         ]
@@ -65,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5069465637207
+    "width": 323.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -100,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 10/Ind_Imag_Lec_11_12_pop.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 10/Ind_Imag_Lec_11_12_pop.pdf"
+              }
             }
           },
           {
@@ -145,6 +151,10 @@
   },
   "active": "ed7c8bc993016b19",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 10/Wykład 10.md",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 10/Ind_Imag_Lec_11_12_pop.pdf",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 10",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Drawing 2023-12-17 16.38.20.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Drawing 2023-12-17 16.38.20.excalidraw.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Drawing 2023-12-17 16.38.20.excalidraw.svg",
@@ -176,8 +186,6 @@
     "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 1/100b.pdf",
     "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 1/Drawing 2023-12-12 13.21.29.excalidraw.md",
     "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 0/Labolatoria 0.md",
-    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 1/100a.pdf",
-    "Notatki/Semestr 2/Miernictwo w informatyce i telekomunikacji 2/Labolatoria/Labolatoria 4/Cw_4_Pomiar_Rezystancji_i_Impedancji_2023.pdf",
     "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 1/Drawing 2023-12-12 13.21.29.excalidraw.svg",
     "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 1/Labolatoria 1.md",
     "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria.md",
@@ -187,7 +195,6 @@
     "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 4/Labolatoria 4.md",
     "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 3/Labolatoria 3.md",
     "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 2/Labolatoria 2.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/From damage to discovery via virtual unwrapping.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 10/Drawing 2023-12-14 15.18.01.excalidraw.svg",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 10/Drawing 2023-12-13 17.10.12.excalidraw.svg",
     "Untitled.canvas",
