@@ -1,0 +1,1 @@
+![](Notatki/Semestr%203/Podstawy%20telekomunikacji/Wykłady/Wykład%2011/Drawing%202023-12-20%2017.10.56.excalidraw.svg)
