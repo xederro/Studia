@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9fad8c8446f7c5d4",
+        "id": "04c6c891da1bffdf",
         "type": "tabs",
         "children": [
           {
-            "id": "384edf71840c1b67",
+            "id": "8d7a445ab0c45f95",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Drawing 2023-12-17 16.38.20.excalidraw.md"
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 5/Wykład 5.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Drawing 2023-12-17 16.38.20.excalidraw.md",
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 5/Wykład 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Drawing 2023-12-17 16.38.20.excalidraw.md"
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 5/Wykład 5.md"
               }
             }
           },
@@ -148,8 +151,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "384edf71840c1b67",
+  "active": "8d7a445ab0c45f95",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 5/Drawing 2023-12-21 17.38.35.excalidraw.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 5/LUC w7.pdf",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 5/Wykład 5.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 5/Untitled.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 5/Drawing 2023-12-21 17.38.35.excalidraw.svg",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/LUC w6.pdf",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Drawing 2023-12-17 16.38.20.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Drawing 2023-12-17 16.38.20.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Labolatoria 8.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 11/Drawing 2023-12-20 17.10.56.excalidraw.md",
@@ -169,7 +180,6 @@
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 10/Wykład 10.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 10",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Drawing 2023-12-17 16.38.20.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Drawing 2023-12-17 16.38.20.excalidraw.png",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 6/Drawing 2023-12-18 19.01.25.excalidraw.md",
@@ -186,15 +196,8 @@
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 6/Drawing 2023-12-18 07.35.21.excalidraw.md",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 6/Drawing 2023-12-18 07.35.21.excalidraw.svg",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykłady.md",
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 7/Drawing 2023-12-18 07.34.02.excalidraw.md",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 10",
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 7/Drawing 2023-12-18 07.34.02.excalidraw.svg",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 7/Drawing 2023-12-10 15.04.53.excalidraw.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Pasted Image 20231217181609_715.png",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 7/Labolatoria 7.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8",
-    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 0/Przykładowe sprawozdanie.pdf",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
