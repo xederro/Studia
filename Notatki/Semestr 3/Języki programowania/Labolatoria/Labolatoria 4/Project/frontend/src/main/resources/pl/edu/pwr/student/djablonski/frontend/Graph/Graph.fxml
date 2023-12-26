@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.LineChart?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="544.0" prefWidth="500.0" styleClass="background" stylesheets="@../styles/styles.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <LineChart fx:id="chart" prefHeight="600.0" prefWidth="665" styleClass="linechart" stylesheets="@../styles/styles.css">
+         <xAxis>
+            <CategoryAxis prefWidth="443.0" side="BOTTOM" styleClass="axis-label" />
+         </xAxis>
+         <yAxis>
+            <NumberAxis side="LEFT" styleClass="axis-label" />
+         </yAxis>
+      </LineChart>
+      <Button fx:id="button" layoutX="7.0" layoutY="1.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="106.0" styleClass="btn" text="Powrót" />
+   </children>
+</AnchorPane>

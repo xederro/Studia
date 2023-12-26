@@ -1,12 +1,7 @@
-biblioteka, **moduły**
-jakość powietrza kolorek od zielonego do czerwonego
-z getdata
+[project](Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%204/Project/project.md)
 
 https://api.gios.gov.pl/pjp-api/rest/data/getData/52 wykres
 https://api.gios.gov.pl/pjp-api/rest/aqindex/getIndex/52 kolorki
-
-
-
 Podczas laboratorium należy zbudować aplikację o przyjaznym, graficznym interfejsie użytkownika, pozwalającą na przeglądanie danych udostępnionych w Internecie poprzez otwarte API.  
 Aplikacja ma być zbudowana z wykorzystaniem klas SWING bądź JavaFX. Wyświetlane na jej interfejsie dane pochodzić mają z portalu GIOŚ. Opis wystawionego tam API znajduje się na stronie: [https://powietrze.gios.gov.pl/pjp/content/api](https://powietrze.gios.gov.pl/pjp/content/api)  
 Aplikacja powinna pozwalać na przeglądanie danych stacji pomiarowych oraz wybór stanowiska pomiarowego. Ponadto powinna wizualizować danych pomiarowe (wykres w osi czasu) oraz indeks jakości powietrza (kolory odpowiadające indeksowy). Proszę zastanowić się, jak będzie wyglądał interfejs użytkownika (czy użyć tabel, czy też zwykłych pól tekstowych; czy użyć okna dialogowe, czy też zakładki; itp.). Proszę też rozważyć przypadek niepełnych/niedostępnych danych.  

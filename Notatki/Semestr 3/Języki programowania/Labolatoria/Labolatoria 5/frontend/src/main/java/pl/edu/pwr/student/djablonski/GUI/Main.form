@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="pl.edu.pwr.student.djablonski.GUI.Main">
+  <grid id="27dc6" binding="mainPanel" layout-manager="GridLayoutManager" row-count="3" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="679" height="488"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <grid id="6b8e5" layout-manager="GridLayoutManager" row-count="9" column-count="3" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="10" left="10" bottom="5" right="10"/>
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="2" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <component id="be06b" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <text value="Number of paintable Planks per Bucker"/>
+            </properties>
+          </component>
+          <component id="5b4ab" class="javax.swing.JSlider" binding="COUNT_OF_PLANKS_PER_BUCKET">
+            <constraints>
+              <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <majorTickSpacing value="1"/>
+              <minimum value="1"/>
+              <minorTickSpacing value="1"/>
+              <value value="4"/>
+            </properties>
+          </component>
+          <component id="8b2ea" class="javax.swing.JSlider" binding="COUNT_OF_BUCKETS_IN_TANK">
+            <constraints>
+              <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <majorTickSpacing value="1"/>
+              <minimum value="1"/>
+              <minorTickSpacing value="1"/>
+              <value value="4"/>
+            </properties>
+          </component>
+          <component id="6174b" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <text value="Number of fillable Buckets in Container"/>
+            </properties>
+          </component>
+          <component id="9bfd5" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <text value="Number of Painters"/>
+            </properties>
+          </component>
+          <component id="7c96c" class="javax.swing.JSlider" binding="COUNT_OF_PAINTERS">
+            <constraints>
+              <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <majorTickSpacing value="1"/>
+              <maximum value="25"/>
+              <minimum value="1"/>
+              <minorTickSpacing value="1"/>
+              <value value="5"/>
+            </properties>
+          </component>
+          <component id="978b9" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <text value="Distance from Paint Producer"/>
+            </properties>
+          </component>
+          <component id="66995" class="javax.swing.JSlider" binding="DISTANCE_BETWEEN_PAINTPRODUCER_AND_PAINTERS">
+            <constraints>
+              <grid row="5" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <majorTickSpacing value="1"/>
+              <minimum value="1"/>
+              <minorTickSpacing value="1"/>
+              <value value="4"/>
+            </properties>
+          </component>
+          <component id="e5c" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <text value="Number of Segments in Fance"/>
+            </properties>
+          </component>
+          <component id="de4a6" class="javax.swing.JSlider" binding="COUNT_OF_SEGMENTS">
+            <constraints>
+              <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <majorTickSpacing value="1"/>
+              <minimum value="1"/>
+              <minorTickSpacing value="1"/>
+              <value value="5"/>
+            </properties>
+          </component>
+          <component id="66f51" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <text value="Number of Planks in Segment"/>
+            </properties>
+          </component>
+          <component id="c3517" class="javax.swing.JSlider" binding="COUNT_OF_PLANKS_IN_SEGMENT">
+            <constraints>
+              <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <majorTickSpacing value="1"/>
+              <minimum value="1"/>
+              <minorTickSpacing value="1"/>
+              <value value="6"/>
+            </properties>
+          </component>
+          <component id="acae3" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <text value="Time between Worker operation"/>
+            </properties>
+          </component>
+          <component id="ca16e" class="javax.swing.JSlider" binding="DURATION_OF_WORKER_OPERATION">
+            <constraints>
+              <grid row="6" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <majorTickSpacing value="1"/>
+              <maximum value="5000"/>
+              <minimum value="500"/>
+              <minorTickSpacing value="1"/>
+              <value value="1000"/>
+            </properties>
+          </component>
+          <component id="e3b03" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="7" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <text value="Duration of filling Paint Container"/>
+            </properties>
+          </component>
+          <component id="f3a0f" class="javax.swing.JSlider" binding="DURATION_OF_FILLING_PAINT_CONTAINER">
+            <constraints>
+              <grid row="7" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <majorTickSpacing value="1"/>
+              <maximum value="20000"/>
+              <minimum value="500"/>
+              <minorTickSpacing value="1"/>
+              <value value="8000"/>
+            </properties>
+          </component>
+          <component id="b4557" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="8" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                <preferred-size width="151" height="21"/>
+              </grid>
+            </constraints>
+            <properties>
+              <text value="Duration of filling Bucket"/>
+            </properties>
+          </component>
+          <component id="7c3ff" class="javax.swing.JSlider" binding="DURATION_OF_FILLING_BUCKET">
+            <constraints>
+              <grid row="8" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                <preferred-size width="200" height="21"/>
+              </grid>
+            </constraints>
+            <properties>
+              <majorTickSpacing value="1"/>
+              <maximum value="10000"/>
+              <minimum value="500"/>
+              <minorTickSpacing value="1"/>
+              <value value="4000"/>
+            </properties>
+          </component>
+          <component id="c0448" class="javax.swing.JLabel" binding="DURATION_OF_FILLING_BUCKET_count">
+            <constraints>
+              <grid row="8" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                <preferred-size width="51" height="21"/>
+              </grid>
+            </constraints>
+            <properties>
+              <text value="4000ms"/>
+            </properties>
+          </component>
+          <component id="68eb5" class="javax.swing.JLabel" binding="DURATION_OF_FILLING_PAINT_CONTAINER_count">
+            <constraints>
+              <grid row="7" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <text value="8000ms"/>
+            </properties>
+          </component>
+          <component id="3eab8" class="javax.swing.JLabel" binding="DURATION_OF_WORKER_OPERATION_count">
+            <constraints>
+              <grid row="6" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <text value="1000ms"/>
+            </properties>
+          </component>
+          <component id="5c25b" class="javax.swing.JLabel" binding="DISTANCE_BETWEEN_PAINTPRODUCER_AND_PAINTERS_count">
+            <constraints>
+              <grid row="5" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <text value="4km"/>
+            </properties>
+          </component>
+          <component id="109eb" class="javax.swing.JLabel" binding="COUNT_OF_PLANKS_PER_BUCKET_count">
+            <constraints>
+              <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <text value="4"/>
+            </properties>
+          </component>
+          <component id="f54e5" class="javax.swing.JLabel" binding="COUNT_OF_BUCKETS_IN_TANK_count">
+            <constraints>
+              <grid row="3" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <text value="4"/>
+            </properties>
+          </component>
+          <component id="a2672" class="javax.swing.JLabel" binding="COUNT_OF_PLANKS_IN_SEGMENT_count">
+            <constraints>
+              <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <text value="6"/>
+            </properties>
+          </component>
+          <component id="13b34" class="javax.swing.JLabel" binding="COUNT_OF_SEGMENTS_count">
+            <constraints>
+              <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <text value="5"/>
+            </properties>
+          </component>
+          <component id="4d65a" class="javax.swing.JLabel" binding="COUNT_OF_PAINTERS_count">
+            <constraints>
+              <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <text value="5"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <grid id="c0ab9" layout-manager="GridLayoutManager" row-count="1" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="5" left="10" bottom="10" right="10"/>
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="2" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <component id="28d9c" class="javax.swing.JButton" binding="STARTButton" default-binding="true">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <text value="START"/>
+            </properties>
+          </component>
+          <component id="3e4be" class="javax.swing.JButton" binding="STOPButton" default-binding="true">
+            <constraints>
+              <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <enabled value="false"/>
+              <text value="STOP"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <grid id="46c20" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="5" left="10" bottom="5" right="10"/>
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="2" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false">
+            <minimum-size width="350" height="150"/>
+            <preferred-size width="350" height="150"/>
+          </grid>
+        </constraints>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <scrollpane id="1187d">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="7" hsize-policy="7" anchor="0" fill="3" indent="0" use-parent-layout="false">
+                <minimum-size width="350" height="150"/>
+                <preferred-size width="350" height="150"/>
+              </grid>
+            </constraints>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <component id="3b6cd" class="javax.swing.JTextArea" binding="output">
+                <constraints/>
+                <properties>
+                  <editable value="false"/>
+                  <lineWrap value="true"/>
+                  <text value=""/>
+                </properties>
+              </component>
+            </children>
+          </scrollpane>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>

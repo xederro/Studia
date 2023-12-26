@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Tooltip?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="75.0" prefWidth="615.0" styleClass="title-pane" stylesheets="@../styles/styles.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label fx:id="title" layoutX="14.0" layoutY="14.0" prefHeight="30.0" prefWidth="345.0">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="detail" layoutX="14.0" layoutY="32.0" prefHeight="23.0" prefWidth="345.0" textFill="#4a4a4a" />
+      <Rectangle fx:id="st" arcHeight="5.0" arcWidth="5.0" fill="GAINSBORO" height="16.0" layoutX="361.0" layoutY="41.0" stroke="BLACK" strokeType="INSIDE" styleClass="level" width="39.0" />
+      <Rectangle fx:id="so2" arcHeight="5.0" arcWidth="5.0" fill="GAINSBORO" height="16.0" layoutX="401.0" layoutY="41.0" stroke="BLACK" strokeType="INSIDE" styleClass="level" width="39.0" />
+      <Rectangle fx:id="no2" arcHeight="5.0" arcWidth="5.0" fill="GAINSBORO" height="16.0" layoutX="441.0" layoutY="41.0" stroke="BLACK" strokeType="INSIDE" styleClass="level" width="39.0" />
+      <Rectangle fx:id="pm10" arcHeight="5.0" arcWidth="5.0" fill="GAINSBORO" height="16.0" layoutX="481.0" layoutY="41.0" stroke="BLACK" strokeType="INSIDE" styleClass="level" width="39.0" />
+      <Rectangle fx:id="pm25" arcHeight="5.0" arcWidth="5.0" fill="GAINSBORO" height="16.0" layoutX="521.0" layoutY="41.0" stroke="BLACK" strokeType="INSIDE" styleClass="level" width="39.0" />
+      <Rectangle fx:id="o3" arcHeight="5.0" arcWidth="5.0" fill="GAINSBORO" height="16.0" layoutX="561.0" layoutY="41.0" stroke="BLACK" strokeType="INSIDE" styleClass="level" width="39.0" />
+      <Label alignment="CENTER" layoutX="481.0" layoutY="18.0" prefHeight="23.0" prefWidth="39.0" styleClass="label" text="PM10" textAlignment="CENTER">
+         <tooltip>
+            <Tooltip text="Cząstki zawieszone o średnicy mniejszej niż 1 mikrometra" />
+         </tooltip></Label>
+      <Label alignment="CENTER" layoutX="401.0" layoutY="18.0" prefHeight="23.0" prefWidth="39.0" styleClass="label" text="SO2" textAlignment="CENTER">
+         <tooltip>
+            <Tooltip text="Poziom dwutlenku siarki" />
+         </tooltip></Label>
+      <Label alignment="CENTER" layoutX="441.0" layoutY="18.0" prefHeight="23.0" prefWidth="39.0" styleClass="label" text="NO2" textAlignment="CENTER">
+         <tooltip>
+            <Tooltip text="Poziom dwutlenku azotu" />
+         </tooltip></Label>
+      <Label alignment="CENTER" layoutX="361.0" layoutY="18.0" prefHeight="23.0" prefWidth="39.0" styleClass="label" text="ST" textAlignment="CENTER">
+         <tooltip>
+            <Tooltip text="Norma" />
+         </tooltip></Label>
+      <Label alignment="CENTER" layoutX="521.0" layoutY="18.0" prefHeight="23.0" prefWidth="39.0" styleClass="label" text="PM25" textAlignment="CENTER">
+         <tooltip>
+            <Tooltip text="Cząstki zawieszone o średnicy mniejszej niż 2,5 mikrometra" />
+         </tooltip></Label>
+      <Label alignment="CENTER" layoutX="561.0" layoutY="18.0" prefHeight="23.0" prefWidth="39.0" styleClass="label" text="O3" textAlignment="CENTER">
+         <tooltip>
+            <Tooltip text="Poziom Ozonu" />
+         </tooltip></Label>
+      <Label fx:id="detail1" layoutX="360.0" layoutY="40.0" prefHeight="16.0" prefWidth="239.0" textFill="#4a4a4a">
+         <tooltip>
+            <Tooltip text="Ciemny zielony - Bardzo Dobra, Zielony - Dobra, Żółty - Umiarkowany, Pomarańczowy - Dostateczny, Czerwony - Zły, Fioletowy - Bardzo zły" />
+         </tooltip>
+      </Label>
+   </children>
+</AnchorPane>

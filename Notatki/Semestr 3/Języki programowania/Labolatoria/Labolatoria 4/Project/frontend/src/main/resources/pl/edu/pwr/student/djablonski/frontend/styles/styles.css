@@ -1,0 +1,155 @@
+* {
+    -fx-nord0: #2e3440;
+    -fx-nord1: #3b4252;
+    -fx-nord2: #434c5e;
+    -fx-nord3: #4c566a;
+    -fx-nord4: #d8dee9;
+    -fx-nord5: #e5e9f0;
+    -fx-nord6: #eceff4;
+    -fx-nord7: #8fbcbb;
+    -fx-nord8: #88c0d0;
+    -fx-nord9: #81a1c1;
+    -fx-nord10: #5e81ac;
+    -fx-nord11: #bf616a;
+    -fx-nord12: #d08770;
+    -fx-nord13: #ebcb8b;
+    -fx-nord14: #a3be8c;
+    -fx-nord15: #b48ead;
+}
+
+.background {
+    -fx-background-color: -fx-nord0;
+}
+
+.listview-pane {
+    -fx-background-color: -fx-nord1;
+}
+
+.btn {
+    -fx-background-color: -fx-nord3;
+    -fx-text-fill: -fx-nord4;
+}
+
+.label {
+    -fx-text-fill: -fx-nord4;
+}
+
+.bg-pane {
+    -fx-background-color: -fx-nord1;
+}
+
+.title-pane{
+    -fx-text-fill: -fx-nord4;
+    -fx-background-color: -fx-nord3;
+}
+
+.title-pane:hover
+{
+    -fx-background-color: -fx-nord2;
+}
+
+.titled-pane .title
+{
+    -fx-background-color: -fx-nord3;
+}
+
+.titled-pane .title:hover
+{
+    -fx-background-color: -fx-nord2;
+}
+
+.titled-pane:hover .title
+{
+    -fx-background-color: -fx-nord2;
+}
+
+.titled-pane > .content {
+    -fx-background-color: -fx-nord3;
+}
+
+
+.level {
+    -fx-background-color: -fx-nord10;
+}
+
+.linechart{
+    -fx-background-color: -fx-nord0;
+}
+.linechart .chart-content .chart-plot-background{
+    -fx-background-color: -fx-nord0;
+}
+.linechart .chart-legend{
+    -fx-background-color: -fx-nord3;
+}
+
+.list-cell {
+    -fx-control-inner-background: -fx-nord0;
+}
+
+.linechart .default-color0.chart-series-line {
+    -fx-stroke: -fx-nord15;
+}
+
+.linechart .default-color0.chart-line-symbol {
+    -fx-background-color: -fx-nord15;
+}
+
+.axis-label {
+    -fx-text-fill: -fx-nord4;
+    -fx-font-color: -fx-nord4;
+}
+
+.axis {
+    -fx-tick-label-fill: -fx-nord4;
+}
+
+.scroll-bar:horizontal .track,
+.scroll-bar:vertical .track{
+    -fx-background-color: -fx-nord3;
+    -fx-border-color: -fx-nord3;
+    -fx-background-radius: 0.0em;
+    -fx-border-radius: 2.0em;
+}
+
+
+.scroll-bar:horizontal .increment-button ,
+.scroll-bar:horizontal .decrement-button {
+    -fx-background-color: -fx-nord3;
+    -fx-background-radius: 0.0em;
+    -fx-padding: 0.0 0.0 10.0 0.0;
+
+}
+
+.scroll-bar:vertical .increment-button ,
+.scroll-bar:vertical .decrement-button {
+    -fx-background-color: -fx-nord3;
+    -fx-background-radius: 0.0em;
+    -fx-padding: 0.0 10.0 0.0 0.0;
+
+}
+
+.scroll-bar .increment-arrow,
+.scroll-bar .decrement-arrow{
+    -fx-shape: " ";
+    -fx-padding: 0.15em 0.0;
+}
+
+.scroll-bar:vertical .increment-arrow,
+.scroll-bar:vertical .decrement-arrow{
+    -fx-shape : " ";
+    -fx-padding :0.0 0.15em;
+}
+
+.scroll-bar:horizontal .thumb,
+.scroll-bar:vertical .thumb {
+    -fx-background-color: -fx-nord10;
+    -fx-background-insets: 2.0, 0.0, 0.0;
+    -fx-background-radius: 2.0em;
+}
+
+.scroll-bar:horizontal .thumb:hover,
+.scroll-bar:vertical .thumb:hover {
+    -fx-background-color: -fx-nord10;
+    -fx-background-insets: 2.0, 0.0, 0.0;
+    -fx-background-radius: 2.0em;
+}

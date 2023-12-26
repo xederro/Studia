@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TitledPane?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<TitledPane fx:id="titledPane" animated="false" expanded="false" prefWidth="650.0" stylesheets="@../styles/styles.css" text="Test" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.edu.pwr.student.djablonski.frontend.StationCell.StationCell">
+   <content>
+      <AnchorPane prefHeight="76.0" prefWidth="637.0" styleClass="bg-pane">
+         <children>
+            <Label layoutX="31.0" layoutY="14.0" prefHeight="27.0" prefWidth="141.0" text="Dostępne Grafy:">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Button fx:id="no2" disable="true" layoutX="309.0" layoutY="18.0" styleClass="btn" text="Pokaż NO2" />
+            <Button fx:id="so2" disable="true" layoutX="230.0" layoutY="18.0" styleClass="btn" text="Pokaż SO2" />
+            <Button fx:id="pm10" disable="true" layoutX="391.0" layoutY="19.0" styleClass="btn" text="Pokaż PM10" />
+            <Button fx:id="pm25" disable="true" layoutX="479.0" layoutY="19.0" styleClass="btn" text="Pokaż PM25" />
+            <Button fx:id="o3" disable="true" layoutX="567.0" layoutY="19.0" styleClass="btn" text="Pokaż O3" />
+         </children>
+      </AnchorPane>
+   </content>
+</TitledPane>
