@@ -1,4 +1,4 @@
-[project](Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%204/Project/project.md)
+[project](/Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%204/Project/project.md)
 
 https://api.gios.gov.pl/pjp-api/rest/data/getData/52 wykres
 https://api.gios.gov.pl/pjp-api/rest/aqindex/getIndex/52 kolorki
