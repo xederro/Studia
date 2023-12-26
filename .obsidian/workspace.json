@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "04c6c891da1bffdf",
+        "id": "e989a9c265e864d2",
         "type": "tabs",
         "children": [
           {
-            "id": "8d7a445ab0c45f95",
+            "id": "a0c24d04424a6425",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 12/Wykład 12.md",
+                "file": "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 6/Labolatoria 6.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5069465637207,
-    "collapsed": true
+    "width": 323.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 12/Wykład 12.md",
+                "file": "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 6/Labolatoria 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 12/Wykład 12.md"
+                "file": "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 6/Labolatoria 6.md"
               }
             }
           },
@@ -152,14 +151,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d7a445ab0c45f95",
+  "active": "a0c24d04424a6425",
   "lastOpenFiles": [
+    "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 12/Wykład 12.md",
     "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 13/Wykład 13.md",
     "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 14/Wykład 14.md",
     "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 9/Wykład 9.md",
     "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 10/Wykład 10.md",
-    "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 12/Wykład 12.md",
     "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 11/Wykład 11.md",
     "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 13/Drawing 2023-01-17 13.18.34.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 5/Wykład 5.md",
