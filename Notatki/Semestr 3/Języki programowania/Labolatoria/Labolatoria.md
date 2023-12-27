@@ -10,7 +10,7 @@ typ: 'L'
 3. [Labolatoria 3](/Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%203/Labolatoria%203.md)
 4. [Labolatoria 4](/Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%204/Labolatoria%204.md)
 5. [Labolatoria 5](/Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%205/Labolatoria%205.md)
-6. [Labolatoria 6](Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%206/Labolatoria%206.md)
+6. [Labolatoria 6](/Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%206/Labolatoria%206.md)
 
 ## Zaliczenie
 po poniedziałkowych lab i przed wykładem konsulatacje

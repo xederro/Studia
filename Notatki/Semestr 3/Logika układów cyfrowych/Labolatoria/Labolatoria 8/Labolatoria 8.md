@@ -1,2 +1,2 @@
 ![](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%208/Drawing%202023-12-17%2016.38.20.excalidraw.svg)
-![](Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%208/lab08.circ)
+![](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%208/lab08.circ)

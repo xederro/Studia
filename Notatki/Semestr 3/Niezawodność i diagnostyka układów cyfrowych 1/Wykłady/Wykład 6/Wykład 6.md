@@ -1,2 +1,2 @@
 ![](/Notatki/Semestr%203/Niezawodność%20i%20diagnostyka%20układów%20cyfrowych%201/Wykłady/Wykład%206/NIDUC_w7_8updated.pdf)
-![](Notatki/Semestr%203/Niezawodność%20i%20diagnostyka%20układów%20cyfrowych%201/Wykłady/Wykład%206/Drawing%202023-12-18%2007.35.21.excalidraw.svg)
+![](/Notatki/Semestr%203/Niezawodność%20i%20diagnostyka%20układów%20cyfrowych%201/Wykłady/Wykład%206/Drawing%202023-12-18%2007.35.21.excalidraw.svg)
