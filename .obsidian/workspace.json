@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5e536a75abdeb5b0",
+        "id": "02349d9fa7d52178",
         "type": "tabs",
         "children": [
           {
-            "id": "e6a3a61e74895e6a",
+            "id": "2011bc336df77fa7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Podstawy telekomunikacji.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5069465637207,
-    "collapsed": true
+    "width": 330.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -101,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Podstawy telekomunikacji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Podstawy telekomunikacji.md"
+              }
             }
           },
           {
@@ -144,10 +151,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e6a3a61e74895e6a",
+  "active": "2011bc336df77fa7",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Labolatoria 4.md",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Podstawy przetwarzania sygnałów.md",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Labolatoria/Labolatoria.md",
+    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria.md",
+    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykłady.md",
+    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykłady.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 3/048.pdf",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykłady.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Labolatoria 4.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Labolatoria 8.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/lab08.circ",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 7/Labolatoria 7.md",
@@ -167,11 +185,6 @@
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 5/Project/project.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 5/Project/backend/backend.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 5/Project",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 4/Project/project.md",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 4/Labolatoria 4.md",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 4/Project/backend/backend.md",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 3/Project/database/database.md",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 3/Project/Project.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 5/Project/pom.xml",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 5/out/artifacts/frontend_jar/frontend.jar",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 5/out/artifacts/backend_jar/lab05.jar",
@@ -179,12 +192,6 @@
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 5/out/artifacts/frontend_jar",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 5/out/artifacts/backend_jar",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 5/out/artifacts",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 5/out",
-    "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 12/Wykład 12.md",
-    "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 13/Wykład 13.md",
-    "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 14/Wykład 14.md",
-    "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 8/Wykład 8.md",
-    "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 9/Wykład 9.md",
     "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 13/Drawing 2023-01-17 13.18.34.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 5/Drawing 2023-12-21 17.38.35.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Drawing 2023-12-17 16.38.20.excalidraw.svg",
