@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "02349d9fa7d52178",
+        "id": "b04805117916daf6",
         "type": "tabs",
         "children": [
           {
-            "id": "2011bc336df77fa7",
+            "id": "54071693879386c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Podstawy telekomunikacji.md",
+                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Podstawy telekomunikacji.md",
+                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Podstawy telekomunikacji.md"
+                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md"
               }
             }
           },
@@ -151,15 +151,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2011bc336df77fa7",
+  "active": "54071693879386c7",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/Portfolio.md",
+    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/The Elder Scrolls.md",
+    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/From damage to discovery via virtual unwrapping.md",
+    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/AI reads text from ancient Herculaneum scroll for the first time.md",
+    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/TIFF.md",
+    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/artificial intelligence.md",
+    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/algorithm.md",
+    "bin/bin.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Podstawy telekomunikacji.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Podstawy przetwarzania sygnałów.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykłady.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 3/048.pdf",
@@ -172,18 +181,9 @@
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 5/Labolatoria 5.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 6/Labolatoria 6.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 4/Project/frontend/frontend.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 3/Drawing 2023-11-29 15.39.15.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Pasted Image 20231217181609_715.png",
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 6/Drawing 2023-12-18 07.35.21.excalidraw.svg",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 6/Labolatoria 6.md",
-    "Notatki/Semestr 3/Języki programowania/Języki programowania.md",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 5/Labolatoria 5.md",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 5/Project/frontend/frontend.md",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 5/Project/project.md",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 5/Project/backend/backend.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 5/Project",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 5/Project/pom.xml",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 5/out/artifacts/frontend_jar/frontend.jar",
