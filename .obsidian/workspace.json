@@ -16,6 +16,16 @@
                 "file": "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 3/048.pdf"
               }
             }
+          },
+          {
+            "id": "6df790d620a7a094",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 1/Drawing 2023-12-12 13.21.29.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -67,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5069465637207,
-    "collapsed": true
+    "width": 330.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
