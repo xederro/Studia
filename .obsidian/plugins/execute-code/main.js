@@ -10636,7 +10636,7 @@ __export(main_exports, {
   supportedLanguages: () => supportedLanguages
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian41 = require("obsidian");
+var import_obsidian42 = require("obsidian");
 
 // src/Outputter.ts
 var import_events = require("events");
@@ -10891,6 +10891,8 @@ var DEFAULT_SETTINGS = {
   timeout: 1e4,
   allowInput: true,
   wslMode: false,
+  shellWSLMode: false,
+  onlyCurrentBlock: false,
   nodePath: "node",
   nodeArgs: "",
   jsFileExtension: "js",
@@ -11009,6 +11011,9 @@ var DEFAULT_SETTINGS = {
   applescriptArgs: "",
   applescriptFileExtension: "scpt",
   applescriptInject: "",
+  zigPath: "zig",
+  zigArgs: "run",
+  zigInject: "",
   jsInteractive: true,
   tsInteractive: false,
   csInteractive: false,
@@ -11038,11 +11043,12 @@ var DEFAULT_SETTINGS = {
   sqlInteractive: false,
   octaveInteractive: false,
   maximaInteractive: false,
-  applescriptInteractive: false
+  applescriptInteractive: false,
+  zigInteractive: false
 };
 
 // src/settings/SettingsTab.ts
-var import_obsidian30 = require("obsidian");
+var import_obsidian31 = require("obsidian");
 
 // src/settings/languageDisplayName.ts
 var DISPLAY_NAMES = {
@@ -11074,7 +11080,8 @@ var DISPLAY_NAMES = {
   sql: "SQL",
   octave: "Octave",
   maxima: "Maxima",
-  applescript: "Applescript"
+  applescript: "Applescript",
+  zig: "Zig"
 };
 
 // src/settings/per-lang/makeCppSettings.ts
@@ -11555,6 +11562,12 @@ var makeShellSettings_default = (tab, containerEl) => {
     console.log("Shell file extension set to: " + value);
     yield tab.plugin.saveSettings();
   })));
+  new import_obsidian23.Setting(containerEl).setName("Shell WSL mode").setDesc('Run the shell script in Windows Subsystem for Linux. This option is used if the global "WSL Mode" is disabled.').addToggle(
+    (toggle) => toggle.setValue(tab.plugin.settings.shellWSLMode).onChange((value) => __async(void 0, null, function* () {
+      tab.plugin.settings.shellWSLMode = value;
+      yield tab.plugin.saveSettings();
+    }))
+  );
   tab.makeInjectSetting(containerEl, "shell");
 };
 
@@ -11671,8 +11684,26 @@ var makeApplescriptSettings_default = (tab, containerEl) => {
   tab.makeInjectSetting(containerEl, "applescript");
 };
 
+// src/settings/per-lang/makeZigSettings.ts
+var import_obsidian30 = require("obsidian");
+var makeZigSettings_default = (tab, containerEl) => {
+  containerEl.createEl("h3", { text: "Zig Settings" });
+  new import_obsidian30.Setting(containerEl).setName("zig path").setDesc("Path to your zig installation").addText((text) => text.setValue(tab.plugin.settings.zigPath).onChange((value) => __async(void 0, null, function* () {
+    const sanitized = tab.sanitizePath(value);
+    tab.plugin.settings.zigPath = sanitized;
+    console.log("zig path set to: " + sanitized);
+    yield tab.plugin.saveSettings();
+  })));
+  new import_obsidian30.Setting(containerEl).setName("zig arguments").addText((text) => text.setValue(tab.plugin.settings.zigArgs).onChange((value) => __async(void 0, null, function* () {
+    tab.plugin.settings.zigArgs = value;
+    console.log("zig args set to: " + value);
+    yield tab.plugin.saveSettings();
+  })));
+  tab.makeInjectSetting(containerEl, "zig");
+};
+
 // src/settings/SettingsTab.ts
-var SettingsTab = class extends import_obsidian30.PluginSettingTab {
+var SettingsTab = class extends import_obsidian31.PluginSettingTab {
   constructor(app, plugin) {
     super(app, plugin);
     this.plugin = plugin;
@@ -11683,27 +11714,32 @@ var SettingsTab = class extends import_obsidian30.PluginSettingTab {
     containerEl.empty();
     containerEl.createEl("h2", { text: "Settings for the Code Execution Plugin." });
     containerEl.createEl("h3", { text: "General Settings" });
-    new import_obsidian30.Setting(containerEl).setName("Timeout (in seconds)").setDesc("The time after which a program gets shut down automatically. This is to prevent infinite loops. ").addText((text) => text.setValue("" + this.plugin.settings.timeout / 1e3).onChange((value) => __async(this, null, function* () {
+    new import_obsidian31.Setting(containerEl).setName("Timeout (in seconds)").setDesc("The time after which a program gets shut down automatically. This is to prevent infinite loops. ").addText((text) => text.setValue("" + this.plugin.settings.timeout / 1e3).onChange((value) => __async(this, null, function* () {
       if (Number(value) * 1e3) {
         console.log("Timeout set to: " + value);
         this.plugin.settings.timeout = Number(value) * 1e3;
       }
       yield this.plugin.saveSettings();
     })));
-    new import_obsidian30.Setting(containerEl).setName("Allow Input").setDesc("Whether or not to include a stdin input box when running blocks. In order to apply changes to this, Obsidian must be refreshed. ").addToggle((text) => text.setValue(this.plugin.settings.allowInput).onChange((value) => __async(this, null, function* () {
+    new import_obsidian31.Setting(containerEl).setName("Allow Input").setDesc("Whether or not to include a stdin input box when running blocks. In order to apply changes to this, Obsidian must be refreshed. ").addToggle((text) => text.setValue(this.plugin.settings.allowInput).onChange((value) => __async(this, null, function* () {
       console.log("Allow Input set to: " + value);
       this.plugin.settings.allowInput = value;
       yield this.plugin.saveSettings();
     })));
     if (process.platform === "win32") {
-      new import_obsidian30.Setting(containerEl).setName("WSL Mode").setDesc("Whether or not to run code in the Windows Subsystem for Linux. If you don't have WSL installed, don't turn this on!").addToggle((text) => text.setValue(this.plugin.settings.wslMode).onChange((value) => __async(this, null, function* () {
+      new import_obsidian31.Setting(containerEl).setName("WSL Mode").setDesc("Whether or not to run code in the Windows Subsystem for Linux. If you don't have WSL installed, don't turn this on!").addToggle((text) => text.setValue(this.plugin.settings.wslMode).onChange((value) => __async(this, null, function* () {
         console.log("WSL Mode set to: " + value);
         this.plugin.settings.wslMode = value;
         yield this.plugin.saveSettings();
       })));
     }
+    new import_obsidian31.Setting(containerEl).setName("Only Current Log").setDesc("Whether or not show print log only in current code block.").addToggle((text) => text.setValue(this.plugin.settings.onlyCurrentBlock).onChange((value) => __async(this, null, function* () {
+      console.log("Only Show Current Block Log set to: " + value);
+      this.plugin.settings.onlyCurrentBlock = value;
+      yield this.plugin.saveSettings();
+    })));
     containerEl.createEl("hr");
-    new import_obsidian30.Setting(containerEl).setName("Language-Specific Settings").setDesc("Pick a language to edit its language-specific settings").addDropdown(
+    new import_obsidian31.Setting(containerEl).setName("Language-Specific Settings").setDesc("Pick a language to edit its language-specific settings").addDropdown(
       (dropdown) => dropdown.addOptions(Object.fromEntries(
         canonicalLanguages.map((lang) => [lang, DISPLAY_NAMES[lang]])
       )).setValue(this.plugin.settings.lastOpenLanguageTab || canonicalLanguages[0]).onChange((value) => __async(this, null, function* () {
@@ -11741,6 +11777,7 @@ var SettingsTab = class extends import_obsidian30.PluginSettingTab {
     makeOctaveSettings_default(this, this.makeContainerFor("octave"));
     makeMaximaSettings_default(this, this.makeContainerFor("maxima"));
     makeApplescriptSettings_default(this, this.makeContainerFor("applescript"));
+    makeZigSettings_default(this, this.makeContainerFor("zig"));
     this.focusContainer(this.plugin.settings.lastOpenLanguageTab || canonicalLanguages[0]);
   }
   makeContainerFor(language) {
@@ -11765,7 +11802,7 @@ var SettingsTab = class extends import_obsidian30.PluginSettingTab {
   }
   makeInjectSetting(containerEl, language) {
     const languageAlt = DISPLAY_NAMES[language];
-    new import_obsidian30.Setting(containerEl).setName(`Inject ${languageAlt} code`).setDesc(`Code to add to the top of every ${languageAlt} code block before running.`).setClass("settings-code-input-box").addTextArea((textarea) => {
+    new import_obsidian31.Setting(containerEl).setName(`Inject ${languageAlt} code`).setDesc(`Code to add to the top of every ${languageAlt} code block before running.`).setClass("settings-code-input-box").addTextArea((textarea) => {
       const val = this.plugin.settings[`${language}Inject`];
       return textarea.setValue(val).onChange((value) => __async(this, null, function* () {
         this.plugin.settings[`${language}Inject`] = value;
@@ -11778,7 +11815,7 @@ var SettingsTab = class extends import_obsidian30.PluginSettingTab {
 
 // src/transforms/Magic.ts
 var os = __toESM(require("os"));
-var import_obsidian31 = require("obsidian");
+var import_obsidian32 = require("obsidian");
 var SHOW_REGEX = new RegExp(`@show\\(["'](?<path>[^<>?*=!\\n#()\\[\\]{}]+)["'](,\\s*(?<width>\\d+[\\w%]+),?\\s*(?<height>\\d+[\\w%]+))?(,\\s*(?<align>left|center|right))?\\)`, "g");
 var HTML_REGEX = new RegExp("@html\\((?<html>[^)]+)\\)", "g");
 var VAULT_REGEX = /@vault/g;
@@ -11795,14 +11832,14 @@ var OCTAVE_PLOT_REGEX = /^plot\s*\(.*\);/gm;
 var MAXIMA_PLOT_REGEX = /^plot2d\s*\(.*\[.+\]\)\s*[$;]/gm;
 function insertVaultPath(source, vaultPath) {
   source = source.replace(VAULT_PATH_REGEX, `"${vaultPath.replace(/\\/g, "/")}"`);
-  source = source.replace(VAULT_URL_REGEX, `"${import_obsidian31.Platform.resourcePathPrefix + vaultPath.replace(/\\/g, "/")}"`);
-  source = source.replace(VAULT_REGEX, `"${import_obsidian31.Platform.resourcePathPrefix + vaultPath.replace(/\\/g, "/")}"`);
+  source = source.replace(VAULT_URL_REGEX, `"${import_obsidian32.Platform.resourcePathPrefix + vaultPath.replace(/\\/g, "/")}"`);
+  source = source.replace(VAULT_REGEX, `"${import_obsidian32.Platform.resourcePathPrefix + vaultPath.replace(/\\/g, "/")}"`);
   return source;
 }
 function insertNotePath(source, notePath) {
   source = source.replace(CURRENT_NOTE_PATH_REGEX, `"${notePath.replace(/\\/g, "/")}"`);
-  source = source.replace(CURRENT_NOTE_URL_REGEX, `"${import_obsidian31.Platform.resourcePathPrefix + notePath.replace(/\\/g, "/")}"`);
-  source = source.replace(CURRENT_NOTE_REGEX, `"${import_obsidian31.Platform.resourcePathPrefix + notePath.replace(/\\/g, "/")}"`);
+  source = source.replace(CURRENT_NOTE_URL_REGEX, `"${import_obsidian32.Platform.resourcePathPrefix + notePath.replace(/\\/g, "/")}"`);
+  source = source.replace(CURRENT_NOTE_REGEX, `"${import_obsidian32.Platform.resourcePathPrefix + notePath.replace(/\\/g, "/")}"`);
   return source;
 }
 function insertNoteTitle(source, noteTitle) {
@@ -11832,7 +11869,7 @@ function addInlinePlotsToR(source) {
   const matches = source.matchAll(R_PLOT_REGEX);
   for (const match of matches) {
     const tempFile = `${os.tmpdir()}/temp_${Date.now()}.png`.replace(/\\/g, "/");
-    const substitute = `png("${tempFile}"); ${match[0]}; dev.off(); cat('${TOGGLE_HTML_SIGIL}<img src="${import_obsidian31.Platform.resourcePathPrefix + tempFile}" align="center">${TOGGLE_HTML_SIGIL}')`;
+    const substitute = `png("${tempFile}"); ${match[0]}; dev.off(); cat('${TOGGLE_HTML_SIGIL}<img src="${import_obsidian32.Platform.resourcePathPrefix + tempFile}" align="center">${TOGGLE_HTML_SIGIL}')`;
     source = source.replace(match[0], substitute);
   }
   return source;
@@ -11894,7 +11931,7 @@ function addInlinePlotsToOctave(source) {
   const matches = source.matchAll(OCTAVE_PLOT_REGEX);
   for (const match of matches) {
     const tempFile = `${os.tmpdir()}/temp_${Date.now()}.png`.replace(/\\/g, "/");
-    const substitute = `${match[0]}; print -dpng ${tempFile}; disp('${TOGGLE_HTML_SIGIL}<img src="${import_obsidian31.Platform.resourcePathPrefix + tempFile}" align="center">${TOGGLE_HTML_SIGIL}');`;
+    const substitute = `${match[0]}; print -dpng ${tempFile}; disp('${TOGGLE_HTML_SIGIL}<img src="${import_obsidian32.Platform.resourcePathPrefix + tempFile}" align="center">${TOGGLE_HTML_SIGIL}');`;
     source = source.replace(match[0], substitute);
   }
   return source;
@@ -11904,16 +11941,16 @@ function addInlinePlotsToMaxima(source) {
   for (const match of matches) {
     const tempFile = `${os.tmpdir()}/temp_${Date.now()}.png`.replace(/\\/g, "/");
     const updated_plot_call = match[0].substring(0, match[0].lastIndexOf(")")) + `, [png_file, "${tempFile}"])`;
-    const substitute = `${updated_plot_call}; print ('${TOGGLE_HTML_SIGIL}<img src="${import_obsidian31.Platform.resourcePathPrefix + tempFile}" align="center">${TOGGLE_HTML_SIGIL}');`;
+    const substitute = `${updated_plot_call}; print ('${TOGGLE_HTML_SIGIL}<img src="${import_obsidian32.Platform.resourcePathPrefix + tempFile}" align="center">${TOGGLE_HTML_SIGIL}');`;
     source = source.replace(match[0], substitute);
   }
   return source;
 }
 
 // src/Vault.ts
-var import_obsidian32 = require("obsidian");
+var import_obsidian33 = require("obsidian");
 function getVaultVariables(app) {
-  const activeView = app.workspace.getActiveViewOfType(import_obsidian32.MarkdownView);
+  const activeView = app.workspace.getActiveViewOfType(import_obsidian33.MarkdownView);
   if (activeView === null) {
     return null;
   }
@@ -11976,14 +12013,21 @@ function transformMagicCommands(app, srcCode) {
   return ret;
 }
 function getCodeBlockLanguage(firstLineOfCode) {
-  return getLanguageAlias(firstLineOfCode.split("```")[1].trim().split(" ")[0].split("{")[0]);
+  let currentLanguage = firstLineOfCode.split("```")[1].trim().split(" ")[0].split("{")[0];
+  if (isStringNotEmpty(currentLanguage) && currentLanguage.startsWith("run-")) {
+    currentLanguage = currentLanguage.replace("run-", "");
+  }
+  return getLanguageAlias(currentLanguage);
+}
+function isStringNotEmpty(str) {
+  return !!str && str.trim().length > 0;
 }
 
 // src/transforms/CodeInjector.ts
-var import_obsidian34 = require("obsidian");
+var import_obsidian35 = require("obsidian");
 
 // src/CodeBlockArgs.ts
-var import_obsidian33 = require("obsidian");
+var import_obsidian34 = require("obsidian");
 var JSON5 = __toESM(require_dist());
 function getArgs(firstLineOfCode) {
   if (!firstLineOfCode.contains("{") && !firstLineOfCode.contains("}"))
@@ -12008,7 +12052,7 @@ function getArgs(firstLineOfCode) {
     args = `{export: ['${exports.join("', '")}'], ${args}`;
     return JSON5.parse(args);
   } catch (err) {
-    new import_obsidian33.Notice(`Failed to parse code block arguments from line:
+    new import_obsidian34.Notice(`Failed to parse code block arguments from line:
 ${firstLineOfCode}
 
 Failed with error:
@@ -12032,7 +12076,7 @@ var CodeInjector = class {
   injectCode(srcCode) {
     return __async(this, null, function* () {
       const language = getLanguageAlias(this.language);
-      const activeView = this.app.workspace.getActiveViewOfType(import_obsidian34.MarkdownView);
+      const activeView = this.app.workspace.getActiveViewOfType(import_obsidian35.MarkdownView);
       if (activeView === null)
         return srcCode;
       yield this.parseFile(activeView.data, srcCode, language);
@@ -12067,10 +12111,10 @@ ${injectedCode}`;
     return __async(this, null, function* () {
       const handleNamedImport = (namedImport) => {
         if (!this.namedExports.hasOwnProperty(namedImport)) {
-          new import_obsidian34.Notice(`Named export "${namedImport}" does not exist but was imported`);
+          new import_obsidian35.Notice(`Named export "${namedImport}" does not exist but was imported`);
           return true;
         }
-        this.namedImportSrcCode += `${this.namedExports[namedImport]}
+        this.namedImportSrcCode += `${this.disable_print(this.namedExports[namedImport])}
 `;
         return false;
       };
@@ -12108,7 +12152,7 @@ ${injectedCode}`;
             }
             if (currentArgs.label) {
               if (this.namedExports.hasOwnProperty(currentArgs.label)) {
-                new import_obsidian34.Notice(`Error: named export ${currentArgs.label} exported more than once`);
+                new import_obsidian35.Notice(`Error: named export ${currentArgs.label} exported more than once`);
                 return "";
               }
               this.namedExports[currentArgs.label] = currentCode;
@@ -12116,14 +12160,15 @@ ${injectedCode}`;
             if (!Array.isArray(currentArgs.export))
               currentArgs.export = [currentArgs.export];
             if (currentArgs.export.contains("pre"))
-              this.prependSrcCode += `${currentCode}
+              this.prependSrcCode += `${this.disable_print(currentCode)}
 `;
             if (currentArgs.export.contains("post"))
-              this.appendSrcCode += `${currentCode}
+              this.appendSrcCode += `${this.disable_print(currentCode)}
 `;
             currentLanguage = "";
             currentCode = "";
             insideCodeBlock = false;
+            currentArgs = {};
           } else {
             currentLanguage = getCodeBlockLanguage(line);
             isLanguageEqual = /[^-]*$/.exec(language)[0] === /[^-]*$/.exec(currentLanguage)[0];
@@ -12140,6 +12185,13 @@ ${injectedCode}`;
       }
     });
   }
+  disable_print(code) {
+    if (!this.settings.onlyCurrentBlock) {
+      return code;
+    }
+    const pattern = /^print\s*(.*)/gm;
+    return code.replace(pattern, " ");
+  }
 };
 
 // src/ExecutorContainer.ts
@@ -12147,10 +12199,10 @@ var import_events2 = require("events");
 
 // src/executors/ReplExecutor.ts
 var import_child_process2 = require("child_process");
-var import_obsidian36 = require("obsidian");
+var import_obsidian37 = require("obsidian");
 
 // src/executors/Executor.ts
-var import_obsidian35 = require("obsidian");
+var import_obsidian36 = require("obsidian");
 var os2 = __toESM(require("os"));
 var import_stream = require("stream");
 var Executor = class extends import_stream.EventEmitter {
@@ -12165,7 +12217,7 @@ var Executor = class extends import_stream.EventEmitter {
     console.error(errorMSG);
     if (outputter)
       outputter.writeErr(errorMSG);
-    new import_obsidian35.Notice(label);
+    new import_obsidian36.Notice(label);
   }
   getTempFile(ext) {
     if (this.tempFileId === void 0)
@@ -12224,7 +12276,7 @@ var ReplExecutor = class extends AsyncExecutor {
     this.process = (0, import_child_process2.spawn)(path, args, { env: process.env });
     this.process.on("close", () => {
       this.emit("close");
-      new import_obsidian36.Notice("Runtime exited");
+      new import_obsidian37.Notice("Runtime exited");
       this.process = null;
     });
     this.process.on("error", (err) => {
@@ -12303,7 +12355,7 @@ var NodeJSExecutor = class extends ReplExecutor {
 };
 
 // src/executors/NonInteractiveCodeExecutor.ts
-var import_obsidian37 = require("obsidian");
+var import_obsidian38 = require("obsidian");
 var fs = __toESM(require("fs"));
 var child_process = __toESM(require("child_process"));
 
@@ -12335,7 +12387,7 @@ var NonInteractiveCodeExecutor = class extends Executor {
       const tempFileName = this.getTempFile(ext);
       fs.promises.writeFile(tempFileName, codeBlockContent).then(() => {
         const args = cmdArgs ? cmdArgs.split(" ") : [];
-        if (this.settings.wslMode) {
+        if (this.isWSLEnabled()) {
           args.unshift("-e", cmd);
           cmd = "wsl";
           args.push(windowsPathToWsl_default(tempFileName));
@@ -12352,6 +12404,15 @@ var NonInteractiveCodeExecutor = class extends Executor {
         resolve();
       });
     });
+  }
+  isWSLEnabled() {
+    if (this.settings.wslMode) {
+      return true;
+    }
+    if (this.language == "shell" && this.settings.shellWSLMode) {
+      return true;
+    }
+    return false;
   }
   handleChildOutput(child, outputter, fileName) {
     return __async(this, null, function* () {
@@ -12372,7 +12433,7 @@ var NonInteractiveCodeExecutor = class extends Executor {
       });
       child.on("close", (code) => {
         if (code !== 0)
-          new import_obsidian37.Notice("Error!");
+          new import_obsidian38.Notice("Error!");
         if (this.resolveRun !== void 0)
           this.resolveRun();
         outputter.closeInput();
@@ -12383,7 +12444,7 @@ var NonInteractiveCodeExecutor = class extends Executor {
         });
       });
       child.on("error", (err) => {
-        new import_obsidian37.Notice("Error!");
+        new import_obsidian38.Notice("Error!");
         outputter.writeErr(err.toString());
       });
     });
@@ -12392,7 +12453,7 @@ var NonInteractiveCodeExecutor = class extends Executor {
 
 // src/executors/PrologExecutor.ts
 var prolog = __toESM(require_core());
-var import_obsidian38 = require("obsidian");
+var import_obsidian39 = require("obsidian");
 var PrologExecutor = class extends Executor {
   constructor(settings, file) {
     super(file, "prolog");
@@ -12416,7 +12477,7 @@ var PrologExecutor = class extends Executor {
     });
   }
   runPrologCode(facts, queries, out) {
-    new import_obsidian38.Notice("Running...");
+    new import_obsidian39.Notice("Running...");
     const session = prolog.create();
     session.consult(
       facts,
@@ -12432,7 +12493,7 @@ var PrologExecutor = class extends Executor {
                 while (answersLeft && counter < this.maxPrologAnswers) {
                   yield session.answer({
                     success: function(answer) {
-                      new import_obsidian38.Notice("Done!");
+                      new import_obsidian39.Notice("Done!");
                       console.debug(`Prolog result: ${session.format_answer(answer)}`);
                       out.write(session.format_answer(answer) + "\n");
                       out.closeInput();
@@ -12441,7 +12502,7 @@ var PrologExecutor = class extends Executor {
                       answersLeft = false;
                     },
                     error: function(err) {
-                      new import_obsidian38.Notice("Error!");
+                      new import_obsidian39.Notice("Error!");
                       console.error(err);
                       answersLeft = false;
                       out.writeErr(`Error while executing code: ${err}`);
@@ -12455,7 +12516,7 @@ var PrologExecutor = class extends Executor {
                 }
               }),
               error: (err) => {
-                new import_obsidian38.Notice("Error!");
+                new import_obsidian39.Notice("Error!");
                 out.writeErr("Query failed.\n");
                 out.writeErr(err.toString());
               }
@@ -12724,11 +12785,11 @@ var ExecutorContainer = class extends import_events2.EventEmitter {
 };
 
 // src/ExecutorManagerView.ts
-var import_obsidian39 = require("obsidian");
+var import_obsidian40 = require("obsidian");
 var import_path2 = require("path");
 var EXECUTOR_MANAGER_VIEW_ID = "code-execute-manage-executors";
 var EXECUTOR_MANAGER_OPEN_VIEW_COMMAND_ID = "code-execute-open-manage-executors";
-var ExecutorManagerView = class extends import_obsidian39.ItemView {
+var ExecutorManagerView = class extends import_obsidian40.ItemView {
   constructor(leaf, executors) {
     super(leaf);
     this.executors = executors;
@@ -12804,7 +12865,7 @@ var ExecutorManagerView = class extends import_obsidian39.ItemView {
     });
     const button = document.createElement("button");
     button.addEventListener("click", () => executor.stop());
-    (0, import_obsidian39.setIcon)(button, "trash");
+    (0, import_obsidian40.setIcon)(button, "trash");
     button.setAttribute("aria-label", "Stop Runtime");
     li.appendChild(button);
     this.list.appendChild(li);
@@ -12819,10 +12880,10 @@ var ExecutorManagerView = class extends import_obsidian39.ItemView {
 };
 
 // src/runAllCodeBlocks.ts
-var import_obsidian40 = require("obsidian");
+var import_obsidian41 = require("obsidian");
 function runAllCodeBlocks(workspace) {
   const lastActiveView = workspace.getMostRecentLeaf().view;
-  if (lastActiveView instanceof import_obsidian40.TextFileView) {
+  if (lastActiveView instanceof import_obsidian41.TextFileView) {
     lastActiveView.containerEl.querySelectorAll("button." + runButtonClass).forEach((button) => {
       button.click();
     });
@@ -12860,14 +12921,15 @@ var canonicalLanguages = [
   "sql",
   "octave",
   "maxima",
-  "applescript"
+  "applescript",
+  "zig"
 ];
 var supportedLanguages = [...languageAliases, ...canonicalLanguages];
 var buttonText = "Run";
 var runButtonClass = "run-code-button";
 var runButtonDisabledClass = "run-button-disabled";
 var hasButtonClass = "has-run-code-button";
-var ExecuteCodePlugin2 = class extends import_obsidian41.Plugin {
+var ExecuteCodePlugin2 = class extends import_obsidian42.Plugin {
   onload() {
     return __async(this, null, function* () {
       yield this.loadSettings();
@@ -12880,7 +12942,7 @@ var ExecuteCodePlugin2 = class extends import_obsidian41.Plugin {
       supportedLanguages.forEach((l) => {
         console.debug(`Registering renderer for ${l}.`);
         this.registerMarkdownCodeBlockProcessor(`run-${l}`, (src, el, _ctx) => __async(this, null, function* () {
-          yield import_obsidian41.MarkdownRenderer.renderMarkdown("```" + l + "\n" + src + (src.endsWith("\n") ? "" : "\n") + "```", el, _ctx.sourcePath, null);
+          yield import_obsidian42.MarkdownRenderer.renderMarkdown("```" + l + "\n" + src + (src.endsWith("\n") ? "" : "\n") + "```", el, _ctx.sourcePath, null);
         }));
       });
       this.registerView(
@@ -12932,7 +12994,7 @@ var ExecuteCodePlugin2 = class extends import_obsidian41.Plugin {
   }
   iterateOpenFilesAndAddRunButtons() {
     this.app.workspace.iterateRootLeaves((leaf) => {
-      if (leaf.view instanceof import_obsidian41.FileView) {
+      if (leaf.view instanceof import_obsidian42.FileView) {
         this.addRunButtons(leaf.view.contentEl, leaf.view.file.path);
       }
     });
@@ -13136,6 +13198,12 @@ var ExecuteCodePlugin2 = class extends import_obsidian41.Plugin {
         button.className = runButtonDisabledClass;
         const transformedCode = yield new CodeInjector(this.app, this.settings, language).injectCode(srcCode);
         this.runCodeInShell(transformedCode, out, button, this.settings.applescriptPath, this.settings.applescriptArgs, this.settings.applescriptFileExtension, language, file);
+      }));
+    } else if (language === "zig") {
+      button.addEventListener("click", () => __async(this, null, function* () {
+        button.className = runButtonDisabledClass;
+        const transformedCode = yield new CodeInjector(this.app, this.settings, language).injectCode(srcCode);
+        this.runCodeInShell(transformedCode, out, button, this.settings.zigPath, this.settings.zigArgs, "zig", language, file);
       }));
     }
   }

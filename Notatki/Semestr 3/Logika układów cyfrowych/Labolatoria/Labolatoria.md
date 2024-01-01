@@ -13,12 +13,12 @@ typ: 'L'
 6. [Labolatoria 6](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%206/Labolatoria%206.md)
 7. [Labolatoria 7](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%207/Labolatoria%207.md)
 8. [Labolatoria 8](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%208/Labolatoria%208.md)
+9. [Labolatoria 9](Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%209/Labolatoria%209.md)
 
 [statemachines](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/statemachines.exe)
 ## Zaliczenie
 [Http://staff.iiar.pwr.wisc.pl/dariusz.banasiak](http://staff.iiar.pwr.wisc.pl/dariusz.banasiak)  
 Skorupski podstawy techniki cyfrowej  
-  
   
 Na sprawozdaniu dać informacje identyfikujace np. Grupe  
   
