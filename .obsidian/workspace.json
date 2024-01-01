@@ -11,9 +11,12 @@
             "id": "0834495e142e3676",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 9/Drawing 2024-01-01 16.46.21.excalidraw.md"
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 9/Labolatoria 9.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -67,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5069465637207,
-    "collapsed": true
+    "width": 330.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 9/Drawing 2024-01-01 16.46.21.excalidraw.md",
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 9/Labolatoria 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 9/Drawing 2024-01-01 16.46.21.excalidraw.md"
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 9/Labolatoria 9.md"
               }
             }
           },
@@ -153,9 +155,12 @@
   },
   "active": "0834495e142e3676",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 9/lab09.circ",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 9/Drawing 2024-01-01 16.46.21.excalidraw.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Drawing 2023-12-17 16.38.20.excalidraw.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Labolatoria 8.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 9/Labolatoria 9.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 9/Drawing 2024-01-01 16.46.21.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 9/Drawing 2024-01-01 16.46.21.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 9",
     "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 3/048.pdf",
@@ -180,8 +185,6 @@
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykłady.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 4/Labolatoria 4.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Labolatoria 8.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/lab08.circ",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 3/Drawing 2023-11-29 15.39.15.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Pasted Image 20231217181609_715.png",
