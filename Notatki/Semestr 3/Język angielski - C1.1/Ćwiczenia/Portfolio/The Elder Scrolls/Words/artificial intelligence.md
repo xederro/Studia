@@ -1,6 +1,6 @@
 Translation: **Sztuczna inteligencja**
 Definition: 
-**Artificial intelligence (AI) is a field of computer science that deals with the creation of intelligent agents, which are systems that can reason, learn, and act autonomously.**
+Artificial intelligence (AI) is a field of computer science that deals with the creation of intelligent agents, which are systems that can reason, learn, and act autonomously.
 
 AI research has been highly successful in developing effective techniques for solving a wide range of problems, from game playing to medical diagnosis. AI is now used in a wide variety of applications, from self-driving cars to facial recognition software.
 

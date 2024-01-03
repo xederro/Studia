@@ -16,7 +16,7 @@ Here is a table that summarizes the key characteristics of protocols:
 |**Ensure compatibility**|Protocols ensure that different devices can communicate with each other without any problems.|
 |**Ensure security and reliability**|Protocols help to ensure that data is transmitted securely and reliably.|
 
-**Protocols are a fundamental part of computer communication. They ensure that devices can communicate with each other effectively and efficiently.**
+Protocols are a fundamental part of computer communication. They ensure that devices can communicate with each other effectively and efficiently.
 
 Here are some examples of common protocols:
 

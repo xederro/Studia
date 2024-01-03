@@ -1,6 +1,6 @@
 Translation: **Algorytm uczenia maszynowego**
 Definition: 
-**A machine-learning algorithm is a set of instructions that teach a computer to learn from data.**
+A [[machine learning]] [algorithm](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/algorithm.md) is a set of instructions that teach a computer to learn from data.
 
 Machine learning algorithms are used in a wide variety of applications, including image recognition, speech recognition, natural language processing, and fraud detection. They are also used to develop autonomous systems, such as self-driving cars and robots.
 

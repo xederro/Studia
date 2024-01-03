@@ -1,6 +1,6 @@
 Translation: **Trenowanie sieci neuronowej**
 Definition:
-**Training an artificial neural network (ANN) is the process of adjusting the weights and biases of the network's connections to minimize the error between its predictions and the true target values. This is done by feeding the network with a large amount of labeled data, and then iteratively updating the weights and biases based on the error.**
+Training an artificial neural network (ANN) is the process of adjusting the weights and biases of the network's connections to minimize the error between its predictions and the true target values. This is done by feeding the network with a large amount of labeled data, and then iteratively updating the weights and biases based on the error.
 
 The training process is typically divided into the following steps:
 
@@ -20,9 +20,8 @@ There are two main phases of the training loop:
 
 The training loop continues until the error between the network's predictions and the true target values falls below a certain threshold.
 
-4. **Validation and evaluation:** Once the network has been trained, it is important to evaluate its performance on a validation set. This is a separate dataset that was not used during training, and it allows the network to be assessed on unseen data. If the validation error is too high, the network may be overfitting, which is when the network memorizes the training data rather than learning the underlying patterns. In this case, the model may not generalize well to new data.
-    
-5. **Testing and deployment:** Finally, the trained network can be evaluated on a testing set. This is a separate dataset that was not used for training or validation. If the testing error is low, the network can be deployed for real-world applications.
+1. **Validation and evaluation:** Once the network has been trained, it is important to evaluate its performance on a validation set. This is a separate dataset that was not used during training, and it allows the network to be assessed on unseen data. If the validation error is too high, the network may be overfitting, which is when the network memorizes the training data rather than learning the underlying patterns. In this case, the model may not generalize well to new data.
+2. **Testing and deployment:** Finally, the trained network can be evaluated on a testing set. This is a separate dataset that was not used for training or validation. If the testing error is low, the network can be deployed for real-world applications.
     
 
 Training an ANN is an iterative process that requires careful attention to the data, the model architecture, and the training parameters. With careful attention, ANNs can be trained to perform a wide variety of tasks, including image recognition, natural language processing, and fraud detection.

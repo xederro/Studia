@@ -1,20 +1,20 @@
 Translation: **Segmentacja**
 Definition: 
-**The process of dividing a whole into parts or segments.**
+The process of dividing a whole into parts or segments.
 
-**Segmentation can be used to divide data, images, or other objects into smaller, more manageable pieces.**
+Segmentation can be used to divide data, images, or other objects into smaller, more manageable pieces.
 
-**It is a common technique in machine learning and data analysis, and it can be used for a variety of tasks, such as image classification, object detection, and data mining.**
+It is a common technique in machine learning and data analysis, and it can be used for a variety of tasks, such as image classification, object detection, and data mining.
 
-**Segmentation can be done manually or automatically.**
+Segmentation can be done manually or automatically.
 
-**Manual segmentation is often used when the data is relatively simple and the segmentation boundaries are easy to identify.**
+Manual segmentation is often used when the data is relatively simple and the segmentation boundaries are easy to identify.
 
-**Automatic segmentation is often used when the data is more complex or the segmentation boundaries are not as clear.**
+Automatic segmentation is often used when the data is more complex or the segmentation boundaries are not as clear.
 
-**There are many different algorithms for image segmentation, and the best algorithm for a particular task will depend on the specific data and the desired outcome.**
+There are many different algorithms for image segmentation, and the best algorithm for a particular task will depend on the specific data and the desired outcome.
 
-**Here are some of the most common algorithms for image segmentation:**
+Here are some of the most common algorithms for image segmentation:
 
 - **Thresholding:** This algorithm divides an image into two segments by comparing each pixel to a threshold value.
     
@@ -25,11 +25,11 @@ Definition:
 - **Active contour:** This algorithm uses an active contour model to segment an image.
     
 
-**Segmentation is a powerful tool that can be used to extract information from data, images, and other objects.**
+Segmentation is a powerful tool that can be used to extract information from data, images, and other objects.
 
-**It is a versatile technique that can be used for a variety of tasks, and it is an essential part of many machine learning and data analysis pipelines.**
+It is a versatile technique that can be used for a variety of tasks, and it is an essential part of many machine learning and data analysis pipelines.
 
-**Here are some of the applications of segmentation:**
+Here are some of the applications of segmentation:
 
 - **Medical imaging:** Segmentation is used to identify tumors, organs, and other structures in medical images.
     

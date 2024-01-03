@@ -1,11 +1,15 @@
 ![](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/AI%20reads%20text%20from%20ancient%20Herculaneum%20scroll%20for%20the%20first%20time.pdf)
 
+---
+
 | Know                   | Want-to-know                            | Learn                                                                               |
 | ---------------------- | --------------------------------------- | ----------------------------------------------------------------------------------- |
 | What is AI             | How they read word from charcoal/scroll | That you can compete in highly scientific research related challenges and win money |
 | Where is Pompei        | How they virtually unwrapped the scroll |                                                                                     |
 | What happend in Pompei | What is "synchrotron X-ray"             |                                                                                     |
 |                        |                                         |                                                                                     |
+
+---
 
 Words:
 
