@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "34ed3d941e09d070",
+        "id": "ecaf6d5708c4267c",
         "type": "tabs",
         "children": [
           {
-            "id": "3965390fc9aabb2f",
+            "id": "2eda26c6f5949858",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 8/AK1-8-18-Sumatory CSA i multyplikatory.pdf"
+                "file": "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 6/Labolatoria 6.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 8/AK1-8-18-Sumatory CSA i multyplikatory.pdf",
+                "file": "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 6/Labolatoria 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 8/AK1-8-18-Sumatory CSA i multyplikatory.pdf"
+                "file": "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 6/Labolatoria 6.md"
               }
             }
           },
@@ -150,8 +153,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3965390fc9aabb2f",
+  "active": "2eda26c6f5949858",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 8/AK1-8-18-Sumatory CSA i multyplikatory.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 7/AK1-7-18 Szybkie sumatory.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 6/AK1-6-18-FP-2 + NUM.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 3/AK1-3-18-Dodawanie i mnozenie.pdf",
@@ -165,7 +169,6 @@
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Methods/enhancement curve.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Used Words",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Objects",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Methods",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Methods/spheroid neighborhood.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Computer-Science/AI/textual imaging.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Computer-Science/AI/machine-learning algorithm.md",
