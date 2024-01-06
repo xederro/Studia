@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5c6e544371bc0458",
+        "id": "35c9caa4f7b3ae57",
         "type": "tabs",
         "children": [
           {
-            "id": "86be9900d1d07930",
+            "id": "d39c098b6a902205",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5069465637207,
-    "collapsed": true
+    "width": 257.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -154,14 +153,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "86be9900d1d07930",
+  "active": "d39c098b6a902205",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/LUC w6.pdf",
+    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 6/Labolatoria 6.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Used Words/in situ.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/From damage to discovery via virtual unwrapping.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Computer-Science/General/computationally expensive.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/The Elder Scrolls.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/Portfolio.md",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 6/Labolatoria 6.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 8/AK1-8-18-Sumatory CSA i multyplikatory.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 7/AK1-7-18 Szybkie sumatory.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 6/AK1-6-18-FP-2 + NUM.pdf",
@@ -191,7 +191,6 @@
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Objects/second-order symmetric tensor.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Used Words/saliency.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Computer-Science/General/resolution.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Computer-Science/General/ray intersection.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 9/Drawing 2024-01-01 16.46.21.excalidraw.svg",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 3/Drawing 2023-11-29 15.39.15.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Pasted Image 20231217181609_715.png",
