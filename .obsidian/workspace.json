@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "76d3c8457525309d",
+        "id": "8709ddfa7cebeaec",
         "type": "tabs",
         "children": [
           {
-            "id": "6cdc83c57a5cafb0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/AK1_LISTY_2_8.pdf"
-              }
-            }
-          },
-          {
-            "id": "4b30f9f4fff6149c",
+            "id": "8f1661630e4ee762",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -77,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5069465637207,
-    "collapsed": true
+    "width": 257.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/AK1_LISTY_2_8.pdf",
+                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 6/Drawing 2023-12-18 19.01.25.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/AK1_LISTY_2_8.pdf"
+                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 6/Drawing 2023-12-18 19.01.25.excalidraw.md"
               }
             }
           },
@@ -161,10 +150,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6cdc83c57a5cafb0",
+  "active": "8f1661630e4ee762",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 6/Drawing 2023-12-18 19.01.25.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/AK1_LISTY_2_8.pdf",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 6/Drawing 2023-12-18 19.01.25.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 6/lista6.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md",
