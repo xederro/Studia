@@ -15,7 +15,7 @@ Liczba plusów: ++++++++
 8. [Wykład 8](/Notatki/Semestr%203/Podstawy%20przetwarzania%20sygnałów/Wykłady/Wykład%208/Wykład%208.md)
 9. [Wykład 9](/Notatki/Semestr%203/Podstawy%20przetwarzania%20sygnałów/Wykłady/Wykład%209/Wykład%209.md)
 10. [Wykład 10](/Notatki/Semestr%203/Podstawy%20przetwarzania%20sygnałów/Wykłady/Wykład%2010/Wykład%2010.md)
-11. [Wykład 11](Notatki/Semestr%203/Podstawy%20przetwarzania%20sygnałów/Wykłady/Wykład%2011/Wykład%2011.md)
+11. [Wykład 11](/Notatki/Semestr%203/Podstawy%20przetwarzania%20sygnałów/Wykłady/Wykład%2011/Wykład%2011.md)
 ## Zaliczenie
 daje plusy, każde 4 plusy to .5 do oceny
 zaliczyć labolatoria, 3.5+ oraz 2/3 wykładu to przepis
