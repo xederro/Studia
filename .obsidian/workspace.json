@@ -4,31 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "81b6e2e7ab668155",
+        "id": "40752f987558135b",
         "type": "tabs",
         "children": [
           {
-            "id": "5ce75d0939822686",
+            "id": "036b915ac00faf04",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 6/Drawing 2023-12-18 19.01.25.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "5470dd6821b76fa2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Drawing 2024-01-08 20.14.48.excalidraw.md"
+                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5069465637207,
-    "collapsed": true
+    "width": 257.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -114,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Drawing 2024-01-08 20.14.48.excalidraw.md",
+                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Drawing 2024-01-08 20.14.48.excalidraw.md"
+                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md"
               }
             }
           },
@@ -162,11 +153,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5470dd6821b76fa2",
+  "active": "036b915ac00faf04",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Drawing 2024-01-08 20.14.48.excalidraw.svg",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 11/Wykład 11.md",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 11/rozpoznawanie.pdf",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 10/Wykład 10.md",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 11",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 9/Drawing 2024-01-01 16.46.21.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 6/Drawing 2023-12-18 19.01.25.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Drawing 2024-01-08 20.14.48.excalidraw.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Drawing 2024-01-08 20.14.48.excalidraw.svg",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 5/Drawing 2023-11-27 12.10.55.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/AK1_LISTY_2_8.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 6/lista6.pdf",
@@ -194,22 +190,16 @@
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Computer-Science/General/computationally expensive.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/The Elder Scrolls.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/Portfolio.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 8/AK1-8-18-Sumatory CSA i multyplikatory.pdf",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 7/AK1-7-18 Szybkie sumatory.pdf",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/AI reads text from ancient Herculaneum scroll for the first time.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Methods/enhancement curve.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Methods/spheroid neighborhood.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Computer-Science/AI/textual imaging.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Computer-Science/AI/machine-learning algorithm.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Objects/voxel.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Methods/volumetric scanning.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 9/Drawing 2024-01-01 16.46.21.excalidraw.svg",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 3/Drawing 2023-11-29 15.39.15.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Pasted Image 20231217181609_715.png",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 6/Drawing 2023-12-18 07.35.21.excalidraw.svg",
     "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 13/Drawing 2023-01-17 13.18.34.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 5/Drawing 2023-12-21 17.38.35.excalidraw.svg",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Drawing 2023-12-17 16.38.20.excalidraw.svg",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
