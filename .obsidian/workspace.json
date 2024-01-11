@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ceb15a529058021b",
+        "id": "70c47f1c2039f8e6",
         "type": "tabs",
         "children": [
           {
-            "id": "2783c7352d7100dc",
+            "id": "4beaf4567f727391",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 12/Drawing 2024-01-10 17.09.42.excalidraw.md"
+                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 11/Drawing 2024-01-11 15.08.22.excalidraw.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 12/Drawing 2024-01-10 17.09.42.excalidraw.md",
+                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 11/Drawing 2024-01-11 15.08.22.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 12/Drawing 2024-01-10 17.09.42.excalidraw.md"
+                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 11/Drawing 2024-01-11 15.08.22.excalidraw.md"
               }
             }
           },
@@ -151,10 +151,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2783c7352d7100dc",
+  "active": "4beaf4567f727391",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 12/Wykład 12.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/rozklad FSnedecora v1v2.pdf",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 11/Drawing 2024-01-11 15.08.22.excalidraw.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/rozklad tstudenta.pdf",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 10/Drawing 2023-12-14 15.18.01.excalidraw.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 11/Wykład 11.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 11/Drawing 2024-01-11 15.08.22.excalidraw.svg",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykłady.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 11",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 12/Drawing 2024-01-10 17.09.42.excalidraw.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 12/Wykład 12.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 12/Drawing 2024-01-10 17.09.42.excalidraw.svg",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 12",
@@ -180,24 +188,16 @@
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 9/Drawing 2024-01-01 16.46.21.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Drawing 2024-01-08 20.14.48.excalidraw.svg",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 5/Drawing 2023-11-27 12.10.55.excalidraw.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/AK1_LISTY_2_8.pdf",
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 6/lista6.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 8/Ćwiczenia 8.md",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 6/Drawing 2023-12-18 07.35.21.excalidraw.md",
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 6/NIDUC_w7_8updated.pdf",
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 7/Drawing 2023-12-18 07.34.02.excalidraw.md",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 7/Drawing 2023-12-18 07.34.02.excalidraw.svg",
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Semestr 2/Miernictwo w informatyce i telekomunikacji 2/Labolatoria/Labolatoria 1/Labolatoria 1.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 6/Pasted image 20231218112023.png",
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 6/Drawing 2023-12-18 19.01.25.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 9/Drawing 2024-01-01 16.46.21.excalidraw.svg",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 3/Drawing 2023-11-29 15.39.15.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Pasted Image 20231217181609_715.png",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 6/Drawing 2023-12-18 07.35.21.excalidraw.svg",
-    "Notatki/Semestr 1/Algebra liniowa z geometrią analityczną/Wykłady/Wykład 13/Drawing 2023-01-17 13.18.34.excalidraw.svg",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
