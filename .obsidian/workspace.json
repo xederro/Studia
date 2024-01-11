@@ -4,18 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "0ea3ac156bb7fe42",
+        "id": "b6d1ebbf2c6ba5ee",
         "type": "tabs",
         "children": [
           {
-            "id": "da3ec4af1a9afaf9",
+            "id": "71a6d7069a72c1dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6faeecdc3c40f0ff",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Drawing 2024-01-11 19.50.12.excalidraw.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Drawing 2024-01-11 19.50.12.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Drawing 2024-01-11 19.50.12.excalidraw.md"
+              }
             }
           },
           {
@@ -146,8 +165,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "da3ec4af1a9afaf9",
+  "active": "6faeecdc3c40f0ff",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Pasted Image 20240111204011_267.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Pasted Image 20240111203911_265.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Pasted Image 20240111203811_257.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Pasted Image 20240111203711_264.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Pasted Image 20240111203711_254.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Pasted Image 20240111203511_269.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Pasted Image 20240111203511_260.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Pasted Image 20240111203511_243.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Pasted Image 20240111203045_986.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Pasted Image 20240111202945_983.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Pasted Image 20240111202745_982.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Drawing 2024-01-11 19.50.12.excalidraw.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 6/Wyk06-jdk-io-nio-komunikacja_sieciowa.pdf",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 4/Wyk04-jvm-lambda_kolekcje_wzorce_gui-TK.pdf",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 6/Wykład 6.md",
@@ -163,19 +197,15 @@
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/rozklad tstudenta.pdf",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 10/Drawing 2023-12-14 15.18.01.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 11/Wykład 11.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 11/Drawing 2024-01-11 15.08.22.excalidraw.svg",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 11",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 12/Drawing 2024-01-10 17.09.42.excalidraw.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 12/Wykład 12.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 12/Drawing 2024-01-10 17.09.42.excalidraw.svg",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 12",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 6/Drawing 2023-12-18 19.01.25.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Drawing 2024-01-08 20.14.48.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 4/AK1-4-18-Dzielenie.pdf",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 3/AK1-3-18-Dodawanie i mnozenie.pdf",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 5/AK1-5-18-Systemy resztowe.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 5/Drawing 2023-12-20 15.50.06.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 4/Drawing 2023-12-12 15.16.42.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md",
@@ -183,17 +213,6 @@
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/AI reads text from ancient Herculaneum scroll for the first time.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/Portfolio.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/The Elder Scrolls.md",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 11/Wykład 11.md",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 10/Wykład 10.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Drawing 2024-01-08 20.14.48.excalidraw.svg",
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 7/Drawing 2023-12-18 07.34.02.excalidraw.svg",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 6/Pasted image 20231218112023.png",
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 6/Drawing 2023-12-18 19.01.25.excalidraw.svg",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 9/Drawing 2024-01-01 16.46.21.excalidraw.svg",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 3/Drawing 2023-11-29 15.39.15.excalidraw.svg",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Pasted Image 20231217181609_715.png",
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 6/Drawing 2023-12-18 07.35.21.excalidraw.svg",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
