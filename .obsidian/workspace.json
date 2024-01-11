@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f10eee7b612d74f7",
+        "id": "0ea3ac156bb7fe42",
         "type": "tabs",
         "children": [
           {
-            "id": "0d3887f88182c00d",
+            "id": "da3ec4af1a9afaf9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 4/Wyk04-jvm-lambda_kolekcje_wzorce_gui-TK.pdf"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -67,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5069465637207,
+    "width": 263.5069465637207,
     "collapsed": true
   },
   "right": {
@@ -103,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 4/Wyk04-jvm-lambda_kolekcje_wzorce_gui-TK.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 4/Wyk04-jvm-lambda_kolekcje_wzorce_gui-TK.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -151,8 +146,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0d3887f88182c00d",
+  "active": "da3ec4af1a9afaf9",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 6/Wyk06-jdk-io-nio-komunikacja_sieciowa.pdf",
+    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 4/Wyk04-jvm-lambda_kolekcje_wzorce_gui-TK.pdf",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 7/Wykład 7.md",
@@ -179,7 +176,6 @@
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 4/AK1-4-18-Dzielenie.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 3/AK1-3-18-Dodawanie i mnozenie.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 5/AK1-5-18-Systemy resztowe.pdf",
-    "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 6/AK1-6-18-FP-2 + NUM.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 5/Drawing 2023-12-20 15.50.06.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykład 4/Drawing 2023-12-12 15.16.42.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md",
@@ -190,7 +186,6 @@
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 11/Wykład 11.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykład 10/Wykład 10.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 9/Drawing 2024-01-01 16.46.21.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Drawing 2024-01-08 20.14.48.excalidraw.svg",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 7/Drawing 2023-12-18 07.34.02.excalidraw.svg",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 6/Pasted image 20231218112023.png",
