@@ -11,8 +11,13 @@
             "id": "c186a8e944108008",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 6/Labolatoria 6.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5069465637207
+    "width": 263.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -100,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 6/Labolatoria 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 6/Labolatoria 6.md"
+              }
             }
           },
           {
@@ -147,6 +156,7 @@
   },
   "active": "c186a8e944108008",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Drawing 2024-01-11 19.50.12.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Pasted Image 20240111204011_267.png",
@@ -163,7 +173,6 @@
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 6/Wyk06-jdk-io-nio-komunikacja_sieciowa.pdf",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 4/Wyk04-jvm-lambda_kolekcje_wzorce_gui-TK.pdf",
-    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria.md",

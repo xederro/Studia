@@ -32,7 +32,7 @@ Podczas laboratorium należy zbudować aplikację działającą w środowisku ro
         Metoda returnReceipt(data) pozwalać ma Sprzedawcy na przekazanie rachunku. W tym przypadku atrybut data reprezentować ma ten rachunek.
     - korzysta z interfejsów IK, ID oraz IS wystawionych, odpowiednio, przez Magazyniera, Dostawcę i Sprzedawcę.
 - Sprzedawca (Seller),
-    - wystawia na zadanym porcie (port to parametr) interfejs IC z metodami: response(), acceptOrder().  
+    - wystawia na zadanym porcie (port to parametr) interfejs IC z metodami: response(), acceptOrder(). 
         Metoda response(type,data) ma być wykorzystywana przez Magazyniera do przesyłania odpowiedzi na żądania: register(), getOffer(), getInfo() - na podobnej zasadzie, jak w przypadku Dostawcy.  
         Metoda acceptOrder(idc,data) pozwalać ma Klientowi na przekazanie Sprzedawcy towarów, które zamierza zakupić bądź zwrócić. Atrybut idc to identyfikator Klienta (np. "4", natomiast data to lista towarów (np. "towarBrany1,towarBrany2;towarZwracany3"). Znajomość idc pozwolić ma Sprzedawcy na przekazanie rachunku do właściwego Klienta. Jeśli na liście towarów są jakieś pozycje do zwrotu, wtedy Sprzedawca zwraca je Magazynierowi.
     - korzysta z interfejsów IK oraz IS wystawionych, odpowiednio, przez Magazyniera oraz Klienta
