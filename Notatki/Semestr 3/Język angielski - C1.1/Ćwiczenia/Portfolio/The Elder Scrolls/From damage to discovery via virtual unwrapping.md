@@ -29,9 +29,9 @@ Words:
 | Computer-Science | AI | [textual imaging](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Computer-Science/AI/textual%20imaging.md) |
 | Math | Objects | [tensor](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Math/Objects/tensor.md) |
 | Math | Objects | [planar isometry](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Math/Objects/planar%20isometry.md) |
-| Math | Objects | [tangent plane](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Math/Objects/tangent%20plane.md) |
 | Math | Objects | [degenerate spheroid](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Math/Objects/degenerate%20spheroid.md) |
 | Math | Objects | [vertex](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Math/Objects/vertex.md) |
+| Math | Objects | [tangent plane](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Math/Objects/tangent%20plane.md) |
 | Math | Objects | [coefficient](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Math/Objects/coefficient.md) |
 | Math | Objects | [3D Gaussian kernel](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Math/Objects/3D%20Gaussian%20kernel.md) |
 | Math | Objects | [second-order symmetric tensor](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Math/Objects/second-order%20symmetric%20tensor.md) |

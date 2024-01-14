@@ -1,12 +1,3 @@
-Różne programy
-keeper zawsze działa
-gniazdka tylko wysyłają
-obserwator
-socket i serversocket
-
-
-
-
 Podczas laboratorium należy zbudować aplikację działającą w środowisku rozproszonym, wykorzystującą do komunikacji gniazda TCP/IP obsługiwane za pomocą klas ServerSocket oraz Socket. Dokładniej - należy zaimlementować mały systemu, w którego skład wejdą podsystemy uruchamiane równolegle (na jednym lub na kilku różnych komputerach). Zakładamy, że system będzie pełnić rolę symulatora sklepu stacjonarnego, w którym klienci zamawiają towary za pośrednictwem terminali, zaś pracownicy sklepu zajmują się dostarczeniem i sprzedażą towarów według tych zamówień (przykładem sklepu działającego wg tego schematu jest np. sklep e-obuwie). Częściami tego systemu mają być podsystemy:
 
 - Magazynier (Keeper),
