@@ -4,36 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "50cf25382e7f4d3e",
+        "id": "812ce4e592274db7",
         "type": "tabs",
         "children": [
           {
-            "id": "87d0117c532ce146",
+            "id": "3a1a5fdef2a246a8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "diagram",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Drawing 2024-01-08 20.14.48.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "99ec71cee9e23505",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/AK1_LISTY_2_8.pdf"
-              }
-            }
-          },
-          {
-            "id": "2638f46b2714df2a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/rozwiazania.pdf"
+                "file": "Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-17 13.36.36.excalidraw.svg"
               }
             }
           }
@@ -87,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5069465637207,
-    "collapsed": true
+    "width": 263.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Drawing 2024-01-08 20.14.48.excalidraw.md",
+                "file": "Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-17 13.36.36.excalidraw.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Drawing 2024-01-08 20.14.48.excalidraw.md"
+                "file": "Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Drawing 2023-03-17 13.36.36.excalidraw.svg"
               }
             }
           },
@@ -171,10 +150,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "87d0117c532ce146",
+  "active": "3a1a5fdef2a246a8",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/AK1_LISTY_2_8.pdf",
+    "Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Lista_3_MD.pdf",
+    "Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
+    "Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
+    "Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
+    "Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
+    "Notatki/Semestr 2/Matematyka dyskretna/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Drawing 2024-01-08 20.14.48.excalidraw.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/AK1_LISTY_2_8.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/rozwiazania.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Drawing 2024-01-08 20.14.48.excalidraw.svg",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 6/Ćwiczenia 6.md",
@@ -200,8 +185,6 @@
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Labolatoria 8.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 6/Labolatoria 6.md",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Ćwiczenia 5.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Drawing 2024-01-11 19.50.12.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Pasted Image 20240111204011_267.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Pasted Image 20240111203911_265.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Pasted Image 20240111203811_257.png",
@@ -211,12 +194,9 @@
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Pasted Image 20240111203511_260.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Pasted Image 20240111203511_243.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Pasted Image 20240111203045_986.png",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 6/Wyk06-jdk-io-nio-komunikacja_sieciowa.pdf",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 4/Wyk04-jvm-lambda_kolekcje_wzorce_gui-TK.pdf",
-    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykłady.md",
-    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 7",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
