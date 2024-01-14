@@ -1,2 +1,2 @@
 ![](/Notatki/Semestr%203/Architektura%20komputerów%201/Ćwiczenia/Ćwiczenia%207/lista7.pdf)
-![](Notatki/Semestr%203/Architektura%20komputerów%201/Ćwiczenia/Ćwiczenia%207/Drawing%202024-01-08%2020.14.48.excalidraw.svg)
+![](/Notatki/Semestr%203/Architektura%20komputerów%201/Ćwiczenia/Ćwiczenia%207/Drawing%202024-01-08%2020.14.48.excalidraw.svg)
