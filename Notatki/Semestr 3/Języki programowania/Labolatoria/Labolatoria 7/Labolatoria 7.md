@@ -18,5 +18,5 @@ Podczas laboratorium należy zbudować aplikację działającą w środowisku ro
 Główna różnica w specyfikacji zadania w porównaniu z poprzednim laboratorium polega na tym, że wywołania metod register() i unregister() interfejsu IKeeper mają być synchroniczne (wcześniej były asynchroniczne). Ponadto zniesiono konieczność korzystania z metody getInfo().  
 Wykorzystywane interfejsy oraz typ wyliczeniowy zostały zdefiniowane w załączonym do zadania pliku jar. Plik ten należy wykorzystać jako obowiązkową zależność we własnym projekcie.  
 Pozostałe szczegóły mają być zgodne z ustaleniami poczynionymi na początku zajęć.
-![](Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%207/shop-1.0-SNAPSHOT.jar)
-![](Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%207/shopTest.zip)
+![](/Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%207/shop-1.0-SNAPSHOT.jar)
+![](/Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%207/shopTest.zip)
