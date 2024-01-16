@@ -4,26 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4dcde2bab97bf3e9",
+        "id": "6c3dd8c9161fff3c",
         "type": "tabs",
         "children": [
           {
-            "id": "7972598500b4a9da",
+            "id": "d99fcd7faa94d37a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Drawing 2024-01-08 20.14.48.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "b8ef8fce8180dcef",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/AK1_LISTY_2_8.pdf"
+                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -77,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5069465637207,
-    "collapsed": true
+    "width": 263.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -113,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Drawing 2024-01-08 20.14.48.excalidraw.md",
+                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Drawing 2024-01-08 20.14.48.excalidraw.md"
+                "file": "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Wykłady/Wykłady.md"
               }
             }
           },
@@ -161,11 +153,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7972598500b4a9da",
+  "active": "d99fcd7faa94d37a",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Untitled.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Drawing 2024-01-08 20.14.48.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/AK1_LISTY_2_8.pdf",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Drawing 2024-01-08 20.14.48.excalidraw.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Untitled.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/rozwiazania.pdf",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/The Elder Scrolls.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/From damage to discovery via virtual unwrapping.md",
@@ -209,7 +201,6 @@
     "Untitled.canvas",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 7/Ćwiczenia 7.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 2/Drawing 2023-11-01 18.21.55.excalidraw.md",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
 }
