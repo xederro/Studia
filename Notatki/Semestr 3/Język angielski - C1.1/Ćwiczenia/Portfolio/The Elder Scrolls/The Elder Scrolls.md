@@ -1,4 +1,4 @@
-![portfolio|250](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/portfolio.png)
+![portfolio|250](./Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/portfolio.png)
 # Introduction
 
 # Selected academic papers
