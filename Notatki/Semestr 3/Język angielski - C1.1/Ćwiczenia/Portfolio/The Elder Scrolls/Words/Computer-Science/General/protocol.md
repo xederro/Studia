@@ -6,8 +6,6 @@ Protocols are used in all types of computer communication, from the way your web
 
 Protocols are important because they ensure that different devices can communicate with each other without any problems. They also help to ensure that data is transmitted securely and reliably.
 
-Here is a table that summarizes the key characteristics of protocols:
-
 |Feature|Description|
 |---|---|
 |**Set of rules**|Protocols are a set of rules that govern how computers communicate with each other.|
@@ -18,7 +16,7 @@ Here is a table that summarizes the key characteristics of protocols:
 
 Protocols are a fundamental part of computer communication. They ensure that devices can communicate with each other effectively and efficiently.
 
-Here are some examples of common protocols:
+Examples of common protocols:
 
 - **TCP/IP** (Transmission Control Protocol/Internet Protocol) is the foundation of the Internet.
 - **HTTP** (Hypertext Transfer Protocol) is the protocol used to transfer web pages between web servers and browsers.

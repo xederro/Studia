@@ -4,20 +4,12 @@ Definition:
 
 Parametric objects are used in a variety of fields, including computer graphics, design, and engineering. They are a powerful tool for creating complex and flexible objects.
 
-Here is a table that summarizes the key characteristics of parametric objects:
-
 |Feature|Description|
 |---|---|
 |**Based on parameters**|Parametric objects are based on parameters, which can be used to control their shape.|
 |**Flexible**|Parametric objects can be easily modified by changing the parameters.|
 |**Complex**|Parametric objects can be used to create complex shapes.|
 |**Versatile**|Parametric objects can be used in a variety of applications.|
-
-drive_spreadsheetExport to Sheets
-
-Parametric objects are a powerful tool that can be used to create a wide variety of objects. They are versatile and can be used in a variety of applications.
-
-Here are some example of parametric objects:
 
 - **Bezier curves:** Bezier curves are parametric curves that can be used to create smooth and flowing shapes.
     
@@ -31,5 +23,3 @@ Here are some example of parametric objects:
     
     [![Image of Parametric solid](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSK3_hSBWRQ0jXgp8Bv6K8AlhYgXGZyJe5fZz84h9fB3Wfzv0r3GBv3uYe6I_hf)
     
-
-Parametric objects are a valuable tool for anyone who needs to create complex and flexible shapes. They can be used in a variety of applications, including computer graphics, design, and engineering.

@@ -1,5 +1,6 @@
 ![](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/From%20damage%20to%20discovery%20via%20virtual%20unwrapping.pdf)
 # Summary
+In the above research paper written by Brent Seales and his team at the University of Kentucky in Lexington, advanced imaging techniques and computational methods were used to digitally reveal and read the contents of a damaged ancient scroll discovered in the ancient synagogue of En-Gedi. The scrolls ware too fragile to be physically unwrapped because of the carbonification caused by Mount Vesuvius' eruption. The team used X-ray computed tomography (CT) scans to create 3D images of the scrolls and developed pipeline for virtual unwrapping, successfully uncovering sections of the Book of Leviticus. The methods used in this research demonstrates non-invasive approach to studying ancient artifacts that otherwise would be impossible to decipher due to its fragility.
 
 ---
 

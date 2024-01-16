@@ -22,12 +22,6 @@ Pipelines can be used to automate a wide variety of tasks, such as:
 - **Model training**
 - **Model deployment**
 
-Pipelines are a powerful tool that can be used to automate tasks and improve efficiency.
-
-They are a key part of many software development workflows, and they are increasingly being used in other fields as well.
-
-Here is a table that summarizes the key characteristics of pipelines:
-
 |Feature|Description|
 |---|---|
 |**Series of interconnected processes**|Pipelines are made up of a series of interconnected processes or steps.|

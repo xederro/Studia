@@ -4,8 +4,6 @@ Computationally expensive means that a task requires a significant amount of com
 
 Computationally expensive tasks can be difficult to run on traditional computers, and they may require specialized hardware or software. This can limit the availability of these tasks to users, and it can also make them more expensive to run.
 
-Here is a table that summarizes the key characteristics of computationally expensive tasks:
-
 |Feature|Description|
 |---|---|
 |**Requires significant computing power**|Computationally expensive tasks require a lot of computing power to complete.|

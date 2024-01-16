@@ -1,6 +1,6 @@
 Translation: **Algorytm uczenia maszynowego**
 Definition: 
-A [[Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Computer-Science/AI/machine learning]] [algorithm](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Computer-Science/General/algorithm.md) is a set of instructions that teach a computer to learn from data.
+A [machine learning](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Computer-Science/AI/machine%20learning.md) [algorithm](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Computer-Science/General/algorithm.md) is a set of instructions that teach a computer to learn from data.
 
 Machine learning algorithms are used in a wide variety of applications, including image recognition, speech recognition, natural language processing, and fraud detection. They are also used to develop autonomous systems, such as self-driving cars and robots.
 
@@ -11,8 +11,6 @@ Machine learning algorithms are typically classified into three main types: supe
 - **Reinforcement learning** algorithms are trained by trial and error. The algorithm starts with a random policy and then learns to improve its policy by receiving rewards for taking actions that lead to certain outcomes. For example, a reinforcement learning algorithm could be used to train a robot to walk by giving the robot rewards for taking actions that move it forward and penalizes the robot for taking actions that cause it to fall.
 
 Machine learning algorithms are a powerful tool that can be used to solve a wide variety of problems. They are becoming increasingly important in our world and are likely to play an even greater role in the future.
-
-Here are some examples of machine learning algorithms:
 
 - **Linear regression** is a supervised learning algorithm that is used to predict a continuous target variable. For example, linear regression could be used to predict the price of a house based on its size and location.
 - **Logistic regression** is a supervised learning algorithm that is used to predict a binary target variable. For example, logistic regression could be used to predict whether a customer will churn based on their purchase history and demographics.

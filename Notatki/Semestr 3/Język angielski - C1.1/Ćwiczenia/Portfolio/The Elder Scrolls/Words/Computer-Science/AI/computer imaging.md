@@ -4,8 +4,6 @@ Computer imaging is a broad field that encompasses the creation, manipulation, a
 
 Computer imaging is used in a wide variety of applications, from the creation of movies and video games to the medical diagnosis and the scientific study of the natural world. It is a powerful tool that can be used to capture, store, and manipulate visual information in a variety of ways.
 
-Here is a table that summarizes the key characteristics of computer imaging:
-
 |Feature|Description|
 |---|---|
 |**Broad field**|Computer imaging encompasses a wide range of techniques.|
@@ -16,12 +14,10 @@ Here is a table that summarizes the key characteristics of computer imaging:
 
 Computer imaging is an essential tool in the modern world. It is used to create and share information, to understand our world, and to entertain us.
 
-Here are some examples of computer imaging applications:
+Computer imaging is a rapidly growing field, with new applications being developed all the time. It is a promising field with the potential to revolutionize the way we interact with information and the world around us.
 
 - **Movies and video games**
 - **Medical diagnosis**
 - **Scientific study**
 - **Remote sensing**
 - **Virtual reality**
-
-Computer imaging is a rapidly growing field, with new applications being developed all the time. It is a promising field with the potential to revolutionize the way we interact with information and the world around us.

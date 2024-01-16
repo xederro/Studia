@@ -2,8 +2,6 @@ Translation: **Przecięcie się samej siebie**
 Definition:
 A self-intersecting shape is a shape that crosses itself, meaning that its lines or curves pass through each other. Self-intersecting shapes are not considered to be valid in geometry, but they can still be useful for modeling certain objects.
 
-Here is a table that summarizes the key characteristics of self-intersecting shapes:
-
 |Feature|Description|
 |---|---|
 |**Lines or curves pass through each other** |Self-intersecting shapes have lines or curves that pass through each other.|
@@ -12,8 +10,5 @@ Here is a table that summarizes the key characteristics of self-intersecting sha
 
 Self-intersecting shapes can be used to model certain objects, such as knots and pretzels. They can also be used to create interesting and unusual patterns.
 
-Here is an example of a self-intersecting shape:
-
+Example:
 A Klein bottle is a self-intersecting surface that has no inside or outside.
-
-Self-intersecting shapes can be challenging to model and render, but they can add a unique and interesting element to your artwork.
