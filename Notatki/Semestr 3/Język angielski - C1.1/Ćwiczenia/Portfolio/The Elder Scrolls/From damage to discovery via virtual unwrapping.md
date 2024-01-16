@@ -1,4 +1,5 @@
 ![](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/From%20damage%20to%20discovery%20via%20virtual%20unwrapping.pdf)
+# Summary
 
 ---
 
@@ -12,8 +13,8 @@
 |                                                                                      | Find how Bullet Physics Library works                    |       |
 
 ---
-Words:
 
+# Examples of Integrated Vocabulary
 | Category | Sub-Category | Word |
 | ---- | ---- | ---- |
 | Computer-Science | General | [TIFF](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Computer-Science/General/TIFF.md) |
