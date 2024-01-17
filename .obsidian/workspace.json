@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a8bc346735190793",
+        "id": "0912a915dd70e4ae",
         "type": "tabs",
         "children": [
           {
-            "id": "69d2af041b6a2ef4",
+            "id": "e5b9b58284c37a8f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Drawing 2024-01-17 08.26.42.excalidraw.md"
+              }
             }
           }
         ]
@@ -65,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5069465637207
+    "width": 306.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -100,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Drawing 2024-01-17 08.26.42.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Drawing 2024-01-17 08.26.42.excalidraw.md"
+              }
             }
           },
           {
@@ -145,8 +151,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "69d2af041b6a2ef4",
+  "active": "e5b9b58284c37a8f",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Pasted Image 20240117093133_936.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Pasted Image 20240117091831_782.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Pasted Image 20240117090934_939.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Pasted Image 20240117090127_940.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Pasted Image 20240117085626_960.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Pasted Image 20240117085125_941.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Pasted Image 20240117084424_523.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 1/Kolokwium.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Drawing 2024-01-17 08.26.42.excalidraw.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Drawing 2024-01-17 08.26.42.excalidraw.svg",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Pasted Image 20240117082741_513.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/IZSćw_ 4 odp.pdf",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Drawing 2023-11-24 09.29.49.excalidraw.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Kolokwium 2.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykłady.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/kartawzorów_wersja robocza.pdf",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/The Elder Scrolls.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria.md",
@@ -168,31 +192,13 @@
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Objects/planar isometry.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Objects/degenerate spheroid.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Objects/coefficient.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Objects/3D Gaussian kernel.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Methods/volumetric scanning.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Methods/spheroid neighborhood.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Methods/self-intersect.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Methods/quantitative analysis.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Methods/line neighborhood.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Methods/enhancement curve.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/portfolio.png",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/AK1_LISTY_2_8.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/rozwiazania.pdf",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/shop-1.0-SNAPSHOT.jar",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/shopTest.zip",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7",
-    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 7",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 7/Pasted Image 20240115074742_392.png",
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 7/Pasted Image 20240115074742_366.png",
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 7/Pasted Image 20240115074658_030.png",
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 7/Pasted Image 20240115074657_989.png",
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 7/Pasted Image 20240115074558_039.png",
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 7/Pasted Image 20240115074557_985.png",
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 7/Pasted Image 20240115074456_999.png",
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 7/Pasted Image 20240115074456_935.png",
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 7/Pasted Image 20240115074355_931.png",
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykład 6/NIDUC_w7_8updated.pdf",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 10/lab10.bak",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]

@@ -14,7 +14,7 @@ typ: 'L'
 7. [Labolatoria 7](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%207/Labolatoria%207.md)
 8. [Labolatoria 8](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%208/Labolatoria%208.md)
 9. [Labolatoria 9](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%209/Labolatoria%209.md)
-10. [Labolatoria 10](Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%2010/Labolatoria%2010.md)
+10. [Labolatoria 10](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%2010/Labolatoria%2010.md)
 
 [statemachines](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/statemachines.exe)
 ## Zaliczenie
