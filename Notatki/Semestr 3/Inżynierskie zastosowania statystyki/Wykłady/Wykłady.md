@@ -36,4 +36,4 @@ będzie karta wzorów
 ![](/Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Wykłady/rozklad%20tstudenta.pdf)
 ![](/Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Wykłady/rozkład%20chi^2.pdf)
 ![](/Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Wykłady/rozkład%20normalny.pdf)
-![](Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Wykłady/kartawzorów_wersja%20robocza.pdf)
+![](/Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Wykłady/kartawzorów_wersja%20robocza.pdf)
