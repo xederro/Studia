@@ -16,8 +16,6 @@ Higher resolution images and displays can be more demanding on computer hardware
 
 However, the benefits of higher resolution can be worth the extra processing power. Images and displays with higher resolution will look sharper and more detailed.
 
-Here is a table that summarizes the different types of resolution:
-
 |Type of Resolution|Definition|Measurement|
 |---|---|---|
 |Display Resolution|The number of pixels that a display can show at once|Pixels per inch (PPI)|

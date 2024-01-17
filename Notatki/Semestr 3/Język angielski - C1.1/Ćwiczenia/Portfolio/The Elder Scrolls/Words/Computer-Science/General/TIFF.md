@@ -2,8 +2,6 @@ Translation: (Tagged Image File Format) **Oznaczony format pliku obrazu**
 Definition:
 TIFF is a widely used file format for storing raster images. It was developed by Adobe Systems in the 1980s, and it is now supported by a wide range of software applications and hardware devices. TIFF is a versatile format that can be used to store a variety of image types, including photographs, scans, and graphics. It is also known for its ability to preserve image quality, even when the image is opened and saved multiple times.
 
-Here is a table that summarizes the key characteristics of TIFF:
-
 |Feature|Description|
 |---|---|
 |**File type**|Raster image file format|
@@ -19,15 +17,13 @@ TIFF is known for its:
 - **Ability to preserve image quality**
 - **Versatility** in storing a variety of image types
 
-Here are some of the advantages of using TIFF:
++
 
 - **Wide compatibility:** TIFF files are compatible with a wide range of software applications and hardware devices.
 - **Image quality:** TIFF is a lossless format, which means that it preserves the original image quality, even when the image is opened and saved multiple times.
 - **Versatility:** TIFF is a versatile format that can be used to store a variety of image types, including photographs, scans, and graphics.
 
-Here are some of the disadvantages of using TIFF:
+-
 
 - **Large file size:** TIFF files can be quite large, especially when they contain high-resolution images.
 - **Complexity:** TIFF files can be complex, which can make it difficult to open and manipulate them in some software applications.
-
-In general, TIFF is a good choice for storing high-quality images that need to be preserved over time. However, if you are looking for a format that is smaller and easier to work with, you may want to consider using a different format, such as JPEG or PNG.

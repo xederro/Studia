@@ -4,15 +4,11 @@ A degenerate spheroid is a spheroid that has one or more axes of symmetry that a
 
 Degenerate spheroids are a special case of spheroids. They are not as common as regular spheroids, but they can still be useful for modeling certain objects.
 
-Here is a table that summarizes the key characteristics of degenerate spheroids:
-
 |Feature|Description|
 |---|---|
 |**Stretched along one or more directions**|A degenerate spheroid is stretched out along one or more directions.|
 |**Not as common as regular spheroids**|Degenerate spheroids are not as common as regular spheroids.|
 |**Still useful for modeling certain objects**|Degenerate spheroids can still be useful for modeling certain objects.|
-
-Degenerate spheroids can be classified into three basic types:
 
 - **Line segments:** Line segments are degenerate spheroids with two infinitely long axes.
     
@@ -20,11 +16,9 @@ Degenerate spheroids can be classified into three basic types:
     
 - **Points:** Points are degenerate spheroids with all axes infinitely long.
     
-
 Degenerate spheroids are a fundamental concept in geometry and have applications in many fields, including physics, engineering, and computer graphics.
 
-Here are some examples of how degenerate spheroids are used:
-
+Examples:
 - **Physics:** Degenerate spheroids are used to model the behavior of objects that are infinitely long, such as wires and rods.
 - **Engineering:** Degenerate spheroids are used to design structures that are strong and stable, such as beams and columns.
 - **Computer graphics:** Degenerate spheroids are used to render 3D graphics with elongated objects.

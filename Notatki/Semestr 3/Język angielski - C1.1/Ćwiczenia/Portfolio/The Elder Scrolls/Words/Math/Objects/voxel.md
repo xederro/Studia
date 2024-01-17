@@ -14,8 +14,6 @@ For example, a [voxel](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwicz
 
 They are used in a wide variety of applications, including computer graphics, 3D printing, and medical imaging.
 
-Here is an image that shows a [voxel](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Math/Objects/voxel.md) grid:
-
 [![Obraz: voxel grid](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhRc_ktn1QdasBkL3BASaxgKfdIVMigKHBfyKC0tCgVecp0uI0Gng5JnpDoNB8)
 
 As you can see, the [voxel](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Math/Objects/voxel.md) grid is a regular array of [voxels](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Math/Objects/voxel.md).
@@ -23,7 +21,3 @@ As you can see, the [voxel](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/�
 The size of the [voxel](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Math/Objects/voxel.md) grid can be adjusted to represent objects of different sizes.
 
 The value of each [voxel](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Math/Objects/voxel.md) can be used to represent the material or density of the object.
-
-[Voxels](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Math/Objects/voxel.md) are a versatile tool that can be used to represent a wide variety of 3D data.
-
-They are a powerful tool for creating realistic and immersive 3D experiences.

@@ -14,8 +14,6 @@ Automatic segmentation is often used when the data is more complex or the segmen
 
 There are many different algorithms for image segmentation, and the best algorithm for a particular task will depend on the specific data and the desired outcome.
 
-Here are some of the most common algorithms for image segmentation:
-
 - **Thresholding:** This algorithm divides an image into two segments by comparing each pixel to a threshold value.
     
 - **Clustering:** This algorithm groups pixels together based on their similarity.
@@ -28,8 +26,6 @@ Here are some of the most common algorithms for image segmentation:
 Segmentation is a powerful tool that can be used to extract information from data, images, and other objects.
 
 It is a versatile technique that can be used for a variety of tasks, and it is an essential part of many machine learning and data analysis pipelines.
-
-Here are some of the applications of segmentation:
 
 - **Medical imaging:** Segmentation is used to identify tumors, organs, and other structures in medical images.
     

@@ -2,8 +2,6 @@ Translation: **Symetryczna wielowymiarowa macierz drugiego rzędu**
 Definition: 
 A second-order symmetric [tensor](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Math/Objects/tensor.md), also known as a strain [tensor](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Math/Objects/tensor.md), is a [tensor](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Math/Objects/tensor.md) that describes the deformation of a material. It is a 3x3 matrix that contains 6 independent components.
 
-Here is a table that summarizes the key characteristics of second-order symmetric tensors:
-
 |Feature|Description|
 |---|---|
 |**Describes deformation** |A second-order symmetric tensor describes the deformation of a material.|
@@ -13,6 +11,6 @@ Here is a table that summarizes the key characteristics of second-order symmetri
 
 Second-order symmetric [tensors](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Math/Objects/tensor.md) are a fundamental concept in solid mechanics. They are used to model the deformation of materials under load and to predict the stress distribution in materials.
 
-Here is an example of how a second-order symmetric tensor is used in solid mechanics:
+Example:
 
 To calculate the stress in a material, we can apply a second-order symmetric [tensor](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Math/Objects/tensor.md) to the strain [tensor](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Math/Objects/tensor.md). The stress [tensor](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Math/Objects/tensor.md) will contain the components of stress in the three directions and shear stress in two perpendicular directions.

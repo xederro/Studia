@@ -11,11 +11,8 @@ There are many different ways to visualize data, depending on the type of data a
 - **Graphs**: Graphs are used to show the relationships between different variables. They can be used to show correlations, identify causal relationships, or model complex systems.
     
 - **Diagrams**: Diagrams are used to represent data in a more abstract way. They can be used to show organizational structures, flow processes, or causal relationships.
-    
 
-Visualization can be a powerful tool for communication, analysis, and decision-making. It can help to make data more accessible, understandable, and actionable.
-
-Here are some examples of visualizations:
+Example:
 
 - A line chart can be used to show how the price of a stock has changed over time.
 
@@ -32,5 +29,3 @@ Here are some examples of visualizations:
 - A scatterplot can be used to show the relationship between two variables.
 
 [![Obraz: scatterplot showing the relationship between two variables](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9-k81--jfe6cjw7uDrbSisyc2U_75cCTkZHri2QjMEdiyH-wnNZRhq1udZOti)
-
-Visualization is a versatile tool that can be used in a variety of contexts. It can be used to improve communication, data analysis, and decision-making.

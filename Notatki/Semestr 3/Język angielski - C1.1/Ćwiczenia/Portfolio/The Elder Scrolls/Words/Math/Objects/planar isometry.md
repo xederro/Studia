@@ -4,8 +4,6 @@ A planar isometry is a transformation that preserves the distances between point
 
 Planar isometries are a type of affine transformation. Affine transformations are a broader class of transformations that also preserve the parallelism of lines and the ratios of lengths between segments.
 
-There are three basic types of planar isometries: translations, reflections, and rotations.
-
 - **Translations:** Translations are isometries that simply move all points in a plane by a fixed distance in a fixed direction.
     
 - **Reflections:** Reflections are isometries that flip all points in a plane about a line called the axis of reflection.
@@ -14,8 +12,6 @@ There are three basic types of planar isometries: translations, reflections, and
     
 
 Planar isometries are a fundamental concept in geometry and have applications in many fields, including computer graphics, engineering, and physics.
-
-Here is a table that summarizes the key characteristics of planar isometries:
 
 |Feature|Description|
 |---|---|

@@ -4,8 +4,6 @@ Differential geometry is a branch of mathematics that studies the properties of 
 
 Differential geometry has applications in many fields, including physics, engineering, and computer graphics.
 
-Here is a table that summarizes the key characteristics of differential geometry:
-
 |Feature|Description|
 |---|---|
 |**Studies properties of curves, surfaces, and higher-dimensional spaces**|Differential geometry studies the properties of curves, surfaces, and higher-dimensional spaces using calculus.|

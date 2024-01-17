@@ -19,9 +19,3 @@ Ray tracing is a computationally intensive algorithm, but it can produce very re
 Another common [algorithm](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Computer-Science/General/algorithm.md) for calculating ray intersections is the **Bresenham's line algorithm**
 
 This [algorithm](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Computer-Science/General/algorithm.md) is a simple algorithm that can be used to draw lines on a screen.
-
-It is often used in computer graphics to draw the outlines of objects.
-
-Ray intersection is a powerful tool that can be used to simulate the behavior of light, sound, and other energy sources.
-
-It is an essential part of many fields, and it is used to create realistic images, sounds, and simulations.

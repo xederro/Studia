@@ -4,6 +4,5 @@ Definition:
 
 Salience is a key concept in a variety of fields, including psychology, neuroscience, and computer vision. It is used to explain how we perceive and process information, how we make decisions, and how we interact with the world around us.
 
-Here is an example of how salience can be used in a sentence:
-
+Example:
 The bright red stop sign is salient in the traffic scene, making it easy for drivers to notice.
