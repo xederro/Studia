@@ -1,1 +1,1 @@
-![](Notatki/Semestr%203/Architektura%20komputerów%201/Wykłady/Wykład%204/AK1-4-18-Dzielenie.pdf)![](Notatki/Semestr%203/Architektura%20komputerów%201/Wykłady/Wykład%204/Drawing%202023-12-12%2015.16.42.excalidraw.svg)
+![](/Notatki/Semestr%203/Architektura%20komputerów%201/Wykłady/Wykład%204/AK1-4-18-Dzielenie.pdf)![](/Notatki/Semestr%203/Architektura%20komputerów%201/Wykłady/Wykład%204/Drawing%202023-12-12%2015.16.42.excalidraw.svg)

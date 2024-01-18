@@ -10,4 +10,4 @@ automat asynchroniczny instrukcja 212
 
 
 
-![](Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%206/Drawing%202023-12-05%2012.14.48.excalidraw.svg)![](Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%206/lab5.circ)
+![](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%206/Drawing%202023-12-05%2012.14.48.excalidraw.svg)![](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%206/lab5.circ)

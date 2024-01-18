@@ -1,1 +1,1 @@
-![](Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Wykłady/Wykład%201/Drawing%202023-10-05%2015.25.12.excalidraw.svg)
+![](/Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Wykłady/Wykład%201/Drawing%202023-10-05%2015.25.12.excalidraw.svg)

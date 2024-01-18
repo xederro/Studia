@@ -1,2 +1,2 @@
-![](Notatki/Semestr%203/Architektura%20komputerów%201/Ćwiczenia/Ćwiczenia%203/lista3.pdf)
-![](Notatki/Semestr%203/Architektura%20komputerów%201/Ćwiczenia/Ćwiczenia%203/Drawing%202023-10-30%2013.12.27.excalidraw.svg)
+![](/Notatki/Semestr%203/Architektura%20komputerów%201/Ćwiczenia/Ćwiczenia%203/lista3.pdf)
+![](/Notatki/Semestr%203/Architektura%20komputerów%201/Ćwiczenia/Ćwiczenia%203/Drawing%202023-10-30%2013.12.27.excalidraw.svg)

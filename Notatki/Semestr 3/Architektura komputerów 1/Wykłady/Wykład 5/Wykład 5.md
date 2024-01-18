@@ -1,1 +1,1 @@
-![](Notatki/Semestr%203/Architektura%20komputerów%201/Wykłady/Wykład%205/AK1-5-18-Systemy%20resztowe.pdf)![](Notatki/Semestr%203/Architektura%20komputerów%201/Wykłady/Wykład%205/Drawing%202023-12-20%2015.50.06.excalidraw.svg)
+![](/Notatki/Semestr%203/Architektura%20komputerów%201/Wykłady/Wykład%205/AK1-5-18-Systemy%20resztowe.pdf)![](/Notatki/Semestr%203/Architektura%20komputerów%201/Wykłady/Wykład%205/Drawing%202023-12-20%2015.50.06.excalidraw.svg)

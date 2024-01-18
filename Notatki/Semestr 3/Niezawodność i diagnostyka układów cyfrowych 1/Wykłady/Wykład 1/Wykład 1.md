@@ -1,2 +1,2 @@
-![NIDUC_w1](Notatki/Semestr%203/Niezawodność%20i%20diagnostyka%20układów%20cyfrowych%201/Wykłady/Wykład%201/NIDUC_w1.pdf)
-![](Notatki/Semestr%203/Niezawodność%20i%20diagnostyka%20układów%20cyfrowych%201/Wykłady/Wykład%201/NIDUC_w2.pdf)
+![NIDUC_w1](/Notatki/Semestr%203/Niezawodność%20i%20diagnostyka%20układów%20cyfrowych%201/Wykłady/Wykład%201/NIDUC_w1.pdf)
+![](/Notatki/Semestr%203/Niezawodność%20i%20diagnostyka%20układów%20cyfrowych%201/Wykłady/Wykład%201/NIDUC_w2.pdf)

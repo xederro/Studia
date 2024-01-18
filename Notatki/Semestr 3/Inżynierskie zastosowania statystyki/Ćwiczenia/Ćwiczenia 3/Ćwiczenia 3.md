@@ -1,2 +1,2 @@
-![](Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Ćwiczenia/Ćwiczenia%203/IZSćw_%204%20odp.pdf)
-![](Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Ćwiczenia/Ćwiczenia%203/Drawing%202023-11-24%2009.29.49.excalidraw.svg)
+![](/Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Ćwiczenia/Ćwiczenia%203/IZSćw_%204%20odp.pdf)
+![](/Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Ćwiczenia/Ćwiczenia%203/Drawing%202023-11-24%2009.29.49.excalidraw.svg)
