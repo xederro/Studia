@@ -27,7 +27,7 @@ let sum = 0;
 let semestrCount = 1;
 dv.pages()
 	.where(p => p["typ"] == "GK")
-	.where(p => p["semestr"] !== 3)
+	.where(p => p["semestr"] !== 4)
 	.forEach(x=>{
 		sum+=x.ects*x.ocena
 		if (x.semestr > semestrCount) semestrCount = x.semestr

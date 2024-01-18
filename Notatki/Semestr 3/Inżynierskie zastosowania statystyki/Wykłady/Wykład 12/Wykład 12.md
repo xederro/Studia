@@ -1,0 +1,1 @@
+![](Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Wykłady/Wykład%2012/Drawing%202024-01-18%2015.18.30.excalidraw.svg)
