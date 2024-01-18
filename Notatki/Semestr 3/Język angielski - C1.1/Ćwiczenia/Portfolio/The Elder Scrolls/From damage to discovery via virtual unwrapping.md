@@ -1,23 +1,23 @@
 [From damage to discovery via virtual unwrapping](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/From%20damage%20to%20discovery%20via%20virtual%20unwrapping.pdf)
 ![](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/From%20damage%20to%20discovery%20via%20virtual%20unwrapping.pdf)
 # Summary
-In the above research paper written by Brent Seales and his team at the University of Kentucky in Lexington, advanced imaging techniques and computational methods were used to digitally reveal and read the contents of a damaged ancient scroll discovered in the ancient synagogue of En-Gedi. The scrolls ware too fragile to be physically unwrapped because of the carbonification caused by Mount Vesuvius' eruption. The team used X-ray computed tomography (CT) scans to create 3D images of the scrolls and developed pipeline for virtual unwrapping, successfully uncovering sections of the Book of Leviticus. The methods used in this research demonstrates non-invasive approach to studying ancient artifacts that otherwise would be impossible to decipher due to its fragility.
+In the above research paper written by Brent Seales and his team at the University of Kentucky in Lexington, advanced imaging techniques and computational methods were used to digitally reveal and read the contents of a damaged ancient scroll discovered in the ancient synagogue of En-Gedi. The scrolls ware too fragile to be physically unwrapped because of the carbonization caused by Mount Vesuvius' eruption. The team used X-ray computed tomography (CT) scans to create 3D images of the scrolls and developed a pipeline for virtual unwrapping, successfully uncovering sections of the Book of Leviticus. The methods used in this research demonstrates non-invasive approach to studying ancient artifacts that otherwise would be impossible to decipher due to its fragility.
 
 
-![](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Pasted%20image%2020240118204649.png)
+![](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Pasted%20image%2020240118204649.png)
 Scroll.
 
 
-![](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Pasted%20image%2020240118204538.png)
+![](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Pasted%20image%2020240118204538.png)
 Bad vs. Good surface localization.
 
 
-![](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Pasted%20image%2020240118204253.png)
+![](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Pasted%20image%2020240118204253.png)
 On left: Texturing using only intersection. 
 On right: Taking into consideration neighborhood of 7 voxels.
 
 
-![](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Pasted%20image%2020240118203851.png)
+![](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Pasted%20image%2020240118203851.png)
 The end result of a virtual unwrapping.
 
 ---
@@ -25,10 +25,10 @@ The end result of a virtual unwrapping.
 | Know                                                                                 | Want-to-know                                             | Learn |
 | ------------------------------------------------------------------------------------ | -------------------------------------------------------- | ----- |
 | What is AI                                                                           | What is Region Growing technique                         |How the pipeline was created. |
-| Where is Pompei                                                                      | What is neightborhoor-based directional filtering method | How to create the proper pipeline.      |
+| Where is Pompei                                                                      | What is neighborhood-based directional filtering method | How to create the proper pipeline.      |
 | What happend in Pompei                                                               | What is LSCM or ABF                                      |       |
 | That the reading algorithm was a part of competition for students all over the world | What is VIVO machine                                     |       |
-|                                                                                      | What is Max filter                                       |       |
+|                                                                                      | What is "Max filter"                                       |       |
 |                                                                                      | Find how Bullet Physics Library works                    |       |
 
 ---
