@@ -17,6 +17,7 @@ typ: 'C'
 10. [Ćwiczenia 10](/Notatki/Semestr%203/Architektura%20komputerów%201/Ćwiczenia/Ćwiczenia%2010/Ćwiczenia%2010.md)
 11. [Ćwiczenia 11](/Notatki/Semestr%203/Architektura%20komputerów%201/Ćwiczenia/Ćwiczenia%2011/Ćwiczenia%2011.md)
 12. [Ćwiczenia 12](/Notatki/Semestr%203/Architektura%20komputerów%201/Ćwiczenia/Ćwiczenia%2012/Ćwiczenia%2012.md)
+13. [Kolokwium](Notatki/Semestr%203/Architektura%20komputerów%201/Ćwiczenia/Kolokwium/Kolokwium.md)
 
 ## Zaliczenie
 konsultacje: pn, śr 17-19
