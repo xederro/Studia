@@ -1,2 +1,2 @@
-![](/Notatki/Semestr%203/Podstawy%20przetwarzania%20sygnałów/Wykłady/Wykład%207/Ind_Imag_Lec_1_pop.pdf)
-![](/Notatki/Semestr%203/Podstawy%20przetwarzania%20sygnałów/Wykłady/Wykład%207/Ind_Imag_Lec_2_pop.pdf)
+![](Notatki/Semestr%203/Podstawy%20przetwarzania%20sygnałów/Wykłady/Wykład%207/Ind_Imag_Lec_1_pop.pdf)
+![](Notatki/Semestr%203/Podstawy%20przetwarzania%20sygnałów/Wykłady/Wykład%207/Ind_Imag_Lec_2_pop.pdf)

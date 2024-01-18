@@ -1,5 +1,5 @@
-![](/Notatki/Semestr%203/Podstawy%20telekomunikacji/Wykłady/Wykład%201/intro.pdf)
-![](/Notatki/Semestr%203/Podstawy%20telekomunikacji/Wykłady/Wykład%201/PT%20-%20wykład%20nr%201b%20(JK).pdf)
+![](Notatki/Semestr%203/Podstawy%20telekomunikacji/Wykłady/Wykład%201/intro.pdf)
+![](Notatki/Semestr%203/Podstawy%20telekomunikacji/Wykłady/Wykład%201/PT%20-%20wykład%20nr%201b%20(JK).pdf)
 hasło: ETEW00004
 # Telekomunikacja
 komunikacja na odległość, jest dziedziną regulowaną (dla kompatybilności, )

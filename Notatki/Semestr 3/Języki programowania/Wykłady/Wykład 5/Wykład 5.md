@@ -1,1 +1,1 @@
-![](/Notatki/Semestr%203/Języki%20programowania/Wykłady/Wykład%205/Wyk05-jvm-wlasciwosci_watki_wyjatki-TK.pdf)
+![](Notatki/Semestr%203/Języki%20programowania/Wykłady/Wykład%205/Wyk05-jvm-wlasciwosci_watki_wyjatki-TK.pdf)

@@ -1,1 +1,1 @@
-![](/Notatki/Semestr%203/Podstawy%20przetwarzania%20sygnałów/Wykłady/Wykład%2010/Ind_Imag_Lec_11_12_pop.pdf)
+![](Notatki/Semestr%203/Podstawy%20przetwarzania%20sygnałów/Wykłady/Wykład%2010/Ind_Imag_Lec_11_12_pop.pdf)

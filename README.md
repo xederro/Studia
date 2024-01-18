@@ -10,7 +10,7 @@ Zalecamy zapoznanie się z:
 ## Spis treści
 ### [Semestr 1](/Notatki/Semestr%201/Semestr%201.md)
 ### [Semestr 2](/Notatki/Semestr%202/Semestr%202.md)
-### [Semestr 3](/Notatki/Semestr%203/Semestr%203.md)
+### [Semestr 3](Notatki/Semestr%203/Semestr%203.md)
 
 ### [Inne](/Notatki/Inne/Inne.md)
 

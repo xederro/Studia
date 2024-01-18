@@ -1,1 +1,1 @@
-![](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Wykłady/Wykład%204/LUC%20w6.pdf)![](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Wykłady/Wykład%204/Drawing%202023-12-07%2017.17.25.excalidraw.svg)
+![](Notatki/Semestr%203/Logika%20układów%20cyfrowych/Wykłady/Wykład%204/LUC%20w6.pdf)![](Notatki/Semestr%203/Logika%20układów%20cyfrowych/Wykłady/Wykład%204/Drawing%202023-12-07%2017.17.25.excalidraw.svg)

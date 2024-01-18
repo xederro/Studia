@@ -1,1 +1,1 @@
-![](/Notatki/Semestr%203/Fizyka%203.1/Labolatoria/Labolatoria%202/044.pdf)
+![](Notatki/Semestr%203/Fizyka%203.1/Labolatoria/Labolatoria%202/044.pdf)

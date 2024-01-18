@@ -1,2 +1,2 @@
-![](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%2010/Drawing%202024-01-14%2014.50.28.excalidraw.svg)
-![](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%2010/lab10.circ)
+![](Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%2010/Drawing%202024-01-14%2014.50.28.excalidraw.svg)
+![](Notatki/Semestr%203/Logika%20układów%20cyfrowych/Labolatoria/Labolatoria%2010/lab10.circ)

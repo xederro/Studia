@@ -1,1 +1,1 @@
-![](/Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Wykłady/Wykład%208/Drawing%202023-11-30%2015.16.35.excalidraw.svg)![](/Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Wykłady/Wykład%208/testy_normalnosc_rozkl.xlsx)
+![](Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Wykłady/Wykład%208/Drawing%202023-11-30%2015.16.35.excalidraw.svg)![](Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Wykłady/Wykład%208/testy_normalnosc_rozkl.xlsx)
