@@ -4,20 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "8ae84da9ad96b5ec",
+        "id": "87111d231ce9385d",
         "type": "tabs",
         "children": [
           {
-            "id": "8826b526f998b500",
+            "id": "1ab13805e5518a8b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 13/Drawing 2024-01-17 17.12.01.excalidraw.md"
+                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Kolokwium 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1262b2b91326c6fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykłady.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5069465637207,
-    "collapsed": true
+    "width": 306.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -103,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 13/Drawing 2024-01-17 17.12.01.excalidraw.md",
+                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykłady.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 13/Drawing 2024-01-17 17.12.01.excalidraw.md"
+                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykłady.md"
               }
             }
           },
@@ -151,54 +167,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8826b526f998b500",
+  "active": "1262b2b91326c6fa",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 13/Wykład 13.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 13/Drawing 2024-01-17 17.12.01.excalidraw.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 13/Drawing 2024-01-17 17.12.01.excalidraw.svg",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 13",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 0/Przykładowe sprawozdanie.pdf",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Kolokwium 2.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/6ED0A000",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/433F9000",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/~$IZS kolos.xlsx",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/313B9000",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/903B9000",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/DF2B9000",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/F78A9000",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/20799000",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/7D889000",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/829C8000",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Drawing 2024-01-17 20.31.53.excalidraw.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Pasted Image 20240117203454_935.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Drawing 2024-01-17 20.31.53.excalidraw.svg",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Pasted Image 20240117203203_736.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Drawing 2024-01-11 19.50.12.excalidraw.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 4/Ćwiczenia 4.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 11/Wykład 11.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 13/Wykład 13.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 13/Drawing 2024-01-17 17.12.01.excalidraw.svg",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 13/Drawing 2024-01-17 17.12.01.excalidraw.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 6/Wykład 6.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Drawing 2024-01-17 08.26.42.excalidraw.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/IZS kolos.xlsx",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Pasted Image 20240117104413_979.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Pasted Image 20240117102103_853.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Pasted Image 20240117095543_015.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Pasted Image 20240117094733_934.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Pasted Image 20240117093133_936.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Pasted Image 20240117091831_782.png",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Pasted Image 20240117090934_939.png",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Pasted Image 20240117090127_940.png",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/Pasted Image 20240117085626_960.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 1/Kolokwium.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/IZSćw_ 4 odp.pdf",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Drawing 2023-11-24 09.29.49.excalidraw.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/kartawzorów_wersja robocza.pdf",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/The Elder Scrolls.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 10/Labolatoria 10.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/AI reads text from ancient Herculaneum scroll for the first time.pdf",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/From damage to discovery via virtual unwrapping.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/AI reads text from ancient Herculaneum scroll for the first time.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/From damage to discovery via virtual unwrapping.pdf",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Used Words/uniformly.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Used Words/saliency.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Used Words/in situ.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Used Words/cue.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Used Words/coherent.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Objects/voxel.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Objects/vertex.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Objects/tensor.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Objects/tangent plane.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/AK1_LISTY_2_8.pdf",
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/rozwiazania.pdf",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
