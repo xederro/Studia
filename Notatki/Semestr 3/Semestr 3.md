@@ -2,7 +2,7 @@
 1. [Architektura komputerów 1](/Notatki/Semestr%203/Architektura%20komputerów%201/Architektura%20komputerów%201.md)
 2. [Fizyka 3.1](/Notatki/Semestr%203/Fizyka%203.1/Fizyka%203.1.md)
 3. [Inżynierskie zastosowania statystyki](/Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Inżynierskie%20zastosowania%20statystyki.md)
-4. [Język angielski - C1.1](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Język%20angielski%20-%20C1.1.md)
+4. [Język angielski - C1.1](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Język%20angielski%20-%20C1.1.md)
 5. [Języki programowania](/Notatki/Semestr%203/Języki%20programowania/Języki%20programowania.md)
 6. [Logika układów cyfrowych](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Logika%20układów%20cyfrowych.md)
 7. [Niezawodność i diagnostyka układów cyfrowych 1](/Notatki/Semestr%203/Niezawodność%20i%20diagnostyka%20układów%20cyfrowych%201/Niezawodność%20i%20diagnostyka%20układów%20cyfrowych%201.md)

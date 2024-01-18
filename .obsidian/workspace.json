@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6b47ec944891df0f",
+        "id": "1b48425c255187c8",
         "type": "tabs",
         "children": [
           {
-            "id": "38c77e8d1a3e246d",
+            "id": "5ae6dd1c604b06d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/The Elder Scrolls.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/AI reads text from ancient Herculaneum scroll for the first time.pdf"
               }
             }
           }
@@ -70,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5069465637207,
-    "collapsed": true
+    "width": 306.5069465637207
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/The Elder Scrolls.md",
+                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/AI reads text from ancient Herculaneum scroll for the first time.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/The Elder Scrolls.md"
+                "file": "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/AI reads text from ancient Herculaneum scroll for the first time.pdf"
               }
             }
           },
@@ -154,10 +150,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "38c77e8d1a3e246d",
+  "active": "671d26171d29a68e",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/AI reads text from ancient Herculaneum scroll for the first time.md",
+    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/The Elder Scrolls.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/From damage to discovery via virtual unwrapping.md",
+    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/AI reads text from ancient Herculaneum scroll for the first time.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 10/Drawing 2024-01-14 14.50.28.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Kolokwium/Drawing 2024-01-18 09.17.08.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Kolokwium/Kolokwium.md",
@@ -197,7 +194,6 @@
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 1/Kolokwium.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Drawing 2023-11-24 09.29.49.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/Ćwiczenia 3.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/The Elder Scrolls.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 10/Labolatoria 10.md",
