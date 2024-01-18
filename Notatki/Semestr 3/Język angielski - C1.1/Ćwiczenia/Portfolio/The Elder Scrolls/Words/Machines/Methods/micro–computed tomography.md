@@ -1,5 +1,7 @@
 Translation: **Tomografia komputerowa drobnocząsteczkowa**
+
 Definition: 
+
 Microcomputed tomography (µCT) is a non-invasive imaging technique that uses X-rays to create three-dimensional images of objects at the microscale. It is a powerful tool for visualizing structures that cannot be seen with traditional microscopy.
 
 |Feature|Description|

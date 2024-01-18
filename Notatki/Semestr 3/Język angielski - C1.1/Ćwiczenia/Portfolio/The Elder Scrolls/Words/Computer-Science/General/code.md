@@ -1,5 +1,7 @@
 Translation: **Kod**
+
 Definition:
+
 Code is a set of instructions that tell a computer what to do.
 
 Code is typically written in a programming language, which is a formal language that is designed to be readable by humans and interpretable by computers.

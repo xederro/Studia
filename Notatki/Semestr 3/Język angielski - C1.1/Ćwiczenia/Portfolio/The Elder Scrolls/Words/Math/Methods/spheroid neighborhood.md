@@ -1,5 +1,7 @@
 Translation: **Sąsiedztwo sferoidu**
+
 Definition: 
+
 A spheroid neighborhood is a collection of points that are close to a particular spheroid. The size of the neighborhood depends on the distance from the spheroid and the desired level of detail.
 
 |Feature|Description|

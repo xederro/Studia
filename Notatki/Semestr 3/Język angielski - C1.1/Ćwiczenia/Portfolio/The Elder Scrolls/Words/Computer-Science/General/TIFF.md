@@ -1,5 +1,7 @@
 Translation: (Tagged Image File Format) **Oznaczony format pliku obrazu**
+
 Definition:
+
 TIFF is a widely used file format for storing raster images. It was developed by Adobe Systems in the 1980s, and it is now supported by a wide range of software applications and hardware devices. TIFF is a versatile format that can be used to store a variety of image types, including photographs, scans, and graphics. It is also known for its ability to preserve image quality, even when the image is opened and saved multiple times.
 
 |Feature|Description|

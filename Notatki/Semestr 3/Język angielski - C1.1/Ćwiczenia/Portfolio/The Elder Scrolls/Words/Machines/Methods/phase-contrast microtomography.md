@@ -1,5 +1,7 @@
 Translation: **Tomografia mikroskopowa kontrastu fazowego**
+
 Definition:
+
 Phase-contrast microtomography (PCMT) is a non-invasive imaging technique that utilizes the phase shift of light to generate 3-D images of minute objects. Unlike traditional x-ray microtomography, PCMT does not rely on the absorption of light, making it less damaging to delicate specimens.
 
 |Feature|Description|

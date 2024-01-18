@@ -1,5 +1,7 @@
 Translation: **Protokół**
+
 Definition:
+
 A protocol is a set of rules that govern how computers communicate with each other. It is a set of standards that define how data is formatted, transmitted, and interpreted.
 
 Protocols are used in all types of computer communication, from the way your web browser communicates with a website to the way your computer communicates with a printer.

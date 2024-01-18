@@ -1,5 +1,7 @@
 Translation: **Krzywa wzmocnienia**
+
 Definition: 
+
 A enhancement curve, also known as a filter response curve or frequency response curve, is a graphical representation of the gain or attenuation of a filter or system as a function of frequency.
 
 |Feature|Description|

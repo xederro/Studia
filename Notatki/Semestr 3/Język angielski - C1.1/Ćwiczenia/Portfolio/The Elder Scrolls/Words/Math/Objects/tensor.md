@@ -1,5 +1,7 @@
 Translation: **Wielowymiarowa macierz**
+
 Definition:
+
 A tensor is a generalization of a matrix to higher dimensions. It is a multidimensional array of numbers that can be used to represent a variety of data, such as images, sounds, and videos. Tensors are a powerful tool for machine learning and deep learning, and they are used in a wide variety of applications, such as image recognition, natural language processing, and speech recognition.
 
 |Feature|Description|

@@ -1,5 +1,7 @@
 Translation: **Parametryczny**
+
 Definition:
+
 **Parametric** means "based on parameters." A parameter is a variable that can be used to control the behavior of something. For example, the height of a rectangle can be a parameter. A parametric object is an object whose shape is defined by parameters.
 
 Parametric objects are used in a variety of fields, including computer graphics, design, and engineering. They are a powerful tool for creating complex and flexible objects.

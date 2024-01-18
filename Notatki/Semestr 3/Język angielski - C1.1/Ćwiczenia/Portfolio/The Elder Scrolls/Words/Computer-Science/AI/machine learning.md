@@ -1,5 +1,7 @@
 Translation: **Uczenie maszynowe**
+
 Definition:
+
 Machine learning (ML) is a subfield of artificial intelligence that focuses on enabling computers to learn from data without being explicitly programmed.
 
 

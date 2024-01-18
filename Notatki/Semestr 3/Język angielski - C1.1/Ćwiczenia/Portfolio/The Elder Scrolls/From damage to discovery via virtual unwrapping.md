@@ -5,19 +5,23 @@ In the above research paper written by Brent Seales and his team at the Universi
 
 
 ![](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Pasted%20image%2020240118204649.png)
+
 Scroll.
 
 
 ![](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Pasted%20image%2020240118204538.png)
+
 Bad vs. Good surface localization.
 
 
 ![](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Pasted%20image%2020240118204253.png)
+
 On left: Texturing using only intersection. 
 On right: Taking into consideration neighborhood of 7 voxels.
 
 
 ![](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Pasted%20image%2020240118203851.png)
+
 The end result of a virtual unwrapping.
 
 ---

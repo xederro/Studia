@@ -1,5 +1,7 @@
 Translation: **Promień przecięcia**
+
 Definition:
+
 A ray intersection is the point where a ray of light, sound, or other energy source intersects an object.
 
 The intersection point is the location where the ray of energy touches the surface of the object.

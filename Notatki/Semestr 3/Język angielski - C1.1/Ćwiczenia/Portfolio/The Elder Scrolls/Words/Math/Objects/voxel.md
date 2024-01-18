@@ -1,5 +1,7 @@
 Translation: **Woksel**
+
 Definition:
+
 A [voxel](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Math/Objects/voxel.md) is a three-dimensional unit of data that is used to represent a volume of space.
 
 [Voxels](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Math/Objects/voxel.md) are typically used in computer graphics and 3D modeling to represent objects and environments.

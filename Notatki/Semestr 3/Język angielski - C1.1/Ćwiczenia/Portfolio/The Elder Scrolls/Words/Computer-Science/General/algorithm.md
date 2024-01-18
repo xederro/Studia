@@ -1,5 +1,7 @@
 Translation: **Algorytm**
+
 Definition: 
+
 An algorithm is a sequence of steps that are followed to solve a problem or complete a task.
 
 Algorithms can be used to solve a wide variety of problems, from simple mathematical calculations to complex scientific simulations.

@@ -1,5 +1,7 @@
 Translation: **Wierzchołek**
+
 Definition:
+
 A vertex is a point where two or more lines or curves intersect. It is the basic building block of many geometric shapes, such as triangles, quadrilaterals, and polygons.
 
 |Feature|Description|

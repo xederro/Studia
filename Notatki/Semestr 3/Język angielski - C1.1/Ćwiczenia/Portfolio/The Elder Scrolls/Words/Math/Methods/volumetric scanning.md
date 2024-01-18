@@ -1,5 +1,7 @@
 Translation: **Skanowanie objętościowe**
+
 Definition: 
+
 Volumetric scanning, also known as 3D scanning, is a process of creating a three-dimensional representation of an object or scene. It involves capturing data from multiple viewpoints and then using that data to create a 3D model.
 
 |Feature|Description|

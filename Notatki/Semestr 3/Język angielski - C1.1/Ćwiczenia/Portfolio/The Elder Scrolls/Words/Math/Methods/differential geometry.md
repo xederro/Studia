@@ -1,5 +1,7 @@
 Translation: **Różniczkowa geometria**
+
 Definition:
+
 Differential geometry is a branch of mathematics that studies the properties of curves, surfaces, and higher-dimensional spaces using the tools of calculus. It is concerned with the behavior of these objects under small changes, and it provides a framework for understanding their curvature, angles, and other geometric features.
 
 Differential geometry has applications in many fields, including physics, engineering, and computer graphics.

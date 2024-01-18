@@ -6,6 +6,7 @@ A 21-year-old computer science student, Luke Farritor, has successfully develope
 
 
 ![](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Pasted%20image%2020240118204738.png)
+
 Scroll fragment that was read by AI.
 
 

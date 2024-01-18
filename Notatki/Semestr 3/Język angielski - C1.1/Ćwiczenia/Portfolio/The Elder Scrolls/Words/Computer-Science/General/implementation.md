@@ -1,5 +1,7 @@
 Translation: **Implementacja**
+
 Definition:
+
 The act of putting something into practice or effecting it.
 
 Implementation is the process of turning an idea or plan into reality.

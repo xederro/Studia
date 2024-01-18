@@ -1,5 +1,7 @@
 Translation: **Współczynnik**
+
 Definition: 
+
 A coefficient is a number that is multiplied by a variable in an algebraic expression. It may be a constant, such as 2 or 3, or it may be a variable itself.
 
 |Feature|Description|

@@ -1,5 +1,7 @@
-Translation: **Symetryczna wielowymiarowa macierz drugiego rzędu** 
+Translation: **Symetryczna wielowymiarowa macierz drugiego rzędu**
+
 Definition: 
+
 A second-order symmetric [tensor](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Math/Objects/tensor.md), also known as a strain [tensor](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Math/Objects/tensor.md), is a [tensor](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Portfolio/The%20Elder%20Scrolls/Words/Math/Objects/tensor.md) that describes the deformation of a material. It is a 3x3 matrix that contains 6 independent components.
 
 |Feature|Description|

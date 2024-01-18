@@ -1,5 +1,7 @@
 Translation: **Obciążające obliczeniowo**
+
 Definition: 
+
 Computationally expensive means that a task requires a significant amount of computing power to complete. This can be due to the complexity of the task, the amount of data involved, or the algorithm used.
 
 Computationally expensive tasks can be difficult to run on traditional computers, and they may require specialized hardware or software. This can limit the availability of these tasks to users, and it can also make them more expensive to run.

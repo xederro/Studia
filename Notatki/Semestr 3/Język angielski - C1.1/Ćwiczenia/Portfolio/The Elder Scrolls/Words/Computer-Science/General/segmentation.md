@@ -1,5 +1,7 @@
 Translation: **Segmentacja**
+
 Definition: 
+
 The process of dividing a whole into parts or segments.
 
 Segmentation can be used to divide data, images, or other objects into smaller, more manageable pieces.

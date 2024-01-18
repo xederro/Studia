@@ -1,5 +1,7 @@
 Translation: **Siatka**
+
 Definition:
+
 A mesh is a network of interconnected lines or curves that can be used to represent a three-dimensional object.
 
 Meshes are commonly used in computer graphics to represent objects such as characters, buildings, and landscapes.

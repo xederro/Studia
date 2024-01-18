@@ -1,5 +1,7 @@
 Translation: **Sąsiedztwo linii**
+
 Definition: 
+
 A line neighborhood is a set of points that are close to a particular line. The size of the neighborhood depends on the distance from the line and the desired level of detail.
 
 |Feature|Description|

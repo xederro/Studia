@@ -1,5 +1,7 @@
 Translation: **Spójny**
+
 Definition:
+
 In English, the word "coherent" has several meanings. Here are two of the most common:
 
 2. **Logically consistent:** A coherent argument is one that is well-reasoned and makes sense from start to finish. It does not contradict itself or introduce any irrelevant information.

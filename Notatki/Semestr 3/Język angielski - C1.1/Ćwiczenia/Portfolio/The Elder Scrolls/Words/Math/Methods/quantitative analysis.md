@@ -1,5 +1,7 @@
 Translation: **Analiza ilościowa**
+
 Definition:
+
 A quantitative analysis is a process of collecting, analyzing, and interpreting data to extract meaningful insights and patterns. It involves using statistical methods, numerical data, and mathematical models to examine data and identify relationships between variables.
 
 |Feature|Description|

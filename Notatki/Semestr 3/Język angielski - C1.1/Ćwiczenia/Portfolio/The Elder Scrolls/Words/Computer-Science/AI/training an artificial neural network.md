@@ -1,5 +1,7 @@
 Translation: **Trenowanie sieci neuronowej**
+
 Definition:
+
 Training an artificial neural network (ANN) is the process of adjusting the weights and biases of the network's connections to minimize the error between its predictions and the true target values. This is done by feeding the network with a large amount of labeled data, and then iteratively updating the weights and biases based on the error.
 
 The training process is typically divided into the following steps:

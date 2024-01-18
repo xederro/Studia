@@ -1,5 +1,7 @@
 Translation: **Rurociąg**
+
 Definition:
+
 A pipeline is a series of interconnected processes or steps that are used to transform raw data into a final product.
 
 Pipelines are commonly used in software development, industrial processes, and data processing.

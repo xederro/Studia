@@ -1,5 +1,7 @@
 Translation: **Zapytanie**
+
 Definition:
+
 A query is a request for information or data.
 
 Queries can be made in a variety of ways, including natural language, programming languages, and database languages.

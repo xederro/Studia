@@ -1,5 +1,7 @@
 Translation: **Planarna izometria**
+
 Definition:
+
 A planar isometry is a transformation that preserves the distances between points in a plane. In other words, if you take a point in the plane and apply a planar isometry to it, the distance between that point and any other point in the plane will be the same as the distance between the original point and the transformed point.
 
 Planar isometries are a type of affine transformation. Affine transformations are a broader class of transformations that also preserve the parallelism of lines and the ratios of lengths between segments.

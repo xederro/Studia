@@ -1,5 +1,7 @@
 Translation: **Rozdzielczość**
+
 Definition: 
+
 Resolution is a measure of how much detail an image or display can show. It is typically measured in pixels, which are tiny dots that make up the image or display. The more pixels an image has, the higher its resolution will be. This means that the image will show more detail and appear sharper.
 
 [![Obraz: highresolution image of a mountain landscape](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDh_LYoctBz1tuvfazeGMM9LP1VQ7jpzi_iuYFjcaM6R4XbvW5vv6evv6JVdpo)

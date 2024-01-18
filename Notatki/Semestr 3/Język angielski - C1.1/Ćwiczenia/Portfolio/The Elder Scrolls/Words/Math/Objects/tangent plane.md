@@ -1,5 +1,7 @@
 Translation: **Płaszczyzna przystająca**
+
 Definition:
+
 A tangent plane is a plane that touches a surface at a single point. It is the best approximation to the surface near that point.
 
 Tangent planes are used to study the behavior of surfaces near a specific point. They can also be used to approximate the surface over a small area.

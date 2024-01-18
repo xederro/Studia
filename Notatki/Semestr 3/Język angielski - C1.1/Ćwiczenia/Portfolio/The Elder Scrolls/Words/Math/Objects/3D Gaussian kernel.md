@@ -1,5 +1,7 @@
 Translation: **Trójwymiarowa gaussowska warstwa ziarnista**
+
 Definition:  
+
 A 3D Gaussian kernel is a mathematical function that represents the probability distribution of a random variable. It is a 3D function that decays exponentially as the distance from the origin increases.
 
 |Feature|Description|

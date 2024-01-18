@@ -1,5 +1,7 @@
 Translation: **Tomografia kontrastu fazowego**
+
 Definition:
+
 Phase-contrast tomography is a non-invasive imaging technique that uses the phase shift of light to create three-dimensional images of objects. It is a relatively new technique that has been developed in recent years.
 
 |Feature|Description|

@@ -1,5 +1,7 @@
 Translation: **Przecięcie się samej siebie**
+
 Definition:
+
 A self-intersecting shape is a shape that crosses itself, meaning that its lines or curves pass through each other. Self-intersecting shapes are not considered to be valid in geometry, but they can still be useful for modeling certain objects.
 
 |Feature|Description|

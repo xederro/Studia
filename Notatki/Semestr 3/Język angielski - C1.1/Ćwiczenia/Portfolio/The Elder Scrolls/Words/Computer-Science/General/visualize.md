@@ -1,5 +1,7 @@
 Translation: **Wizualizacja**
+
 Definition: 
+
 The act of representing data or information in a way that can be easily understood or interpreted, typically using visual elements such as charts, graphs, or diagrams.
 
 Visualization can be used to communicate complex information in a more accessible way, making it easier for people to understand and make decisions. It can also be used to explore data and identify patterns or trends that might not be apparent from traditional text-based presentations.

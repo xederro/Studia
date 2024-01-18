@@ -1,5 +1,7 @@
 Translation: **Tekstowe obrazowanie**
+
 Definition:
+
 Textual Imaging, also known as Text-to-Image Synthesis, is a rapidly emerging field that combines computer vision and natural language processing to generate realistic images from text descriptions. It involves converting textual descriptions of scenes, objects, or people into corresponding visual representations.
 
 Textual imaging has the potential to revolutionize the way we interact with and understand information. It can be used to create new forms of entertainment, education, and communication.

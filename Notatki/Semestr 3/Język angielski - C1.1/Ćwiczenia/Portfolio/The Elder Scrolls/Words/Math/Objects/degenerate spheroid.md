@@ -1,5 +1,7 @@
 Translation: **Wypaczona sferoida**
+
 Definition:
+
 A degenerate spheroid is a spheroid that has one or more axes of symmetry that are infinitely long. In other words, it is a spheroid that is stretched out along one or more directions.
 
 Degenerate spheroids are a special case of spheroids. They are not as common as regular spheroids, but they can still be useful for modeling certain objects.
