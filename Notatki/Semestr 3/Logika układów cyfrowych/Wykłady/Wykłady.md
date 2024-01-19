@@ -10,6 +10,7 @@ typ: 'W'
 3. [Wykład 3](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Wykłady/Wykład%203/Wykład%203.md)
 4. [Wykład 4](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Wykłady/Wykład%204/Wykład%204.md)
 5. [Wykład 5](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Wykłady/Wykład%205/Wykład%205.md)
+6. [Wykład 6](Notatki/Semestr%203/Logika%20układów%20cyfrowych/Wykłady/Wykład%206/Wykład%206.md)
 
 ## Zaliczenie
 Pokój: 312 C.3
