@@ -21,3 +21,9 @@ Before starting the English for Specific Purposes (ESP) project, my language ski
 # Future Goals
 
 The knowledge gained from these articles not only provides insights into a fascinating application of AI but also leaves me with know-how about computational pipelines, data preparation and interdisciplinary collaboration. All of which are highly valuable in future endeavors as a computer science professional. Additionally, it shows that commitment to continuous learning could result in achieving things that ware thought impossible.
+
+
+---
+# Peer Feedback
+
+I appreciate detailed feedback recived from Kacper on my portfolio, and I'm grateful for the positive aspects he highlighted. I value his suggestion to provide more comprehensive information in the paper summaries, particularly regarding scientific data and specific details. To address this, I'll work on expanding the content while maintaining concise and engaging writing. His recognition of the vocabulary table and linked definitions is encouraging, and I'm pleased to have inspired a positive idea for his own project. I understand the need for more specific information in certain sections, and I commit to incorporating additional details to enrich the reader's understanding. His feedback is invaluable, and I'm determined to refine my projects in future to better meet the expectations of both newcomers and those with a deeper knowledge of the subject.
