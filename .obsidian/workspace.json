@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a6ebfbdefe198423",
+        "id": "c8135403a3922578",
         "type": "tabs",
         "children": [
           {
-            "id": "07e8834a210fbcc1",
+            "id": "ec2d1cae419a7143",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 13/Drawing 2024-01-17 17.12.01.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 13/Drawing 2024-01-17 17.12.01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 13/Drawing 2024-01-17 17.12.01.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,8 +145,9 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "07e8834a210fbcc1",
+  "active": "ec2d1cae419a7143",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 13/Drawing 2024-01-17 17.12.01.excalidraw.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/The Elder Scrolls.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 10/Drawing 2024-01-14 14.50.28.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 10/Labolatoria 10.md",
@@ -184,7 +180,6 @@
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Objects/vertex.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Objects/tensor.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Objects/tangent plane.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Objects/second-order symmetric tensor.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Pasted image 20240118204738.png",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Pasted image 20240118204649.png",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Pasted image 20240118204538.png",
