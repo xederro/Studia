@@ -11,8 +11,10 @@
             "id": "a84a8c48d8c2ff01",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Kolokwium/Drawing 2024-01-20 16.10.07.excalidraw.md"
+              }
             }
           }
         ]
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Kolokwium/Drawing 2024-01-20 16.10.07.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Kolokwium/Drawing 2024-01-20 16.10.07.excalidraw.md"
+              }
             }
           },
           {
@@ -145,7 +150,7 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "671d26171d29a68e",
+  "active": "a84a8c48d8c2ff01",
   "lastOpenFiles": [
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Kolokwium/Drawing 2024-01-20 16.10.07.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Kolokwium/Drawing 2024-01-20 16.10.07.excalidraw.svg",
