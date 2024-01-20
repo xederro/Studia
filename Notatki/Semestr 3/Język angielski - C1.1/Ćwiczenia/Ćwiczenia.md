@@ -13,3 +13,4 @@ typ: C
 ![](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Pasted%20image%2020231010141355.png)
 ![](/Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/Pasted%20image%2020231010141410.png)
 
+![](Notatki/Semestr%203/Język%20angielski%20-%20C1.1/Ćwiczenia/C1.1%20Final%20Test_Grammar%20Review.pdf)
