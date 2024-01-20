@@ -11,8 +11,20 @@
             "id": "ec2d1cae419a7143",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 5/057c.pdf"
+              }
+            }
+          },
+          {
+            "id": "89ef1f3dcd2de85a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 0/Przykładowe sprawozdanie.pdf"
+              }
             }
           }
         ]
@@ -65,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5069465637207
+    "width": 306.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -100,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 5/057c.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 5/057c.pdf"
+              }
             }
           },
           {
@@ -147,6 +163,11 @@
   },
   "active": "ec2d1cae419a7143",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 0/Przykładowe sprawozdanie.pdf",
+    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 5/057c.pdf",
+    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 0/Labolatoria 0.md",
+    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 0/Przykładowe sprawozdanie (1).pdf",
+    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 5/Labolatoria 5.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykład 13/Drawing 2024-01-17 17.12.01.excalidraw.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/The Elder Scrolls.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 10/Drawing 2024-01-14 14.50.28.excalidraw.md",
@@ -177,20 +198,14 @@
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Used Words/cue.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Used Words/coherent.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Objects/voxel.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Objects/vertex.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Objects/tensor.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Words/Math/Objects/tangent plane.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Pasted image 20240118204738.png",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Pasted image 20240118204649.png",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Pasted image 20240118204538.png",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Pasted image 20240118204253.png",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/Pasted image 20240118203851.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 6/Drawing 2024-01-18 17.16.20.excalidraw.svg",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 6",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 11/Drawing 2024-01-11 15.08.22.excalidraw.svg",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 12/Drawing 2024-01-18 15.18.30.excalidraw.svg",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 12",
-    "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Portfolio/The Elder Scrolls/AI reads text from ancient Herculaneum scroll for the first time.pdf",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Kolokwium/Drawing 2024-01-18 09.17.08.excalidraw.svg",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Kolokwium/Pasted Image 20240118091720_719.jpg",
     "Untitled.canvas",
