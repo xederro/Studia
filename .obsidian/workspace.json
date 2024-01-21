@@ -4,37 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a8dfbaaab295e243",
+        "id": "5ec0fdc42a711884",
         "type": "tabs",
         "children": [
           {
-            "id": "ed0bb21cf410f477",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 5/Labolatoria 5.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e19dcf17f0f3528",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Kolokwium/Kolokwium.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "951229639ff5fcd7",
+            "id": "9741b7c1ee948158",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -43,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5069465637207
+    "width": 306.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -129,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Kolokwium/Kolokwium.md",
+                "file": "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 0/Przykładowe sprawozdanie.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Kolokwium/Kolokwium.md"
+                "file": "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 0/Przykładowe sprawozdanie.pdf"
               }
             }
           },
@@ -177,13 +151,14 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "2e19dcf17f0f3528",
+  "active": "9741b7c1ee948158",
   "lastOpenFiles": [
     "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 5/Labolatoria 5.md",
     "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 0/Przykładowe sprawozdanie.pdf",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Kolokwium/Drawing 2024-01-20 16.10.07.excalidraw.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Kolokwium/Kolokwium.md",
     "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 0/Przykładowe sprawozdanie (1).pdf",
     "Notatki/Semestr 3/Język angielski - C1.1/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Kolokwium/Drawing 2024-01-20 16.10.07.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Kolokwium/Drawing 2024-01-20 16.10.07.excalidraw.svg",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Kolokwium/Pasted Image 20240120161053_440.png",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Kolokwium/Pasted Image 20240120161053_415.png",
@@ -203,7 +178,6 @@
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Kolokwium/Drawing 2024-01-18 09.17.08.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/~$IZS kolos.xlsx",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 5/Drawing 2024-01-11 19.50.12.excalidraw.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Kolokwium/Kolokwium.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/A8588000",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/D7588000",
