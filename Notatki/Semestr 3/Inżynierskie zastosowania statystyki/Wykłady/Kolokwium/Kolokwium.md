@@ -1,2 +1,2 @@
 ![](/Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Wykłady/Kolokwium/Drawing%202024-01-21%2020.31.33.excalidraw.svg)
-![](Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Wykłady/Kolokwium/Drawing%202024-01-22%2010.04.37.excalidraw.svg)![](Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Wykłady/Kolokwium/Drawing%202024-01-22%2010.01.32.excalidraw.svg)
+![](/Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Wykłady/Kolokwium/Drawing%202024-01-22%2010.04.37.excalidraw.svg)![](/Notatki/Semestr%203/Inżynierskie%20zastosowania%20statystyki/Wykłady/Kolokwium/Drawing%202024-01-22%2010.01.32.excalidraw.svg)
