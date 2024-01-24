@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0123971923587d27",
+        "id": "9c554041b1937c14",
         "type": "tabs",
         "children": [
           {
-            "id": "07ee0a178bba8341",
+            "id": "252e55b548889a53",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 1/Drawing 2023-12-12 13.21.29.excalidraw.md"
+                "file": "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 6/084.pdf"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 1/Drawing 2023-12-12 13.21.29.excalidraw.md",
+                "file": "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 6/084.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 1/Drawing 2023-12-12 13.21.29.excalidraw.md"
+                "file": "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 6/084.pdf"
               }
             }
           },
@@ -151,10 +151,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "07ee0a178bba8341",
+  "active": "252e55b548889a53",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 6/Drawing 2024-01-24 10.35.12.excalidraw.md",
     "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 1/Drawing 2023-12-12 13.21.29.excalidraw.md",
+    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 6/Drawing 2024-01-24 10.35.12.excalidraw.md",
     "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 0/Labolatoria 0.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 12/Drawing 2024-01-18 15.18.30.excalidraw.md",
     "Untitled.md",
