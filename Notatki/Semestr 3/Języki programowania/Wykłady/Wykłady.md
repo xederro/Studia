@@ -11,6 +11,7 @@ typ: 'W'
 4. [Wykład 4](/Notatki/Semestr%203/Języki%20programowania/Wykłady/Wykład%204/Wykład%204.md)
 5. [Wykład 5](/Notatki/Semestr%203/Języki%20programowania/Wykłady/Wykład%205/Wykład%205.md)
 6. [Wykład 6](/Notatki/Semestr%203/Języki%20programowania/Wykłady/Wykład%206/Wykład%206.md)
+7. [Wykład 7](Notatki/Semestr%203/Języki%20programowania/Wykłady/Wykład%207/Wykład%207.md)
 
 ## Zaliczenie
 http://tomasz.kubik.staff.iiar.pwr.edu.pl/
