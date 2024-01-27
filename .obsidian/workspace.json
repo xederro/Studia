@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "daf1e3d077e1f9b9",
+        "id": "d80c6a8c5ad3c29e",
         "type": "tabs",
         "children": [
           {
-            "id": "706e719284738d9c",
+            "id": "7b36e2a0404a8d51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 7/Wykład 7.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Drawing 2023-12-17 16.38.20.excalidraw.md"
               }
             }
           }
@@ -70,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 480.5,
-    "collapsed": true
+    "width": 480.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 7/Wykład 7.md",
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Drawing 2023-12-17 16.38.20.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 7/Wykład 7.md"
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Drawing 2023-12-17 16.38.20.excalidraw.md"
               }
             }
           },
@@ -154,10 +150,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "706e719284738d9c",
+  "active": "7b36e2a0404a8d51",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykłady.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Drawing 2023-12-17 16.38.20.excalidraw.svg",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 7/Wykład 7.md",
+    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 7/JavaWyk06-RMI-TK.pdf",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 7/JavaWyk06-RMI-TK.pdf.crdownload",
@@ -195,7 +192,6 @@
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 1/Drawing 2023-11-08 09.36.04.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Inżynierskie zastosowania statystyki.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 11/Drawing 2024-01-11 15.08.22.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 5/Drawing 2023-11-09 16.24.53.excalidraw.svg",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 1/Drawing 2023-10-05 15.25.12.excalidraw.svg",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Pasted Image 20240121211805_724.png",

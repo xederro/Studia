@@ -1,1 +1,1 @@
-![](Notatki/Semestr%203/Języki%20programowania/Wykłady/Wykład%207/JavaWyk06-RMI-TK.pdf)
+![](/Notatki/Semestr%203/Języki%20programowania/Wykłady/Wykład%207/JavaWyk06-RMI-TK.pdf)
