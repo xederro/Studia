@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "29e0d7f67c74c0f2",
+        "id": "e0e23abb3763f46d",
         "type": "tabs",
         "children": [
           {
-            "id": "34cc86c6ae2b757b",
+            "id": "bab10bb87dc3feff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -153,18 +153,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "34cc86c6ae2b757b",
+  "active": "bab10bb87dc3feff",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Architektura komputerów 1/Architektura komputerów 1.md",
-    "Notatki/Semestr 3/Fizyka 3.1/Fizyka 3.1.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Inżynierskie zastosowania statystyki.md",
-    "Notatki/Semestr 3/Języki programowania/Języki programowania.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Logika układów cyfrowych.md",
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Niezawodność i diagnostyka układów cyfrowych 1.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Podstawy telekomunikacji.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Podstawy przetwarzania sygnałów.md",
+    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Niezawodność i diagnostyka układów cyfrowych 1.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Logika układów cyfrowych.md",
+    "Notatki/Semestr 3/Języki programowania/Języki programowania.md",
+    "Notatki/Semestr 3/Język angielski - C1.1/Język angielski - C1.1.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Inżynierskie zastosowania statystyki.md",
+    "Notatki/Semestr 3/Fizyka 3.1/Fizyka 3.1.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Architektura komputerów 1.md",
+    "README.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/WF-2/WF-2.md",
-    "README.md",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 6/Drawing 2024-01-18 17.16.20.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 3/Drawing 2023-10-30 13.12.27.excalidraw.md",
@@ -188,8 +190,6 @@
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 5/Wyk05-jvm-wlasciwosci_watki_wyjatki-TK.pdf",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/~$IZS kolos.xlsx",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/kartawzorów_wersja robocza.pdf",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 3/Drawing 2023-10-26 15.14.50.excalidraw.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Wykład 2/Drawing 2023-10-19 15.18.22.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 1/IZSćw_2.1.pdf",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Ćwiczenia 3/IZSćw_ 4 odp.pdf",
     "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 6/084.pdf",
