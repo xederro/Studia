@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 480.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -155,6 +156,8 @@
   },
   "active": "bab10bb87dc3feff",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Semestr 3.md",
+    "README.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Podstawy telekomunikacji.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Podstawy przetwarzania sygnałów.md",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Niezawodność i diagnostyka układów cyfrowych 1.md",
@@ -164,7 +167,6 @@
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Inżynierskie zastosowania statystyki.md",
     "Notatki/Semestr 3/Fizyka 3.1/Fizyka 3.1.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Architektura komputerów 1.md",
-    "README.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/WF-2/WF-2.md",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykłady.md",
@@ -186,7 +188,6 @@
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 7/JavaWyk06-RMI-TK.pdf.crdownload",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 7",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Nowy folder",
-    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 5/Wyk05-jvm-wlasciwosci_watki_wyjatki-TK.pdf",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/~$IZS kolos.xlsx",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/kartawzorów_wersja robocza.pdf",
