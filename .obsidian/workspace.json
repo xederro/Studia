@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e0e23abb3763f46d",
+        "id": "c6dd9ff5f102425c",
         "type": "tabs",
         "children": [
           {
-            "id": "bab10bb87dc3feff",
+            "id": "7351e3889eb871b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "symbols.pdf"
               }
             }
           }
@@ -70,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 381.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "symbols.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "symbols.pdf"
               }
             }
           },
@@ -154,21 +150,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bab10bb87dc3feff",
+  "active": "7351e3889eb871b4",
   "lastOpenFiles": [
+    "Sylabus.pdf",
+    "Notatki/Semestr 3/Architektura komputerów 1/Architektura komputerów 1.md",
+    "Notatki/Semestr 3/Fizyka 3.1/Fizyka 3.1.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Inżynierskie zastosowania statystyki.md",
+    "Notatki/Semestr 3/Język angielski - C1.1/Język angielski - C1.1.md",
+    "Notatki/Semestr 3/Języki programowania/Języki programowania.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Logika układów cyfrowych.md",
+    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Niezawodność i diagnostyka układów cyfrowych 1.md",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Podstawy przetwarzania sygnałów.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Podstawy telekomunikacji.md",
+    "Notatki/Semestr 3/WF-2/WF-2.md",
     "Notatki/Semestr 3/Semestr 3.md",
     "README.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Podstawy telekomunikacji.md",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Podstawy przetwarzania sygnałów.md",
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Niezawodność i diagnostyka układów cyfrowych 1.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Logika układów cyfrowych.md",
-    "Notatki/Semestr 3/Języki programowania/Języki programowania.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Język angielski - C1.1.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Inżynierskie zastosowania statystyki.md",
-    "Notatki/Semestr 3/Fizyka 3.1/Fizyka 3.1.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Architektura komputerów 1.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
-    "Notatki/Semestr 3/WF-2/WF-2.md",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 6/Drawing 2024-01-18 17.16.20.excalidraw.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 3/Drawing 2023-10-30 13.12.27.excalidraw.md",
@@ -183,7 +180,6 @@
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Drawing 2023-12-17 16.38.20.excalidraw.svg",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykłady.md",
-    "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 7/JavaWyk06-RMI-TK.pdf",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 7/JavaWyk06-RMI-TK.pdf.crdownload",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 7",
