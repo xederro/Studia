@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/kartawzorów_wersja robocza.pdf",
+                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Drawing 2024-02-01 19.53.33.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/kartawzorów_wersja robocza.pdf"
+                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Drawing 2024-02-01 19.53.33.excalidraw.md"
               }
             }
           },
@@ -202,14 +201,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2c4f7e51db335d4b",
+  "active": "8855c9ff4364a658",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Drawing 2024-02-01 19.53.33.excalidraw.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Pasted Image 20240201211708_674.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/kartawzorów_wersja robocza.pdf",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Drawing 2024-02-01 19.53.33.excalidraw.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/~$IZS kolos.xlsx",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Pasted Image 20240201215245_949.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Pasted Image 20240201215145_937.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Pasted Image 20240201214555_136.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/rozkład normalny.pdf",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Pasted Image 20240201213254_118.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Pasted Image 20240201213254_099.png",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Pasted Image 20240201211708_674.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Pasted Image 20240201211345_844.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/rozklad tstudenta.pdf",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/rozkład normalny.pdf",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/rozkład chi^2.pdf",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/rozklad FSnedecora v1v2.pdf",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Pasted Image 20240201203645_933.png",
@@ -217,23 +222,17 @@
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 1/Drawing 2023-11-08 09.36.04.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Drawing 2024-01-21 20.31.33.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Drawing 2024-02-01 19.53.33.excalidraw.svg",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Pasted Image 20240201195624_701.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Kolokwium.md",
     "symbols.pdf",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-01 16.12.42.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 5/LUC w7.pdf",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/LUC w6.pdf",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 3/LUC w4_5.pdf",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 2/LUC W3.pdf",
     "README.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-01 09.18.03.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/Drawing 2023-10-12 17.04.46.excalidraw.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240201114004_979.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Untitled.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240201094038_053.png",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240201094100_039.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykłady.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-01 09.18.03.excalidraw.svg",
     "Notatki/Semestr 3/Architektura komputerów 1/Architektura komputerów 1.md",
     "Notatki/Semestr 3/Fizyka 3.1/Fizyka 3.1.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Inżynierskie zastosowania statystyki.md",
