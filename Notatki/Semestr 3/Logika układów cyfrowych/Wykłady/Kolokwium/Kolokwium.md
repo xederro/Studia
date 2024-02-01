@@ -32,6 +32,7 @@
 	$f(x_0, x_1,\cdots,x_{n-1})=x_0f_1(x_1,x_2,\cdots,x_{n-1})+\not x_0f_2(x_1,x_2,\cdots,x_{n-1})$
 	Możemy tak rozwijać dalej, i uzyskać $2^n$ składników
 	$f(x_0, x_1,\cdots,x_{n-1})=x_0x_1\cdots x_{n-1}f(1,1,\cdots,1)+x_0x_1\cdots\not x_{n-1}f(1,1,\cdots,0)+\cdots$
+
 **Postać kanoniczna** wzgl. iloczynu:
 	$f(x_0, x_1,\cdots,x_{n-1})$
 	$f(x_0, x_1,\cdots,x_{n-1})=(x_0+f_1(x_1,x_2,\cdots,x_{n-1}))\cdot(\not x_0+f_2(x_1,x_2,\cdots,x_{n-1}))$
@@ -208,7 +209,7 @@ Języki powiązane z CFG. Obejmują wszystkie języki regularne oraz wiele dodat
 
 **Automat ze stosem**, to klasa maszyn rozpoznających języki bezkontekstowe.
 
-
+---
 
 ![](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Wykłady/Kolokwium/Drawing%202024-02-01%2009.18.03.excalidraw.svg)![](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Wykłady/Kolokwium/e.circ)
 
