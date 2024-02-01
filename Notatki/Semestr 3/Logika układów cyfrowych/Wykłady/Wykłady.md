@@ -11,7 +11,7 @@ typ: 'W'
 4. [Wykład 4](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Wykłady/Wykład%204/Wykład%204.md)
 5. [Wykład 5](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Wykłady/Wykład%205/Wykład%205.md)
 6. [Wykład 6](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Wykłady/Wykład%206/Wykład%206.md)
-7. [Kolokwium](Notatki/Semestr%203/Logika%20układów%20cyfrowych/Wykłady/Kolokwium/Kolokwium.md)
+7. [Kolokwium](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Wykłady/Kolokwium/Kolokwium.md)
 
 ## Zaliczenie
 Pokój: 312 C.3

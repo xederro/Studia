@@ -11,19 +11,12 @@
             "id": "88dc420cdd662f1a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-01 09.18.03.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "2bca3044d8c9255a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/LUC w6.pdf"
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Kolokwium.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -77,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5,
-    "collapsed": true
+    "width": 381.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -113,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-01 09.18.03.excalidraw.md",
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Kolokwium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-01 09.18.03.excalidraw.md"
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Kolokwium.md"
               }
             }
           },
@@ -163,9 +155,12 @@
   },
   "active": "88dc420cdd662f1a",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/e.circ",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-01 09.18.03.excalidraw.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240201114004_979.png",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Untitled.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/~$IZS kolos.xlsx",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/LUC w6.pdf",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-01 09.18.03.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240201094038_053.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240201094100_039.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykłady.md",
@@ -197,7 +192,6 @@
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Kolokwium/Kolokwium.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Ćwiczenia 4/Drawing 2023-11-20 19.07.55.excalidraw.md",
     "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 6/Labolatoria 6.md",
-    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria 6/Drawing 2024-01-24 10.35.12.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 8/Drawing 2023-12-17 16.38.20.excalidraw.svg",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 7/JavaWyk06-RMI-TK.pdf",
     "Notatki/Semestr 3/Języki programowania/Wykłady/Wykład 7/JavaWyk06-RMI-TK.pdf.crdownload",
@@ -207,7 +201,6 @@
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Kolokwium/Drawing 2024-01-21 16.49.57.excalidraw.svg",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Drawing 2024-01-22 10.01.32.excalidraw.svg",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Drawing 2024-01-21 20.31.33.excalidraw.svg",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Drawing 2024-01-22 10.04.37.excalidraw.svg",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
