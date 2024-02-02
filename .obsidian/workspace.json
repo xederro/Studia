@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "298566cf68b37b12",
+        "id": "055eb25d81dc7f11",
         "type": "tabs",
         "children": [
           {
-            "id": "8855c9ff4364a658",
+            "id": "9f8072f9fca1fa6d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Drawing 2024-02-01 19.53.33.excalidraw.md"
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Drawing 2024-02-01 19.53.33.excalidraw.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Drawing 2024-02-01 19.53.33.excalidraw.md"
+                "file": "README.md"
               }
             }
           },
@@ -150,10 +153,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8855c9ff4364a658",
+  "active": "9f8072f9fca1fa6d",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/kartawzorów_wersja robocza.pdf",
+    "Notatki/Semestr 3/Semestr 3.md",
+    "Notatki/Semestr 3/Język angielski - C1.1/Język angielski - C1.1.md",
+    "Notatki/Semestr 3/Fizyka 3.1/Fizyka 3.1.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Drawing 2024-02-01 19.53.33.excalidraw.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/kartawzorów_wersja robocza.pdf",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 2/~$IZS kolos.xlsx",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Pasted Image 20240201215245_949.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Pasted Image 20240201215145_937.png",
@@ -183,16 +189,13 @@
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Untitled.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Architektura komputerów 1.md",
-    "Notatki/Semestr 3/Fizyka 3.1/Fizyka 3.1.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Inżynierskie zastosowania statystyki.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Język angielski - C1.1.md",
     "Notatki/Semestr 3/Języki programowania/Języki programowania.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Logika układów cyfrowych.md",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Niezawodność i diagnostyka układów cyfrowych 1.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Podstawy przetwarzania sygnałów.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Podstawy telekomunikacji.md",
     "Notatki/Semestr 3/WF-2/WF-2.md",
-    "Notatki/Semestr 3/Semestr 3.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 6/Drawing 2024-01-18 17.16.20.excalidraw.md",
