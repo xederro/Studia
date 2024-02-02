@@ -1,3 +1,8 @@
+# TTL - Transistor-Transistor logic
+0 -> 0-0.8V
+1 -> 2.4-5V
+czas propagacji: 1.5-3ms
+obciążalność 10
 # Algebra Boolea
 - **alternatywa logiczna "lub":** $a+b$ 
 - **iloczyn logiczny "i":** $a\cdot b$ 
@@ -77,7 +82,7 @@ oba działają dzięki sterowaniu adresem
 - **+3** (D=B+3)
 - **2421** - samouzupełniający
 
-Kod **refleksyjny** (odporność na zakłócenia):
+Kod **refleksyjny** (odporność na zakłócenia, 1 bit):
 - kod **Graya** - kolejna wartość różni się max 1 bitem
 
 Kod **detekcyjny**:
