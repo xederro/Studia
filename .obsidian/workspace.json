@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Kolokwium.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Kolokwium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Kolokwium.md"
               }
             }
           },
@@ -155,6 +156,7 @@
   },
   "active": "9f8072f9fca1fa6d",
   "lastOpenFiles": [
+    "README.md",
     "Notatki/Semestr 3/Semestr 3.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Język angielski - C1.1.md",
     "Notatki/Semestr 3/Fizyka 3.1/Fizyka 3.1.md",
@@ -183,7 +185,6 @@
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 5/LUC w7.pdf",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/LUC w6.pdf",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 3/LUC w4_5.pdf",
-    "README.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-01 09.18.03.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/Drawing 2023-10-12 17.04.46.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Untitled.md",
