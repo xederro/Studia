@@ -16,56 +16,6 @@
                 "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Drawing 2024-02-01 19.53.33.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "2c4f7e51db335d4b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/kartawzorów_wersja robocza.pdf"
-              }
-            }
-          },
-          {
-            "id": "f344395e6241f298",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/rozklad FSnedecora v1v2.pdf"
-              }
-            }
-          },
-          {
-            "id": "67720fd06853ca05",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/rozklad tstudenta.pdf"
-              }
-            }
-          },
-          {
-            "id": "205782b3aa933a7f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/rozkład chi^2.pdf"
-              }
-            }
-          },
-          {
-            "id": "5d183fdf907dbf05",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/rozkład normalny.pdf"
-              }
-            }
           }
         ]
       }
@@ -117,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5,
-    "collapsed": true
+    "width": 381.5
   },
   "right": {
     "id": "9e90e398a7031783",
