@@ -1,0 +1,8 @@
+![](Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%207/Projekt/Common/pom.xml)![](Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%207/Projekt/Common/src/main/resources/META-INF/MANIFEST.MF)
+![](Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%207/Projekt/Common/src/main/java/module-info.java)
+![](Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%207/Projekt/Common/src/main/java/pl/edu/pwr/student/Common/Classes/Handler.java)
+![](Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%207/Projekt/Common/src/main/java/pl/edu/pwr/student/Common/Classes/Request.java)
+![](Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%207/Projekt/Common/src/main/java/pl/edu/pwr/student/Common/Classes/SDCKCommon.java)
+![](Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%207/Projekt/Common/src/main/java/pl/edu/pwr/student/Common/Data/Order.java)
+![](Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%207/Projekt/Common/src/main/java/pl/edu/pwr/student/Common/Data/Person.java)
+![](Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%207/Projekt/Common/src/main/java/pl/edu/pwr/student/Common/Enums/Role.java)

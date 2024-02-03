@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: pl.edu.pwr.student.djablonski.Deliverer.Deliverer
+Class-Path: gson-2.10.1.jar Common.jar
+
