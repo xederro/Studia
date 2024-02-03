@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e1c4220a6f5a3033",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 2/LUC W3.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 2/LUC W3.pdf",
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Kolokwium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 2/LUC W3.pdf"
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Kolokwium.md"
               }
             }
           },
@@ -164,10 +153,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e1c4220a6f5a3033",
+  "active": "10e8ab4de7fea55b",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Kolokwium.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 2/LUC W3.pdf",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Kolokwium.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/LUC w2.pdf",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/LUC w6.pdf",
     "README.md",
