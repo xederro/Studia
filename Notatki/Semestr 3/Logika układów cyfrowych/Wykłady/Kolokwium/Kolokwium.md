@@ -170,18 +170,22 @@ $\Delta$- alfabet wyjściowy
 - **NFA** - Niedeterministyczny
 
 # Minimalizacja wyrażeń regularnych
+
+Miejsce „**podstawowe**” — miejsce, na lewo od którego stoi litera oraz miejsce początkowe. 
+Miejsce „**przedpodstawowe**” — miejsce, od którego na prawo stoi litera.
+
 - **Reguła 1**
-  Symbole miejsca "podstawowego" przed nawiasem iteracyjnym rozmieszcza się w miejscach “przedpodstawowych" we wszystkich miejscach początkowych wszystkich cztonow dysjunktywnych stojacych w danym nawiasie.
+  Symbole miejsca "**podstawowego**" przed nawiasem iteracyjnym rozmieszcza się w miejscach “**przedpodstawowych**" we wszystkich miejscach początkowych wszystkich członów dysjunktywnych stojących w danym nawiasie.
 - **Reguła 2**
-  Symbol miejsca końcowego dowolnego członu dysjunktywnego zamkniętego w nawiasy iteracyjne rozmieszczamy w miejscach początkowych ("przedpodstawowych") wszystkich członów dysjunktywnych zamkniętych w danym nawiasie.
+  Symbol miejsca końcowego dowolnego członu dysjunktywnego zamkniętego w nawiasy iteracyjne rozmieszczamy w miejscach początkowych ("**przedpodstawowych**") wszystkich członów dysjunktywnych zamkniętych w danym nawiasie.
 - **Reguła 3**
-  Symbole miejsc "podstawowych", na lewo i prawo od których stoją litery nie rozmieszcza się nigdzie więcej.
+  Symbole miejsc "**podstawowych**", na lewo i prawo od których stoją litery nie rozmieszcza się nigdzie więcej.
 - **Reguła 4**
-  Symbol miejsca końcowego wyrażenia rozmieszcza się we wszystkich tych miejscach "przedpodstawowych"”, gdzie znajduje się symbol miejsca początkowego.
+  Symbol miejsca końcowego wyrażenia rozmieszcza się we wszystkich tych miejscach "**przedpodstawowych**"”, gdzie znajduje się symbol miejsca początkowego.
 - **Reguła 5**
-  Symbol miejsca końcowego dowolnego członu dysjunktywnego zamkniętego w nawiasy iteracyjne rozmieszcza się w miejscu "przedpodstawowym" bezpośrednio za danym nawiasem.
+  Symbol miejsca końcowego dowolnego członu dysjunktywnego zamkniętego w nawiasy iteracyjne rozmieszcza się w miejscu "**przedpodstawowym**" bezpośrednio za danym nawiasem.
 - **Reguła 6**
-  Symbol miejsca przed nawiasem iteracyjnym zapisuje się w miejscu "przedpodstawowym" znajdującym się za tym nawiasem.
+  Symbol miejsca przed nawiasem iteracyjnym zapisuje się w miejscu "**przedpodstawowym**" znajdującym się za tym nawiasem.
 
 # Hazard
 **Hazard** — zjawisko powstawania błędnych stanów na wyjściu układu podczas procesów przejściowych. 
