@@ -100,7 +100,7 @@ Kod **korekcyjny**:
 bin na 1 z n
 
 # Transkoder
-1 z n na 1 z m
+inny niż 1 z n na inny niż 1 z 10
 
 # Sprzężenie zwrotne
 - **Stan Stabilny** - jednoznacznie określony
