@@ -42,12 +42,12 @@ obciążalność 10
 	$f(x_0, x_1,\cdots,x_{n-1})$
 	$f(x_0, x_1,\cdots,x_{n-1})=(x_0+f_1(x_1,x_2,\cdots,x_{n-1}))\cdot(\not x_0+f_2(x_1,x_2,\cdots,x_{n-1}))$
 	Możemy tak rozwijać dalej, i uzyskać $2^n$ składników
-	$f(x_0, x_1,\cdots,x_{n-1})=(x_0+x_1+\cdots+x_{n-1}+f(1,1,\cdots,1))\cdot(x_0+x_1+\cdots+\not x_{n-1}+f(1,1,\cdots,0))\cdots$
+	$f(x_0, x_1,\cdots,x_{n-1})=(x_0+x_1+\cdots+x_{n-1}+f(0,0,\cdots,0))\cdot(x_0+x_1+\cdots+\not x_{n-1}+f(0,0,\cdots,1))\cdots$
 
 Możemy to zapisać jako:
 $f(x_1,x_2,x_3)=\sum(011,101,110,111)= \not x_1x_2x_3+x_1\not x_2x_3+x_1x_2\not x_3+x_1x_2x_3$
 lub
-$f(x_1,x_2,x_3)=\prod(011,101,110,111)= (\not x_1+x_2+x_3)(x_1+\not x_2+x_3)(x_1+x_2+\not x_3)(x_1+x_2+x_3)$
+$f(x_1,x_2,x_3)=\prod(011,101,110,111)= (x_1+\not x_2+\not x_3)(\not x_1+x_2+\not x_3)(\not x_1+\not x_2+x_3)(\not x_1+\not x_2+\not x_3)$
 
 # System funkcjonalnie pełny
 Jeżeli możemy udowodnić, że można elementami systemu wykonać **NOT, AND, OR** to wtedy wiemy, że jest on pełny
