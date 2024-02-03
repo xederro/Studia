@@ -164,7 +164,7 @@ $\Delta$- alfabet wyjściowy
 # Automat Skończony
 (Q, $\Sigma$, $\delta$, F, $q_0$)
 
-**Automat skonczony** jest modelem matematycznym systemu dyskretnego, dziatajacego w dyskretnych chwilach czasu. Jego dziatanie jest okreslone na skonczonych zbiorach sygnałów wejściowych, stanów wewnętrznych i sygnałów wyjściowych.
+**Automat skończony** jest modelem matematycznym systemu dyskretnego, działającego w dyskretnych chwilach czasu. Jego działanie jest określone na skończonych zbiorach sygnałów wejściowych, stanów wewnętrznych i sygnałów wyjściowych.
 
 - **DFA** - Deterministyczny
 - **NFA** - Niedeterministyczny

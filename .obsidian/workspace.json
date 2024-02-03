@@ -11,6 +11,16 @@
             "id": "10e8ab4de7fea55b",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-01 09.18.03.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "5215b5a5081d20f5",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Kolokwium.md",
@@ -70,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -105,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Kolokwium.md",
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-01 09.18.03.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Kolokwium.md"
+                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-01 09.18.03.excalidraw.md"
               }
             }
           },
@@ -147,16 +158,18 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "janitor:Janitor: scan vault": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "10e8ab4de7fea55b",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 2/LUC W3.pdf",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Kolokwium.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-01 09.18.03.excalidraw.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-01 09.18.03.excalidraw.svg",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 2/LUC W3.pdf",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/LUC w2.pdf",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/LUC w6.pdf",
     "README.md",
@@ -188,9 +201,7 @@
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Pasted Image 20240201201842_944.png",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Ćwiczenia/Kolokwium 1/Drawing 2023-11-08 09.36.04.excalidraw.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Drawing 2024-01-21 20.31.33.excalidraw.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Wykłady/Kolokwium/Drawing 2024-02-01 19.53.33.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-01 16.12.42.excalidraw.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-01 09.18.03.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Untitled.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Architektura komputerów 1.md",
