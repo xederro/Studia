@@ -1,5 +1,5 @@
 Projekt
-[Projekt](Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%207/Projekt/Projekt.md)
+[Projekt](/Notatki/Semestr%203/Języki%20programowania/Labolatoria/Labolatoria%207/Projekt/Projekt.md)
 
 każdy interface zdalny ma dziedziczyć "remote"
 mamy korzystać z interface dostarczonych przez prowadzącego
