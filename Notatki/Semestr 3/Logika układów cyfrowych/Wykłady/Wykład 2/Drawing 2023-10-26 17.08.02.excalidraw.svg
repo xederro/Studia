@@ -1,4 +1,4 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1234.4443283081055 3320.388870239258" width="1234.4443283081055" height="3320.388870239258" filter="invert(93%) hue-rotate(180deg)">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1234.4443283081055 3320.388870239258" width="1234.4443283081055" height="3320.388870239258" filter="invert(93%) hue-rotate(180deg)" class="excalidraw-svg">
   <!-- svg-source:excalidraw -->
   
   <defs>
@@ -10,6 +10,10 @@
       @font-face {
         font-family: "Cascadia";
         src: url("https://excalidraw.com/Cascadia.woff2");
+      }
+      @font-face {
+        font-family: "Assistant";
+        src: url("https://excalidraw.com/Assistant-Regular.woff2");
       }
     </style>
     
