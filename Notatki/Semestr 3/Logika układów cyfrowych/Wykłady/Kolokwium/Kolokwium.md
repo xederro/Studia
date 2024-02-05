@@ -222,4 +222,4 @@ Języki powiązane z CFG. Obejmują wszystkie języki regularne oraz wiele dodat
 
 ![](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Wykłady/Kolokwium/Drawing%202024-02-01%2009.18.03.excalidraw.svg)![](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Wykłady/Kolokwium/e.circ)
 
-![](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Wykłady/Kolokwium/Drawing%202024-02-05%2014.08.37.excalidraw.svg)
+![](/Notatki/Semestr%203/Logika%20układów%20cyfrowych/Wykłady/Kolokwium/Drawing%202024-02-05%2014.08.37.excalidraw.svg)![](Notatki/Semestr%203/Logika%20układów%20cyfrowych/Wykłady/Kolokwium/Drawing%202024-02-05%2020.19.39.excalidraw.svg)
