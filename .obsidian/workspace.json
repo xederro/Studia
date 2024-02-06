@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "69000b1b34eafb1c",
+        "id": "82f76a62f6a6be0a",
         "type": "tabs",
         "children": [
           {
-            "id": "c9fd4c493fcec2dc",
+            "id": "19a82c5e58ac5881",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-05 20.19.39.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "cf98e1d39dd26ad4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Kolokwium.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
               }
             }
           }
@@ -164,14 +151,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c9fd4c493fcec2dc",
+  "active": "19a82c5e58ac5881",
   "lastOpenFiles": [
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Kolokwium.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-01 09.18.03.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-05 20.19.39.excalidraw.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Kolokwium.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240205205643_437.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-05 14.08.37.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-05 20.19.39.excalidraw.svg",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-01 09.18.03.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/LUC w2.pdf",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 5/Drawing 2023-12-21 17.38.35.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/Drawing 2023-12-07 17.17.25.excalidraw.md",
