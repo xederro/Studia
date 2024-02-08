@@ -17,7 +17,7 @@ typ: 'W'
 Pokój: 312 C.3
 Konsultacje: czw 15-17
 teoria obliczeń - gramatyka i języki
-egzamin 05.02.2024r. 11.00-13.00
+egzamin 06.02.2024r. 11.00-13.00
 Dwuczęsciowy (1 A4):
 	Test
 	Zdania + Pytania
