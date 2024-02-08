@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "de78880e8d97e096",
+        "id": "aaf1da0fa6767a19",
         "type": "tabs",
         "children": [
           {
-            "id": "cc4a443714794fad",
+            "id": "bbbcce9e146d913d",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 387.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -145,16 +145,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc4a443714794fad",
+  "active": "bbbcce9e146d913d",
   "lastOpenFiles": [
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 10/Ćwiczenie 10.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 1/Ćwiczenie 1.md",
+    "Notatki/Semestr 4/Niezawodność i diagnostyka układów cyfrowy/Projekt/Projekt 1/Projekt 1.md",
+    "Notatki/Semestr 4/Niezawodność i diagnostyka układów cyfrowy/Projekt/Projekt.md",
+    "Notatki/Semestr 4/Niezawodność i diagnostyka układów cyfrowy/Niezawodność i diagnostyka układów cyfrowy.md",
     "Notatki/Semestr 4/Semestr 4.md",
+    "README.md",
+    "bin/bin.md",
+    "Notatki/Semestr 4/Programowanie współbieżne i sieciowe/Labolatoria/Labolatorium 1/Labolatorium 1.md",
+    "Notatki/Semestr 4/Programowanie współbieżne i sieciowe/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 4/Programowanie współbieżne i sieciowe/Programowanie współbieżne i sieciowe.md",
     "Notatki/Semestr 4/Język obcy – C1.2/Język obcy – C1.2.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Podstawy techniki mikroprocesorowej 1.md",
     "Notatki/Semestr 4/Sieci komputerowe/Sieci komputerowe.md",
     "Notatki/Semestr 4/Bazy danych 1/Bazy danych 1.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Algorytmy i złożoność obliczeniowa.md",
-    "Notatki/Semestr 4/Niezawodność i diagnostyka układów cyfrowy/Niezawodność i diagnostyka układów cyfrowy.md",
     "Notatki/Semestr 4/Programowanie współbieżne i sieciowe/Wykłady/Wykłady.md",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykłady.md",
     "Sylabus.pdf",
@@ -168,15 +177,6 @@
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-05 20.19.39.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/LUC w2.pdf",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 5/Drawing 2023-12-21 17.38.35.excalidraw.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/Drawing 2023-12-07 17.17.25.excalidraw.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 3/Drawing 2023-11-09 17.22.41.excalidraw.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 2/Drawing 2023-10-26 17.08.02.excalidraw.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/Drawing 2023-10-12 17.04.46.excalidraw.md",
-    "bin/bin.md",
-    "README.md",
-    "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 3/Fizyka 3.1/Fizyka 3.1.md",
-    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Inżynierskie zastosowania statystyki.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240201091805_736.jpg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240205141248_931.jpg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-05 14.08.37.excalidraw.svg",

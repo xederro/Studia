@@ -11,12 +11,13 @@ Zalecamy zapoznanie się z:
 ### [Semestr 1](/Notatki/Semestr%201/Semestr%201.md)
 ### [Semestr 2](/Notatki/Semestr%202/Semestr%202.md)
 ### [Semestr 3](/Notatki/Semestr%203/Semestr%203.md)
+### [Semestr 4](Notatki/Semestr%204/Semestr%204.md)
 
 ### [Inne](/Notatki/Inne/Inne.md)
 
 ## Średnia
 ```dataviewjs
-for (let group of dv.pages().where(p => p["typ"] == "GK").groupBy(p => p.semestr)) {
+for (let group of dv.pages().where(p => p["typ"] == "GK").where(p => p["semestr"] != 4).groupBy(p => p.semestr)) {
 	let sum = 0;
 	group.rows.forEach(x=>sum+=Number(x.ects)*Number(x.ocena))
 	dv.header(3, "Semestr " + group.key + ": " + (sum/30).toFixed(3));
