@@ -1,8 +1,8 @@
 ---
 semestr: 4
 ocena: 
-ects: 
-typ: 'GK'
+ects: 4
+typ: GK
 ---
 
 # Kurs:

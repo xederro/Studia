@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a5b1a38e7288070c",
+        "id": "de78880e8d97e096",
         "type": "tabs",
         "children": [
           {
-            "id": "1385ed01040c0695",
+            "id": "cc4a443714794fad",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Sylabus.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sylabus.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sylabus.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -150,8 +145,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1385ed01040c0695",
+  "active": "cc4a443714794fad",
   "lastOpenFiles": [
+    "Notatki/Semestr 4/Semestr 4.md",
+    "Notatki/Semestr 4/Programowanie współbieżne i sieciowe/Programowanie współbieżne i sieciowe.md",
+    "Notatki/Semestr 4/Język obcy – C1.2/Język obcy – C1.2.md",
+    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Podstawy techniki mikroprocesorowej 1.md",
+    "Notatki/Semestr 4/Sieci komputerowe/Sieci komputerowe.md",
+    "Notatki/Semestr 4/Bazy danych 1/Bazy danych 1.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Algorytmy i złożoność obliczeniowa.md",
+    "Notatki/Semestr 4/Niezawodność i diagnostyka układów cyfrowy/Niezawodność i diagnostyka układów cyfrowy.md",
+    "Notatki/Semestr 4/Programowanie współbieżne i sieciowe/Wykłady/Wykłady.md",
+    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykłady.md",
+    "Sylabus.pdf",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Logika układów cyfrowych.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-01 09.18.03.excalidraw.md",
@@ -171,25 +177,15 @@
     "Notatki/Semestr 3/Fizyka 3.1/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 3/Fizyka 3.1/Fizyka 3.1.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Inżynierskie zastosowania statystyki.md",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Podstawy przetwarzania sygnałów.md",
-    "Notatki/Semestr 3/Języki programowania/Języki programowania.md",
-    "Notatki/Semestr 3/WF-2/WF-2.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Język angielski - C1.1.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Podstawy telekomunikacji.md",
-    "Notatki/Semestr 3/Semestr 3.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240201091805_736.jpg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240205141248_931.jpg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-05 14.08.37.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240201094038_053.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-01 09.18.03.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/LUC w6.pdf",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 6/Drawing 2024-01-18 17.16.20.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240201094100_039.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240201114004_979.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240204161924_764.png",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/Labolatoria 7.md",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/Projekt/Projekt.md",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/Projekt/Common/Comm.md",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/Projekt/Deliverer/src/main/java/pl/edu/pwr/student/djablonski/Deliverer/Handler/RequestHandler.java",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/Projekt/Deliverer/src/main/java/pl/edu/pwr/student/djablonski/Deliverer/Executor/GetOrders.java",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/Projekt/Deliverer/src/main/java/pl/edu/pwr/student/djablonski/Deliverer/Handler",
@@ -197,7 +193,6 @@
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/Projekt/Deliverer/src/main/java/pl/edu/pwr/student/djablonski/Deliverer/Deliverer.java",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/Projekt/Deliverer/target/classes/pl/edu/pwr/student/djablonski/Deliverer/Handler/RequestHandler.class",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/Projekt/Deliverer/target/classes/pl/edu/pwr/student/djablonski/Deliverer/Executor/GetOrders.class",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/Projekt/Deliverer/src/main/java/pl/edu/pwr/student/djablonski/Deliverer",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
