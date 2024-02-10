@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "78119176bc679f4e",
+        "id": "7005cf490822a342",
         "type": "tabs",
         "children": [
           {
-            "id": "661e47acbf9e2fde",
+            "id": "c1b58022339610fe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Semestr 4/Język obcy – C1.2/Język obcy – C1.2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5,
-    "collapsed": true
+    "width": 387.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -101,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Semestr 4/Język obcy – C1.2/Język obcy – C1.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 4/Język obcy – C1.2/Język obcy – C1.2.md"
+              }
             }
           },
           {
@@ -146,7 +153,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "661e47acbf9e2fde",
+  "active": "c1b58022339610fe",
   "lastOpenFiles": [
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Kolokwium/Kolokwium.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 10/Ćwiczenie 10.md",
