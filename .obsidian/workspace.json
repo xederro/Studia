@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7005cf490822a342",
+        "id": "3ae62ee03095dced",
         "type": "tabs",
         "children": [
           {
-            "id": "c1b58022339610fe",
+            "id": "8cc2b376a49a5920",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 4/Język obcy – C1.2/Język obcy – C1.2.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Język obcy – C1.2/Język obcy – C1.2.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 4/Język obcy – C1.2/Język obcy – C1.2.md"
+                "file": "README.md"
               }
             }
           },
@@ -153,8 +153,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c1b58022339610fe",
+  "active": "8cc2b376a49a5920",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/WF-2/WF-2.md",
+    "Notatki/Semestr 3/Semestr 3.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Podstawy telekomunikacji.md",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Podstawy przetwarzania sygnałów.md",
+    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Niezawodność i diagnostyka układów cyfrowych 1.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Logika układów cyfrowych.md",
+    "Notatki/Semestr 3/Języki programowania/Języki programowania.md",
+    "Notatki/Semestr 3/Język angielski - C1.1/Język angielski - C1.1.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Inżynierskie zastosowania statystyki.md",
+    "Notatki/Semestr 3/Fizyka 3.1/Fizyka 3.1.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Architektura komputerów 1.md",
+    "Notatki/Semestr 4/Język obcy – C1.2/Język obcy – C1.2.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Kolokwium/Kolokwium.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 10/Ćwiczenie 10.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenia.md",
@@ -168,21 +180,9 @@
     "Notatki/Semestr 4/Programowanie współbieżne i sieciowe/Labolatoria/Labolatorium 1/Labolatorium 1.md",
     "Notatki/Semestr 4/Programowanie współbieżne i sieciowe/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 4/Programowanie współbieżne i sieciowe/Programowanie współbieżne i sieciowe.md",
-    "Notatki/Semestr 4/Język obcy – C1.2/Język obcy – C1.2.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Podstawy techniki mikroprocesorowej 1.md",
-    "Notatki/Semestr 4/Sieci komputerowe/Sieci komputerowe.md",
-    "Notatki/Semestr 4/Bazy danych 1/Bazy danych 1.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Algorytmy i złożoność obliczeniowa.md",
-    "Notatki/Semestr 4/Programowanie współbieżne i sieciowe/Wykłady/Wykłady.md",
-    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykłady.md",
     "Sylabus.pdf",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykłady.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Logika układów cyfrowych.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-01 09.18.03.excalidraw.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-05 20.19.39.excalidraw.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Kolokwium.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240205205643_437.png",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-05 14.08.37.excalidraw.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-05 20.19.39.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/LUC w2.pdf",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240201091805_736.jpg",
