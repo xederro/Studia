@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3ae62ee03095dced",
+        "id": "44e9f42d2b28dd24",
         "type": "tabs",
         "children": [
           {
-            "id": "8cc2b376a49a5920",
+            "id": "c797651a5bd69082",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -153,15 +153,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8cc2b376a49a5920",
+  "active": "c797651a5bd69082",
   "lastOpenFiles": [
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Podstawy przetwarzania sygnałów.md",
+    "Notatki/Semestr 4/Organizacja i architektura komputerów/Organizacja i architektura komputerów.md",
+    "Notatki/Semestr 4/Semestr 4.md",
+    "Sylabus.pdf",
+    "Notatki/Semestr 4/Sieci komputerowe/Sieci komputerowe.md",
+    "README.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Logika układów cyfrowych.md",
     "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Niezawodność i diagnostyka układów cyfrowych 1.md",
     "Notatki/Semestr 3/Semestr 3.md",
-    "README.md",
     "Notatki/Semestr 3/WF-2/WF-2.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Podstawy telekomunikacji.md",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Podstawy przetwarzania sygnałów.md",
     "Notatki/Semestr 3/Języki programowania/Języki programowania.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Język angielski - C1.1.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Inżynierskie zastosowania statystyki.md",
@@ -175,13 +179,9 @@
     "Notatki/Semestr 4/Niezawodność i diagnostyka układów cyfrowy/Projekt/Projekt 1/Projekt 1.md",
     "Notatki/Semestr 4/Niezawodność i diagnostyka układów cyfrowy/Projekt/Projekt.md",
     "Notatki/Semestr 4/Niezawodność i diagnostyka układów cyfrowy/Niezawodność i diagnostyka układów cyfrowy.md",
-    "Notatki/Semestr 4/Semestr 4.md",
     "bin/bin.md",
-    "Notatki/Semestr 4/Programowanie współbieżne i sieciowe/Labolatoria/Labolatorium 1/Labolatorium 1.md",
-    "Notatki/Semestr 4/Programowanie współbieżne i sieciowe/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 4/Programowanie współbieżne i sieciowe/Programowanie współbieżne i sieciowe.md",
-    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Podstawy techniki mikroprocesorowej 1.md",
-    "Sylabus.pdf",
+    "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 1/Labolatorium 1.md",
+    "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240205205643_437.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-05 20.19.39.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/LUC w2.pdf",

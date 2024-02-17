@@ -5,4 +5,4 @@
 4. [Sieci komputerowe](/Notatki/Semestr%204/Sieci%20komputerowe/Sieci%20komputerowe.md)
 5. [Podstawy techniki mikroprocesorowej 1](/Notatki/Semestr%204/Podstawy%20techniki%20mikroprocesorowej%201/Podstawy%20techniki%20mikroprocesorowej%201.md)
 6. [Język obcy – C1.2](/Notatki/Semestr%204/J%C4%99zyk%20obcy%20%E2%80%93%20C1.2/J%C4%99zyk%20obcy%20%E2%80%93%20C1.2.md)
-7. [Programowanie współbieżne i sieciowe](/Notatki/Semestr%204/Programowanie%20współbieżne%20i%20sieciowe/Programowanie%20współbieżne%20i%20sieciowe.md)
+7. [Organizacja i architektura komputerów](/Notatki/Semestr%204/Organizacja%20i%20architektura%20komputerów/Organizacja%20i%20architektura%20komputerów.md)
