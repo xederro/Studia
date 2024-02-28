@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "44e9f42d2b28dd24",
+        "id": "61b39e719ab3422a",
         "type": "tabs",
         "children": [
           {
-            "id": "c797651a5bd69082",
+            "id": "f6d4a0f61a726b03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Wykład 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "918c8bcf9903c3d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykłady.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5
+    "width": 387.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -105,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykłady.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykłady.md"
               }
             }
           },
@@ -153,12 +168,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c797651a5bd69082",
+  "active": "918c8bcf9903c3d2",
   "lastOpenFiles": [
+    "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Wykład 1.md",
+    "README.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Architektura komputerów 1.md",
     "Notatki/Semestr 4/Semestr 4.md",
-    "README.md",
     "LICENSE.md",
     "Notatki/Semestr 3/Semestr 3.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Podstawy przetwarzania sygnałów.md",
@@ -181,7 +197,6 @@
     "Notatki/Semestr 4/Niezawodność i diagnostyka układów cyfrowy/Projekt/Projekt 1/Projekt 1.md",
     "Notatki/Semestr 4/Niezawodność i diagnostyka układów cyfrowy/Projekt/Projekt.md",
     "Notatki/Semestr 4/Niezawodność i diagnostyka układów cyfrowy/Niezawodność i diagnostyka układów cyfrowy.md",
-    "bin/bin.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240205205643_437.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-05 20.19.39.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/LUC w2.pdf",

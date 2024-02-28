@@ -20,3 +20,38 @@ typ: 'W'
 13. [Wykład 13](/Notatki/Semestr%204/Organizacja%20i%20architektura%20komputerów/Wykłady/Wykład%2013/Wykład%2013.md)
 14. [Wykład 14](/Notatki/Semestr%204/Organizacja%20i%20architektura%20komputerów/Wykłady/Wykład%2014/Wykład%2014.md)
 15. [Wykład 15](/Notatki/Semestr%204/Organizacja%20i%20architektura%20komputerów/Wykłady/Wykład%2015/Wykład%2015.md)
+
+
+musi zrobić egzamin :<
+zaliczenie projektu i laboratoriów
+test otwarty
+5+1 pytań na 25 pkt
+40 minut
+zaliczenie od 13 pkt
+celująca 24+pkt
+uwzględnienie ocen z projektu i laboratoriów
+
+
+
+x86
+
+języki maszynowe, lista rozkazu, opis rejestrów, mapa pamięci
+reprezentacje i typy danych, tryby adresowania (wymienić tryby adresowania i napisać równania)
+sterowanie wykonywaniem programu
+programowanie w assemblerze
+organizacja i hierarchia pamięci
+zasada lokalności - pamięć podręczna
+zarządzanie pamięcią
+przerwania wewnętrzne i zewnętrzne
+przetwarzanie potokowe
+współpraca wielu jednostek wykonawczych
+interface i magistrale
+kody korekcyjne i detekcyjne w przetwarzaniu danych
+niezawodność i wiarygodność
+
+
+
+Literatura:
+dyrektywy assemblera i lintera gnu binutils dla x86
+gdb gnu debugger!!
+fog
