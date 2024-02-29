@@ -24,3 +24,8 @@ typ: 'W'
 
 
 
+kolokwium czwartek 20.06.2024r
+dobieg? pn 24.06.2024r.
+35% z laborki reszta z wykładu
+będzie pytanie dodatkowe: np. skoki narciarskie
+

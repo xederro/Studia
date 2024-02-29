@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykłady.md",
+                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 1/Wykład 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykłady.md",
+                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 1/Wykład 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykłady.md"
+                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 1/Wykład 1.md"
               }
             }
           },
@@ -156,6 +156,7 @@
   },
   "active": "4fb91fba02dc1269",
   "lastOpenFiles": [
+    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykłady.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/Ćwiczenie 2.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 1/Ćwiczenie 1.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenia.md",
@@ -182,7 +183,6 @@
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Inżynierskie zastosowania statystyki.md",
     "Notatki/Semestr 3/Fizyka 3.1/Fizyka 3.1.md",
     "Notatki/Semestr 4/Język obcy – C1.2/Język obcy – C1.2.md",
-    "Notatki/Semestr 3/Architektura komputerów 1/Ćwiczenia/Kolokwium/Kolokwium.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240205205643_437.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-05 20.19.39.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/LUC w2.pdf",
