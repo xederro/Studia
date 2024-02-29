@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c982ed563a7051a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +165,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f3896aceebf52ea",
+  "active": "6c982ed563a7051a",
   "lastOpenFiles": [
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykłady.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Wykład 1.md",
