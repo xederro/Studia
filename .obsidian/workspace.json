@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8fc6e56c7705ac50",
+        "id": "efece76fd835a268",
         "type": "tabs",
         "children": [
           {
-            "id": "4fb91fba02dc1269",
+            "id": "41df19ce97c641d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 1/Wykład 1.md",
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 1/Wykład 1.md",
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 1/Wykład 1.md"
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt.md"
               }
             }
           },
@@ -154,10 +154,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4fb91fba02dc1269",
+  "active": "41df19ce97c641d3",
   "lastOpenFiles": [
-    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykłady.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/Ćwiczenie 2.md",
+    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 1/PTM-wyk-1.pdf",
+    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykłady.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 1/Ćwiczenie 1.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt.md",
@@ -181,8 +183,6 @@
     "Notatki/Semestr 3/Języki programowania/Języki programowania.md",
     "Notatki/Semestr 3/Język angielski - C1.1/Język angielski - C1.1.md",
     "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Inżynierskie zastosowania statystyki.md",
-    "Notatki/Semestr 3/Fizyka 3.1/Fizyka 3.1.md",
-    "Notatki/Semestr 4/Język obcy – C1.2/Język obcy – C1.2.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240205205643_437.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-05 20.19.39.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/LUC w2.pdf",
@@ -201,7 +201,6 @@
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/Projekt/Deliverer/src/main/java/pl/edu/pwr/student/djablonski/Deliverer/Executor",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/Projekt/Deliverer/src/main/java/pl/edu/pwr/student/djablonski/Deliverer/Deliverer.java",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/Projekt/Deliverer/target/classes/pl/edu/pwr/student/djablonski/Deliverer/Handler/RequestHandler.class",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/Projekt/Deliverer/target/classes/pl/edu/pwr/student/djablonski/Deliverer/Executor/GetOrders.class",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
