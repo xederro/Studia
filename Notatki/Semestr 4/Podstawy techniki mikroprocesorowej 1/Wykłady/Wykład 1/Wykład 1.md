@@ -1,4 +1,4 @@
-![](Notatki/Semestr%204/Podstawy%20techniki%20mikroprocesorowej%201/Wykłady/Wykład%201/PTM-wyk-1.pdf)
+![](/Notatki/Semestr%204/Podstawy%20techniki%20mikroprocesorowej%201/Wykłady/Wykład%201/PTM-wyk-1.pdf)
 
 Liberec IQ park
 program wysypał kartami
