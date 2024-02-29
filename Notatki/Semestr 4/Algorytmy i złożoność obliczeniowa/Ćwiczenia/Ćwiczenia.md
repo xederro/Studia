@@ -20,3 +20,15 @@ typ: 'C'
 13. [Ćwiczenie 13](/Notatki/Semestr%204/Algorytmy%20i%20z%C5%82o%C5%BCono%C5%9B%C4%87%20obliczeniowa/%C4%86wiczenia/%C4%86wiczenie%2013/%C4%86wiczenie%2013.md)
 14. [Ćwiczenie 14](/Notatki/Semestr%204/Algorytmy%20i%20z%C5%82o%C5%BCono%C5%9B%C4%87%20obliczeniowa/%C4%86wiczenia/%C4%86wiczenie%2014/%C4%86wiczenie%2014.md)
 15. [Ćwiczenie 15](/Notatki/Semestr%204/Algorytmy%20i%20z%C5%82o%C5%BCono%C5%9B%C4%87%20obliczeniowa/%C4%86wiczenia/%C4%86wiczenie%2015/%C4%86wiczenie%2015.md)
+
+
+
+
+http://jaroslaw.mierzwa.staff.iiar.pwr.edu.pl/ Struktury danych i złożoność obliczeniowa -ćwiczenia
+lista z zagadnieniami z którymi trzeba się zapoznać (lista 9 sortowanie obecnie)
+plusy i minusy
+2 kolokwia, liczone w sumie ale oba trzeba zaliczyć
+3 nieobecność, kolejna to 0.5 niżej
+hasło: sdizo_
+
+
