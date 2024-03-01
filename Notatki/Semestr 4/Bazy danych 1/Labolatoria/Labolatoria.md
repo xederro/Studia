@@ -20,3 +20,10 @@ typ: 'L'
 13. [Labolatorium 13](/Notatki/Semestr%204/Bazy%20danych%201/Labolatoria/Labolatorium%2013/Labolatorium%2013.md)
 14. [Labolatorium 14](/Notatki/Semestr%204/Bazy%20danych%201/Labolatoria/Labolatorium%2014/Labolatorium%2014.md)
 15. [Labolatorium 15](/Notatki/Semestr%204/Bazy%20danych%201/Labolatoria/Labolatorium%2015/Labolatorium%2015.md)
+
+
+
+8 i 14 zajęcia - kolokwium
+sqldeveloper
+hr???
+
