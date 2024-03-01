@@ -14,7 +14,7 @@ typ: 'P'
 7. [Projekt 7](/Notatki/Semestr%204/Algorytmy%20i%20z%C5%82o%C5%BCono%C5%9B%C4%87%20obliczeniowa/Projekt/Projekt%207/Projekt%207.md)
 
 
-[Http://staff.iiar.pwr.wisc.pl/dariusz.banasiak](http://staff.iiar.pwr.wisc.pl/dariusz.banasiak)  
+http://dariusz.banasiak.staff.iiar.pwr.wroc.pl/
 
 1 osobowe
 
