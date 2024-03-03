@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "199549d64fb91515",
+        "id": "d5bf1ebedc3b32ab",
         "type": "tabs",
         "children": [
           {
-            "id": "746d11ee37793ce0",
+            "id": "04d99c358b54a3fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt.md"
-              }
+              "state": {}
             }
           },
           {
@@ -134,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -153,10 +145,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "746d11ee37793ce0",
+  "active": "04d99c358b54a3fc",
   "lastOpenFiles": [
-    "README.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/Sylabus.pdf",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/Sylabus.pdf.crdownload",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt.md",
+    "README.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt 7/Projekt 7.md",
     "Notatki/Semestr 4/Bazy danych 1/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/Ćwiczenie 2.md",
@@ -164,7 +159,6 @@
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 1/PTM-wyk-1.pdf",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykłady.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 1/Ćwiczenie 1.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykłady.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Wykład 1.md",
@@ -182,7 +176,6 @@
     "Notatki/Semestr 3/WF-2/WF-2.md",
     "Notatki/Semestr 3/Podstawy telekomunikacji/Podstawy telekomunikacji.md",
     "Notatki/Semestr 3/Języki programowania/Języki programowania.md",
-    "Notatki/Semestr 3/Język angielski - C1.1/Język angielski - C1.1.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240205205643_437.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-05 20.19.39.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/LUC w2.pdf",
@@ -199,8 +192,6 @@
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/Projekt/Deliverer/src/main/java/pl/edu/pwr/student/djablonski/Deliverer/Executor/GetOrders.java",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/Projekt/Deliverer/src/main/java/pl/edu/pwr/student/djablonski/Deliverer/Handler",
     "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/Projekt/Deliverer/src/main/java/pl/edu/pwr/student/djablonski/Deliverer/Executor",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/Projekt/Deliverer/src/main/java/pl/edu/pwr/student/djablonski/Deliverer/Deliverer.java",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/Projekt/Deliverer/target/classes/pl/edu/pwr/student/djablonski/Deliverer/Handler/RequestHandler.class",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
