@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatoria.md",
+                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Projekt/Projekt.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatoria.md",
+                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Projekt/Projekt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatoria.md"
+                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Projekt/Projekt.md"
               }
             }
           },
@@ -156,11 +156,23 @@
   },
   "active": "04d99c358b54a3fc",
   "lastOpenFiles": [
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Semestr 4/Organizacja i architektura komputerów/Projekt/Projekt.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 1/wyklad_1 2021.pdf",
+    "Notatki/Semestr 4/Organizacja i architektura komputerów/Organizacja i architektura komputerów.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykłady.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 1/wyklad_1 2021.pdf",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 1/wyklad_1 2021.pdf.crdownload",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt 1/Projekt 1.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt 4/Projekt 4.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt 1/AZO_lista1.pdf",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt 1/AZO_lista1.pdf.crdownload",
+    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/Ćwiczenie 2.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/Sylabus.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/Sylabus.pdf.crdownload",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt.md",
     "README.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt 7/Projekt 7.md",
     "Notatki/Semestr 4/Bazy danych 1/Labolatoria/Labolatoria.md",
@@ -177,14 +189,8 @@
     "LICENSE.md",
     "Notatki/Semestr 3/Semestr 3.md",
     "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Podstawy przetwarzania sygnałów.md",
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Organizacja i architektura komputerów.md",
     "Sylabus.pdf",
     "Notatki/Semestr 4/Sieci komputerowe/Sieci komputerowe.md",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Logika układów cyfrowych.md",
-    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Niezawodność i diagnostyka układów cyfrowych 1.md",
-    "Notatki/Semestr 3/WF-2/WF-2.md",
-    "Notatki/Semestr 3/Podstawy telekomunikacji/Podstawy telekomunikacji.md",
-    "Notatki/Semestr 3/Języki programowania/Języki programowania.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240205205643_437.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-05 20.19.39.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/LUC w2.pdf",
@@ -193,14 +199,9 @@
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-05 14.08.37.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240201094038_053.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-01 09.18.03.excalidraw.svg",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 4/LUC w6.pdf",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240201094100_039.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240201114004_979.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240204161924_764.png",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/Projekt/Deliverer/src/main/java/pl/edu/pwr/student/djablonski/Deliverer/Handler/RequestHandler.java",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/Projekt/Deliverer/src/main/java/pl/edu/pwr/student/djablonski/Deliverer/Executor/GetOrders.java",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/Projekt/Deliverer/src/main/java/pl/edu/pwr/student/djablonski/Deliverer/Handler",
-    "Notatki/Semestr 3/Języki programowania/Labolatoria/Labolatoria 7/Projekt/Deliverer/src/main/java/pl/edu/pwr/student/djablonski/Deliverer/Executor",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]

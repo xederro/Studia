@@ -1,0 +1,1 @@
+![](/Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Wykłady/Wykład%201/wyklad_1%202021.pdf)

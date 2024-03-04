@@ -1,0 +1,1 @@
+![](/Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Projekt/Projekt%201/AZO_lista1.pdf)

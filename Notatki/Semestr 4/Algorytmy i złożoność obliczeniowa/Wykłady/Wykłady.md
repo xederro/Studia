@@ -12,3 +12,9 @@ typ: 'W'
 5. [Wykład 5](/Notatki/Semestr%204/Algorytmy%20i%20z%C5%82o%C5%BCono%C5%9B%C4%87%20obliczeniowa/Wyk%C5%82ady/Wyk%C5%82ad%205/Wyk%C5%82ad%205.md)
 6. [Wykład 6](/Notatki/Semestr%204/Algorytmy%20i%20z%C5%82o%C5%BCono%C5%9B%C4%87%20obliczeniowa/Wyk%C5%82ady/Wyk%C5%82ad%206/Wyk%C5%82ad%206.md)
 7. [Wykład 7](/Notatki/Semestr%204/Algorytmy%20i%20z%C5%82o%C5%BCono%C5%9B%C4%87%20obliczeniowa/Wyk%C5%82ady/Wyk%C5%82ad%207/Wyk%C5%82ad%207.md)
+
+
+
+http://www.zio.iiar.pwr.wroc.pl/sdizo/
+może nie być testu
+tylko pytania testowe

@@ -16,3 +16,7 @@ typ: 'L'
 
 
 kod na pc w sali
+1 nieobecność
+sprawozdania na eportalu
+kto temat zajęć kod 
+opis / komentarze w kodzie
