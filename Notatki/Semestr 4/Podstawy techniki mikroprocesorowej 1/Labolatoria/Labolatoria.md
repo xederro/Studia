@@ -12,3 +12,7 @@ typ: 'L'
 5. [Labolatorium 5](/Notatki/Semestr%204/Podstawy%20techniki%20mikroprocesorowej%201/Labolatoria/Labolatorium%205/Labolatorium%205.md)
 6. [Labolatorium 6](/Notatki/Semestr%204/Podstawy%20techniki%20mikroprocesorowej%201/Labolatoria/Labolatorium%206/Labolatorium%206.md)
 7. [Labolatorium 7](/Notatki/Semestr%204/Podstawy%20techniki%20mikroprocesorowej%201/Labolatoria/Labolatorium%207/Labolatorium%207.md)
+
+
+
+kod na pc w sali
