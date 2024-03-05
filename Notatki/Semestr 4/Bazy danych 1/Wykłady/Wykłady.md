@@ -20,3 +20,11 @@ typ: 'W'
 13. [Wykład 13](/Notatki/Semestr%204/Bazy%20danych%201/Wyk%C5%82ady/Wyk%C5%82ad%2013/Wyk%C5%82ad%2013.md)
 14. [Wykład 14](/Notatki/Semestr%204/Bazy%20danych%201/Wyk%C5%82ady/Wyk%C5%82ad%2014/Wyk%C5%82ad%2014.md)
 15. [Wykład 15](/Notatki/Semestr%204/Bazy%20danych%201/Wyk%C5%82ady/Wyk%C5%82ad%2015/Wyk%C5%82ad%2015.md)
+
+
+
+https://www.kssk.pwr.edu.pl/jankowski
+w trakcie semestru 2 kolokwia, po 7/8 tygodniu u 2 kolokwium pod koniec nie trzeba egzaminu
+egzamin tutaj
+kolokwia zdanie!
+nie można poprawiać kolokwiów, żeby podejść do 2 trzeba zdać 1, 20 pkt trzeba zdobyć (50%)

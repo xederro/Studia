@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatoria.md",
+                "file": "Notatki/Semestr 4/Bazy danych 1/Wykłady/Wykłady.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5
+    "width": 387.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatoria.md",
+                "file": "Notatki/Semestr 4/Bazy danych 1/Wykłady/Wykłady.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatoria.md"
+                "file": "Notatki/Semestr 4/Bazy danych 1/Wykłady/Wykłady.md"
               }
             }
           },
@@ -155,6 +156,8 @@
   },
   "active": "04d99c358b54a3fc",
   "lastOpenFiles": [
+    "Notatki/Semestr 4/Bazy danych 1/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Projekt/Projekt.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 1/wyklad_1 2021.pdf",
@@ -187,9 +190,7 @@
     "Notatki/Semestr 4/Semestr 4.md",
     "LICENSE.md",
     "Notatki/Semestr 3/Semestr 3.md",
-    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Podstawy przetwarzania sygnałów.md",
     "Sylabus.pdf",
-    "Notatki/Semestr 4/Sieci komputerowe/Sieci komputerowe.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240205205643_437.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-05 20.19.39.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/LUC w2.pdf",
