@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 4/Sieci komputerowe/Labolatoria/Labolatoria.md",
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/Ćwiczenie 4.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5,
-    "collapsed": true
+    "width": 387.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Sieci komputerowe/Labolatoria/Labolatoria.md",
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/Ćwiczenie 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 4/Sieci komputerowe/Labolatoria/Labolatoria.md"
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/Ćwiczenie 4.md"
               }
             }
           },
@@ -156,6 +155,17 @@
   },
   "active": "04d99c358b54a3fc",
   "lastOpenFiles": [
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/Ćwiczenie 3.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/Ćwiczenie 2.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/azo_cw_bst.pdf",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/azo_cw_bst.pdf.crdownload",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/azo_cw_kopiec.pdf",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/azo_cw_kopiec.pdf.crdownload",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/azo_cw_sort.pdf",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/azo_cw_sort.pdf.crdownload",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/Sylabus.pdf",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 1/Ćwiczenie 1.md",
+    "Notatki/Semestr 4/Sieci komputerowe/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 4/Bazy danych 1/Wykłady/Wykłady.md",
     "Notatki/Semestr 4/Bazy danych 1/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatoria.md",
@@ -169,31 +179,20 @@
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt 1/Projekt 1.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt 4/Projekt 4.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt 1/AZO_lista1.pdf",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt 1/AZO_lista1.pdf.crdownload",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/Ćwiczenie 2.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/Sylabus.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/Sylabus.pdf.crdownload",
     "README.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt 7/Projekt 7.md",
     "Notatki/Semestr 4/Bazy danych 1/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 1/PTM-wyk-1.pdf",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykłady.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 1/Ćwiczenie 1.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykłady.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Architektura komputerów 1/Architektura komputerów 1.md",
-    "Notatki/Semestr 4/Semestr 4.md",
-    "LICENSE.md",
-    "Sylabus.pdf",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240205205643_437.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-05 20.19.39.excalidraw.svg",
-    "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Wykład 1/LUC w2.pdf",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240201091805_736.jpg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240205141248_931.jpg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-05 14.08.37.excalidraw.svg",
