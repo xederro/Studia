@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "65a61be47961b238",
+        "id": "4e3eafac5aaf885f",
         "type": "tabs",
         "children": [
           {
-            "id": "e87f876fa32b0b4d",
+            "id": "b542c9823e4af5c9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.md"
+                "file": "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 1/Wykład 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -103,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.md",
+                "file": "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 1/Wykład 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.md"
+                "file": "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 1/Wykład 1.md"
               }
             }
           },
@@ -151,10 +154,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e87f876fa32b0b4d",
+  "active": "b542c9823e4af5c9",
   "lastOpenFiles": [
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Semestr 4/Sieci komputerowe/Labolatoria/Labolatorium 1/Labolatorium 1.md",
+    "Notatki/Semestr 4/Sieci komputerowe/Sieci komputerowe.md",
+    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 1/1_SK_Wstep.pptx",
+    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 1/1_SK_Wstep.pptx.crdownload",
+    "Notatki/Semestr 4/Bazy danych 1/Labolatoria/Labolatoria.md",
+    "Notatki/Semestr 4/Sieci komputerowe/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.md",
+    "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.svg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/Ćwiczenie 2.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/azo_cw_sort.pdf",
@@ -171,9 +181,6 @@
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/azo_cw_bst.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/azo_cw_bst.pdf.crdownload",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/azo_cw_kopiec.pdf",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/azo_cw_kopiec.pdf.crdownload",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/azo_cw_sort.pdf.crdownload",
-    "Notatki/Semestr 4/Sieci komputerowe/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 4/Bazy danych 1/Wykłady/Wykłady.md",
     "Notatki/Semestr 4/Bazy danych 1/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatoria.md",
@@ -187,9 +194,6 @@
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatoria.md",
     "README.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt 7/Projekt 7.md",
-    "Notatki/Semestr 4/Bazy danych 1/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykłady.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240205205643_437.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-05 20.19.39.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240201091805_736.jpg",

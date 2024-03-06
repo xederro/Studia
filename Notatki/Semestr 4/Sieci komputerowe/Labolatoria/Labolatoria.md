@@ -1,7 +1,7 @@
 ---
 semestr: 4
-ocena: 
-typ: 'L'
+ocena: 4
+typ: L
 ---
 
 # Labolatoria:
