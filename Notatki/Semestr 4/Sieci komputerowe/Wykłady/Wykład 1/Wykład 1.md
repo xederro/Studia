@@ -1,4 +1,4 @@
-![](Notatki/Semestr%204/Sieci%20komputerowe/Wykłady/Wykład%201/1_SK_Wstep.pptx)
+![](/Notatki/Semestr%204/Sieci%20komputerowe/Wykłady/Wykład%201/1_SK_Wstep.pptx)
 
 # Historia
 - 1958 arpanet - praprzodek internetu
