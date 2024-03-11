@@ -11,8 +11,13 @@
             "id": "99e168ba630ed722",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Semestr 4/Sieci komputerowe/Sieci komputerowe.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -100,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Semestr 4/Sieci komputerowe/Sieci komputerowe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 4/Sieci komputerowe/Sieci komputerowe.md"
+              }
             }
           },
           {
@@ -147,6 +155,8 @@
   },
   "active": "99e168ba630ed722",
   "lastOpenFiles": [
+    "Notatki/Semestr 4/Bazy danych 1/Bazy danych 1.md",
+    "Notatki/Semestr 4/Bazy danych 1/Labolatoria/Labolatoria.md",
     "bin/bin.md",
     "Notatki/Semestr 4/Język obcy – C1.2/Ćwiczenia/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 4/Język obcy – C1.2/Ćwiczenia/Ćwiczenia.md",
@@ -162,7 +172,6 @@
     "Notatki/Semestr 4/Sieci komputerowe/Sieci komputerowe.md",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 1/1_SK_Wstep.pptx",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 1/1_SK_Wstep.pptx.crdownload",
-    "Notatki/Semestr 4/Bazy danych 1/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 4/Sieci komputerowe/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Wykład 1.md",
@@ -184,7 +193,6 @@
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Organizacja i architektura komputerów.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykłady.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt 1/Projekt 1.md",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240205205643_437.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-05 20.19.39.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240201091805_736.jpg",
