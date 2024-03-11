@@ -31,3 +31,10 @@ i reg
 disasseble
 si single instruction
 x /8cb 0x555555556008 - external /8kolejnych jako char b    adres
+
+
+
+
+
+tryby adresacji poczytać
+rejestr flag
