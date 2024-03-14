@@ -1,3 +1,5 @@
+
+
 # Kryteria analizy algorytmów
 
 - poprawność - czy daje dobry wynik
