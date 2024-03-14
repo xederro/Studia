@@ -4,31 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "07467f00a4f65ea3",
+        "id": "022fe9f1f45c44ac",
         "type": "tabs",
         "children": [
           {
-            "id": "f9efcd240ddc9b16",
+            "id": "7a4985d6bb86d071",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/cwmat_02_kopiec.pdf"
-              }
-            }
-          },
-          {
-            "id": "27e490eab234f821",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/Drawing 2024-03-14 14.33.55.excalidraw.md"
+                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 3/Wykład 3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5,
+    "width": 369.5,
     "collapsed": true
   },
   "right": {
@@ -114,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/Drawing 2024-03-14 14.33.55.excalidraw.md",
+                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 3/Wykład 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/Drawing 2024-03-14 14.33.55.excalidraw.md"
+                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 3/Wykład 3.md"
               }
             }
           },
@@ -162,10 +154,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "27e490eab234f821",
+  "active": "7a4985d6bb86d071",
   "lastOpenFiles": [
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/cwmat_02_kopiec.pdf",
+    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 2/PTM-wyk-2.pdf",
+    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 2/PTM-wyk-2.pdf.crdownload",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/Drawing 2024-03-14 14.33.55.excalidraw.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/cwmat_02_kopiec.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/Drawing 2024-03-14 14.33.55.excalidraw.svg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/Ćwiczenie 3.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/Drawing 2024-03-06 09.39.45.excalidraw.md",
@@ -180,14 +175,12 @@
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 2/~$1_2_SK_Wprowadzenie do sieci komputerowych.pptx",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 1/~$1_SK_Wstep.pptx",
-    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 2/1_2_SK_Wprowadzenie do sieci komputerowych.pptx",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 2/Drawing 2024-03-13 13.22.26.excalidraw.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 2/Drawing 2024-03-13 13.22.26.excalidraw.svg",
     "Notatki/Semestr 4/Bazy danych 1/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 4/Bazy danych 1/Wykłady/Wykłady.md",
-    "Notatki/Semestr 4/Bazy danych 1/Wykłady/Bazy_Danych_Slajdy_W2-W7.pdf",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 1/Labolatorium 1.md",
     "Notatki/Semestr 4/Sieci komputerowe/Sieci komputerowe.md",
@@ -196,7 +189,6 @@
     "bin/bin.md",
     "Notatki/Semestr 4/Język obcy – C1.2/Ćwiczenia/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 4/Język obcy – C1.2/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 4/Sieci komputerowe/Labolatoria/Labolatorium 1/Labolatorium 1.md",
     "Notatki/Semestr 4/Sieci komputerowe/Labolatoria/Labolatoria.md",
