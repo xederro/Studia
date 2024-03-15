@@ -15,3 +15,14 @@ team
 home
 greenspace
 bring america
+
+---
+
+myy
+Selekcja dobrych rzeczy z rzeczy generowanych przez ai  
+Bard vs gemini paywall
+
+
+connected papers
+
+aipdf.ai
