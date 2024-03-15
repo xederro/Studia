@@ -1,4 +1,4 @@
-![](Notatki/Semestr%204/Podstawy%20techniki%20mikroprocesorowej%201/Wykłady/Wykład%202/PTM-wyk-2.pdf)
+![](/Notatki/Semestr%204/Podstawy%20techniki%20mikroprocesorowej%201/Wykłady/Wykład%202/PTM-wyk-2.pdf)
 # Architektura Intel 8051
 
 CISC - kompleksowa lista rozkazów
