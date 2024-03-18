@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 4/Bazy danych 1/Wykłady/Wykład 1/Wykład 1.md",
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 2/Wykład 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Bazy danych 1/Wykłady/Wykład 1/Wykład 1.md",
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 2/Wykład 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 4/Bazy danych 1/Wykłady/Wykład 1/Wykład 1.md"
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 2/Wykład 2.md"
               }
             }
           },
@@ -153,8 +153,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "01090f2e8f313075",
+  "active": "671d26171d29a68e",
   "lastOpenFiles": [
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykłady.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 2/sdizo_2020_wyklad_2.pdf",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 2/sdizo_2020_wyklad_2.pdf.crdownload",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 1/wyklad_1 2021.pdf",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Semestr 4/Bazy danych 1/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 4/Język obcy – C1.2/Ćwiczenia/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 1/Podstawy programowania/Labolatoria/Labolatoria 1/Labolatoria 1.md",
     "Notatki/Semestr 1/Podstawy programowania/Labolatoria/Labolatoria 0/Labolatoria 0.md",
@@ -177,23 +185,15 @@
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/cwmat_02_kopiec",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/cwmat_02_kopiec.zip",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/cwmat_02_kopiec.zip.crdownload",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/azo_cw_kopiec.pdf.crdownload",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/Ćwiczenie 2.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 1/Ćwiczenie 1.md",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 2/~$1_2_SK_Wprowadzenie do sieci komputerowych.pptx",
-    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 1/~$1_SK_Wstep.pptx",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 2/Drawing 2024-03-13 13.22.26.excalidraw.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 2/Drawing 2024-03-13 13.22.26.excalidraw.svg",
-    "Notatki/Semestr 4/Bazy danych 1/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 4/Bazy danych 1/Wykłady/Wykłady.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.md",
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 1/Labolatorium 1.md",
-    "Notatki/Semestr 4/Sieci komputerowe/Sieci komputerowe.md",
-    "Notatki/Semestr 4/Bazy danych 1/Bazy danych 1.md",
-    "Notatki/Semestr 4/Bazy danych 1/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240205205643_437.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-05 20.19.39.excalidraw.svg",
