@@ -41,7 +41,7 @@ x'=y0z0
 czyli ilość zasobów komputera jaką musimy przeznaczyć na przebieg algorytmu T(n)
 
 - optymistyczna - idealne dane
-- danę - średnia $\sum^n_{k=1}p_k * t_k(n)$ dla każdej pozycji średnia np.
+- dane - średnia $\sum^n_{k=1}p_k * t_k(n)$ dla każdej pozycji średnia np.
 - pesymistyczna - najgorsze dane
 
 
