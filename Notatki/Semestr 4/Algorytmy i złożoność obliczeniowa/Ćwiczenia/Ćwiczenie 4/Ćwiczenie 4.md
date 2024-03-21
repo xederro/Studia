@@ -1,1 +1,1 @@
-![](/Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Ćwiczenie%204/azo_cw_bst.pdf)![](Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Ćwiczenie%204/cwmat_03_bst.pdf)
+![](/Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Ćwiczenie%204/azo_cw_bst.pdf)![](/Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Ćwiczenie%204/cwmat_03_bst.pdf)
