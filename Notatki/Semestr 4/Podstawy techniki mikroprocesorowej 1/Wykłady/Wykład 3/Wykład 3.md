@@ -1,3 +1,5 @@
+![](Notatki/Semestr%204/Podstawy%20techniki%20mikroprocesorowej%201/Wykłady/Wykład%203/PTM-wyk-3.pdf)
+
 tts 15.28
 
 S1 - IF - pobranie rozkazu
