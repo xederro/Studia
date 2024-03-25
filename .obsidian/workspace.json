@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "628bba896b9bd5b6",
+        "id": "d07ce30aa37f818a",
         "type": "tabs",
         "children": [
           {
-            "id": "599da3bbb30ca5a7",
+            "id": "18b4bbb940745780",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/azo_cw_sort.pdf"
               }
             }
           }
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt.md",
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/azo_cw_sort.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt.md"
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/azo_cw_sort.pdf"
               }
             }
           },
@@ -153,19 +150,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "599da3bbb30ca5a7",
+  "active": "18b4bbb940745780",
   "lastOpenFiles": [
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/~$cwmat_10_sort.pptx",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/cwmat_02_kopiec.pdf",
+    "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 2/Labolatorium 2.md",
+    "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 1/Labolatorium 1.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt 1/Projekt 1.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt 1/AZO_lista1.pdf",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt.md",
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 1/Labolatorium 1.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 3/Drawing 2024-03-20 13.19.26.excalidraw.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 2/Drawing 2024-03-13 13.22.26.excalidraw.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.svg",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 2/Labolatorium 2.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/cwmat_03_bst.pdf",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 2/Wykład 2.md",
@@ -177,12 +176,10 @@
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/Drawing 2024-03-21 14.24.17.excalidraw.svg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/Drawing 2024-03-14 14.33.55.excalidraw.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/azo_cw_bst.pdf",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/cwmat_02_kopiec.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/Ćwiczenie 3.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/azo_cw_sort.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 1/Ćwiczenie 1.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/Drawing 2024-03-06 09.39.45.excalidraw.svg",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/~$cwmat_10_sort.pptx",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/azo_cw_kopiec.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/Drawing 2024-03-14 14.33.55.excalidraw.svg",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 3/Drawing 2024-03-20 17.18.04.excalidraw.md",
@@ -196,7 +193,6 @@
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykłady.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Semestr 4/Bazy danych 1/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 2/Drawing 2024-03-13 13.22.26.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240205205643_437.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-05 20.19.39.excalidraw.svg",
