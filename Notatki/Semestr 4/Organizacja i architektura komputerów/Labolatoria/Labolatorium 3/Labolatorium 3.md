@@ -1,0 +1,1 @@
+wywołanie biblioteczne, abi system V, 3 rozdział
