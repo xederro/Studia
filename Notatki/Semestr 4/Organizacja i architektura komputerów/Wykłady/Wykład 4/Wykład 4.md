@@ -1,0 +1,1 @@
+![](Notatki/Semestr%204/Organizacja%20i%20architektura%20komputerów/Wykłady/Wykład%204/Drawing%202024-03-27%2013.19.04.excalidraw.svg)
