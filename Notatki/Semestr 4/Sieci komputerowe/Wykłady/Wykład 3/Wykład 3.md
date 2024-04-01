@@ -1,3 +1,4 @@
+![](Notatki/Semestr%204/Sieci%20komputerowe/Wykłady/Wykład%203/3_SK_Podstawowe%20informacje,%20model%20warstwowy%20ISO.pptx)
 - unicast - 1 do 1, np. IP, VoIP, WWW
 - broadcast - 1 do wszystkich wifi, arp, dhcp
 - multicast - 1 do grupy, transmisja video, radio

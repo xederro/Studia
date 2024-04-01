@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1263810c19103b66",
+        "id": "672c0b770e69aa64",
         "type": "tabs",
         "children": [
           {
-            "id": "673a90ab630ceb6a",
+            "id": "9fa78e86fdee9933",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 4/Drawing 2024-03-27 13.19.04.excalidraw.md"
+                "file": "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 4/Drawing 2024-03-27 17.16.47.excalidraw.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 4/Drawing 2024-03-27 13.19.04.excalidraw.md",
+                "file": "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 4/Drawing 2024-03-27 17.16.47.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 4/Drawing 2024-03-27 13.19.04.excalidraw.md"
+                "file": "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 4/Drawing 2024-03-27 17.16.47.excalidraw.md"
               }
             }
           },
@@ -151,10 +151,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "673a90ab630ceb6a",
+  "active": "9fa78e86fdee9933",
   "lastOpenFiles": [
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 4/Wykład 4.md",
+    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 4/Drawing 2024-03-27 17.16.47.excalidraw.md",
+    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 3/~$3_SK_Podstawowe informacje, model warstwowy ISO.pptx",
+    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 3/Drawing 2024-03-20 17.18.04.excalidraw.md",
+    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 3/3_SK_Podstawowe informacje, model warstwowy ISO.pptx",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 4/Drawing 2024-03-27 13.19.04.excalidraw.md",
+    "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 4/Drawing 2024-03-27 13.19.04.excalidraw.svg",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 3/Drawing 2024-03-20 13.19.26.excalidraw.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 3/Labolatorium 3.md",
@@ -186,16 +191,11 @@
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/Ćwiczenie 3.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 1/Ćwiczenie 1.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/Drawing 2024-03-06 09.39.45.excalidraw.svg",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/azo_cw_kopiec.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/Drawing 2024-03-14 14.33.55.excalidraw.svg",
-    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 3/Drawing 2024-03-20 17.18.04.excalidraw.md",
-    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 3/Drawing 2024-03-20 17.18.04.excalidraw.svg",
-    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 2/~$1_2_SK_Wprowadzenie do sieci komputerowych.pptx",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 3/Drawing 2024-03-20 13.19.26.excalidraw.svg",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 2/Drawing 2024-03-13 13.22.26.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Pasted Image 20240205205643_437.png",
     "Notatki/Semestr 3/Logika układów cyfrowych/Wykłady/Kolokwium/Drawing 2024-02-05 20.19.39.excalidraw.svg",
