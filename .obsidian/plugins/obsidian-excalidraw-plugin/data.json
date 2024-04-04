@@ -1,6 +1,7 @@
 {
   "folder": "Excalidraw",
   "cropFolder": "",
+  "annotateFolder": "",
   "embedUseExcalidrawFolder": false,
   "templateFilePath": ".obsidian/Excalidraw/Template.excalidraw.md",
   "scriptFolderPath": ".obsidian/Excalidraw/Scripts",
@@ -15,6 +16,7 @@
   "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
   "useExcalidrawExtension": true,
   "cropPrefix": "cropped_",
+  "annotatePrefix": "annotated_",
   "displaySVGInPreview": true,
   "previewImageType": "SVG",
   "allowImageCache": true,
@@ -30,6 +32,7 @@
   "matchThemeTrigger": true,
   "defaultMode": "zen",
   "defaultPenMode": "always",
+  "penModeCrosshairVisible": false,
   "allowPinchZoom": false,
   "allowWheelZoom": false,
   "zoomToFitOnOpen": true,
@@ -69,6 +72,7 @@
   "experimentalFileType": false,
   "experimentalFileTag": "✏️",
   "experimentalLivePreview": true,
+  "fadeOutExcalidrawMarkup": false,
   "experimentalEnableFourthFont": false,
   "experimantalFourthFont": "Virgil",
   "fieldSuggester": true,
@@ -90,7 +94,7 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": false,
-  "previousRelease": "2.0.25",
+  "previousRelease": "2.1.1",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
@@ -731,5 +735,7 @@
   },
   "slidingPanesSupport": false,
   "areaZoomLimit": 1,
+  "longPressDesktop": 500,
+  "longPressMobile": 500,
   "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js"
 }
