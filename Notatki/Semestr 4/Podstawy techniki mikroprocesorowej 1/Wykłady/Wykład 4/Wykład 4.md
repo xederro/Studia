@@ -1,4 +1,4 @@
-![](Notatki/Semestr%204/Podstawy%20techniki%20mikroprocesorowej%201/Wykłady/Wykład%204/PTM-wyk-4.pdf)
+![](/Notatki/Semestr%204/Podstawy%20techniki%20mikroprocesorowej%201/Wykłady/Wykład%204/PTM-wyk-4.pdf)
 tts
 
 DMA
@@ -60,4 +60,3 @@ Pamięć
 		5. linia read mówi że czytamy
 		6. mamy pobrane dane
 		zapis
-		
