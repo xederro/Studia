@@ -16,8 +16,19 @@
                 "file": "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 5/Drawing 2024-04-03 17.34.12.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "78ab99c1ca6466dd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +162,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b5cc46e3f855572e",
+  "active": "78ab99c1ca6466dd",
   "lastOpenFiles": [
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 5/Drawing 2024-04-03 17.34.12.excalidraw.svg",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 4/Drawing 2024-03-27 17.16.47.excalidraw.md",
