@@ -4,27 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a81cc06ea3aee000",
+        "id": "77e7854077c7293c",
         "type": "tabs",
         "children": [
           {
-            "id": "acdda7af1b719396",
+            "id": "5a64045b1448e256",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/Drawing 2024-03-21 14.24.17.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "2b585d5a01dd5a1d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/cwmat_03_bst.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -113,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/Drawing 2024-03-21 14.24.17.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/Drawing 2024-03-21 14.24.17.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,10 +146,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "acdda7af1b719396",
+  "active": "5a64045b1448e256",
   "lastOpenFiles": [
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/cwmat_03_bst.pdf",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 5/Drawing 2024-04-04 14.30.03.excalidraw.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 5/Ćwiczenie 5.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 5/cwmat_04_rb_avl.pdf",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 5/azo_cw_rb_avl.pdf",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/azo_cw_rb_avl.pdf",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/azo_cw_rb_avl.pdf.crdownload",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 5/Drawing 2024-04-04 14.30.03.excalidraw.svg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/Drawing 2024-03-21 14.24.17.excalidraw.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/cwmat_03_bst.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/Ćwiczenie 4.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/azo_cw_bst.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt 1/AZO_lista1.pdf",
@@ -182,15 +174,12 @@
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 3/~$3_SK_Podstawowe informacje, model warstwowy ISO.pptx",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 3/Drawing 2024-03-20 17.18.04.excalidraw.md",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 3/3_SK_Podstawowe informacje, model warstwowy ISO.pptx",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 4/Drawing 2024-03-27 13.19.04.excalidraw.svg",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 3/Drawing 2024-03-20 13.19.26.excalidraw.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 3/Labolatorium 3.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 2/Labolatorium 2.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/Ćwiczenie 2.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/azo_cw_sort.pdf",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/~$cwmat_10_sort.pptx",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 1/Labolatorium 1.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 2/Drawing 2024-03-13 13.22.26.excalidraw.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.md",
@@ -200,14 +189,10 @@
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 3/PTM-wyk-3.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/Drawing 2024-03-21 14.24.17.excalidraw.svg",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/Drawing 2024-03-14 14.33.55.excalidraw.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/Ćwiczenie 3.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/Drawing 2024-03-06 09.39.45.excalidraw.svg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/Drawing 2024-03-14 14.33.55.excalidraw.svg",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 3/Drawing 2024-03-20 17.18.04.excalidraw.svg",
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 3/Drawing 2024-03-20 13.19.26.excalidraw.svg",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
