@@ -1,1 +1,1 @@
-![](Notatki/Semestr%204/Sieci%20komputerowe/Wykłady/Wykład%204/Drawing%202024-03-27%2017.16.47.excalidraw.svg)![](Notatki/Semestr%204/Sieci%20komputerowe/Wykłady/Wykład%204/4_SK_Model%20TCP_IP.pptx)
+![](/Notatki/Semestr%204/Sieci%20komputerowe/Wykłady/Wykład%204/Drawing%202024-03-27%2017.16.47.excalidraw.svg)![](/Notatki/Semestr%204/Sieci%20komputerowe/Wykłady/Wykład%204/4_SK_Model%20TCP_IP.pptx)
