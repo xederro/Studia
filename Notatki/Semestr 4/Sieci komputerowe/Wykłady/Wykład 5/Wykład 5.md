@@ -1,0 +1,2 @@
+![](Notatki/Semestr%204/Sieci%20komputerowe/Wykłady/Wykład%205/5_SK_Warstwa%20fizyczna%20i%20media%20transmisyjne.pptx)
+![](Notatki/Semestr%204/Sieci%20komputerowe/Wykłady/Wykład%205/Drawing%202024-04-03%2017.34.12.excalidraw.svg)

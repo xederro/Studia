@@ -1,0 +1,1 @@
+![](Notatki/Semestr%204/Sieci%20komputerowe/Wykłady/Wykład%206/Drawing%202024-04-10%2017.09.42.excalidraw.svg)![](Notatki/Semestr%204/Sieci%20komputerowe/Wykłady/Wykład%206/6_SK_Ethernet.pptx)
