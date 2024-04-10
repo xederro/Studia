@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0384e4eefe8a8bf7",
+        "id": "f2b0967b9d93a6f9",
         "type": "tabs",
         "children": [
           {
-            "id": "4e002c13255f3616",
+            "id": "ee3e93bdda047a56",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Notatki/Semestr 4/Bazy danych 1/Wykłady/Bazy_Danych_Slajdy_W2-W7.pdf"
+                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 5/Drawing 2024-04-03 13.25.27.excalidraw.md"
               }
             }
           }
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 369.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Bazy danych 1/Wykłady/Bazy_Danych_Slajdy_W2-W7.pdf",
+                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 5/Drawing 2024-04-03 13.25.27.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 4/Bazy danych 1/Wykłady/Bazy_Danych_Slajdy_W2-W7.pdf"
+                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 5/Drawing 2024-04-03 13.25.27.excalidraw.md"
               }
             }
           },
@@ -150,8 +151,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e002c13255f3616",
+  "active": "ee3e93bdda047a56",
   "lastOpenFiles": [
+    "Notatki/Semestr 4/Bazy danych 1/Wykłady/Bazy_Danych_Slajdy_W2-W7.pdf",
     "Drawing 2024-04-09 14.54.07.excalidraw.svg",
     "Pasted Image 20240409145410_682.png",
     "Drawing 2024-04-09 14.54.07.excalidraw.md",
@@ -197,7 +199,6 @@
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.svg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/Drawing 2024-03-21 14.24.17.excalidraw.svg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/Drawing 2024-03-06 09.39.45.excalidraw.svg",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/Drawing 2024-03-14 14.33.55.excalidraw.svg",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
