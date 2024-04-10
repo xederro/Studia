@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ae7e450a77b97a59",
+        "id": "0384e4eefe8a8bf7",
         "type": "tabs",
         "children": [
           {
-            "id": "2649fd3b949d8961",
+            "id": "4e002c13255f3616",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Semestr 4/Bazy danych 1/Wykłady/Bazy_Danych_Slajdy_W2-W7.pdf"
+              }
             }
           }
         ]
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Semestr 4/Bazy danych 1/Wykłady/Bazy_Danych_Slajdy_W2-W7.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 4/Bazy danych 1/Wykłady/Bazy_Danych_Slajdy_W2-W7.pdf"
+              }
             }
           },
           {
@@ -145,7 +150,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "671d26171d29a68e",
+  "active": "4e002c13255f3616",
   "lastOpenFiles": [
     "Drawing 2024-04-09 14.54.07.excalidraw.svg",
     "Pasted Image 20240409145410_682.png",
