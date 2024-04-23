@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a2f97f32f249503f",
+        "id": "f21d50396b3c0323",
         "type": "tabs",
         "children": [
           {
-            "id": "82e1724f324509f0",
+            "id": "e4967ef99d3273dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 7/Wykład 7.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -106,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 7/Wykład 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 7/Wykład 7.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,8 +146,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82e1724f324509f0",
+  "active": "e4967ef99d3273dc",
   "lastOpenFiles": [
+    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 5/PTM-wyk-5.pdf",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 6/PTM-wyk-6.pdf",
@@ -197,7 +190,6 @@
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 6/Drawing 2024-04-10 17.09.42.excalidraw.svg",
     "Drawing 2024-04-09 14.54.07.excalidraw.svg",
     "Pasted Image 20240409145410_682.png",
-    "Drawing 2024-04-09 14.54.07.excalidraw.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 5/Drawing 2024-04-04 14.30.03.excalidraw.svg",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 5/Drawing 2024-04-03 17.34.12.excalidraw.svg",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 5/Drawing 2024-04-03 13.25.27.excalidraw.svg",
