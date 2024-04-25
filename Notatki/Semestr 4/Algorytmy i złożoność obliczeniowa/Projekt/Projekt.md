@@ -7,7 +7,7 @@ typ: 'P'
 # Projekt:
 1. [Projekt 1](/Notatki/Semestr%204/Algorytmy%20i%20z%C5%82o%C5%BCono%C5%9B%C4%87%20obliczeniowa/Projekt/Projekt%201/Projekt%201.md)
 2. [Projekt 2](/Notatki/Semestr%204/Algorytmy%20i%20z%C5%82o%C5%BCono%C5%9B%C4%87%20obliczeniowa/Projekt/Projekt%202/Projekt%202.md)
-
+https://github.com/xederro/AIZO-Projekt
 
 http://dariusz.banasiak.staff.iiar.pwr.wroc.pl/
 

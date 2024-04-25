@@ -38,4 +38,5 @@ computer systems a programmers perspective  bryant oHallaron od pearson
 
 
 
+
 prawo yetsa jetsona kiedy organizm białkowy jest optymalny

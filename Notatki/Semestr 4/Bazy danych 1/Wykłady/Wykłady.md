@@ -5,8 +5,8 @@ typ: 'W'
 ---
 
 # Wykłady:
-![](Notatki/Semestr%204/Bazy%20danych%201/Wykłady/Bazy_Danych_Slajdy_W2-W7.pdf)
-![](Notatki/Semestr%204/Bazy%20danych%201/Wykłady/aioBD1_1.pdf)
+![](/Notatki/Semestr%204/Bazy%20danych%201/Wykłady/Bazy_Danych_Slajdy_W2-W7.pdf)
+![](/Notatki/Semestr%204/Bazy%20danych%201/Wykłady/aioBD1_1.pdf)
 
 https://www.kssk.pwr.edu.pl/jankowski
 w trakcie semestru 2 kolokwia, po 7/8 tygodniu u 2 kolokwium pod koniec nie trzeba egzaminu
