@@ -4,34 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6de6789607411e33",
+        "id": "ae1f56c5b39e9776",
         "type": "tabs",
         "children": [
           {
-            "id": "1b488b53a83fda10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 8/Wykład 8.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f119516fbb5a33c",
+            "id": "bf7497e8988ba17e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 8/Drawing 2024-04-24 18.22.42.excalidraw.md"
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/Drawing 2024-04-25 08.23.59.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 8/Drawing 2024-04-24 18.22.42.excalidraw.md",
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/Drawing 2024-04-25 08.23.59.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 8/Drawing 2024-04-24 18.22.42.excalidraw.md"
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/Drawing 2024-04-25 08.23.59.excalidraw.md"
               }
             }
           },
@@ -165,31 +151,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f119516fbb5a33c",
+  "active": "bf7497e8988ba17e",
   "lastOpenFiles": [
-    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 8/Drawing 2024-04-24 18.22.42.excalidraw.svg",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/cwmat_08_mst.pdf",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/Drawing 2024-04-25 08.23.59.excalidraw.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/azo_cw_mst.pdf",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/azo_cw_mst.pdf.crdownload",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/cwmat_07_shortpath.pdf",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/Ćwiczenie 7.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/Drawing 2024-04-25 08.23.59.excalidraw.svg",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/azo_cw_rep_grafu.pdf",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/azo_cw_dijkstra_bf.pdf",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/azo_cw_dijkstra_bf.pdf.crdownload",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/azo_cw_rep_grafu.pdf.crdownload",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/cwmat_07_shortpath.zip",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/cwmat_07_shortpath.zip.crdownload",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 6/Drawing 2024-04-17 10.00.54.excalidraw.md",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 8/Drawing 2024-04-24 18.22.42.excalidraw.md",
+    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 8/Drawing 2024-04-24 18.22.42.excalidraw.svg",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 8/Drawing 2024-04-24 17.13.42.excalidraw.md",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 8/Drawing 2024-04-24 17.13.42.excalidraw.svg",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 8/9_10_SK_Projektowanie sieci LAN.pptx",
-    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 8/9_10_SK_Projektowanie sieci LAN.pptx.crdownload",
-    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 8/8_SK_VLAN, IP w sieciach LAN.pptx",
-    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 8/8_SK_VLAN, IP w sieciach LAN.pptx.crdownload",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 7/Drawing 2024-04-17 17.09.49.excalidraw.md",
-    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 7/7_SK_Urzadzenia LAN.pptx",
-    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 7/7_SK_Urzadzenia LAN.pptx.crdownload",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 6/Drawing 2024-04-17 13.21.27.excalidraw.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 6/Drawing 2024-04-17 13.21.27.excalidraw.svg",
-    "Notatki/Semestr 4/Bazy danych 1/Wykłady/Bazy_Danych_Slajdy_W2-W7.pdf",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 6/Wykład 6.md",
-    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 5/PTM-wyk-5.pdf",
-    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 6/PTM-wyk-6.pdf",
-    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 6/PTM-wyk-6.pdf.crdownload",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 6/Drawing 2024-04-17 10.00.54.excalidraw.md",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 7/Drawing 2024-04-17 17.09.49.excalidraw.svg",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 6/Drawing 2024-04-10 17.09.42.excalidraw.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 6/Wykład 6.md",
@@ -205,14 +194,10 @@
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 5/Drawing 2024-04-04 14.30.03.excalidraw.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 5/Ćwiczenie 5.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/Ćwiczenie 4.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt 1/Projekt 1.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 6/Drawing 2024-04-10 17.09.42.excalidraw.svg",
     "Drawing 2024-04-09 14.54.07.excalidraw.svg",
     "Pasted Image 20240409145410_682.png",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 5/Drawing 2024-04-04 14.30.03.excalidraw.svg",
-    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 5/Drawing 2024-04-03 17.34.12.excalidraw.svg",
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 5/Drawing 2024-04-03 13.25.27.excalidraw.svg",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
