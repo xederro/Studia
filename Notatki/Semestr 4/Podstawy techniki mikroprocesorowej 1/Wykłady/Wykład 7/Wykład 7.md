@@ -1,3 +1,4 @@
+![](Notatki/Semestr%204/Podstawy%20techniki%20mikroprocesorowej%201/Wykłady/Wykład%207/PTM-wyk-7.pdf)
 ttn16:12
 # I/O
 
