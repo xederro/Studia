@@ -4,20 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "7a890446788e5f53",
+        "id": "5a7b440609c70466",
         "type": "tabs",
         "children": [
           {
-            "id": "30c5f69aacf01c3d",
+            "id": "2dbdb50f09217f4f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/cwmat_07_shortpath.pdf"
+              }
+            }
+          },
+          {
+            "id": "1154ef8625113571",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/Drawing 2024-04-25 08.23.59.excalidraw.md"
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/Drawing 2024-04-25 14.21.35.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/Drawing 2024-04-25 08.23.59.excalidraw.md",
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/Drawing 2024-04-25 14.21.35.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/Drawing 2024-04-25 08.23.59.excalidraw.md"
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/Drawing 2024-04-25 14.21.35.excalidraw.md"
               }
             }
           },
@@ -151,23 +162,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "30c5f69aacf01c3d",
+  "active": "1154ef8625113571",
   "lastOpenFiles": [
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/cwmat_07_shortpath.pdf",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/Drawing 2024-04-25 14.21.35.excalidraw.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/Ćwiczenie 8.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/Drawing 2024-04-25 14.21.35.excalidraw.svg",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/Drawing 2024-04-25 08.23.59.excalidraw.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/Ćwiczenie 7.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt 2/Projekt 2.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/Drawing 2024-04-25 08.23.59.excalidraw.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt 2/AZO_lista2.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt 2/AZO_lista2.pdf.crdownload",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 9/Drawing 2024-04-25 13.23.25.excalidraw.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/Ćwiczenie 8.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 9/Drawing 2024-04-25 13.23.25.excalidraw.svg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 9/Ćwiczenie 9.md",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 8/~$9_10_SK_Projektowanie sieci LAN.pptx",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 9/cwmat_08_mst.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 9/azo_cw_mst.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/azo_cw_mst.pdf.crdownload",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/cwmat_07_shortpath.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/Drawing 2024-04-25 08.23.59.excalidraw.svg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/azo_cw_rep_grafu.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/azo_cw_dijkstra_bf.pdf",
@@ -194,11 +207,8 @@
     "Notatki/Semestr 4/Bazy danych 1/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 4/Bazy danych 1/Wykłady/Wykłady.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Algorytmy i złożoność obliczeniowa.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykłady.md",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 6/Drawing 2024-04-10 17.09.42.excalidraw.svg",
     "Drawing 2024-04-09 14.54.07.excalidraw.svg",
-    "Pasted Image 20240409145410_682.png",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
