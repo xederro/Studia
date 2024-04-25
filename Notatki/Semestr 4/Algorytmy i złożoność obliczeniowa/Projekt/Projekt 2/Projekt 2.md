@@ -1,0 +1,1 @@
+![](Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Projekt/Projekt%202/AZO_lista2.pdf)
