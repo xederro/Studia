@@ -1,2 +1,2 @@
-![](Notatki/Semestr%204/Podstawy%20techniki%20mikroprocesorowej%201/Labolatoria/Labolatorium%201/8051instrset.pdf)
-![](Notatki/Semestr%204/Podstawy%20techniki%20mikroprocesorowej%201/Labolatoria/Labolatorium%201/ZD537-polski.pdf)
+![](/Notatki/Semestr%204/Podstawy%20techniki%20mikroprocesorowej%201/Labolatoria/Labolatorium%201/8051instrset.pdf)
+![](/Notatki/Semestr%204/Podstawy%20techniki%20mikroprocesorowej%201/Labolatoria/Labolatorium%201/ZD537-polski.pdf)
