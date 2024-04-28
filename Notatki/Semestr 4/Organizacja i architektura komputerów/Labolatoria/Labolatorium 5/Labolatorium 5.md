@@ -8,4 +8,4 @@ fpu ieee754
 zajrzeć do intela z czego się składa koprocesor i jaki ma interface
 gdb
 co tak naprawde w zmiennym przecinku jest dziwne, czy ilość bitów ma znaczenie
-z czego skłąda ise biblioteka
+z czego skłąda sie biblioteka
