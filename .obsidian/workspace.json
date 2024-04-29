@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 5/Labolatorium 5.md",
+                "file": "Notatki/Semestr 4/Bazy danych 1/Labolatoria/Labolatoria.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 369.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 5/Labolatorium 5.md",
+                "file": "Notatki/Semestr 4/Bazy danych 1/Labolatoria/Labolatoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 5/Labolatorium 5.md"
+                "file": "Notatki/Semestr 4/Bazy danych 1/Labolatoria/Labolatoria.md"
               }
             }
           },
@@ -155,9 +156,10 @@
   },
   "active": "8b4c44a9d8fac3af",
   "lastOpenFiles": [
+    "Notatki/Semestr 4/Bazy danych 1/Labolatoria/Pasted image 20240428181122.png",
+    "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 5/Labolatorium 5.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 4/Labolatorium 4.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 5/Labolatorium 5.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 5/main4.c",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 5/main3.c",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 5/main2row.c",
@@ -190,7 +192,6 @@
     "Notatki/Semestr 4/Bazy danych 1/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 7/Wykład 7.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/Drawing 2024-04-25 14.21.35.excalidraw.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/Drawing 2024-04-25 14.21.35.excalidraw.svg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 9/Drawing 2024-04-25 13.23.25.excalidraw.svg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/Drawing 2024-04-25 08.23.59.excalidraw.svg",
