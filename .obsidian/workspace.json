@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5e959bb277254355",
+        "id": "6c4edd0724a06f29",
         "type": "tabs",
         "children": [
           {
-            "id": "f519eb4c45d1246e",
+            "id": "14ac99e03ceaf1b8",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 4/sdizo_2020_wyklad_3.pdf"
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 5/azo_cw_rb_avl.pdf"
               }
             }
           }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 4/sdizo_2020_wyklad_3.pdf",
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 5/azo_cw_rb_avl.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 4/sdizo_2020_wyklad_3.pdf"
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 5/azo_cw_rb_avl.pdf"
               }
             }
           },
@@ -150,11 +150,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f519eb4c45d1246e",
+  "active": "14ac99e03ceaf1b8",
   "lastOpenFiles": [
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/cwmat_03_bst.pdf",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/azo_cw_bst.pdf",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 5/Ćwiczenie 5.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 4/sdizo_2020_wyklad_3.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 4/sdizo_2020_wyklad_3.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykłady.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 4/sdizo_2020_wyklad_3.pdf.crdownload",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Algorytmy i złożoność obliczeniowa.md",
@@ -171,7 +174,6 @@
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 5/getClock.s",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 3/Labolatorium 3.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 4/main.c",
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 4/main.s",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 2/Labolatorium 2.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 1/Labolatorium 1.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatorium 3/Labolatorium 3.md",
@@ -187,7 +189,6 @@
     "Notatki/Semestr 4/Sieci komputerowe/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Podstawy techniki mikroprocesorowej 1.md",
     "Notatki/Semestr 4/Bazy danych 1/Bazy danych 1.md",
-    "Notatki/Semestr 4/Bazy danych 1/Wykłady/Wykłady.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/Drawing 2024-04-25 14.21.35.excalidraw.svg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 9/Drawing 2024-04-25 13.23.25.excalidraw.svg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/Drawing 2024-04-25 08.23.59.excalidraw.svg",
