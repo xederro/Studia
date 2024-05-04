@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "82bd68af4084fda4",
+        "id": "f8b9a40acfd5c51a",
         "type": "tabs",
         "children": [
           {
-            "id": "3ce2e52b7e5d97c3",
+            "id": "c89dedd52687b548",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 369.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -150,9 +151,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "671d26171d29a68e",
+  "active": "c89dedd52687b548",
   "lastOpenFiles": [
     "symbols.pdf",
+    "Sylabus.pdf",
     "README.md",
     "LICENSE.md",
     "CONTRIBUTING.md",
@@ -182,7 +184,6 @@
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 5/main3.c",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 5/main2row.c",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 5/main2col.c",
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 5/main.c",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 3/Labolatorium 3.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 2/Labolatorium 2.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 1/Labolatorium 1.md",
