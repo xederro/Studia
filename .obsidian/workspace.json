@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c42550bdbb550546",
+        "id": "82bd68af4084fda4",
         "type": "tabs",
         "children": [
           {
-            "id": "ec51d1a7dc425cae",
+            "id": "3ce2e52b7e5d97c3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Sylabus.pdf"
+              }
             }
           }
         ]
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sylabus.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sylabus.pdf"
+              }
             }
           },
           {
@@ -145,8 +150,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec51d1a7dc425cae",
+  "active": "671d26171d29a68e",
   "lastOpenFiles": [
+    "symbols.pdf",
+    "README.md",
+    "LICENSE.md",
+    "CONTRIBUTING.md",
+    "CODE_OF_CONDUCT.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 5/Drawing 2024-04-03 13.25.27.excalidraw.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 5/Drawing 2024-04-03 13.25.27.excalidraw.svg",
@@ -181,11 +191,6 @@
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Organizacja i architektura komputerów.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatorium 6/Labolatorium 6.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatorium 5/Labolatorium 5.md",
-    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatorium 4/Labolatorium 4.md",
-    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatorium 1/Labolatorium 1.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt.md",
-    "Notatki/Semestr 4/Niezawodność i diagnostyka układów cyfrowy/Projekt/Projekt.md",
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Projekt/Projekt.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/Drawing 2024-04-25 14.21.35.excalidraw.svg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 9/Drawing 2024-04-25 13.23.25.excalidraw.svg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/Drawing 2024-04-25 08.23.59.excalidraw.svg",
