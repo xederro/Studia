@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f8b9a40acfd5c51a",
+        "id": "5cff3ea3d0474f56",
         "type": "tabs",
         "children": [
           {
-            "id": "c89dedd52687b548",
+            "id": "5357219665a645d3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Sylabus.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -67,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5,
-    "collapsed": true
+    "width": 369.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -103,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sylabus.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sylabus.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -151,10 +145,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c89dedd52687b548",
+  "active": "5357219665a645d3",
   "lastOpenFiles": [
-    "symbols.pdf",
     "Sylabus.pdf",
+    "symbols.pdf",
     "README.md",
     "LICENSE.md",
     "CONTRIBUTING.md",
