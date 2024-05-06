@@ -1,4 +1,4 @@
-![](Notatki/Semestr%204/Organizacja%20i%20architektura%20komputerów/Labolatoria/Labolatorium%206/asm.s)reverse polish notation
+![](/Notatki/Semestr%204/Organizacja%20i%20architektura%20komputerów/Labolatoria/Labolatorium%206/asm.s)reverse polish notation
 https://horman.net/avisynth/rpn.html
 
 
