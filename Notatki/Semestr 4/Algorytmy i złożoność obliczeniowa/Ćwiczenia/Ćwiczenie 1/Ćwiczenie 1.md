@@ -1,3 +1,5 @@
+ ![](Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Ćwiczenie%201/cwmat_01_zlozonosc_listy.pdf)
+ 
 # Kryteria analizy algorytmów
 
 - poprawność - czy daje dobry wynik
