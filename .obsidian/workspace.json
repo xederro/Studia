@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 6/Labolatorium 6.md",
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Algorytmy i złożoność obliczeniowa.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 6/Labolatorium 6.md",
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Algorytmy i złożoność obliczeniowa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 6/Labolatorium 6.md"
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Algorytmy i złożoność obliczeniowa.md"
               }
             }
           },
@@ -153,12 +153,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "671d26171d29a68e",
+  "active": "5357219665a645d3",
   "lastOpenFiles": [
+    "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 6/Labolatorium 6.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 6/asm.s",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 5/Labolatorium 5.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 5/asm.s",
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 6/Labolatorium 6.md",
     "Sylabus.pdf",
     "symbols.pdf",
     "README.md",
@@ -186,7 +186,6 @@
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 4/Labolatorium 4.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 5/main4.c",
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 5/main3.c",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 3/Labolatorium 3.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 2/Labolatorium 2.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 1/Labolatorium 1.md",
