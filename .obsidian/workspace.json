@@ -4,19 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "5cff3ea3d0474f56",
+        "id": "b1c6d79768b2366b",
         "type": "tabs",
         "children": [
           {
-            "id": "5357219665a645d3",
+            "id": "49dce5c69383123b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Algorytmy i złożoność obliczeniowa.md",
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 1/Kolokwium 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "c1316926fb863b87",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 1/Drawing 2024-05-07 08.34.21.excalidraw.md"
               }
             }
           }
@@ -105,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Algorytmy i złożoność obliczeniowa.md",
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 1/Kolokwium 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Algorytmy i złożoność obliczeniowa.md"
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 1/Kolokwium 1.md"
               }
             }
           },
@@ -153,8 +163,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5357219665a645d3",
+  "active": "49dce5c69383123b",
   "lastOpenFiles": [
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 1/Drawing 2024-05-07 08.34.21.excalidraw.svg",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 1/Pasted Image 20240507083612_847.png",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 1/Kolokwium 1.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 1/Drawing 2024-05-07 08.34.21.excalidraw.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenia.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 1",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Algorytmy i złożoność obliczeniowa.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 6/Labolatorium 6.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 6/asm.s",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 5/Labolatorium 5.md",
@@ -181,25 +198,18 @@
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykłady.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 4/sdizo_2020_wyklad_3.pdf.crdownload",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Algorytmy i złożoność obliczeniowa.md",
     "Notatki/Semestr 4/Bazy danych 1/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 4/Labolatorium 4.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 5/main4.c",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 3/Labolatorium 3.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 2/Labolatorium 2.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 1/Labolatorium 1.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatorium 3/Labolatorium 3.md",
-    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatorium 2/Labolatorium 2.md",
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Organizacja i architektura komputerów.md",
-    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatorium 6/Labolatorium 6.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/Drawing 2024-04-25 14.21.35.excalidraw.svg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 9/Drawing 2024-04-25 13.23.25.excalidraw.svg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/Drawing 2024-04-25 08.23.59.excalidraw.svg",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 8/Drawing 2024-04-24 17.13.42.excalidraw.svg",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 6/Drawing 2024-04-17 13.21.27.excalidraw.svg",
-    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 7/Drawing 2024-04-17 17.09.49.excalidraw.svg",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 6/Drawing 2024-04-17 10.00.54.excalidraw.svg",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]

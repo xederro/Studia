@@ -1,0 +1,9 @@
+[Ćwiczenie 1](Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Ćwiczenie%201/Ćwiczenie%201.md)
+[Ćwiczenie 2](Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Ćwiczenie%202/Ćwiczenie%202.md)
+[Ćwiczenie 3](Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Ćwiczenie%203/Ćwiczenie%203.md)
+[Ćwiczenie 4](Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Ćwiczenie%204/Ćwiczenie%204.md)
+[Ćwiczenie 5](Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Ćwiczenie%205/Ćwiczenie%205.md)
+[Ćwiczenie 6](Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Ćwiczenie%206/Ćwiczenie%206.md)
+[Ćwiczenie 7](Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Ćwiczenie%207/Ćwiczenie%207.md)
+
+![](Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Kolokwium%201/Drawing%202024-05-07%2008.34.21.excalidraw.svg)
