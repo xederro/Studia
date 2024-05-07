@@ -12,7 +12,7 @@ typ: 'C'
 5. [Ćwiczenie 5](/Notatki/Semestr%204/Algorytmy%20i%20z%C5%82o%C5%BCono%C5%9B%C4%87%20obliczeniowa/%C4%86wiczenia/%C4%86wiczenie%205/%C4%86wiczenie%205.md)
 6. [Ćwiczenie 6](/Notatki/Semestr%204/Algorytmy%20i%20z%C5%82o%C5%BCono%C5%9B%C4%87%20obliczeniowa/%C4%86wiczenia/%C4%86wiczenie%206/%C4%86wiczenie%206.md)
 7. [Ćwiczenie 7](/Notatki/Semestr%204/Algorytmy%20i%20z%C5%82o%C5%BCono%C5%9B%C4%87%20obliczeniowa/%C4%86wiczenia/%C4%86wiczenie%207/%C4%86wiczenie%207.md)
-8. [Kolokwium 1](Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Kolokwium%201/Kolokwium%201.md)
+8. [Kolokwium 1](/Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Kolokwium%201/Kolokwium%201.md)
 9. [Ćwiczenie 8](/Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Ćwiczenie%208/Ćwiczenie%208.md)
 10. [Ćwiczenie 9](/Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Ćwiczenie%209/Ćwiczenie%209.md)
 11. [Ćwiczenie 10](/Notatki/Semestr%204/Algorytmy%20i%20z%C5%82o%C5%BCono%C5%9B%C4%87%20obliczeniowa/%C4%86wiczenia/%C4%86wiczenie%2010/%C4%86wiczenie%2010.md)
