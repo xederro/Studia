@@ -1,2 +1,2 @@
-![](Notatki/Semestr%204/Sieci%20komputerowe/Wykłady/Wykład%209/11_SK_Sieci%20rozlegle.pptx)
-![](Notatki/Semestr%204/Sieci%20komputerowe/Wykłady/Wykład%209/Drawing%202024-05-08%2017.54.22.excalidraw.svg)
+![](/Notatki/Semestr%204/Sieci%20komputerowe/Wykłady/Wykład%209/11_SK_Sieci%20rozlegle.pptx)
+![](/Notatki/Semestr%204/Sieci%20komputerowe/Wykłady/Wykład%209/Drawing%202024-05-08%2017.54.22.excalidraw.svg)
