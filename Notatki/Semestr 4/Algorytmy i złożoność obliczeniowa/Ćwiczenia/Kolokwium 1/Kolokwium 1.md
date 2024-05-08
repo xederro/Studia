@@ -8,3 +8,4 @@
 
 ![](/Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Kolokwium%201/Drawing%202024-05-07%2008.34.21.excalidraw.svg)
 ![](/Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Kolokwium%201/Drawing%202024-05-08%2008.06.02.excalidraw.svg)
+![](Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Kolokwium%201/Drawing%202024-05-08%2021.29.27.excalidraw.svg)
