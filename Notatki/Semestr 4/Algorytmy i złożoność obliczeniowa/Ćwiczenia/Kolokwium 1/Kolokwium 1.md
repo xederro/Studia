@@ -7,3 +7,4 @@
 [Ćwiczenie 7](/Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Ćwiczenie%207/Ćwiczenie%207.md)
 
 ![](/Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Kolokwium%201/Drawing%202024-05-07%2008.34.21.excalidraw.svg)
+![](Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Kolokwium%201/Drawing%202024-05-08%2008.06.02.excalidraw.svg)
