@@ -1,3 +1,5 @@
+![](Notatki/Semestr%204/Podstawy%20techniki%20mikroprocesorowej%201/Wykłady/Wykład%208/PTM-wyk-8.pdf)
+
 tts 16:15
 # IO v3
 
