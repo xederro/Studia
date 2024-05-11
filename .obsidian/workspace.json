@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6cc6f1f72684acf1",
+        "id": "b0a59cd47b0bbce0",
         "type": "tabs",
         "children": [
           {
-            "id": "f74a69421f4e0273",
+            "id": "b2b3f3a97cc8acab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/Drawing 2024-04-25 08.23.59.excalidraw.md"
+              }
             }
           }
         ]
@@ -65,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 369.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -100,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/Drawing 2024-04-25 08.23.59.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/Drawing 2024-04-25 08.23.59.excalidraw.md"
+              }
             }
           },
           {
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/Drawing 2024-04-25 08.23.59.excalidraw.md"
+              }
             }
           }
         ],
@@ -153,8 +161,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f74a69421f4e0273",
+  "active": "b2b3f3a97cc8acab",
   "lastOpenFiles": [
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/Ćwiczenie 7.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/azo_cw_rep_grafu.pdf",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 9/cwmat_08_mst.pdf",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 9/azo_cw_mst.pdf",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/azo_cw_dijkstra_bf.pdf",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 9/Wykład 9.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 8/Wykład 8.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 8/PTM-wyk-8.pdf",
@@ -167,10 +180,6 @@
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 6/cwmat_06_btreeplus.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 6/azo_cw_btree_bplus.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 6/cwmat_05_btree.pdf",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 5/cwmat_04_rb_avl.pdf",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 4/cwmat_03_bst.pdf",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 3/cwmat_02_kopiec.pdf",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 2/~$cwmat_10_sort.pptx",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 1/Drawing 2024-05-08 21.29.27.excalidraw.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 1/Kolokwium 1.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 1/Drawing 2024-05-08 08.06.02.excalidraw.md",
@@ -197,7 +206,6 @@
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 5/Labolatorium 5.md",
     "README.md",
     "LICENSE.md",
-    "CONTRIBUTING.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 5/Drawing 2024-04-03 13.25.27.excalidraw.svg",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 8/Drawing 2024-04-24 18.22.42.excalidraw.svg",
     "Notatki/Semestr 4/Bazy danych 1/Labolatoria/Pasted image 20240428181122.png",
