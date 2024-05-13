@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 6/Wykład 6.md",
+                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 7/Labolatorium 7.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 6/Wykład 6.md",
+                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 7/Labolatorium 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 6/Wykład 6.md"
+                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 7/Labolatorium 7.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 6/Wykład 6.md"
+                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 7/Labolatorium 7.md"
               }
             }
           }
@@ -165,6 +165,11 @@
   },
   "active": "c341e904ea729097",
   "lastOpenFiles": [
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 6/Wykład 6.md",
+    "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 7/xmm.s",
+    "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 7/getClock.s",
+    "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 7/c.c",
+    "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 7/asmin.s",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 5/Wykład 5.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 5/sdizo_2020_wyklad_4.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykłady.md",
@@ -179,13 +184,9 @@
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/azo_cw_dijkstra_bf.pdf",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 9/Wykład 9.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 8/Wykład 8.md",
-    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 8/PTM-wyk-8.pdf",
-    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 8/PTM-wyk-8.pdf.crdownload",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/Drawing 2024-04-25 14.21.35.excalidraw.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/Ćwiczenie 8.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/Drawing 2024-04-25 14.21.35.excalidraw.svg",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/cwmat_07_shortpath.pdf",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 6/cwmat_06_btreeplus.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 1/Drawing 2024-05-08 21.29.27.excalidraw.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 1/Kolokwium 1.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 1/Drawing 2024-05-08 08.06.02.excalidraw.md",
