@@ -1,1 +1,1 @@
-![](Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Wykłady/Wykład%206/sdizo_2020_wyklad_6_7.pdf)
+![](/Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Wykłady/Wykład%206/sdizo_2020_wyklad_6_7.pdf)
