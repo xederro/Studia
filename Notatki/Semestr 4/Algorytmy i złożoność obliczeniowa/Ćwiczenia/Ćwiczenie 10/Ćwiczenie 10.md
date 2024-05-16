@@ -1,0 +1,1 @@
+ głąb w szerz może kartkówka forda-fulkersona (bolza karpa ????)
