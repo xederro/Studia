@@ -11,8 +11,10 @@
             "id": "3678c8e4c63df7e5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 9/Drawing 2024-05-08 17.54.22.excalidraw.md"
+              }
             }
           }
         ]
@@ -65,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 369.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -100,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 9/Drawing 2024-05-08 17.54.22.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 9/Drawing 2024-05-08 17.54.22.excalidraw.md"
+              }
             }
           },
           {
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 9/Drawing 2024-05-08 17.54.22.excalidraw.md"
+              }
             }
           }
         ],
