@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "58b8bc64b195d281",
+        "id": "885598f6ba20bd7b",
         "type": "tabs",
         "children": [
           {
-            "id": "c4d89d454b1e4603",
+            "id": "c70283484d827f5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 10/Wykład 10.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5,
-    "collapsed": true
+    "width": 369.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -106,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 10/Wykład 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 10/Wykład 10.md"
-              }
+              "state": {}
             }
           },
           {
@@ -139,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 10/Wykład 10.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -164,10 +153,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4d89d454b1e4603",
+  "active": "c70283484d827f5d",
   "lastOpenFiles": [
-    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 9/Wykład 9.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 10/Wykład 10.md",
+    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 9/Wykład 9.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 9/PTM-wyk-9.pdf",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 9/PTM-wyk-9.pdf.crdownload",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 10/Ćwiczenie 10.md",
