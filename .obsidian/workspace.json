@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "885598f6ba20bd7b",
+        "id": "ed5e9fe490d218e8",
         "type": "tabs",
         "children": [
           {
-            "id": "c70283484d827f5d",
+            "id": "6165ff706b4cfa9f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 9/cwmat_08_mst.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -103,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 9/cwmat_08_mst.pdf",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 9/cwmat_08_mst.pdf"
+                "file": "README.md"
               }
             }
           },
@@ -137,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 9/cwmat_08_mst.pdf"
+                "file": "README.md"
               }
             }
           }
@@ -161,8 +164,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c70283484d827f5d",
+  "active": "6165ff706b4cfa9f",
   "lastOpenFiles": [
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 9/cwmat_08_mst.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 9/azo_cw_mst.pdf",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 10/Wykład 10.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 9/Wykład 9.md",
@@ -183,7 +187,6 @@
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykłady.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 5/sdizo_2020_wyklad_4.pdf.crdownload",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 9/cwmat_08_mst.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/Drawing 2024-04-25 08.23.59.excalidraw.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/Ćwiczenie 7.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 8/Wykład 8.md",
