@@ -1,1 +1,1 @@
-![](Notatki/Semestr%204/Sieci%20komputerowe/Wykłady/Wykład%2011/Drawing%202024-06-05%2018.19.40.excalidraw.svg)
+![](/Notatki/Semestr%204/Sieci%20komputerowe/Wykłady/Wykład%2011/Drawing%202024-06-05%2018.19.40.excalidraw.svg)
