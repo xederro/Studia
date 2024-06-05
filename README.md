@@ -17,7 +17,7 @@ Zalecamy zapoznanie się z:
 
 ## Średnia
 ```dataviewjs
-for (let group of dv.pages().where(p => p["typ"] == "GK").where(p => p["semestr"] != 4).groupBy(p => p.semestr)) {
+for (let group of dv.pages().where(p => p["typ"] == "GK").where(p => p["semestr"] != 5).groupBy(p => p.semestr)) {
 	let sum = 0;
 	group.rows.forEach(x=>sum+=Number(x.ects)*Number(x.ocena))
 	dv.header(3, "Semestr " + group.key + ": " + (sum/30).toFixed(3));
@@ -28,7 +28,7 @@ let sum = 0;
 let semestrCount = 1;
 dv.pages()
 	.where(p => p["typ"] == "GK")
-	.where(p => p["semestr"] !== 4)
+	.where(p => p["semestr"] !== 5)
 	.forEach(x=>{
 		sum+=x.ects*x.ocena
 		if (x.semestr > semestrCount) semestrCount = x.semestr
