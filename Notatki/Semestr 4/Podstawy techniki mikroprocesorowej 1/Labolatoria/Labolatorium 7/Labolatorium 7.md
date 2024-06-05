@@ -1,1 +1,1 @@
-![](Notatki/Semestr%204/Podstawy%20techniki%20mikroprocesorowej%201/Labolatoria/Labolatorium%207/zad12.a51)
+![](/Notatki/Semestr%204/Podstawy%20techniki%20mikroprocesorowej%201/Labolatoria/Labolatorium%207/zad12.a51)

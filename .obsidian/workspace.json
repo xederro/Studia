@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "62c7df3911f4983d",
+        "id": "d9c445fd5e2fb18a",
         "type": "tabs",
         "children": [
           {
-            "id": "f5880e0d03b98f91",
+            "id": "f0da8b2897db58a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatorium 6/Labolatorium 6.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 11/Drawing 2024-06-05 18.19.40.excalidraw.md"
               }
             }
           }
@@ -70,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 369.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatorium 6/Labolatorium 6.md",
+                "file": "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 11/Drawing 2024-06-05 18.19.40.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatorium 6/Labolatorium 6.md"
+                "file": "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 11/Drawing 2024-06-05 18.19.40.excalidraw.md"
               }
             }
           },
@@ -139,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatorium 6/Labolatorium 6.md"
+                "file": "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 11/Drawing 2024-06-05 18.19.40.excalidraw.md"
               }
             }
           }
@@ -163,13 +161,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "671d26171d29a68e",
+  "active": "f0da8b2897db58a1",
   "lastOpenFiles": [
+    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 11/Wykład 11.md",
+    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 11/Drawing 2024-06-05 18.19.40.excalidraw.md",
+    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 11/Drawing 2024-06-05 18.19.40.excalidraw.svg",
+    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 10/Drawing 2024-06-05 17.09.24.excalidraw.md",
+    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatorium 6/Labolatorium 6.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatorium 6/zad2.a51",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatorium 6/zad1.a51",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatorium 7/Labolatorium 7.md",
-    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatorium 6/Labolatorium 6.md",
-    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 10/Drawing 2024-06-05 17.09.24.excalidraw.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatorium 7/zad12.a51",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 10/Untitled.md",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 10/Wykład 10.md",
@@ -199,18 +200,14 @@
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Algorytmy i złożoność obliczeniowa.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 9/azo_cw_mst.pdf",
-    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 10/Wykład 10.md",
-    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 9/Wykład 9.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 9/PTM-wyk-9.pdf",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 9/PTM-wyk-9.pdf.crdownload",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 7/xmm.s",
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 7/getClock.s",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/Drawing 2024-04-25 14.21.35.excalidraw.svg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 1/Drawing 2024-05-08 21.29.27.excalidraw.svg",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 9/Drawing 2024-05-08 17.54.22.excalidraw.svg",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 7/Drawing 2024-05-08 13.21.41.excalidraw.svg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 1/Drawing 2024-05-08 08.06.02.excalidraw.svg",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 1/Drawing 2024-05-07 08.34.21.excalidraw.svg",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
