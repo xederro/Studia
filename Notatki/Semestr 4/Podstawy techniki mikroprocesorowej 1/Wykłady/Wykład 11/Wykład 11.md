@@ -1,3 +1,4 @@
+![](Notatki/Semestr%204/Podstawy%20techniki%20mikroprocesorowej%201/Wykłady/Wykład%2011/PTM-wyk-11.pdf)
 # MIMD - koprocesor - CRAY
 
 ## Procesor i koprocesor - 2 w 1
