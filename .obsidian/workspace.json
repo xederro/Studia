@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "acd0ddb0d403db88",
+        "id": "bc870f55dc5ed982",
         "type": "tabs",
         "children": [
           {
-            "id": "f2e1c962759ee93b",
+            "id": "f795cd4950925d3a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 12/Ćwiczenie 12.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -100,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 12/Ćwiczenie 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 12/Ćwiczenie 12.md"
+              }
             }
           },
           {
@@ -130,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 12/Ćwiczenie 12.md"
+              }
             }
           }
         ],
@@ -153,10 +163,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2e1c962759ee93b",
+  "active": "f795cd4950925d3a",
   "lastOpenFiles": [
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 11/Drawing 2024-06-13 08.37.46.excalidraw.svg",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 12/Drawing 2024-06-13 09.11.27.excalidraw.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 12/Ćwiczenie 12.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 12/azo_cw_wzorce.pdf",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 12/Drawing 2024-06-13 09.11.27.excalidraw.svg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 11/Drawing 2024-06-13 08.37.46.excalidraw.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/azo_cw_wzorce.pdf.crdownload",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 13/Ćwiczenie 13.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 11/Drawing 2024-06-13 08.37.46.excalidraw.svg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 11/Ćwiczenie 11.md",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 12/Drawing 2024-06-12 17.44.16.excalidraw.md",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 12/Wykład 12.md",
@@ -173,11 +189,9 @@
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 12/14_SK_Bezpieczenstwo.pptx",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 12/14_SK_Bezpieczenstwo.pptx.crdownload",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 11/13_SK_Podstawy kryptografii.pptx",
-    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 11/13_SK_Podstawy kryptografii.pptx.crdownload",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykłady.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykład 7/sdizo_2020_wyklad_8_9.pdf",
     "README.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 11/Wykład 11.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatorium 7/Labolatorium 7.md",
@@ -191,15 +205,11 @@
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Algorytmy i złożoność obliczeniowa.md",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 11/Drawing 2024-06-05 18.19.40.excalidraw.svg",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 10/Drawing 2024-06-05 17.09.24.excalidraw.md",
-    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatorium 6/Labolatorium 6.md",
-    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatorium 7/Labolatorium 7.md",
-    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 10/Untitled.md",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 10/Drawing 2024-06-05 17.09.24.excalidraw.svg",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 9/Drawing 2024-06-05 13.19.58.excalidraw.svg",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 8/Drawing 2024-06-05 13.19.46.excalidraw.svg",
     "Notatki/Semestr 3/Logika układów cyfrowych/Labolatoria/Labolatoria 10/Drawing 2024-01-14 14.50.28.excalidraw.svg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/Drawing 2024-04-25 14.21.35.excalidraw.svg",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 1/Drawing 2024-05-08 21.29.27.excalidraw.svg",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
