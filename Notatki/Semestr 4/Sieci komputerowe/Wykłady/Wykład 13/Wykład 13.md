@@ -1,0 +1,1 @@
+![](Notatki/Semestr%204/Sieci%20komputerowe/Wykłady/Wykład%2013/Test_zasady_tematy.pdf)

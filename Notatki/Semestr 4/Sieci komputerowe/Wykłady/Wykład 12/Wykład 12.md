@@ -1,0 +1,1 @@
+![](Notatki/Semestr%204/Sieci%20komputerowe/Wykłady/Wykład%2012/14_SK_Bezpieczenstwo.pptx)![](Notatki/Semestr%204/Sieci%20komputerowe/Wykłady/Wykład%2012/Drawing%202024-06-12%2017.44.16.excalidraw.svg)

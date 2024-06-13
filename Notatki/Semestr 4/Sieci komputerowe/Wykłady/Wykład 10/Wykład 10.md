@@ -1,1 +1,2 @@
+![](Notatki/Semestr%204/Sieci%20komputerowe/Wykłady/Wykład%2010/12_SK_Sieci%20bezprzewodowe.pptx)
 ![](/Notatki/Semestr%204/Sieci%20komputerowe/Wykłady/Wykład%2010/Drawing%202024-06-05%2017.09.24.excalidraw.svg)
