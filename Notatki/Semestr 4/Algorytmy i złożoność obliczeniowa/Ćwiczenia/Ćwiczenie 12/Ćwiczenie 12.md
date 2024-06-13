@@ -1,2 +1,2 @@
-![](Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Ćwiczenie%2012/azo_cw_wzorce.pdf)
-![](Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Ćwiczenie%2012/Drawing%202024-06-13%2009.11.27.excalidraw.svg)
+![](/Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Ćwiczenie%2012/azo_cw_wzorce.pdf)
+![](/Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Ćwiczenie%2012/Drawing%202024-06-13%2009.11.27.excalidraw.svg)
