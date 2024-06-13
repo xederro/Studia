@@ -1,28 +1,13 @@
-companies, what interesting, why not skyscrapers
-fb google amazon apple
-
-1. amazon 3 ballz green, 3 skyscrapers
-2. fb green roofs 1 gianat room
-3. google 2,5 minute walk to other employe
-4. apul generate its own power solar power, curved doughnout
-
-
-bcs companies in skyscrapers go out of business
-
-
-
-team
-home
-greenspace
-bring america
-
----
-
-myy
-Selekcja dobrych rzeczy z rzeczy generowanych przez ai  
-Bard vs gemini paywall
-
-
-connected papers
-
-aipdf.ai
+![](Notatki/Semestr%204/Język%20obcy%20–%20C1.2/Ćwiczenia/Ćwiczenia/Calutrons.docx)
+![](Notatki/Semestr%204/Język%20obcy%20–%20C1.2/Ćwiczenia/Ćwiczenia/Hanford%20reactor%20and%20separation%20plant.docx)
+![](Notatki/Semestr%204/Język%20obcy%20–%20C1.2/Ćwiczenia/Ćwiczenia/Oklo%20reactor%20task.docx)
+![](Notatki/Semestr%204/Język%20obcy%20–%20C1.2/Ćwiczenia/Ćwiczenia/Report%20structure%20C1.docx)
+![](Notatki/Semestr%204/Język%20obcy%20–%20C1.2/Ćwiczenia/Ćwiczenia/sutainable%20buildings%20complete%20handout.pdf)
+![](Notatki/Semestr%204/Język%20obcy%20–%20C1.2/Ćwiczenia/Ćwiczenia/Warunki%20zaliczenia.docx)
+![](Notatki/Semestr%204/Język%20obcy%20–%20C1.2/Ćwiczenia/Ćwiczenia/Writing/7%20-%20Parallelisms.pdf)
+![](Notatki/Semestr%204/Język%20obcy%20–%20C1.2/Ćwiczenia/Ćwiczenia/Writing/Ambiguity.pdf)
+![](Notatki/Semestr%204/Język%20obcy%20–%20C1.2/Ćwiczenia/Ćwiczenia/Writing/Correct%20English%20preview.pdf)
+![](Notatki/Semestr%204/Język%20obcy%20–%20C1.2/Ćwiczenia/Ćwiczenia/Writing/George%20Orwell%20-%20politics%20and%20English.jpg)
+![](Notatki/Semestr%204/Język%20obcy%20–%20C1.2/Ćwiczenia/Ćwiczenia/Writing/HOW%20TO%20WRITE%20GOOD.pdf)
+![](Notatki/Semestr%204/Język%20obcy%20–%20C1.2/Ćwiczenia/Ćwiczenia/Writing/Noun-Verb%20Agreement.pdf)
+![](Notatki/Semestr%204/Język%20obcy%20–%20C1.2/Ćwiczenia/Ćwiczenia/Writing/Wordiness%20and%20punctuation.pdf)
