@@ -1,3 +1,5 @@
+![](Notatki/Semestr%204/Podstawy%20techniki%20mikroprocesorowej%201/Wykłady/Wykład%2012/PTM-wyk-12.pdf)
+
 # Magistrale szeregowe
 
 ## $I^2C$
