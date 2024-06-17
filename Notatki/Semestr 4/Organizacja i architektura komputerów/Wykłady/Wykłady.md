@@ -20,7 +20,7 @@ typ: 'W'
 13. [Wykład 13](/Notatki/Semestr%204/Organizacja%20i%20architektura%20komputerów/Wykłady/Wykład%2013/Wykład%2013.md)
 14. [Wykład 14](/Notatki/Semestr%204/Organizacja%20i%20architektura%20komputerów/Wykłady/Wykład%2014/Wykład%2014.md)
 15. [Wykład 15](/Notatki/Semestr%204/Organizacja%20i%20architektura%20komputerów/Wykłady/Wykład%2015/Wykład%2015.md)
-16. [Kolokwium](Notatki/Semestr%204/Organizacja%20i%20architektura%20komputerów/Wykłady/Kolokwium/Kolokwium.md)
+16. [Kolokwium](/Notatki/Semestr%204/Organizacja%20i%20architektura%20komputerów/Wykłady/Kolokwium/Kolokwium.md)
 
 
 musi zrobić egzamin :<

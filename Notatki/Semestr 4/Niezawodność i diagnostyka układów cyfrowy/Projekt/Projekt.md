@@ -32,6 +32,5 @@ biblioteka bch?
 
 
 chat na teams z 
-Piasecki Jakub ... i prowadzący
 
 
