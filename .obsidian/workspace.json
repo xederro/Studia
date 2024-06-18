@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 13/Kol_Zal.pdf"
+                "file": "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 13/Test_zasady_tematy.pdf"
               }
             }
           }
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 369.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 13/Kol_Zal.pdf",
+                "file": "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 13/Test_zasady_tematy.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 13/Kol_Zal.pdf"
+                "file": "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 13/Test_zasady_tematy.pdf"
               }
             }
           },
@@ -136,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 13/Kol_Zal.pdf"
+                "file": "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 13/Test_zasady_tematy.pdf"
               }
             }
           }
@@ -162,6 +163,7 @@
   },
   "active": "9fdd95494e73c65f",
   "lastOpenFiles": [
+    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 13/Kol_Zal.pdf",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 13/Test_zasady_tematy.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt 2/Projekt 2.md",
@@ -199,7 +201,6 @@
     "Notatki/Semestr 4/Język obcy – C1.2/Ćwiczenia/Ćwiczenia/Writing/Correct English preview.pdf",
     "Notatki/Semestr 4/Język obcy – C1.2/Ćwiczenia/Ćwiczenia/Writing/Ambiguity.pdf",
     "Notatki/Semestr 4/Język obcy – C1.2/Ćwiczenia/Ćwiczenia/Writing/7 - Parallelisms.pdf",
-    "Notatki/Semestr 4/Język obcy – C1.2/Ćwiczenia/Ćwiczenia/Writing",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 12/Drawing 2024-06-13 09.11.27.excalidraw.svg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 11/Drawing 2024-06-13 08.37.46.excalidraw.svg",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 12/Drawing 2024-06-12 17.44.16.excalidraw.svg",
