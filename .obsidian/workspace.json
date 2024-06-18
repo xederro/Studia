@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ab5aad4e7e891a0b",
+        "id": "415955284506022a",
         "type": "tabs",
         "children": [
           {
-            "id": "4beb6995b171893a",
+            "id": "9fdd95494e73c65f",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 13/Test_zasady_tematy.pdf"
+                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 13/Kol_Zal.pdf"
               }
             }
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5,
-    "collapsed": true
+    "width": 369.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 13/Test_zasady_tematy.pdf",
+                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 13/Kol_Zal.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 13/Test_zasady_tematy.pdf"
+                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 13/Kol_Zal.pdf"
               }
             }
           },
@@ -137,7 +136,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 13/Test_zasady_tematy.pdf"
+                "file": "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 13/Kol_Zal.pdf"
               }
             }
           }
@@ -161,8 +160,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4beb6995b171893a",
+  "active": "9fdd95494e73c65f",
   "lastOpenFiles": [
+    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 13/Test_zasady_tematy.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt 2/Projekt 2.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt 2/AZO_lista2.pdf",
@@ -192,7 +192,6 @@
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/Drawing 2024-04-25 14.21.35.excalidraw.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/Ćwiczenie 8.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 9/Drawing 2024-04-25 13.23.25.excalidraw.md",
-    "Notatki/Semestr 4/Język obcy – C1.2/Ćwiczenia/Ćwiczenia/Ćwiczenia.md",
     "Notatki/Semestr 4/Język obcy – C1.2/Ćwiczenia/Ćwiczenia/Writing/Wordiness and punctuation.pdf",
     "Notatki/Semestr 4/Język obcy – C1.2/Ćwiczenia/Ćwiczenia/Writing/Noun-Verb Agreement.pdf",
     "Notatki/Semestr 4/Język obcy – C1.2/Ćwiczenia/Ćwiczenia/Writing/HOW TO WRITE GOOD.pdf",
