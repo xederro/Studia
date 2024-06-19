@@ -1,0 +1,2 @@
+![](Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Ćwiczenie%2013/azo_cw_turing.pdf)
+![](Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Ćwiczenie%2013/cwmat_12_ram.pptx)![](Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Ćwiczenie%2013/Drawing%202024-06-19%2020.35.53.excalidraw.svg)
