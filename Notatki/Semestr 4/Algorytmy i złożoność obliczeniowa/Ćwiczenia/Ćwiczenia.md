@@ -19,8 +19,9 @@ typ: 'C'
 12. [Ćwiczenie 11](/Notatki/Semestr%204/Algorytmy%20i%20z%C5%82o%C5%BCono%C5%9B%C4%87%20obliczeniowa/%C4%86wiczenia/%C4%86wiczenie%2011/%C4%86wiczenie%2011.md)
 13. [Ćwiczenie 12](/Notatki/Semestr%204/Algorytmy%20i%20z%C5%82o%C5%BCono%C5%9B%C4%87%20obliczeniowa/%C4%86wiczenia/%C4%86wiczenie%2012/%C4%86wiczenie%2012.md)
 14. [Ćwiczenie 13](/Notatki/Semestr%204/Algorytmy%20i%20z%C5%82o%C5%BCono%C5%9B%C4%87%20obliczeniowa/%C4%86wiczenia/%C4%86wiczenie%2013/%C4%86wiczenie%2013.md)
-15. [Ćwiczenie 14](/Notatki/Semestr%204/Algorytmy%20i%20z%C5%82o%C5%BCono%C5%9B%C4%87%20obliczeniowa/%C4%86wiczenia/%C4%86wiczenie%2014/%C4%86wiczenie%2014.md)
-16. [Ćwiczenie 15](/Notatki/Semestr%204/Algorytmy%20i%20z%C5%82o%C5%BCono%C5%9B%C4%87%20obliczeniowa/%C4%86wiczenia/%C4%86wiczenie%2015/%C4%86wiczenie%2015.md)
+15. [Kolokwium 2](Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Kolokwium%202/Kolokwium%202.md)
+16. [Ćwiczenie 14](/Notatki/Semestr%204/Algorytmy%20i%20z%C5%82o%C5%BCono%C5%9B%C4%87%20obliczeniowa/%C4%86wiczenia/%C4%86wiczenie%2014/%C4%86wiczenie%2014.md)
+17. [Ćwiczenie 15](/Notatki/Semestr%204/Algorytmy%20i%20z%C5%82o%C5%BCono%C5%9B%C4%87%20obliczeniowa/%C4%86wiczenia/%C4%86wiczenie%2015/%C4%86wiczenie%2015.md)
 
 
 
