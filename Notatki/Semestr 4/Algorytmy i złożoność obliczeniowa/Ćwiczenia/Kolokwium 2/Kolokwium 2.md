@@ -1,2 +1,2 @@
-![](Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Kolokwium%202/Drawing%202024-06-22%2014.37.23.excalidraw.svg)
-![](Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Kolokwium%202/Drawing%202024-06-22%2014.37.30.excalidraw.svg)
+![](/Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Kolokwium%202/Drawing%202024-06-22%2014.37.23.excalidraw.svg)
+![](/Notatki/Semestr%204/Algorytmy%20i%20złożoność%20obliczeniowa/Ćwiczenia/Kolokwium%202/Drawing%202024-06-22%2014.37.30.excalidraw.svg)
