@@ -1,7 +1,7 @@
 ---
 semestr: 4
-ocena: 
-typ: 'C'
+ocena: 4.5
+typ: C
 ---
 
 # Ćwiczenia:

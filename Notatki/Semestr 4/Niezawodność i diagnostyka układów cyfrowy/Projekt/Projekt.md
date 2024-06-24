@@ -1,7 +1,7 @@
 ---
 semestr: 4
-ocena: 
-typ: 'P'
+ocena: 5
+typ: P
 ---
 https://github.com/xederro/NIDUC
 # Projekt:

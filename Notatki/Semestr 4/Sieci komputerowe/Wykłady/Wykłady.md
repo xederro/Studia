@@ -1,7 +1,7 @@
 ---
 semestr: 4
-ocena: 
-typ: 'W'
+ocena: 5
+typ: W
 ---
 
 # Wykłady:
