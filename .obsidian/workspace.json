@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a8bccfb6a8587dab",
+        "id": "02e3d67d3942ec5f",
         "type": "tabs",
         "children": [
           {
-            "id": "c655f631e7326237",
+            "id": "1b5e003ee3b3116c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2/Drawing 2024-06-24 08.37.34.excalidraw.md"
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2/Kolokwium 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -67,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5,
-    "collapsed": true
+    "width": 369.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2/Drawing 2024-06-24 08.37.34.excalidraw.md",
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2/Kolokwium 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2/Drawing 2024-06-24 08.37.34.excalidraw.md"
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2/Kolokwium 2.md"
               }
             }
           },
@@ -137,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2/Drawing 2024-06-24 08.37.34.excalidraw.md"
+                "file": "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2/Kolokwium 2.md"
               }
             }
           }
@@ -161,11 +163,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c655f631e7326237",
+  "active": "1b5e003ee3b3116c",
   "lastOpenFiles": [
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 1/Kolokwium 1.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 1/Pasted Image 20240507083612_847.png",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2/Kolokwium 2.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2/Pasted Image 20240622143727_318.jpg",
+    "bin/bin.md",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2/Drawing 2024-06-24 08.37.34.excalidraw.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2/Drawing 2024-06-24 08.37.34.excalidraw.svg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2/Drawing 2024-06-22 14.37.23.excalidraw.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2/Drawing 2024-06-24 08.37.34.excalidraw.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2/Drawing 2024-06-22 14.37.30.excalidraw.md",
     "README.md",
     "Notatki/Semestr 4/Semestr 4.md",
@@ -192,23 +199,18 @@
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 9/azo_cw_mst.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 12/Drawing 2024-06-13 09.11.27.excalidraw.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Wykłady/Wykłady.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 11/Drawing 2024-06-13 08.37.46.excalidraw.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 11/azo_cw_hash.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 11/~$cwmat_11_hash.ppt",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 13/Drawing 2024-06-19 20.35.53.excalidraw.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 12/Drawing 2024-06-23 10.43.20.excalidraw.svg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2/Drawing 2024-06-22 14.37.30.excalidraw.svg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2/Pasted Image 20240622143747_895.png",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2/Drawing 2024-06-22 14.37.23.excalidraw.svg",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2/Pasted Image 20240622143727_318.jpg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 8/~$9_10_SK_Projektowanie sieci LAN.pptx",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 1/PTM-wyk-1.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 13/Drawing 2024-06-19 20.35.53.excalidraw.svg",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Kolokwium/Drawing 2024-06-16 17.48.53.excalidraw.svg",
     "Notatki/Semestr 4/Język obcy – C1.2/Ćwiczenia/Ćwiczenia/Writing/George Orwell - politics and English.jpg",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 12/Drawing 2024-06-13 09.11.27.excalidraw.svg",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 11/Drawing 2024-06-13 08.37.46.excalidraw.svg",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]

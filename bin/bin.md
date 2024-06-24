@@ -3,6 +3,7 @@ Fix broken absolute paths (runs on before commit):
 	path to root directory
 -git
 	checks only staged files
+	![](bin/APR)
 ![](bin/APR.exe)
 ```shell
 .\APR.exe -git -path=..
@@ -28,5 +29,6 @@ Nazwa;godz.Wykładów;godz.Ćwiczeń;godz.Labolatoriów;godz.Projektu;godz.Semin
 .\SSC.exe -n=5 -out="..\Notatki" -in=".\Semestr 5.csv" -pre="Notatki/"
 ```
 
+![](bin/SSC)
 ![](bin/SSC.exe)
 ![](bin/Semestr%205.csv)
