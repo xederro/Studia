@@ -12,7 +12,7 @@ Zalecamy zapoznanie się z:
 ### [Semestr 2](/Notatki/Semestr%202/Semestr%202.md)
 ### [Semestr 3](/Notatki/Semestr%203/Semestr%203.md)
 ### [Semestr 4](/Notatki/Semestr%204/Semestr%204.md)
-
+### [Semestr 5](/Notatki/Semestr%205/Semestr%205.md)
 ### [Inne](/Notatki/Inne/Inne.md)
 
 ## Średnia
