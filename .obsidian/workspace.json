@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f5771bf11165ea81",
+        "id": "efacad4a922fa7f3",
         "type": "tabs",
         "children": [
           {
-            "id": "bda5c35734987840",
+            "id": "207e40fc7a1512fb",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -16,19 +16,8 @@
                 "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "aaeea387153c829d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5,
-    "collapsed": true
+    "width": 369.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -172,10 +160,10 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "aaeea387153c829d",
+  "active": "207e40fc7a1512fb",
   "lastOpenFiles": [
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.svg",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.md",
+    "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.svg",
     "Notatki/Semestr 4/Bazy danych 1/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 4/Niezawodność i diagnostyka układów cyfrowy/Projekt/Projekt.md",
     "Notatki/Semestr 4/Niezawodność i diagnostyka układów cyfrowy/Niezawodność i diagnostyka układów cyfrowy.md",
@@ -219,7 +207,6 @@
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykład 1/PTM-wyk-1.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 13/Drawing 2024-06-19 20.35.53.excalidraw.svg",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Kolokwium/Drawing 2024-06-16 17.48.53.excalidraw.svg",
-    "Notatki/Semestr 4/Język obcy – C1.2/Ćwiczenia/Ćwiczenia/Writing/George Orwell - politics and English.jpg",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
