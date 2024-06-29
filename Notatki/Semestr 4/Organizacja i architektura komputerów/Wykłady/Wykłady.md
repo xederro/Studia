@@ -1,7 +1,7 @@
 ---
 semestr: 4
-ocena: 
-typ: 'W'
+ocena: 4.5
+typ: W
 ---
 
 # Wykłady:
@@ -14,12 +14,6 @@ typ: 'W'
 7. [Wykład 7](/Notatki/Semestr%204/Organizacja%20i%20architektura%20komputerów/Wykłady/Wykład%207/Wykład%207.md)
 8. [Wykład 8](/Notatki/Semestr%204/Organizacja%20i%20architektura%20komputerów/Wykłady/Wykład%208/Wykład%208.md)
 9. [Wykład 9](/Notatki/Semestr%204/Organizacja%20i%20architektura%20komputerów/Wykłady/Wykład%209/Wykład%209.md)
-10. [Wykład 10](/Notatki/Semestr%204/Organizacja%20i%20architektura%20komputerów/Wykłady/Wykład%2010/Wykład%2010.md)
-11. [Wykład 11](/Notatki/Semestr%204/Organizacja%20i%20architektura%20komputerów/Wykłady/Wykład%2011/Wykład%2011.md)
-12. [Wykład 12](/Notatki/Semestr%204/Organizacja%20i%20architektura%20komputerów/Wykłady/Wykład%2012/Wykład%2012.md)
-13. [Wykład 13](/Notatki/Semestr%204/Organizacja%20i%20architektura%20komputerów/Wykłady/Wykład%2013/Wykład%2013.md)
-14. [Wykład 14](/Notatki/Semestr%204/Organizacja%20i%20architektura%20komputerów/Wykłady/Wykład%2014/Wykład%2014.md)
-15. [Wykład 15](/Notatki/Semestr%204/Organizacja%20i%20architektura%20komputerów/Wykłady/Wykład%2015/Wykład%2015.md)
 16. [Kolokwium](/Notatki/Semestr%204/Organizacja%20i%20architektura%20komputerów/Wykłady/Kolokwium/Kolokwium.md)
 
 

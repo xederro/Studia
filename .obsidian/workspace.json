@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "efacad4a922fa7f3",
+        "id": "ead94a17e4596de1",
         "type": "tabs",
         "children": [
           {
-            "id": "207e40fc7a1512fb",
+            "id": "d287e98a98e3d690",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.md"
+                "file": "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Niezawodność i diagnostyka układów cyfrowych 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.md",
+                "file": "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Niezawodność i diagnostyka układów cyfrowych 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.md"
+                "file": "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Niezawodność i diagnostyka układów cyfrowych 1.md"
               }
             }
           },
@@ -136,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.md"
+                "file": "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Niezawodność i diagnostyka układów cyfrowych 1.md"
               }
             }
           }
@@ -160,37 +163,38 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "207e40fc7a1512fb",
+  "active": "671d26171d29a68e",
   "lastOpenFiles": [
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.md",
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.svg",
-    "Notatki/Semestr 4/Bazy danych 1/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 4/Niezawodność i diagnostyka układów cyfrowy/Projekt/Projekt.md",
-    "Notatki/Semestr 4/Niezawodność i diagnostyka układów cyfrowy/Niezawodność i diagnostyka układów cyfrowy.md",
-    "Notatki/Semestr 4/Język obcy – C1.2/Język obcy – C1.2.md",
-    "Notatki/Semestr 4/Sieci komputerowe/Sieci komputerowe.md",
-    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 4/Drawing 2024-03-27 17.16.47.excalidraw.md",
-    "CONTRIBUTING.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2/Kolokwium 2.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 1/Kolokwium 1.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 1/Pasted Image 20240507083612_847.png",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2/Pasted Image 20240622143727_318.jpg",
-    "bin/bin.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2/Drawing 2024-06-24 08.37.34.excalidraw.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2/Drawing 2024-06-24 08.37.34.excalidraw.svg",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2/Drawing 2024-06-22 14.37.23.excalidraw.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2/Drawing 2024-06-22 14.37.30.excalidraw.md",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Labolatoria/Labolatoria.md",
+    "Notatki/Semestr 3/Podstawy przetwarzania sygnałów/Podstawy przetwarzania sygnałów.md",
+    "Notatki/Semestr 3/Podstawy telekomunikacji/Podstawy telekomunikacji.md",
+    "Notatki/Semestr 3/WF-2/WF-2.md",
+    "Notatki/Semestr 3/Niezawodność i diagnostyka układów cyfrowych 1/Niezawodność i diagnostyka układów cyfrowych 1.md",
+    "Notatki/Semestr 3/Logika układów cyfrowych/Logika układów cyfrowych.md",
+    "Notatki/Semestr 3/Języki programowania/Języki programowania.md",
+    "Notatki/Semestr 3/Język angielski - C1.1/Język angielski - C1.1.md",
+    "Notatki/Semestr 3/Inżynierskie zastosowania statystyki/Inżynierskie zastosowania statystyki.md",
+    "Notatki/Semestr 3/Fizyka 3.1/Fizyka 3.1.md",
+    "Notatki/Semestr 3/Architektura komputerów 1/Architektura komputerów 1.md",
     "README.md",
-    "Notatki/Semestr 4/Semestr 4.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Algorytmy i złożoność obliczeniowa.md",
-    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Projekt/Projekt.md",
-    "Notatki/Semestr 4/Bazy danych 1/Wykłady/Wykłady.md",
-    "Notatki/Semestr 4/Bazy danych 1/Bazy danych 1.md",
-    "Notatki/Semestr 4/Język obcy – C1.2/Ćwiczenia/Ćwiczenia.md",
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 4/Organizacja i architektura komputerów/Projekt/Projekt.md",
+    "Notatki/Semestr 4/Sieci komputerowe/Sieci komputerowe.md",
+    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykłady.md",
+    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 14/Wykład 14.md",
+    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 15/Wykład 15.md",
+    "Notatki/Semestr 4/Sieci komputerowe/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Podstawy techniki mikroprocesorowej 1.md",
     "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Labolatoria/Labolatoria.md",
+    "Notatki/Semestr 4/Podstawy techniki mikroprocesorowej 1/Wykłady/Wykłady.md",
+    "Notatki/Semestr 4/Organizacja i architektura komputerów/Organizacja i architektura komputerów.md",
+    "Notatki/Semestr 4/Organizacja i architektura komputerów/Labolatoria/Labolatoria.md",
+    "Notatki/Semestr 4/Organizacja i architektura komputerów/Projekt/Projekt.md",
+    "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykłady.md",
+    "Notatki/Semestr 4/Niezawodność i diagnostyka układów cyfrowy/Niezawodność i diagnostyka układów cyfrowy.md",
+    "Notatki/Semestr 4/Niezawodność i diagnostyka układów cyfrowy/Projekt/Projekt.md",
+    "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykład 1/Drawing 2024-03-06 13.20.40.excalidraw.svg",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 1/Pasted Image 20240507083612_847.png",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2/Pasted Image 20240622143727_318.jpg",
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Kolokwium 2/Drawing 2024-06-24 08.37.34.excalidraw.svg",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/cwmat_07_shortpath.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 8/azo_cw_dijkstra_bf.pdf",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Ćwiczenia/Ćwiczenie 7/azo_cw_rep_grafu.pdf",

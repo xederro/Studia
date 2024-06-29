@@ -18,8 +18,6 @@ typ: W
 11. [Wykład 11](/Notatki/Semestr%204/Podstawy%20techniki%20mikroprocesorowej%201/Wyk%C5%82ady/Wyk%C5%82ad%2011/Wyk%C5%82ad%2011.md)
 12. [Wykład 12](/Notatki/Semestr%204/Podstawy%20techniki%20mikroprocesorowej%201/Wyk%C5%82ady/Wyk%C5%82ad%2012/Wyk%C5%82ad%2012.md)
 13. [Wykład 13](/Notatki/Semestr%204/Podstawy%20techniki%20mikroprocesorowej%201/Wyk%C5%82ady/Wyk%C5%82ad%2013/Wyk%C5%82ad%2013.md)
-14. [Wykład 14](/Notatki/Semestr%204/Podstawy%20techniki%20mikroprocesorowej%201/Wyk%C5%82ady/Wyk%C5%82ad%2014/Wyk%C5%82ad%2014.md)
-15. [Wykład 15](/Notatki/Semestr%204/Podstawy%20techniki%20mikroprocesorowej%201/Wyk%C5%82ady/Wyk%C5%82ad%2015/Wyk%C5%82ad%2015.md)
 
 
 
