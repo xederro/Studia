@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "617fb22ed6735549",
+        "id": "a7f3bb6c5123e9b2",
         "type": "tabs",
         "children": [
           {
-            "id": "eb7b381e7d9c2d44",
+            "id": "3940d79f4b351648",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 670.5
+    "width": 487.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -153,8 +153,10 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "eb7b381e7d9c2d44",
+  "active": "3940d79f4b351648",
   "lastOpenFiles": [
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Urządzenia peryferyjne.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt 1/Projekt 1.md",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykłady.md",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Inżynieria oprogramowania.md",
@@ -179,8 +181,6 @@
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 13/Wykład 13.md",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 12/Wykład 12.md",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 11/Wykład 11.md",
-    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 10/Wykład 10.md",
-    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 9",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 8",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 7",
