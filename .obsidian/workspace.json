@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e12c479203ddcdd0",
+        "id": "d72295ac3e57db8a",
         "type": "tabs",
         "children": [
           {
-            "id": "8eb1f5ebc05e351a",
+            "id": "24a82947ac63a0db",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-30 11.45.18.excalidraw.md"
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-30 11.45.18.excalidraw.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-30 11.45.18.excalidraw.md"
+                "file": "README.md"
               }
             }
           },
@@ -136,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-30 11.45.18.excalidraw.md"
+                "file": "README.md"
               }
             }
           }
@@ -160,8 +163,9 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "8eb1f5ebc05e351a",
+  "active": "24a82947ac63a0db",
   "lastOpenFiles": [
+    "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Algorytmy i złożoność obliczeniowa.md",
     "Excalidraw/Drawing 2024-06-30 11.45.18.excalidraw.md",
     "Excalidraw/Drawing 2024-06-30 11.45.18.excalidraw.svg",
     "Excalidraw",
