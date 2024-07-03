@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a7f3bb6c5123e9b2",
+        "id": "e12c479203ddcdd0",
         "type": "tabs",
         "children": [
           {
-            "id": "3940d79f4b351648",
+            "id": "8eb1f5ebc05e351a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-30 11.45.18.excalidraw.md"
+              }
             }
           }
         ]
@@ -65,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487.5
+    "width": 260.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2024-06-30 11.45.18.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-30 11.45.18.excalidraw.md"
+              }
             }
           },
           {
@@ -130,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-30 11.45.18.excalidraw.md"
+              }
             }
           }
         ],
@@ -153,8 +160,11 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "3940d79f4b351648",
+  "active": "8eb1f5ebc05e351a",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-06-30 11.45.18.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-30 11.45.18.excalidraw.svg",
+    "Excalidraw",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Urządzenia peryferyjne.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt 1/Projekt 1.md",
@@ -179,8 +189,6 @@
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 15/Wykład 15.md",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 14/Wykład 14.md",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 13/Wykład 13.md",
-    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 12/Wykład 12.md",
-    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 11/Wykład 11.md",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 9",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 8",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 7",
@@ -190,7 +198,6 @@
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 3",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 2",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 15",
-    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 14",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 9/Drawing 2024-05-08 17.54.22.excalidraw.svg",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 8/Drawing 2024-04-24 18.22.42.excalidraw.svg",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 8/Drawing 2024-04-24 17.13.42.excalidraw.svg",
@@ -200,7 +207,6 @@
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 4/Drawing 2024-03-27 17.16.47.excalidraw.svg",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 3/Drawing 2024-03-20 17.18.04.excalidraw.svg",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 12/Drawing 2024-06-12 17.44.16.excalidraw.svg",
-    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 11/Drawing 2024-06-05 18.19.40.excalidraw.svg",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
