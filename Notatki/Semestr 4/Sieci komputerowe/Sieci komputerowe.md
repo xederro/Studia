@@ -1,6 +1,6 @@
 ---
 semestr: 4
-ocena: 5
+ocena: 4.5
 ects: 6
 typ: GK
 ---
