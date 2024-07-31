@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d72295ac3e57db8a",
+        "id": "3db5cd17677ded4e",
         "type": "tabs",
         "children": [
           {
-            "id": "24a82947ac63a0db",
+            "id": "2be5e9652bc184ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -163,18 +153,20 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "24a82947ac63a0db",
+  "active": "671d26171d29a68e",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-07-20 13.01.59.excalidraw.svg",
+    "Excalidraw/Drawing 2024-07-20 13.01.59.excalidraw.md",
+    "Excalidraw",
+    "README.md",
     "bin/bin.md",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykłady.md",
-    "README.md",
     "Notatki/Semestr 4/Sieci komputerowe/Sieci komputerowe.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Organizacja i architektura komputerów.md",
     "Notatki/Semestr 4/Organizacja i architektura komputerów/Wykłady/Wykłady.md",
     "Notatki/Semestr 4/Algorytmy i złożoność obliczeniowa/Algorytmy i złożoność obliczeniowa.md",
     "Excalidraw/Drawing 2024-06-30 11.45.18.excalidraw.md",
     "Excalidraw/Drawing 2024-06-30 11.45.18.excalidraw.svg",
-    "Excalidraw",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Urządzenia peryferyjne.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt 1/Projekt 1.md",
@@ -191,8 +183,6 @@
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 7/Wykład 7.md",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 6/Wykład 6.md",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 5/Wykład 5.md",
-    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 4/Wykład 4.md",
-    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 9",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 8",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 7",
