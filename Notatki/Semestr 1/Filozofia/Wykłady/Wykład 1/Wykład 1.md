@@ -38,7 +38,7 @@ Nie wszystko co istnieje istnieje w ten sam sposób - R. Ingarden
 | ławka(czas, przestrzeń, DNA) |     |
 | dzieło sztuki                |     |
 | pieniądz(czas, przestrzeń)   |     |
-| liczba()|     |
+| liczba()                     |     |
 | człowiek                     |     |
 
 subiektywny (uzależniony od podmiotu) <-> obiektywne (niezależne od podmiotu, istniejące poza nim)
