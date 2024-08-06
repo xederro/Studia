@@ -11,8 +11,13 @@
             "id": "2be5e9652bc184ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -100,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -130,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ],
@@ -153,7 +163,7 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "671d26171d29a68e",
+  "active": "2be5e9652bc184ec",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-07-20 13.01.59.excalidraw.svg",
     "Excalidraw/Drawing 2024-07-20 13.01.59.excalidraw.md",
