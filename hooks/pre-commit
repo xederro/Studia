@@ -1,6 +1,7 @@
 #!/bin/sh
-if [ "$(uname)" = "Darwin" ]; then
-    ./bin/APR -git -path=.
+if [ "$(uname)" = "Linux" ]; then
+  ./bin/APR -git -path=.
 else
-    ./bin/APR.exe -git -path=.
+  ./bin/APR.exe -git -path=.
 fi
+
