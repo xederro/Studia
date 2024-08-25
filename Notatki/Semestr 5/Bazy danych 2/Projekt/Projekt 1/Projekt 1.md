@@ -1,1 +1,0 @@
-![](Notatki/Semestr%205/Bazy%20danych%202/Projekt/Projekt%201/Drawing%202024-08-25%2020.50.31.excalidraw.svg)

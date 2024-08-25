@@ -1,5 +1,10 @@
 ![Repo Size](https://img.shields.io/github/repo-size/Xederro/Studia?style=for-the-badge)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A8GJFDV)
+#### Pobieranie
+```bash
+git clone https://github.com/xederro/Studia.git --depth 1 && cp ./Studia/hooks/** ./Studia/.git/hooks/
+```
+
 
 Zalecamy zapoznanie się z:
 [LICENSE](/LICENSE.md)
@@ -39,7 +44,8 @@ dv.header(3, "Studia: " + (sum/(30*semestrCount)).toFixed(3));
 ## Przydatne
 
 >[!Utils]
->[bin](bin/bin.md)
+>[bin](/bin/bin.md)
+>[hooks](/hooks/hooks.md)
 
 >[!info]
 >![Sylabus](Sylabus.pdf)
