@@ -1,8 +1,6 @@
 [
   "obsidian-git",
-  "table-editor-obsidian",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-outliner",
   "url-into-selection",
   "code-block-copy",
   "drawio-obsidian",
@@ -10,6 +8,5 @@
   "obsidian-excalidraw-plugin",
   "dataview",
   "obsidian-full-calendar",
-  "janitor",
-  "obsidian-link-converter"
+  "janitor"
 ]

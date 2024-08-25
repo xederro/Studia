@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0249d8d5e563ba79",
+        "id": "d68daa466ff9d48b",
         "type": "tabs",
         "children": [
           {
-            "id": "862529e3be8a528f",
+            "id": "e7fa5778708299ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 254.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -163,10 +163,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "862529e3be8a528f",
+  "active": "e7fa5778708299ab",
   "lastOpenFiles": [
-    "hooks/hooks.md",
     "README.md",
+    "hooks/hooks.md",
     "hooks/pre-commit",
     "Untitled.md",
     "hooks",
