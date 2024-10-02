@@ -4,3 +4,5 @@ kolokwium będzie 22.01.2025r -> na teams ale w sali
 obecność premiowana?
 40 pyt -> 30 min
 może być więcej pytań
+
+
