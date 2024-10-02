@@ -14,6 +14,11 @@ uml
 
 trzeba będzie określićjakie cele będzie robić cele funkcjionalne programu - cel
 wymagania funkcjinalne procesy biznesowe jakie program wykonuje aby cel zrobić
-1.3. Program obsługujący system alarmowy
 użytkownik jakieś urządzenia będą zewnętrzne
 okienkowo
+
+
+
+1.3. Program obsługujący system alarmowy
+Cel:
+- 
