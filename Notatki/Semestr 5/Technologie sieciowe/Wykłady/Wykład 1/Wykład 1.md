@@ -1,4 +1,4 @@
-![](Notatki/Semestr%205/Technologie%20sieciowe/Wykłady/Wykład%201/TS-1-2024.pdf)
+![](/Notatki/Semestr%205/Technologie%20sieciowe/Wykłady/Wykład%201/TS-1-2024.pdf)
 trzeba być na 1 i na ostatnim wykładzie
 p2.8 c-16
 
