@@ -20,3 +20,8 @@ typ: 'L'
 13. [Labolatorium 13](/Notatki/Semestr%205/In%C5%BCynieria%20oprogramowania/Labolatoria/Labolatorium%2013/Labolatorium%2013.md)
 14. [Labolatorium 14](/Notatki/Semestr%205/In%C5%BCynieria%20oprogramowania/Labolatoria/Labolatorium%2014/Labolatorium%2014.md)
 15. [Labolatorium 15](/Notatki/Semestr%205/In%C5%BCynieria%20oprogramowania/Labolatoria/Labolatorium%2015/Labolatorium%2015.md)
+sprawozdanie w postacji pdfów, 1 na pare
+etap
+nazwa projektu
+tylko to co jest ważne
+bez informacji jak się nazywa prowadzący, bez teorii bez wyjaśnień bez spisu treści

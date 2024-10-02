@@ -12,3 +12,9 @@ typ: 'P'
 5. [Projekt 5](/Notatki/Semestr%205/Technologie%20sieciowe/Projekt/Projekt%205/Projekt%205.md)
 6. [Projekt 6](/Notatki/Semestr%205/Technologie%20sieciowe/Projekt/Projekt%206/Projekt%206.md)
 7. [Projekt 7](/Notatki/Semestr%205/Technologie%20sieciowe/Projekt/Projekt%207/Projekt%207.md)
+
+Kurs w eportalu  
+Eportalowe tylko  
+Etap 3 trzeba przyjsc i omowic fizycznie  
+Mail kto jest z kim  
+Robimy jeden projekt do innych danych

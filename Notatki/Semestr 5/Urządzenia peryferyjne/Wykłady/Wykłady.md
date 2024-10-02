@@ -12,3 +12,9 @@ typ: 'W'
 5. [Wykład 5](/Notatki/Semestr%205/Urz%C4%85dzenia%20peryferyjne/Wyk%C5%82ady/Wyk%C5%82ad%205/Wyk%C5%82ad%205.md)
 6. [Wykład 6](/Notatki/Semestr%205/Urz%C4%85dzenia%20peryferyjne/Wyk%C5%82ady/Wyk%C5%82ad%206/Wyk%C5%82ad%206.md)
 7. [Wykład 7](/Notatki/Semestr%205/Urz%C4%85dzenia%20peryferyjne/Wyk%C5%82ady/Wyk%C5%82ad%207/Wyk%C5%82ad%207.md)
+pok. 225 w c-3 
+0.4w+0.6l
+kolokwium będzie 22.01.2025r -> na teams ale w sali
+obecność premiowana?
+40 pyt -> 30 min
+może być więcej pytań
