@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a654dac4ae86eba6",
+        "id": "b0604d0930a9a8bf",
         "type": "tabs",
         "children": [
           {
-            "id": "d58a7f0349f5c297",
+            "id": "23df7c27f5c3b270",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 5/Technologie sieciowe/Labolatoria/Labolatoria.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb8710a7843929d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Semestr 5/Technologie sieciowe/Labolatoria/Labolatorium 1/Labolatorium 1.md",
+                "file": "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Labolatoria/Labolatoria.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 5/Technologie sieciowe/Labolatoria/Labolatoria.md",
+                "file": "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Labolatoria/Labolatoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 5/Technologie sieciowe/Labolatoria/Labolatoria.md"
+                "file": "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Labolatoria/Labolatoria.md"
               }
             }
           },
@@ -152,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notatki/Semestr 5/Technologie sieciowe/Labolatoria/Labolatoria.md"
+                "file": "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Labolatoria/Labolatoria.md"
               }
             }
           }
@@ -175,15 +162,15 @@
       "templates:Insert template": false
     }
   },
-  "active": "d58a7f0349f5c297",
+  "active": "23df7c27f5c3b270",
   "lastOpenFiles": [
+    "Notatki/Semestr 5/Technologie sieciowe/Labolatoria/Labolatorium 1/Labolatorium 1.md",
+    "Notatki/Semestr 5/Technologie sieciowe/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 5/Technologie sieciowe/Labolatoria/Harmonogram Laboratorium.pdf",
     "Notatki/Semestr 5/Technologie sieciowe/Labolatoria/Harmonogram Laboratorium.pdf.crdownload",
     "Notatki/Semestr 5/Technologie sieciowe/Labolatoria/Informacje organizacyjne.pdf",
     "Notatki/Semestr 5/Technologie sieciowe/Labolatoria/Informacje organizacyjne.pdf.crdownload",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Semestr 5/Technologie sieciowe/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 5/Technologie sieciowe/Labolatoria/Labolatorium 1/Labolatorium 1.md",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykłady.md",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 1/UCiSW1_1.pdf",
@@ -206,7 +193,6 @@
     "hooks/hooks.md",
     "hooks/pre-commit",
     "Untitled.md",
-    "hooks",
     "Notatki/Semestr 5/Bazy danych 2/Projekt/Projekt 1/Projekt 1.md",
     "Notatki/Semestr 5/Bazy danych 2/Projekt/Projekt 1/Drawing 2024-08-25 20.50.31.excalidraw.md",
     "Notatki/Semestr 5/Bazy danych 2/Projekt/Projekt 1/Drawing 2024-08-25 20.50.31.excalidraw.svg",

@@ -20,3 +20,11 @@ typ: 'L'
 13. [Labolatorium 13](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20cz%C5%82owiek-komputer/Labolatoria/Labolatorium%2013/Labolatorium%2013.md)
 14. [Labolatorium 14](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20cz%C5%82owiek-komputer/Labolatoria/Labolatorium%2014/Labolatorium%2014.md)
 15. [Labolatorium 15](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20cz%C5%82owiek-komputer/Labolatoria/Labolatorium%2015/Labolatorium%2015.md)
+
+trzeba wykonac wszystko
+na maila wyniki \[GK\] imie nazwikso grupa godzina dzień
+2 nieobecności 
+sprawozdanie pisemne, screenshowy, krótkie + kod
+python
+w jednym tygodniu max 2 sprawozdania oddajemy
+lab lab
