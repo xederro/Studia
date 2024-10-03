@@ -12,3 +12,7 @@ typ: 'L'
 5. [Labolatorium 5](/Notatki/Semestr%205/Technologie%20sieciowe/Labolatoria/Labolatorium%205/Labolatorium%205.md)
 6. [Labolatorium 6](/Notatki/Semestr%205/Technologie%20sieciowe/Labolatoria/Labolatorium%206/Labolatorium%206.md)
 7. [Labolatorium 7](/Notatki/Semestr%205/Technologie%20sieciowe/Labolatoria/Labolatorium%207/Labolatorium%207.md)
+
+![](Notatki/Semestr%205/Technologie%20sieciowe/Labolatoria/Informacje%20organizacyjne.pdf)
+![](Notatki/Semestr%205/Technologie%20sieciowe/Labolatoria/Harmonogram%20Laboratorium.pdf)
+dokumentacja cisco!
