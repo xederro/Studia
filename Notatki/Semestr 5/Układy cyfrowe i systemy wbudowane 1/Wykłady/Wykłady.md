@@ -20,3 +20,7 @@ typ: 'W'
 13. [Wykład 13](/Notatki/Semestr%205/Uk%C5%82ady%20cyfrowe%20i%20systemy%20wbudowane%201/Wyk%C5%82ady/Wyk%C5%82ad%2013/Wyk%C5%82ad%2013.md)
 14. [Wykład 14](/Notatki/Semestr%205/Uk%C5%82ady%20cyfrowe%20i%20systemy%20wbudowane%201/Wyk%C5%82ady/Wyk%C5%82ad%2014/Wyk%C5%82ad%2014.md)
 15. [Wykład 15](/Notatki/Semestr%205/Uk%C5%82ady%20cyfrowe%20i%20systemy%20wbudowane%201/Wyk%C5%82ady/Wyk%C5%82ad%2015/Wyk%C5%82ad%2015.md)
+
+Zaliczyć laby trzeba
+kolokwium na ostatnim wykładzie 30.01 pewnie 2 grupy
+0.6w+0.4l
