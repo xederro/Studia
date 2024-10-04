@@ -20,3 +20,6 @@ typ: 'W'
 13. [Wykład 13](/Notatki/Semestr%205/In%C5%BCynieria%20oprogramowania/Wyk%C5%82ady/Wyk%C5%82ad%2013/Wyk%C5%82ad%2013.md)
 14. [Wykład 14](/Notatki/Semestr%205/In%C5%BCynieria%20oprogramowania/Wyk%C5%82ady/Wyk%C5%82ad%2014/Wyk%C5%82ad%2014.md)
 15. [Wykład 15](/Notatki/Semestr%205/In%C5%BCynieria%20oprogramowania/Wyk%C5%82ady/Wyk%C5%82ad%2015/Wyk%C5%82ad%2015.md)
+
+4.5 + z części 1 można przepis dostać
+czesc 2 dla każdego

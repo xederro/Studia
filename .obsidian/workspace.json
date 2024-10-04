@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "16ce63171af2e466",
+        "id": "9341ec5d6159229e",
         "type": "tabs",
         "children": [
           {
-            "id": "557763b8135a162d",
+            "id": "811f205e8ba2585a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykłady.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65d79776f9b58591",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/Wykład 1.md",
+                "file": "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/Wykład 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -119,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykłady.md",
+                "file": "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/Wykład 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykłady.md"
+                "file": "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/Wykład 1.md"
               }
             }
           },
@@ -153,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykłady.md"
+                "file": "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/Wykład 1.md"
               }
             }
           }
@@ -176,8 +163,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "557763b8135a162d",
+  "active": "811f205e8ba2585a",
   "lastOpenFiles": [
+    "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykłady.md",
+    "Notatki/Semestr 5/Inżynieria oprogramowania/Labolatoria/Labolatoria.md",
+    "Notatki/Semestr 5/Inżynieria oprogramowania/Labolatoria/Labolatorium 1/Labolatorium 1.md",
+    "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykłady.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatoria.md",
@@ -195,8 +186,6 @@
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 1/UCiSW1_1.pdf",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 1/UCiSW1_1.pdf",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 1/UCiSW1_1.pdf.crdownload",
-    "Notatki/Semestr 5/Inżynieria oprogramowania/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 5/Inżynieria oprogramowania/Labolatoria/Labolatorium 1/Labolatorium 1.md",
     "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykłady.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Urządzenia peryferyjne.md",
@@ -212,8 +201,6 @@
     "hooks/hooks.md",
     "hooks/pre-commit",
     "Untitled.md",
-    "Notatki/Semestr 5/Bazy danych 2/Projekt/Projekt 1/Projekt 1.md",
-    "Notatki/Semestr 5/Bazy danych 2/Projekt/Projekt 1/Drawing 2024-08-25 20.50.31.excalidraw.md",
     "Notatki/Semestr 5/Bazy danych 2/Projekt/Projekt 1/Drawing 2024-08-25 20.50.31.excalidraw.svg",
     "Excalidraw/Drawing 2024-07-20 13.01.59.excalidraw.svg",
     "Excalidraw/Drawing 2024-06-30 11.45.18.excalidraw.svg",
