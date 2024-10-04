@@ -20,3 +20,37 @@ typ: 'P'
 13. [Projekt 13](/Notatki/Semestr%205/Bazy%20danych%202/Projekt/Projekt%2013/Projekt%2013.md)
 14. [Projekt 14](/Notatki/Semestr%205/Bazy%20danych%202/Projekt/Projekt%2014/Projekt%2014.md)
 15. [Projekt 15](/Notatki/Semestr%205/Bazy%20danych%202/Projekt/Projekt%2015/Projekt%2015.md)
+
+konsultacje
+wykonać projekt
+http://roman.ptak.staff.iiar.pwr.wroc.pl
+zdalnie teams/zoom/google meets
+student pwr
+można oddać dokumentacje na bierząco, w danym terminie albo na początku kolejnego etapu, potem opóźnienia tydzień jedna ocena w dół
+trzeba być raz w etapie
+
+
+1. opis słowny systemu bazodanowego (strona, dwóch stron tekstu) - za tydzień albo 2 
+	1. otoczka systemu - na czym działa etc
+	2. co robić - cechy funkcjonalne
+	3. cechy niefunkcjonalne - np. jaki kolor interface
+2. Modelowanie bazy danych i aplikacji dostępowej (1-3 schematy bazy danych i inne opisy)
+	1. model konceptualny bd
+	2. model logiczny bd
+	3. model fizyczny bd
+	4. inne elementy (encje erd klient tranzakcja produkt)
+	5. ------------------------------ aplikacji v-----
+	6. diagram przypadków użycia DPU
+	8. mock aplikacji
+	10. jakoś tak - dokumentacja ocena
+3. implementacja bazy danych
+	1. testy
+	2. dokumentacja
+	3. no i przedstawienie
+4. implementacja aplikacji dostępowej
+	1. pokazac
+5. prezentacja
+	1. przedstawienie
+	2. dokumentacja
+	3. wymowa
+	4. elokwencja
