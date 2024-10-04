@@ -20,3 +20,12 @@ typ: 'W'
 13. [Wykład 13](/Notatki/Semestr%205/Projektowanie%20efektywnych%20algorytm%C3%B3w/Wyk%C5%82ady/Wyk%C5%82ad%2013/Wyk%C5%82ad%2013.md)
 14. [Wykład 14](/Notatki/Semestr%205/Projektowanie%20efektywnych%20algorytm%C3%B3w/Wyk%C5%82ady/Wyk%C5%82ad%2014/Wyk%C5%82ad%2014.md)
 15. [Wykład 15](/Notatki/Semestr%205/Projektowanie%20efektywnych%20algorytm%C3%B3w/Wyk%C5%82ady/Wyk%C5%82ad%2015/Wyk%C5%82ad%2015.md)
+
+p312 c3
+24.01.25r i 03.02.25r
+90 minut
+test 30 pytań 30 pkt 1 2 wybory dopisać
+6 pytań problemowych 30 pkt rysunek i kilka zdań
+0.4w + 0.6l
+
+jak to rozwiązać czyli nowoczesna heurystyka
