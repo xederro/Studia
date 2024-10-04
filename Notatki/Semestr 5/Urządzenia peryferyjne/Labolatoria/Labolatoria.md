@@ -20,3 +20,19 @@ typ: 'L'
 13. [Labolatorium 13](/Notatki/Semestr%205/Urz%C4%85dzenia%20peryferyjne/Labolatoria/Labolatorium%2013/Labolatorium%2013.md)
 14. [Labolatorium 14](/Notatki/Semestr%205/Urz%C4%85dzenia%20peryferyjne/Labolatoria/Labolatorium%2014/Labolatorium%2014.md)
 15. [Labolatorium 15](/Notatki/Semestr%205/Urz%C4%85dzenia%20peryferyjne/Labolatoria/Labolatorium%2015/Labolatorium%2015.md)
+
+niskopoziomowe
+hasłowe instrukcje
+https://indyk.ict.pwr.wroc.pl/labs/uperyf
+sprawozdanie
+teoria i praktyka 
+protoków 3/4 zdania i do podpisu zeskanować i wrzucić ze sprawozdaniem
+sprawozdania na eportal
+opisywać co robiliśmy i jak
+nawiązania praktyki do teorii byłoby fajne
+c, będziemy robić w javie i c# czy c++
+nie narzuca jezyka
+zaliczyć trzeba wszystkie ćwiczenia które się odbędą
+sprawozdania 2 tygodnie po ćwiczeniu
+może zostać przedłużone do miesiąca, potem trzeba powtórzyć całe ćwiczenie
+jak minął zajęcia to i tak patrzymy dalej w tabelce nic nie przeskakujemy
