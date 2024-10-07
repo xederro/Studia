@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a60a11f396fe7e8c",
+        "id": "b5fb8d4b17d4144e",
         "type": "tabs",
         "children": [
           {
-            "id": "2a5c60b931eeff6f",
+            "id": "bbb295891972c537",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/Drawing 2024-10-07 11.32.10.excalidraw.md"
+                "file": "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -103,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/Drawing 2024-10-07 11.32.10.excalidraw.md",
+                "file": "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/Drawing 2024-10-07 11.32.10.excalidraw.md"
+                "file": "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt.md"
               }
             }
           },
@@ -137,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/Drawing 2024-10-07 11.32.10.excalidraw.md"
+                "file": "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt.md"
               }
             }
           }
@@ -160,10 +163,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "671d26171d29a68e",
+  "active": "bbb295891972c537",
   "lastOpenFiles": [
-    "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/Untitled.md",
+    "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projektowanie efektywnych algorytmów.md",
     "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/Drawing 2024-10-07 11.32.10.excalidraw.md",
+    "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/Untitled.md",
     "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/Drawing 2024-10-07 11.32.10.excalidraw.svg",
     "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykłady.md",
@@ -196,7 +200,6 @@
     "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykłady.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Urządzenia peryferyjne.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykłady.md",
     "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/TS-1-2024.pdf",
     "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/TS-1-2024.pdf.crdownload",
     "Notatki/Semestr 5/Bazy danych 2/Projekt/Projekt 1/Drawing 2024-08-25 20.50.31.excalidraw.svg",

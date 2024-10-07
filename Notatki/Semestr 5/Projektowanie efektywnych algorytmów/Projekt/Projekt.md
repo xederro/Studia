@@ -20,3 +20,12 @@ typ: 'P'
 13. [Projekt 13](/Notatki/Semestr%205/Projektowanie%20efektywnych%20algorytm%C3%B3w/Projekt/Projekt%2013/Projekt%2013.md)
 14. [Projekt 14](/Notatki/Semestr%205/Projektowanie%20efektywnych%20algorytm%C3%B3w/Projekt/Projekt%2014/Projekt%2014.md)
 15. [Projekt 15](/Notatki/Semestr%205/Projektowanie%20efektywnych%20algorytm%C3%B3w/Projekt/Projekt%2015/Projekt%2015.md)
+
+http://jaroslaw.mierzwa.staff.iiar.pwr.wroc.pl/
+sprawozdanie papierowe, do katalogu a dysku źródło
+podzieł na wcześniej/później
+tydzień spóźnienia to 25% mniej otrzymanej
+trzeba oddać wszystkie
+c++ tekstowa obiektowa stl
+algorytm asymetryczny problem komiwojarzera
+z gotowych zestawów danych korzystamy
