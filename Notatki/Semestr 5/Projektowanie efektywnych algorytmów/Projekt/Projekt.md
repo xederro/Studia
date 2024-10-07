@@ -32,4 +32,4 @@ z gotowych zestawów danych korzystamy
 wersja release 
 13-14/min w bruteforce
 wyswietlić ile się wykonuje
-
+wcześniejsze terminy ja patrze
