@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 5/Inżynieria oprogramowania/Labolatoria/Labolatorium 1/Labolatorium 1.md",
+                "file": "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykłady.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 5/Inżynieria oprogramowania/Labolatoria/Labolatorium 1/Labolatorium 1.md",
+                "file": "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykłady.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 5/Inżynieria oprogramowania/Labolatoria/Labolatorium 1/Labolatorium 1.md"
+                "file": "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykłady.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notatki/Semestr 5/Inżynieria oprogramowania/Labolatoria/Labolatorium 1/Labolatorium 1.md"
+                "file": "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykłady.md"
               }
             }
           }
@@ -164,25 +164,26 @@
   },
   "active": "402b070a8f1c1e3a",
   "lastOpenFiles": [
+    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Układy cyfrowe i systemy wbudowane 1.md",
+    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatoria.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 1/Labolatorium 1.md",
+    "Notatki/Semestr 5/Inżynieria oprogramowania/Labolatoria/Labolatorium 1/Labolatorium 1.md",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Inżynieria oprogramowania.md",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykłady.md",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 5/Inżynieria oprogramowania/Labolatoria/Labolatorium 1/Labolatorium 1.md",
     "Notatki/Semestr 5/Bazy danych 2/Projekt/Projekt.md",
     "Notatki/Semestr 5/Technologie sieciowe/Projekt/Projekt.md",
     "Notatki/Semestr 5/Technologie sieciowe/Labolatoria/Labolatorium 1/Labolatorium 1.md",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykłady.md",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 1/Labolatorium 1.md",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 5/Technologie sieciowe/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 5/Technologie sieciowe/Labolatoria/Harmonogram Laboratorium.pdf",
     "Notatki/Semestr 5/Technologie sieciowe/Labolatoria/Harmonogram Laboratorium.pdf.crdownload",
     "Notatki/Semestr 5/Technologie sieciowe/Labolatoria/Informacje organizacyjne.pdf",
     "Notatki/Semestr 5/Technologie sieciowe/Labolatoria/Informacje organizacyjne.pdf.crdownload",
-    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykłady.md",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 1/UCiSW1_1.pdf",
@@ -198,7 +199,6 @@
     "Notatki/Semestr 5/Technologie sieciowe/Projekt/Projekt 1/Projekt 1.md",
     "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/TS-1-2024.pdf.crdownload",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 1/Wykład 1.md",
-    "README.md",
     "hooks/pre-commit",
     "Notatki/Semestr 5/Bazy danych 2/Projekt/Projekt 1/Drawing 2024-08-25 20.50.31.excalidraw.svg",
     "Excalidraw/Drawing 2024-07-20 13.01.59.excalidraw.svg",
