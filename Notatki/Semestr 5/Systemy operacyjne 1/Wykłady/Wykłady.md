@@ -20,3 +20,8 @@ typ: 'W'
 13. [Wykład 13](/Notatki/Semestr%205/Systemy%20operacyjne%201/Wyk%C5%82ady/Wyk%C5%82ad%2013/Wyk%C5%82ad%2013.md)
 14. [Wykład 14](/Notatki/Semestr%205/Systemy%20operacyjne%201/Wyk%C5%82ady/Wyk%C5%82ad%2014/Wyk%C5%82ad%2014.md)
 15. [Wykład 15](/Notatki/Semestr%205/Systemy%20operacyjne%201/Wyk%C5%82ady/Wyk%C5%82ad%2015/Wyk%C5%82ad%2015.md)
+
+226 c3
+https://indyk.ict.pwr.wroc.pl/so/
+kolokwium na koniec semestru 20 lub 27.01.2025
+test wyboru, najlepiej na eportalu, wielokrotnego lub jednokrotnego wyboru + za obecność punkty

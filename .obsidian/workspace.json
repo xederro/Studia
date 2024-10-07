@@ -8,11 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8996832ccee3b7cb",
+            "id": "2a5c60b931eeff6f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/Drawing 2024-10-07 11.32.10.excalidraw.md"
+              }
             }
           }
         ]
@@ -65,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -100,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/Drawing 2024-10-07 11.32.10.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/Drawing 2024-10-07 11.32.10.excalidraw.md"
+              }
             }
           },
           {
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/Drawing 2024-10-07 11.32.10.excalidraw.md"
+              }
             }
           }
         ],
@@ -152,8 +160,15 @@
       "templates:Insert template": false
     }
   },
-  "active": "8996832ccee3b7cb",
+  "active": "671d26171d29a68e",
   "lastOpenFiles": [
+    "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/Untitled.md",
+    "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/Drawing 2024-10-07 11.32.10.excalidraw.md",
+    "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/Drawing 2024-10-07 11.32.10.excalidraw.svg",
+    "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykłady.md",
+    "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/definicje.pdf",
+    "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/definicje.pdf.crdownload",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 1/UCiSW1_1.pdf",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykłady.md",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykłady.md",
@@ -178,16 +193,12 @@
     "Notatki/Semestr 5/Technologie sieciowe/Labolatoria/Informacje organizacyjne.pdf.crdownload",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 1/UCiSW1_1.pdf.crdownload",
-    "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykłady.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Urządzenia peryferyjne.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykłady.md",
-    "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/TS-1-2024.pdf",
-    "Notatki/Semestr 5/Technologie sieciowe/Projekt/Projekt 1/Projekt 1.md",
     "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/TS-1-2024.pdf.crdownload",
-    "hooks/pre-commit",
     "Notatki/Semestr 5/Bazy danych 2/Projekt/Projekt 1/Drawing 2024-08-25 20.50.31.excalidraw.svg",
     "Excalidraw/Drawing 2024-07-20 13.01.59.excalidraw.svg",
     "Excalidraw/Drawing 2024-06-30 11.45.18.excalidraw.svg",
@@ -197,7 +208,6 @@
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 7/Drawing 2024-04-17 17.09.49.excalidraw.svg",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 6/Drawing 2024-04-10 17.09.42.excalidraw.svg",
     "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 5/Drawing 2024-04-03 17.34.12.excalidraw.svg",
-    "Notatki/Semestr 4/Sieci komputerowe/Wykłady/Wykład 4/Drawing 2024-03-27 17.16.47.excalidraw.svg",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
