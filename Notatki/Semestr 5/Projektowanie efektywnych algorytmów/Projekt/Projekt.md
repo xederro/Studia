@@ -29,3 +29,7 @@ trzeba oddać wszystkie
 c++ tekstowa obiektowa stl
 algorytm asymetryczny problem komiwojarzera
 z gotowych zestawów danych korzystamy
+wersja release 
+13-14/min w bruteforce
+wyswietlić ile się wykonuje
+
