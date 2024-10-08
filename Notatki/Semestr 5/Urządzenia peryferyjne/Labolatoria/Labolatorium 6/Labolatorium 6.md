@@ -1,0 +1,1 @@
+![](Notatki/Semestr%205/Urządzenia%20peryferyjne/Labolatoria/Labolatorium%206/cw14.pdf)
