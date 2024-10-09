@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "448b478bea06d97e",
+        "id": "f904205c564717df",
         "type": "tabs",
         "children": [
           {
-            "id": "0a6cab308ffa4998",
+            "id": "0fce527210f865a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/Wykład 1.md",
+                "file": "Notatki/Semestr 5/Inżynieria oprogramowania/Labolatoria/Labolatorium 1/Labolatorium 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/Wykład 1.md",
+                "file": "Notatki/Semestr 5/Inżynieria oprogramowania/Labolatoria/Labolatorium 1/Labolatorium 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/Wykład 1.md"
+                "file": "Notatki/Semestr 5/Inżynieria oprogramowania/Labolatoria/Labolatorium 1/Labolatorium 1.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/Wykład 1.md"
+                "file": "Notatki/Semestr 5/Inżynieria oprogramowania/Labolatoria/Labolatorium 1/Labolatorium 1.md"
               }
             }
           }
@@ -163,10 +163,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a6cab308ffa4998",
+  "active": "0fce527210f865a1",
   "lastOpenFiles": [
-    "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/Drawing 2024-10-09 09.27.18.excalidraw.md",
     "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/Drawing 2024-10-09 09.27.18.excalidraw.md",
     "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/Drawing 2024-10-09 09.27.18.excalidraw.svg",
     "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykłady.md",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 2/Drawing 2024-10-09 09.23.10.excalidraw.md",

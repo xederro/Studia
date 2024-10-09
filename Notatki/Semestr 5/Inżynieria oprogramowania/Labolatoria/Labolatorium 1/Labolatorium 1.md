@@ -17,4 +17,7 @@ okienkowo
 
 1.3. Program obsługujący system alarmowy
 Cel:
-- 
+
+
+
+
