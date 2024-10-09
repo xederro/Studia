@@ -22,3 +22,5 @@ na wykładzie będzie test wielokrotnego wyboru, kolejny termin to max 3
 jest 8 wykładów 5 obecności na wykładzie wtedy essa -> nie trzeba pisać egzaminu -> średnia z form towarzyszących plus dobra wola za obecność
 
 laby w grupach
+
+![](Notatki/Semestr%205/Technologie%20sieciowe/Wykłady/TS-1-2024.pdf)

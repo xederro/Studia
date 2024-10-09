@@ -1,1 +1,1 @@
-![](/Notatki/Semestr%205/Technologie%20sieciowe/Wykłady/Wykład%201/TS-1-2024.pdf)
+![](Notatki/Semestr%205/Technologie%20sieciowe/Wykłady/Wykład%201/Drawing%202024-10-09%2009.27.18.excalidraw.svg)
