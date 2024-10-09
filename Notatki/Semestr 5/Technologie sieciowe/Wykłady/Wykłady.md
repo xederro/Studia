@@ -23,4 +23,4 @@ jest 8 wykładów 5 obecności na wykładzie wtedy essa -> nie trzeba pisać egz
 
 laby w grupach
 
-![](Notatki/Semestr%205/Technologie%20sieciowe/Wykłady/TS-1-2024.pdf)
+![](/Notatki/Semestr%205/Technologie%20sieciowe/Wykłady/TS-1-2024.pdf)
