@@ -1,1 +1,1 @@
-![](Notatki/Semestr%205/Urządzenia%20peryferyjne/Labolatoria/Labolatorium%201/cw4.pdf)
+![](/Notatki/Semestr%205/Urządzenia%20peryferyjne/Labolatoria/Labolatorium%201/cw4.pdf)
