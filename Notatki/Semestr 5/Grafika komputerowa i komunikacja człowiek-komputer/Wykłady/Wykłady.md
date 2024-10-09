@@ -20,3 +20,7 @@ typ: 'W'
 13. [Wykład 13](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20cz%C5%82owiek-komputer/Wyk%C5%82ady/Wyk%C5%82ad%2013/Wyk%C5%82ad%2013.md)
 14. [Wykład 14](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20cz%C5%82owiek-komputer/Wyk%C5%82ady/Wyk%C5%82ad%2014/Wyk%C5%82ad%2014.md)
 15. [Wykład 15](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20cz%C5%82owiek-komputer/Wyk%C5%82ady/Wyk%C5%82ad%2015/Wyk%C5%82ad%2015.md)
+
+openGL
+(2025-01-22) Kolokwium zaliczeniowe być może zdalnie na eportalu
+50% wykład + 50% laby

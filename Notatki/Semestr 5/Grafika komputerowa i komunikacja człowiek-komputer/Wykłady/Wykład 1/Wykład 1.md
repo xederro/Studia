@@ -1,4 +1,1 @@
-
-openGL
-(2025-01-22) Kolokwium zaliczeniowe być może zdalnie na eportalu
-50% wykład + 50% laby
+![](Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20człowiek-komputer/Wykłady/Wykład%201/Drawing%202024-10-09%2007.36.47.excalidraw.svg)
