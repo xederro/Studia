@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eb254896d2c3b5b7",
+        "id": "1a17b7b99bedb179",
         "type": "tabs",
         "children": [
           {
-            "id": "11f67d8ebc1a5586",
+            "id": "a24ce560d73473ae",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 1/cw4.pdf"
+                "file": "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/Drawing 2024-10-11 11.18.55.excalidraw.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 1/cw4.pdf",
+                "file": "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/Drawing 2024-10-11 11.18.55.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 1/cw4.pdf"
+                "file": "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/Drawing 2024-10-11 11.18.55.excalidraw.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 1/cw4.pdf"
+                "file": "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/Drawing 2024-10-11 11.18.55.excalidraw.md"
               }
             }
           }
@@ -161,8 +161,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11f67d8ebc1a5586",
+  "active": "a24ce560d73473ae",
   "lastOpenFiles": [
+    "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/Drawing 2024-10-11 11.18.55.excalidraw.md",
+    "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/Drawing 2024-10-11 11.18.55.excalidraw.svg",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 1/cw4.pdf",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Labolatoria/Labolatorium 1/Labolatorium 1.md",
     "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/Drawing 2024-10-09 09.27.18.excalidraw.md",
@@ -182,7 +186,6 @@
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 1/image_25.png",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 1/image_24.png",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 1/image_23.png",
-    "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 1/image_22.png",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt 1/pea_proj1_jm_2024_v2.pdf",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt 1/pea_proj_intro_2024.pdf",
@@ -191,7 +194,6 @@
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt 1/pea_proj1_jm_2024_v2.pdf.crdownload",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt 1/pea_proj_intro_2024.pdf.crdownload",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt 1/tsp_10.txt",
-    "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 5/cw11.pdf",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 7/Labolatorium 7.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 6/Labolatorium 6.md",
@@ -202,13 +204,10 @@
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 1/Labolatorium 1.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 7/cw9.pdf",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 7/cw9.pdf.crdownload",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykłady.md",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projektowanie efektywnych algorytmów.md",
     "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/Drawing 2024-10-07 11.32.10.excalidraw.md",
     "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/Untitled.md",
-    "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykłady.md",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
