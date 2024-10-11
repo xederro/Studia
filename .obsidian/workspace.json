@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1a17b7b99bedb179",
+        "id": "4eb9ac827ba38253",
         "type": "tabs",
         "children": [
           {
-            "id": "a24ce560d73473ae",
+            "id": "fd04e9315ccb6064",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/Drawing 2024-10-11 11.18.55.excalidraw.md"
+                "file": "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/Drawing 2024-10-11 13.20.19.excalidraw.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/Drawing 2024-10-11 11.18.55.excalidraw.md",
+                "file": "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/Drawing 2024-10-11 13.20.19.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/Drawing 2024-10-11 11.18.55.excalidraw.md"
+                "file": "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/Drawing 2024-10-11 13.20.19.excalidraw.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/Drawing 2024-10-11 11.18.55.excalidraw.md"
+                "file": "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/Drawing 2024-10-11 13.20.19.excalidraw.md"
               }
             }
           }
@@ -161,13 +161,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a24ce560d73473ae",
+  "active": "fd04e9315ccb6064",
   "lastOpenFiles": [
-    "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/Drawing 2024-10-11 13.20.19.excalidraw.md",
+    "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/Drawing 2024-10-11 13.20.19.excalidraw.svg",
+    "Notatki/Semestr 5/Inżynieria oprogramowania/Labolatoria/Labolatorium 1/Labolatorium 1.md",
+    "Notatki/Semestr 5/Inżynieria oprogramowania/Labolatoria/Labolatoria.md",
+    "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykłady.md",
+    "Notatki/Semestr 5/Inżynieria oprogramowania/Inżynieria oprogramowania.md",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/Drawing 2024-10-11 11.18.55.excalidraw.md",
+    "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/Drawing 2024-10-11 11.18.55.excalidraw.svg",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 1/cw4.pdf",
-    "Notatki/Semestr 5/Inżynieria oprogramowania/Labolatoria/Labolatorium 1/Labolatorium 1.md",
     "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/Drawing 2024-10-09 09.27.18.excalidraw.md",
     "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/Drawing 2024-10-09 09.27.18.excalidraw.svg",
@@ -185,7 +191,6 @@
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 1/image_26.png",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 1/image_25.png",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 1/image_24.png",
-    "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 1/image_23.png",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt 1/pea_proj1_jm_2024_v2.pdf",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt 1/pea_proj_intro_2024.pdf",
@@ -202,12 +207,7 @@
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 3/Labolatorium 3.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 2/Labolatorium 2.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 1/Labolatorium 1.md",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 7/cw9.pdf",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykłady.md",
-    "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projektowanie efektywnych algorytmów.md",
-    "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/Drawing 2024-10-07 11.32.10.excalidraw.md",
-    "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/Untitled.md",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
