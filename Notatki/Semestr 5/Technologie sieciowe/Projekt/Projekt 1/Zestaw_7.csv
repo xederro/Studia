@@ -1,0 +1,57 @@
+
+Przedsiêbiorstwo/instytucja:;;Urz¹d_miejski
+
+;Liczba u¿ytkowników (komputerów)
+;Budynek 1;;;;Budynek 2
+Grupa robocza;Piêtro 1;Piêtro 2;Piêtro 3;Piêtro 4;Piêtro 1;
+Nieruchomoœci;14;20;2;26;3;
+Podatki;3;31;22;24;21;
+Pojazdy;31;0;16;29;3;
+Transport;3;15;26;10;10;
+Prawa_jazdy;27;17;32;12;10;
+;Liczba drukarek
+;2;3;3;3;2;
+;Liczba punktów dostêpowych WiFi
+;2;1;0;0;0;
+;Liczba urz¹dzeñ bezprzewodowych
+;9;6;0;0;0;
+
+Odleg³oœc pomiêdzy budynkami:;;;256m (w³aœciwie nie jest to potrzebne w projekcie)
+£¹cze pomiêdzy budynkami:;;;Optyczne wielomodowe
+
+Punkty dystrybucyjne: 
+Oznaczenie;Lokalizacja;Pod³¹czone punkty abonenckie
+MDF;Bud. 1, Piêtro 2;Bud. 1, Piêtro 2,1,;
+IDF1;Bud. 1, Piêtro 3;Bud. 1, Piêtro 3,4,;
+IDF2;Bud. 2, Piêtro 1;Bud. 2;
+
+
+Wymagania dot. przep³ywów pomiêdzy pracownikami a serwerami lokalnymi (transfer przypadaj¹cy na jednego u¿ytkownika) - dotyczy równie¿ u¿ytkowników WiFi
+
+;Transfer do serwerów lokalnych i drukarek (down \ up) [kb/s]
+Grupa rob. / Serwer;Serwer1;Serwer2;Serwer3;Drukarka
+Nieruchomoœci;400\500;0\0;200\350;10\100;
+Podatki;550\950;550\600;250\350;10\200;
+Pojazdy;100\300;0\0;700\200;10\150;
+Transport;0\0;50\450;550\250;10\200;
+Prawa_jazdy;650\300;750\300;550\250;10\140;
+WiFi;200\150;150\50;150\100;10\150;
+
+Prognozowany ruch do Internetu z posiadanych przez firmê serwerów internetowych
+
+;Transfer do\z Internetu na jedn¹ sesjê (internautê) [kb/s] 
+Serwery internetowe;Do Internetu;Z Internetu;Liczba jednoczesnych sesji
+Serwer WWW;80;40;49
+Serwer FTP;260;70;4
+
+
+Wymagania dot. przep³ywów generowanych przez aplikacje u¿ytkownika z\do internetu  (transfer przypadaj¹cy na jednego u¿ytkownika)  - dotyczy równie¿ u¿ytkowników WiFi
+
+;Transfer z/do Internetu (down \ up) [kb/s]
+Grupa rob./Aplikacja;Przegl¹darka;Wideokonferencja;VoIP;Klient_FTP;Komunikator;
+Nieruchomoœci;0\0;0\0;0\0;0\0;15\15;
+Podatki;0\0;0\0;0\0;42\20;15\15;
+Pojazdy;0\0;40\40;0\0;98\14;15\15;
+Transport;80\10;40\40;20\20;0\0;15\15;
+Prawa_jazdy;0\0;40\40;20\20;93\14;15\15;
+WiFi;54\10;40\40;20\20;95\20;0\0;
