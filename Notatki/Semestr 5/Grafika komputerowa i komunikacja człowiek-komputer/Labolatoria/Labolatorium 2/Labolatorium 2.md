@@ -38,4 +38,4 @@ PLAN LABORATORIUM 
 
 
    
-![](Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20człowiek-komputer/Labolatoria/Labolatorium%202/MAT-LAB-2%20(C++Python).zip)
+![](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20człowiek-komputer/Labolatoria/Labolatorium%202/MAT-LAB-2%20(C++Python).zip)

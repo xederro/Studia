@@ -15,4 +15,4 @@ sprawozdania 2 tygodnie po ćwiczeniu
 może zostać przedłużone do miesiąca, potem trzeba powtórzyć całe ćwiczenie
 jak minął zajęcia to i tak patrzymy dalej w tabelce nic nie przeskakujemy
 
-![](Notatki/Semestr%205/Urządzenia%20peryferyjne/Labolatoria/Labolatorium%201/cw7.pdf)
+![](/Notatki/Semestr%205/Urządzenia%20peryferyjne/Labolatoria/Labolatorium%201/cw7.pdf)

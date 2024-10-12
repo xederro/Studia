@@ -1,2 +1,2 @@
-![](Notatki/Semestr%205/Układy%20cyfrowe%20i%20systemy%20wbudowane%201/Labolatoria/Labolatorium%201/Lab-2.pdf)
-![](Notatki/Semestr%205/Układy%20cyfrowe%20i%20systemy%20wbudowane%201/Labolatoria/Labolatorium%201/Lab-2-info.pdf)
+![](/Notatki/Semestr%205/Układy%20cyfrowe%20i%20systemy%20wbudowane%201/Labolatoria/Labolatorium%201/Lab-2.pdf)
+![](/Notatki/Semestr%205/Układy%20cyfrowe%20i%20systemy%20wbudowane%201/Labolatoria/Labolatorium%201/Lab-2-info.pdf)
