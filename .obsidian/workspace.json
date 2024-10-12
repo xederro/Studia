@@ -4,19 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "11ab995dd0a69ded",
+        "id": "204ea05258a1d262",
         "type": "tabs",
         "children": [
           {
-            "id": "b7d657a63b946816",
+            "id": "e753a5dc8604b70d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/Wykład 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notatki/Semestr 5/Technologie sieciowe/Projekt/Projekt.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -70,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 442.5
+    "width": 464.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -105,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/Wykład 1.md",
+                "file": "Notatki/Semestr 5/Technologie sieciowe/Projekt/Projekt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/Wykład 1.md"
+                "file": "Notatki/Semestr 5/Technologie sieciowe/Projekt/Projekt.md"
               }
             }
           },
@@ -139,7 +150,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/Wykład 1.md"
+                "file": "Notatki/Semestr 5/Technologie sieciowe/Projekt/Projekt.md"
               }
             }
           }
@@ -164,11 +175,19 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b7d657a63b946816",
+  "active": "e753a5dc8604b70d",
   "lastOpenFiles": [
+    "Notatki/Semestr 5/Technologie sieciowe/Projekt/Projekt 5/Projekt 5.md",
+    "Notatki/Semestr 5/Technologie sieciowe/Projekt/Projekt.md",
+    "Notatki/Semestr 5/Technologie sieciowe/Projekt/Projekt 6/Projekt 6.md",
+    "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt.md",
+    "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt 1/Projekt 1.md",
+    "Notatki/Semestr 5/Bazy danych 2/Projekt/Projekt.md",
+    "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt 15/Projekt 15.md",
+    "Untitled Kanban.md",
+    "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/Drawing 2024-10-11 13.20.19.excalidraw.md",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 2/Wykład 2.md",
-    "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/IO_W01.pdf",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/IO_W02.pdf",
@@ -178,13 +197,11 @@
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 2/IO_W03.pdf.crdownload",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/IO_W02.pdf.crdownload",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/IO_W01.pdf.crdownload",
-    "Notatki/Semestr 5/Bazy danych 2/Projekt/Projekt.md",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Labolatoria/Labolatorium 1/Labolatorium 1.md",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 5/Systemy operacyjne 1/Systemy operacyjne 1.md",
-    "Notatki/Semestr 5/Technologie sieciowe/Projekt/Projekt.md",
     "Notatki/Semestr 5/Technologie sieciowe/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 5/Technologie sieciowe/Labolatoria/Labolatorium 1/Labolatorium 1.md",
     "Notatki/Semestr 5/Technologie sieciowe/Labolatoria/Labolatorium 1/Informacje organizacyjne.pdf",
@@ -196,12 +213,6 @@
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Labolatoria/Labolatorium 2/Labolatorium 2.md",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Labolatoria/Labolatorium 15/Labolatorium 15.md",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Labolatoria/Labolatorium 8/Labolatorium 8.md",
-    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Labolatoria/Labolatorium 3/Labolatorium 3.md",
-    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Labolatoria/Labolatorium 15/Labolatorium 15.md",
-    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Labolatoria/Labolatorium 1/Labolatorium 1.md",
-    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Układy cyfrowe i systemy wbudowane 1.md",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 1/Labolatorium 1.md",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 7/Labolatorium 7.md",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/Drawing 2024-10-11 13.20.19.excalidraw.svg",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/Drawing 2024-10-11 11.18.55.excalidraw.svg",
     "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/Drawing 2024-10-09 09.27.18.excalidraw.svg",

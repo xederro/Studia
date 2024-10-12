@@ -9,21 +9,19 @@ kanban-plugin: board
 
 ## Projekt:
 
-- [ ] [Projekt 3](/Notatki/Semestr%205/Technologie%20sieciowe/Projekt/Projekt%203/Projekt%203.md)
-- [ ] [Projekt 4](/Notatki/Semestr%205/Technologie%20sieciowe/Projekt/Projekt%204/Projekt%204.md)
-- [ ] [Projekt 5](/Notatki/Semestr%205/Technologie%20sieciowe/Projekt/Projekt%205/Projekt%205.md)
-- [ ] [Projekt 6](/Notatki/Semestr%205/Technologie%20sieciowe/Projekt/Projekt%206/Projekt%206.md)
-- [ ] [Projekt 7](/Notatki/Semestr%205/Technologie%20sieciowe/Projekt/Projekt%207/Projekt%207.md)
+- [ ] [Projekt 3](/Notatki/Semestr%205/Technologie%20sieciowe/Projekt/Projekt%203/Projekt%203.md) @{2024-10-30}
+- [ ] [Projekt 4](/Notatki/Semestr%205/Technologie%20sieciowe/Projekt/Projekt%204/Projekt%204.md) @{2024-11-27}
+- [ ] [Projekt 5](/Notatki/Semestr%205/Technologie%20sieciowe/Projekt/Projekt%205/Projekt%205.md) @{2025-01-22}
 
 
 ## In Progress
 
-- [ ] [Projekt 2](/Notatki/Semestr%205/Technologie%20sieciowe/Projekt/Projekt%202/Projekt%202.md)
+- [ ] [Projekt 2](/Notatki/Semestr%205/Technologie%20sieciowe/Projekt/Projekt%202/Projekt%202.md) @{2024-10-16}
 
 
 ## Done
 
-- [ ] [Projekt 1](/Notatki/Semestr%205/Technologie%20sieciowe/Projekt/Projekt%201/Projekt%201.md)
+- [ ] [Projekt 1](/Notatki/Semestr%205/Technologie%20sieciowe/Projekt/Projekt%201/Projekt%201.md) @{2024-10-02}
 
 
 
