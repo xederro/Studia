@@ -11,8 +11,33 @@
             "id": "a86664a4c02d78d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt 1/pea_proj_intro_2024.pdf"
+              }
+            }
+          },
+          {
+            "id": "d0751338d1d05777",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt 1/pea_proj1_jm_2024_v2.pdf"
+              }
+            }
+          },
+          {
+            "id": "233e0ee97ecc8ed3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt 1/Projekt 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -101,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt 1/pea_proj_intro_2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt 1/pea_proj_intro_2024.pdf"
+              }
             }
           },
           {
@@ -131,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt 1/pea_proj_intro_2024.pdf"
+              }
             }
           }
         ],
@@ -157,11 +187,13 @@
   },
   "active": "a86664a4c02d78d6",
   "lastOpenFiles": [
+    "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt 1/pea_proj1_jm_2024_v2.pdf",
+    "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt 1/Projekt 1.md",
+    "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt 1/pea_proj_intro_2024.pdf",
     "Notatki/Semestr 5/Technologie sieciowe/Projekt/Projekt.md",
     "Notatki/Semestr 5/Technologie sieciowe/Projekt/Projekt 5/Projekt 5.md",
     "Notatki/Semestr 5/Technologie sieciowe/Projekt/Projekt 6/Projekt 6.md",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt.md",
-    "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt 1/Projekt 1.md",
     "Notatki/Semestr 5/Bazy danych 2/Projekt/Projekt.md",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt 15/Projekt 15.md",
     "Untitled Kanban.md",
@@ -184,15 +216,12 @@
     "Notatki/Semestr 5/Systemy operacyjne 1/Systemy operacyjne 1.md",
     "Notatki/Semestr 5/Technologie sieciowe/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 5/Technologie sieciowe/Labolatoria/Labolatorium 1/Labolatorium 1.md",
-    "Notatki/Semestr 5/Technologie sieciowe/Labolatoria/Labolatorium 1/Informacje organizacyjne.pdf",
     "Notatki/Semestr 5/Technologie sieciowe/Projekt/Projekt 1/Projekt 1.md",
     "Notatki/Semestr 5/Bazy danych 2/Bazy danych 2.md",
-    "Notatki/Semestr 5/Technologie sieciowe/Projekt/Projekt 1/TS_Harmonogram_2024_AK.pdf",
     "Notatki/Semestr 5/Bazy danych 2/Projekt/Projekt 6/Projekt 6.md",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Labolatoria/Labolatorium 1/Labolatorium 1.md",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Labolatoria/Labolatorium 2/Labolatorium 2.md",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Labolatoria/Labolatorium 15/Labolatorium 15.md",
-    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Labolatoria/Labolatorium 8/Labolatorium 8.md",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/Drawing 2024-10-11 13.20.19.excalidraw.svg",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/Drawing 2024-10-11 11.18.55.excalidraw.svg",
     "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/Drawing 2024-10-09 09.27.18.excalidraw.svg",
