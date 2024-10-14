@@ -1,0 +1,1 @@
+![](Notatki/Semestr%205/Systemy%20operacyjne%201/Wykłady/Wykład%202/Drawing%202024-10-14%2011.26.26.excalidraw.svg)
