@@ -4,20 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "9b6df3a34f9081e2",
+        "id": "e945559cb686d76a",
         "type": "tabs",
         "children": [
           {
-            "id": "7c03a684d099c52f",
+            "id": "0a2d3af262c492ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 1/Wykład 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b5f065bbd2280cf",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 2/Drawing 2024-10-16 07.33.01.excalidraw.md"
+                "file": "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 2/Drawing 2024-10-16 09.16.26.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 2/Drawing 2024-10-16 07.33.01.excalidraw.md",
+                "file": "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 2/Drawing 2024-10-16 09.16.26.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 2/Drawing 2024-10-16 07.33.01.excalidraw.md"
+                "file": "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 2/Drawing 2024-10-16 09.16.26.excalidraw.md"
               }
             }
           },
@@ -137,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 2/Drawing 2024-10-16 07.33.01.excalidraw.md"
+                "file": "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 2/Drawing 2024-10-16 09.16.26.excalidraw.md"
               }
             }
           }
@@ -162,10 +176,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7c03a684d099c52f",
+  "active": "8b5f065bbd2280cf",
   "lastOpenFiles": [
-    "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 1/Drawing 2024-10-09 07.36.47.excalidraw.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 2/Drawing 2024-10-16 09.16.26.excalidraw.svg",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 2/Drawing 2024-10-16 09.16.26.excalidraw.md",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 2/Drawing 2024-10-16 07.33.01.excalidraw.md",
+    "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 1/Drawing 2024-10-09 07.36.47.excalidraw.md",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 2/Drawing 2024-10-16 07.33.01.excalidraw.svg",
     "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/Drawing 2024-10-07 11.32.10.excalidraw.md",
@@ -199,9 +216,6 @@
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/IO_W01.pdf.crdownload",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Labolatoria/Labolatorium 1/Labolatorium 1.md",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 5/Systemy operacyjne 1/Systemy operacyjne 1.md",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/Drawing 2024-10-11 13.20.19.excalidraw.svg",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/Drawing 2024-10-11 11.18.55.excalidraw.svg",
     "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/Drawing 2024-10-09 09.27.18.excalidraw.svg",
@@ -209,7 +223,6 @@
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 1/image_10.png",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 1/image_28.png",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 1/image_27.png",
-    "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 1/image_26.png",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
