@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "833f6c84c17ed2e3",
+        "id": "05d5407a7beb9277",
         "type": "tabs",
         "children": [
           {
-            "id": "315aafb5e2383264",
+            "id": "50f5a710305773c9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 1/Drawing 2024-10-17 09.15.57.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-17 09.15.57.excalidraw"
-            }
-          },
-          {
-            "id": "c4c846766dc423da",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.5,
-    "collapsed": true
+    "width": 535.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -128,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 1/Drawing 2024-10-17 09.15.57.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2024-10-17 09.15.57.excalidraw"
+              "title": "Outgoing links"
             }
           },
           {
@@ -141,11 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 1/Drawing 2024-10-17 09.15.57.excalidraw.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2024-10-17 09.15.57.excalidraw"
+              "title": "Outline"
             }
           },
           {
@@ -167,11 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 1/Drawing 2024-10-17 09.15.57.excalidraw.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Drawing 2024-10-17 09.15.57.excalidraw"
+              "title": "File properties"
             }
           }
         ],
@@ -195,10 +174,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c4c846766dc423da",
+  "active": "671d26171d29a68e",
   "lastOpenFiles": [
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 2/cw8.pdf",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 1/Drawing 2024-10-17 09.15.57.excalidraw.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 2/cw8.pdf",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 1/Drawing 2024-10-17 09.15.57.excalidraw.svg",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 1/Wykład 1.md",
@@ -236,7 +215,6 @@
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 2/Wyklad_2_INEK011.pdf.crdownload",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 2/IO_W03.pdf.crdownload",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/IO_W02.pdf.crdownload",
-    "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/IO_W01.pdf.crdownload",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/Drawing 2024-10-11 13.20.19.excalidraw.svg",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/Drawing 2024-10-11 11.18.55.excalidraw.svg",
     "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/Drawing 2024-10-09 09.27.18.excalidraw.svg",
