@@ -1,0 +1,1 @@
+![](Notatki/Semestr%205/Inżynieria%20oprogramowania/Wykłady/Wykład%204/Drawing%202024-10-18%2014.37.14.excalidraw.svg)

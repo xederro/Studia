@@ -435,7 +435,7 @@
   "pdfNumColumns": 1,
   "pdfNumRows": 1,
   "pdfDirection": "right",
-  "pdfImportScale": 0.8,
+  "pdfImportScale": 0.6,
   "gridSettings": {
     "DYNAMIC_COLOR": true,
     "COLOR": "#000000",
