@@ -1,1 +1,1 @@
-![](Notatki/Semestr%205/Inżynieria%20oprogramowania/Wykłady/Wykład%203/Drawing%202024-10-18%2013.16.05.excalidraw.svg)
+![](/Notatki/Semestr%205/Inżynieria%20oprogramowania/Wykłady/Wykład%203/Drawing%202024-10-18%2013.16.05.excalidraw.svg)

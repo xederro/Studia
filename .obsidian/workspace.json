@@ -11,12 +11,12 @@
             "id": "b509272cf1980f39",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 3/Drawing 2024-10-18 13.16.05.excalidraw.md"
+                "file": "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 4/IO_W05.pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-18 13.16.05.excalidraw"
+              "icon": "lucide-file-text",
+              "title": "IO_W05"
             }
           }
         ]
@@ -75,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 535.5,
-    "collapsed": true
+    "width": 387.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -179,9 +178,9 @@
   },
   "active": "b509272cf1980f39",
   "lastOpenFiles": [
+    "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 3/Drawing 2024-10-18 13.16.05.excalidraw.md",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 3/IO_W04.pdf",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 3/Wykład 3.md",
-    "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 3/Drawing 2024-10-18 13.16.05.excalidraw.md",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 3/Drawing 2024-10-18 13.16.05.excalidraw.svg",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 2/IO_W03.pdf",
