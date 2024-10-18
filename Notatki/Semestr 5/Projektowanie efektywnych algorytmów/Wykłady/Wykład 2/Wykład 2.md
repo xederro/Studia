@@ -1,1 +1,1 @@
-![](Notatki/Semestr%205/Projektowanie%20efektywnych%20algorytmów/Wykłady/Wykład%202/Drawing%202024-10-18%2011.23.43.excalidraw.svg)
+![](/Notatki/Semestr%205/Projektowanie%20efektywnych%20algorytmów/Wykłady/Wykład%202/Drawing%202024-10-18%2011.23.43.excalidraw.svg)

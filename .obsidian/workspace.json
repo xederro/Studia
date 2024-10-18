@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "435be0aabd1ee4f7",
+        "id": "76f3f3c6c6657ec8",
         "type": "tabs",
         "children": [
           {
-            "id": "3e17e413ca58a1a1",
+            "id": "b509272cf1980f39",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 2/Drawing 2024-10-18 11.23.43.excalidraw.md"
+                "file": "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 3/Drawing 2024-10-18 13.16.05.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-18 11.23.43.excalidraw"
+              "title": "Drawing 2024-10-18 13.16.05.excalidraw"
             }
           }
         ]
@@ -177,15 +177,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3e17e413ca58a1a1",
+  "active": "b509272cf1980f39",
   "lastOpenFiles": [
-    "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 3/IO_W04.pdf",
+    "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 3/Drawing 2024-10-18 13.16.05.excalidraw.md",
+    "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 3/Drawing 2024-10-18 13.16.05.excalidraw.svg",
+    "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 2/IO_W03.pdf",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 2/Drawing 2024-10-18 11.23.43.excalidraw.md",
+    "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/w1 PEA.pdf",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/w1 PEA.pdf.crdownload",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 2/Drawing 2024-10-18 11.23.43.excalidraw.svg",
-    "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 3/IO_W04.pdf",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 4/IO_W05.pdf",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 4/IO_W05.pdf.crdownload",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 3/IO_W04.pdf.crdownload",
@@ -215,16 +220,10 @@
     "Notatki/Semestr 5/Technologie sieciowe/Projekt/Projekt 5/Projekt 5.md",
     "Notatki/Semestr 5/Technologie sieciowe/Projekt/Projekt 6/Projekt 6.md",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt.md",
-    "Notatki/Semestr 5/Bazy danych 2/Projekt/Projekt.md",
-    "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt 15/Projekt 15.md",
-    "Untitled Kanban.md",
-    "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/Drawing 2024-10-11 13.20.19.excalidraw.md",
-    "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/IO_W01.pdf",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/Drawing 2024-10-11 13.20.19.excalidraw.svg",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/Drawing 2024-10-11 11.18.55.excalidraw.svg",
     "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/Drawing 2024-10-09 09.27.18.excalidraw.svg",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 2/Drawing 2024-10-09 09.23.10.excalidraw.svg",
-    "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 1/image_10.png",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
