@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "Labolatorium 1"
             }
-          },
-          {
-            "id": "7413dbb6e9193f55",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Labolatoria/Labolatorium 1/Drawing 2024-10-19 15.25.37.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-19 15.25.37.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5,
-    "collapsed": true
+    "width": 387.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -193,10 +179,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7413dbb6e9193f55",
+  "active": "9ef6ae015b6a726b",
   "lastOpenFiles": [
-    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Labolatoria/Labolatorium 1/Labolatorium 1.md",
+    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Labolatoria/Labolatorium 1/lab1.circ",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Labolatoria/Labolatorium 1/Drawing 2024-10-19 15.25.37.excalidraw.md",
+    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Labolatoria/Labolatorium 1/image_0.png",
+    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Labolatoria/Labolatorium 1/Labolatorium 1.md",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Labolatoria/Labolatorium 1/image.png",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Labolatoria/Labolatorium 1/Drawing 2024-10-19 15.25.37.excalidraw.svg",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Labolatoria/Labolatoria.md",
@@ -239,7 +227,6 @@
     "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 2/Drawing 2024-10-14 11.26.26.excalidraw.svg",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt 1/Projekt 1.md",
-    "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 1/Drawing 2024-10-11 13.20.19.excalidraw.svg",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
