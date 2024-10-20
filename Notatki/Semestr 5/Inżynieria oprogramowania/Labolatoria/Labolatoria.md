@@ -9,7 +9,6 @@ kanban-plugin: board
 
 ## Labolatoria:
 
-- [ ] [Labolatorium 2](/Notatki/Semestr%205/In%C5%BCynieria%20oprogramowania/Labolatoria/Labolatorium%202/Labolatorium%202.md)
 - [ ] [Labolatorium 3](/Notatki/Semestr%205/In%C5%BCynieria%20oprogramowania/Labolatoria/Labolatorium%203/Labolatorium%203.md)
 - [ ] [Labolatorium 4](/Notatki/Semestr%205/In%C5%BCynieria%20oprogramowania/Labolatoria/Labolatorium%204/Labolatorium%204.md)
 - [ ] [Labolatorium 5](/Notatki/Semestr%205/In%C5%BCynieria%20oprogramowania/Labolatoria/Labolatorium%205/Labolatorium%205.md)
@@ -21,6 +20,7 @@ kanban-plugin: board
 
 ## Raport
 
+- [ ] [Labolatorium 2](/Notatki/Semestr%205/In%C5%BCynieria%20oprogramowania/Labolatoria/Labolatorium%202/Labolatorium%202.md)
 
 
 ## Done

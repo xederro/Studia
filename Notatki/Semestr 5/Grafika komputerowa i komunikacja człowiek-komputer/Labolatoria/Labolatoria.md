@@ -9,7 +9,6 @@ kanban-plugin: board
 
 ## Labolatoria:
 
-- [ ] [Labolatorium 2](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20cz%C5%82owiek-komputer/Labolatoria/Labolatorium%202/Labolatorium%202.md)
 - [ ] [Labolatorium 3](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20cz%C5%82owiek-komputer/Labolatoria/Labolatorium%203/Labolatorium%203.md)
 - [ ] [Labolatorium 4](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20cz%C5%82owiek-komputer/Labolatoria/Labolatorium%204/Labolatorium%204.md)
 - [ ] [Labolatorium 5](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20cz%C5%82owiek-komputer/Labolatoria/Labolatorium%205/Labolatorium%205.md)
@@ -20,11 +19,12 @@ kanban-plugin: board
 
 ## Next
 
-- [ ] [Labolatorium 1](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20cz%C5%82owiek-komputer/Labolatoria/Labolatorium%201/Labolatorium%201.md)
+- [ ] [Labolatorium 2](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20cz%C5%82owiek-komputer/Labolatoria/Labolatorium%202/Labolatorium%202.md)
 
 
 ## Raport
 
+- [ ] [Labolatorium 1](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20cz%C5%82owiek-komputer/Labolatoria/Labolatorium%201/Labolatorium%201.md)
 
 
 ## Done
