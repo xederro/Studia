@@ -11,10 +11,12 @@
             "id": "84fb30647f6c8876",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 2/Drawing 2024-10-14 11.26.26.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-10-14 11.26.26.excalidraw"
             }
           }
         ]
@@ -73,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5
+    "width": 387.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -176,6 +179,14 @@
   },
   "active": "84fb30647f6c8876",
   "lastOpenFiles": [
+    "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 2/Untitled.md",
+    "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 2/Drawing 2024-10-14 11.26.26.excalidraw.md",
+    "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 2/Pasted Image 20241021122049_677.svg",
+    "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykłady.md",
+    "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 2/procesy.pdf",
+    "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 2/procesy.pdf.crdownload",
+    "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/Drawing 2024-10-07 11.32.10.excalidraw.md",
     "Notatki/Semestr 5/Bazy danych 2/Projekt/Projekt.md",
     "Notatki/Semestr 5/Bazy danych 2/Bazy danych 2.md",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Labolatoria/Labolatoria.md",
@@ -210,18 +221,10 @@
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 2/Drawing 2024-10-18 11.23.43.excalidraw.svg",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 4/IO_W05.pdf.crdownload",
-    "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 3/IO_W04.pdf.crdownload",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 1/Drawing 2024-10-17 09.15.57.excalidraw.md",
-    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 1/Drawing 2024-10-17 09.15.57.excalidraw.svg",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 1/Wykład 1.md",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 2/Drawing 2024-10-16 09.16.26.excalidraw.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 2/Drawing 2024-10-16 09.16.26.excalidraw.svg",
-    "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 2/Drawing 2024-10-16 07.33.01.excalidraw.md",
-    "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 1/Drawing 2024-10-09 07.36.47.excalidraw.md",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 2/Drawing 2024-10-16 07.33.01.excalidraw.svg",
-    "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt 1/pea_proj_intro_2024.pdf",
-    "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 2/Drawing 2024-10-14 11.26.26.excalidraw.svg",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
