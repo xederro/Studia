@@ -4,30 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5ec5cf3e11503635",
+        "id": "ac9238a20ebd936a",
         "type": "tabs",
         "children": [
           {
-            "id": "9ef6ae015b6a726b",
+            "id": "84fb30647f6c8876",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Notatki/Semestr 5/Bazy danych 2/Projekt/Projekt.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Projekt"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -187,8 +174,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9ef6ae015b6a726b",
+  "active": "84fb30647f6c8876",
   "lastOpenFiles": [
+    "Notatki/Semestr 5/Bazy danych 2/Projekt/Projekt.md",
     "Notatki/Semestr 5/Bazy danych 2/Bazy danych 2.md",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Labolatoria/Labolatoria.md",
@@ -231,7 +219,6 @@
     "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 2/Drawing 2024-10-16 09.16.26.excalidraw.svg",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 2/Drawing 2024-10-16 07.33.01.excalidraw.md",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 1/Drawing 2024-10-09 07.36.47.excalidraw.md",
-    "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 2/Drawing 2024-10-16 07.33.01.excalidraw.svg",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt 1/pea_proj_intro_2024.pdf",
     "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 2/Drawing 2024-10-14 11.26.26.excalidraw.svg",
