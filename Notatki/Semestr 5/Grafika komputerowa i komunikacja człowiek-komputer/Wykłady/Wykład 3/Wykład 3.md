@@ -1,0 +1,1 @@
+![](Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20człowiek-komputer/Wykłady/Wykład%203/Drawing%202024-10-23%2007.33.47.excalidraw.svg)
