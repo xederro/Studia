@@ -11,10 +11,15 @@
             "id": "265423069441e117",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notatki/Semestr 5/Bazy danych 2/Projekt/Projekt 3/Projekt 3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Projekt 3"
             }
           }
         ]
@@ -176,6 +181,7 @@
   },
   "active": "265423069441e117",
   "lastOpenFiles": [
+    "Notatki/Semestr 5/Bazy danych 2/Projekt/Projekt 2/Projekt 2.md",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Labolatoria/Labolatorium 1/Labolatorium 1.md",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 1/Labolatorium 1.md",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Labolatoria/Labolatorium 1/zad5.py",
@@ -217,7 +223,6 @@
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 3/Drawing 2024-10-18 13.16.05.excalidraw.svg",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 2/Drawing 2024-10-18 11.23.43.excalidraw.md",
-    "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 1/Wykład 1.md",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 2/Drawing 2024-10-18 11.23.43.excalidraw.svg",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 1/Drawing 2024-10-17 09.15.57.excalidraw.svg",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 2/Drawing 2024-10-16 09.16.26.excalidraw.svg",
