@@ -1,1 +1,1 @@
-![](Notatki/Semestr%205/Technologie%20sieciowe/Wykłady/Wykład%202/3.pdf)
+![](/Notatki/Semestr%205/Technologie%20sieciowe/Wykłady/Wykład%202/3.pdf)
