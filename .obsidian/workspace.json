@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5afd5bdd4c573f86",
+        "id": "b5e5c713ba2df770",
         "type": "tabs",
         "children": [
           {
-            "id": "fd9c2cf88c8e10e3",
+            "id": "11451469e3852b2f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 3/Drawing 2024-10-23 07.33.47.excalidraw.md"
+                "file": "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 2/Wykład 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-23 07.33.47.excalidraw"
+              "icon": "lucide-file",
+              "title": "Wykład 2"
             }
           }
         ]
@@ -75,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5,
-    "collapsed": true
+    "width": 387.5
   },
   "right": {
     "id": "9e90e398a7031783",
@@ -177,10 +179,28 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fd9c2cf88c8e10e3",
+  "active": "11451469e3852b2f",
   "lastOpenFiles": [
-    "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 3/Wykład 3.md",
+    "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 2/Drawing 2024-10-23 09.20.35.excalidraw.md",
+    "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/Wykład 1.md",
+    "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/Drawing 2024-10-24 19.30.27.excalidraw.md",
+    "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/Drawing 2024-10-24 19.30.27.excalidraw.svg",
+    "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/Drawing 2024-10-09 09.27.18.excalidraw.md",
+    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 1/Drawing 2024-10-17 09.15.57.excalidraw.md",
+    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 1/UCiSW1_1.pdf",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykłady.md",
+    "Notatki/Semestr 5/Urządzenia peryferyjne/Urządzenia peryferyjne.md",
+    "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 3/IO_W04.pdf",
+    "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 2/Wykład 2.md",
+    "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/2.pdf",
+    "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 2/Drawing 2024-10-23 09.20.35.excalidraw.svg",
+    "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/Drawing 2024-10-09 09.27.18.excalidraw.svg",
+    "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 2/3.pdf",
+    "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 2/3.pdf.crdownload",
+    "Notatki/Semestr 5/Technologie sieciowe/Wykłady/Wykład 1/2.pdf.crdownload",
+    "Notatki/Semestr 5/Technologie sieciowe/Wykłady/TS-1-2024.pdf",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 3/Drawing 2024-10-23 07.33.47.excalidraw.md",
+    "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 3/Wykład 3.md",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Wykłady/Wykład 3/Drawing 2024-10-23 07.33.47.excalidraw.svg",
     "Notatki/Semestr 5/Bazy danych 2/Projekt/Projekt 3/Projekt 3.md",
     "Notatki/Semestr 5/Bazy danych 2/Projekt/Projekt 2/Projekt 2.md",
@@ -189,15 +209,11 @@
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Labolatoria/Labolatorium 1/zad5.py",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Labolatoria/Labolatorium 1/zad4.py",
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Labolatoria/Labolatorium 1/zad3.py",
-    "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Labolatoria/Labolatorium 1/zad2.py",
-    "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Labolatoria/Labolatorium 1/zad1.py",
     "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 2/Drawing 2024-10-14 11.26.26.excalidraw.md",
     "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 2/Untitled.md",
     "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 2/Pasted Image 20241021122049_677.svg",
     "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykłady.md",
-    "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 2/procesy.pdf",
-    "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 2/procesy.pdf.crdownload",
     "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 2/Wykład 2.md",
     "Notatki/Semestr 5/Systemy operacyjne 1/Wykłady/Wykład 1/Drawing 2024-10-07 11.32.10.excalidraw.md",
     "Notatki/Semestr 5/Bazy danych 2/Projekt/Projekt.md",
@@ -205,25 +221,11 @@
     "Notatki/Semestr 5/Grafika komputerowa i komunikacja człowiek-komputer/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Labolatoria/Labolatoria.md",
     "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Projekt/Projekt.md",
-    "Notatki/Semestr 5/Technologie sieciowe/Projekt/Projekt.md",
-    "Notatki/Semestr 5/Technologie sieciowe/Projekt/Projekt 3/Projekt 3.md",
-    "Notatki/Semestr 5/Technologie sieciowe/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Labolatoria/Labolatoria.md",
-    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Labolatoria/Labolatorium 1/Labolatorium 1.md",
-    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Labolatoria/Labolatorium 1/lab1.circ",
-    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Labolatoria/Labolatorium 1/Drawing 2024-10-19 15.25.37.excalidraw.md",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Labolatoria/Labolatorium 1/image_0.png",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Labolatoria/Labolatorium 1/image.png",
     "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Labolatoria/Labolatorium 1/Drawing 2024-10-19 15.25.37.excalidraw.svg",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Labolatoria/Labolatorium 2/cw8.pdf",
-    "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 4/Drawing 2024-10-18 14.37.14.excalidraw.md",
-    "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 4/IO_W05.pdf",
-    "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 4/Wykład 4.md",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 4/Drawing 2024-10-18 14.37.14.excalidraw.svg",
     "Notatki/Semestr 5/Inżynieria oprogramowania/Wykłady/Wykład 3/Drawing 2024-10-18 13.16.05.excalidraw.svg",
-    "Notatki/Semestr 5/Projektowanie efektywnych algorytmów/Wykłady/Wykład 2/Drawing 2024-10-18 11.23.43.excalidraw.svg",
-    "Notatki/Semestr 5/Układy cyfrowe i systemy wbudowane 1/Wykłady/Wykład 1/Drawing 2024-10-17 09.15.57.excalidraw.svg",
-    "Notatki/Semestr 5/Urządzenia peryferyjne/Wykłady/Wykład 2/Drawing 2024-10-16 09.16.26.excalidraw.svg",
     "Untitled.canvas",
     "Notatki/Algebra liniowa 2/Wykłady/Kolos/Untitled.canvas"
   ]
